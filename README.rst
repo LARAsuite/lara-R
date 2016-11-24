@@ -1,11 +1,14 @@
 lara-R
 =======
 
-A collection of useful R scripts for evaluation and visualisation of high-throughput experiments
+A collection of useful R scripts for evaluation and visualisation of high-throughput experiments.
+
 
 
 Installation of lara-R scripts
 _______________________________
+
+  *    
 
 
 Installation of required packages
