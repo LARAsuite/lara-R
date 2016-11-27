@@ -1,0 +1,2165 @@
+																																										
+General Info																																										
+																																										
+Run information																																										
+	Session name				KINabs_340_141128_10																																					
+	Session creator				admin																																					
+	Run name				KINabs_340_141128_10-Wednesday.25.March-15:19:33																																					
+	Run creator				admin																																					
+	Run started				03/25/2015 15:19:33+01:00																																					
+	Total warnings				1																																					
+	Warning				Photometric1 Warning:103																																					
+	Total errors				0																																					
+																																										
+Instrument parameters																																										
+	Instrument name				Varioskan																																					
+	Instrument version				3.01.15																																					
+	Instrument serial number				74																																					
+	Actual instrument temperature				<MIN 29.9 30																																					
+	Dispenser				1																																					
+	LumiSens module				N\A																																					
+	LumiSens scaling factor				N\A																																					
+																																										
+SW Parameters																																										
+	Run Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+	Current Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+
+																																										
+Sample Data																																										
+
+																																										
+Steps Data																																										
+																																										
+Protocol properties																																										
+	Protocol name				KINabs_340_141128_10																																					
+	Protocol description				NADPH-like kinetic assay 340 nm																																					
+	Plate template				96-well Greiner Bio-One, flat bottom plate																																					
+	Execution block type				plate																																					
+	Execution order				3																																					
+	Settle delay [ms]				0																																					
+	Well interval [ms]				0																																					
+																																										
+KineticLoop1																																										
+	Readings				20																																					
+	Kinetic interval				0:00:10.0																																					
+																																										
+Photometric1																																										
+	Measurement technology				Photometric																																					
+	Measurement type				Kinetic																																					
+	Step duration				0:00:00.0																																					
+	Lag time				0:00:00.0																																					
+	Measurement time [ms]				100																																					
+	Bandwidth [nm]				5																																					
+	Multipoint				Not in use																																					
+	Wavelength [nm]				340																																					
+																																										
+KineticCalculation1																																										
+	Processor Type				AvgRate																																					
+	Reaction				Undefined																																					
+	Kinetic Rate				s																																					
+	Ignore First N Readings				0																																					
+	Ignore Last N Readings				0																																					
+	Window				1																																					
+	Baseline				0																																					
+	Reading Index				1																																					
+	Change type				Absolute																																					
+	Change value				0																																					
+
+																																										
+Photometric1																																										
+																																										
+Plate	Well	Type	Sample	Value	Time (s)	WL	Read.																																			
+0032	A01	Unknown	NADPH 1/96	0.392035	0	340	1																																			
+0032	A01	Unknown	NADPH 1/96	0.406613	22.28	340	2																																			
+0032	A01	Unknown	NADPH 1/96	0.404065	44.57	340	3																																			
+0032	A01	Unknown	NADPH 1/96	0.398717	66.85	340	4																																			
+0032	A01	Unknown	NADPH 1/96	0.394053	89.14	340	5																																			
+0032	A01	Unknown	NADPH 1/96	0.390087	111.42	340	6																																			
+0032	A01	Unknown	NADPH 1/96	0.383877	133.71	340	7																																			
+0032	A01	Unknown	NADPH 1/96	0.378334	155.99	340	8																																			
+0032	A01	Unknown	NADPH 1/96	0.372203	178.28	340	9																																			
+0032	A01	Unknown	NADPH 1/96	0.367213	200.56	340	10																																			
+0032	A01	Unknown	NADPH 1/96	0.361761	222.85	340	11																																			
+0032	A01	Unknown	NADPH 1/96	0.357899	245.13	340	12																																			
+0032	A01	Unknown	NADPH 1/96	0.353448	267.42	340	13																																			
+0032	A01	Unknown	NADPH 1/96	0.34949	289.7	340	14																																			
+0032	A01	Unknown	NADPH 1/96	0.346567	311.99	340	15																																			
+0032	A01	Unknown	NADPH 1/96	0.342239	334.27	340	16																																			
+0032	A01	Unknown	NADPH 1/96	0.339021	356.56	340	17																																			
+0032	A01	Unknown	NADPH 1/96	0.335161	378.84	340	18																																			
+0032	A01	Unknown	NADPH 1/96	0.332285	401.13	340	19																																			
+0032	A01	Unknown	NADPH 1/96	0.330147	423.41	340	20																																			
+0032	B02	Unknown	NADPH 10/96	0.455325	27.34	340	2																																			
+0032	B02	Unknown	NADPH 10/96	0.45898	49.63	340	3																																			
+0032	B02	Unknown	NADPH 10/96	0.45748	71.91	340	4																																			
+0032	B02	Unknown	NADPH 10/96	0.455026	94.2	340	5																																			
+0032	B02	Unknown	NADPH 10/96	0.453507	116.48	340	6																																			
+0032	B02	Unknown	NADPH 10/96	0.452304	138.77	340	7																																			
+0032	B02	Unknown	NADPH 10/96	0.450195	161.05	340	8																																			
+0032	B02	Unknown	NADPH 10/96	0.448171	183.34	340	9																																			
+0032	B02	Unknown	NADPH 10/96	0.446273	205.62	340	10																																			
+0032	B02	Unknown	NADPH 10/96	0.444465	227.91	340	11																																			
+0032	B02	Unknown	NADPH 10/96	0.443069	250.19	340	12																																			
+0032	B02	Unknown	NADPH 10/96	0.441855	272.48	340	13																																			
+0032	B02	Unknown	NADPH 10/96	0.440396	294.76	340	14																																			
+0032	B02	Unknown	NADPH 10/96	0.438489	317.05	340	15																																			
+0032	B02	Unknown	NADPH 10/96	0.43712	339.33	340	16																																			
+0032	B02	Unknown	NADPH 10/96	0.436662	361.62	340	17																																			
+0032	B02	Unknown	NADPH 10/96	0.435423	383.9	340	18																																			
+0032	B02	Unknown	NADPH 10/96	0.433706	406.19	340	19																																			
+0032	B02	Unknown	NADPH 10/96	0.432865	428.47	340	20																																			
+0032	B02	Unknown	NADPH 10/96	0.466749	5.06	340	1																																			
+0032	C02	Unknown	NADPH 11/96	0.445193	28.03	340	2																																			
+0032	C02	Unknown	NADPH 11/96	0.44125	50.32	340	3																																			
+0032	C02	Unknown	NADPH 11/96	0.43787	72.6	340	4																																			
+0032	C02	Unknown	NADPH 11/96	0.437999	94.89	340	5																																			
+0032	C02	Unknown	NADPH 11/96	0.435614	117.17	340	6																																			
+0032	C02	Unknown	NADPH 11/96	0.433282	139.46	340	7																																			
+0032	C02	Unknown	NADPH 11/96	0.431603	161.74	340	8																																			
+0032	C02	Unknown	NADPH 11/96	0.429263	184.03	340	9																																			
+0032	C02	Unknown	NADPH 11/96	0.427989	206.31	340	10																																			
+0032	C02	Unknown	NADPH 11/96	0.426645	228.6	340	11																																			
+0032	C02	Unknown	NADPH 11/96	0.424441	250.88	340	12																																			
+0032	C02	Unknown	NADPH 11/96	0.422695	273.17	340	13																																			
+0032	C02	Unknown	NADPH 11/96	0.421969	295.45	340	14																																			
+0032	C02	Unknown	NADPH 11/96	0.420034	317.74	340	15																																			
+0032	C02	Unknown	NADPH 11/96	0.418943	340.02	340	16																																			
+0032	C02	Unknown	NADPH 11/96	0.417049	362.31	340	17																																			
+0032	C02	Unknown	NADPH 11/96	0.415136	384.59	340	18																																			
+0032	C02	Unknown	NADPH 11/96	0.414889	406.88	340	19																																			
+0032	C02	Unknown	NADPH 11/96	0.412538	429.16	340	20																																			
+0032	C02	Unknown	NADPH 11/96	0.434345	5.75	340	1																																			
+0032	D02	Unknown	NADPH 12/96	0.41153	10.58	340	1																																			
+0032	D02	Unknown	NADPH 12/96	0.432522	32.86	340	2																																			
+0032	D02	Unknown	NADPH 12/96	0.438498	55.15	340	3																																			
+0032	D02	Unknown	NADPH 12/96	0.440274	77.43	340	4																																			
+0032	D02	Unknown	NADPH 12/96	0.439115	99.72	340	5																																			
+0032	D02	Unknown	NADPH 12/96	0.434371	122	340	6																																			
+0032	D02	Unknown	NADPH 12/96	0.431586	144.29	340	7																																			
+0032	D02	Unknown	NADPH 12/96	0.428315	166.57	340	8																																			
+0032	D02	Unknown	NADPH 12/96	0.428434	188.86	340	9																																			
+0032	D02	Unknown	NADPH 12/96	0.42771	211.14	340	10																																			
+0032	D02	Unknown	NADPH 12/96	0.426785	233.43	340	11																																			
+0032	D02	Unknown	NADPH 12/96	0.425653	255.71	340	12																																			
+0032	D02	Unknown	NADPH 12/96	0.424212	278	340	13																																			
+0032	D02	Unknown	NADPH 12/96	0.422812	300.28	340	14																																			
+0032	D02	Unknown	NADPH 12/96	0.420533	322.57	340	15																																			
+0032	D02	Unknown	NADPH 12/96	0.420075	344.85	340	16																																			
+0032	D02	Unknown	NADPH 12/96	0.418569	367.14	340	17																																			
+0032	D02	Unknown	NADPH 12/96	0.416698	389.42	340	18																																			
+0032	D02	Unknown	NADPH 12/96	0.415827	411.71	340	19																																			
+0032	D02	Unknown	NADPH 12/96	0.414536	433.99	340	20																																			
+0032	E02	Unknown	NADPH 13/96	0.463063	11.27	340	1																																			
+0032	E02	Unknown	NADPH 13/96	0.465532	33.55	340	2																																			
+0032	E02	Unknown	NADPH 13/96	0.461414	55.84	340	3																																			
+0032	E02	Unknown	NADPH 13/96	0.459767	78.12	340	4																																			
+0032	E02	Unknown	NADPH 13/96	0.456875	100.41	340	5																																			
+0032	E02	Unknown	NADPH 13/96	0.451567	122.69	340	6																																			
+0032	E02	Unknown	NADPH 13/96	0.447455	144.98	340	7																																			
+0032	E02	Unknown	NADPH 13/96	0.44338	167.26	340	8																																			
+0032	E02	Unknown	NADPH 13/96	0.440095	189.55	340	9																																			
+0032	E02	Unknown	NADPH 13/96	0.437385	211.83	340	10																																			
+0032	E02	Unknown	NADPH 13/96	0.435283	234.12	340	11																																			
+0032	E02	Unknown	NADPH 13/96	0.432176	256.4	340	12																																			
+0032	E02	Unknown	NADPH 13/96	0.430813	278.69	340	13																																			
+0032	E02	Unknown	NADPH 13/96	0.430455	300.97	340	14																																			
+0032	E02	Unknown	NADPH 13/96	0.428415	323.26	340	15																																			
+0032	E02	Unknown	NADPH 13/96	0.42792	345.54	340	16																																			
+0032	E02	Unknown	NADPH 13/96	0.426974	367.83	340	17																																			
+0032	E02	Unknown	NADPH 13/96	0.425163	390.11	340	18																																			
+0032	E02	Unknown	NADPH 13/96	0.424461	412.4	340	19																																			
+0032	E02	Unknown	NADPH 13/96	0.423757	434.68	340	20																																			
+0032	F02	Unknown	NADPH 14/96	0.402395	16.1	340	1																																			
+0032	F02	Unknown	NADPH 14/96	0.40782	38.38	340	2																																			
+0032	F02	Unknown	NADPH 14/96	0.410379	60.67	340	3																																			
+0032	F02	Unknown	NADPH 14/96	0.412211	82.95	340	4																																			
+0032	F02	Unknown	NADPH 14/96	0.412906	105.24	340	5																																			
+0032	F02	Unknown	NADPH 14/96	0.412719	127.52	340	6																																			
+0032	F02	Unknown	NADPH 14/96	0.412475	149.81	340	7																																			
+0032	F02	Unknown	NADPH 14/96	0.411598	172.09	340	8																																			
+0032	F02	Unknown	NADPH 14/96	0.411047	194.38	340	9																																			
+0032	F02	Unknown	NADPH 14/96	0.410209	216.66	340	10																																			
+0032	F02	Unknown	NADPH 14/96	0.408914	238.95	340	11																																			
+0032	F02	Unknown	NADPH 14/96	0.408198	261.23	340	12																																			
+0032	F02	Unknown	NADPH 14/96	0.407084	283.52	340	13																																			
+0032	F02	Unknown	NADPH 14/96	0.40589	305.8	340	14																																			
+0032	F02	Unknown	NADPH 14/96	0.404633	328.09	340	15																																			
+0032	F02	Unknown	NADPH 14/96	0.404256	350.37	340	16																																			
+0032	F02	Unknown	NADPH 14/96	0.403468	372.66	340	17																																			
+0032	F02	Unknown	NADPH 14/96	0.40209	394.94	340	18																																			
+0032	F02	Unknown	NADPH 14/96	0.401471	417.23	340	19																																			
+0032	F02	Unknown	NADPH 14/96	0.400467	439.51	340	20																																			
+0032	G02	Unknown	NADPH 15/96	0.412795	16.79	340	1																																			
+0032	G02	Unknown	NADPH 15/96	0.418194	39.07	340	2																																			
+0032	G02	Unknown	NADPH 15/96	0.416646	61.36	340	3																																			
+0032	G02	Unknown	NADPH 15/96	0.419154	83.64	340	4																																			
+0032	G02	Unknown	NADPH 15/96	0.419114	105.93	340	5																																			
+0032	G02	Unknown	NADPH 15/96	0.419005	128.21	340	6																																			
+0032	G02	Unknown	NADPH 15/96	0.418576	150.5	340	7																																			
+0032	G02	Unknown	NADPH 15/96	0.418769	172.78	340	8																																			
+0032	G02	Unknown	NADPH 15/96	0.417762	195.07	340	9																																			
+0032	G02	Unknown	NADPH 15/96	0.41703	217.35	340	10																																			
+0032	G02	Unknown	NADPH 15/96	0.41543	239.64	340	11																																			
+0032	G02	Unknown	NADPH 15/96	0.414915	261.92	340	12																																			
+0032	G02	Unknown	NADPH 15/96	0.414053	284.21	340	13																																			
+0032	G02	Unknown	NADPH 15/96	0.412442	306.49	340	14																																			
+0032	G02	Unknown	NADPH 15/96	0.411681	328.78	340	15																																			
+0032	G02	Unknown	NADPH 15/96	0.411648	351.06	340	16																																			
+0032	G02	Unknown	NADPH 15/96	0.410665	373.35	340	17																																			
+0032	G02	Unknown	NADPH 15/96	0.410075	395.63	340	18																																			
+0032	G02	Unknown	NADPH 15/96	0.409425	417.92	340	19																																			
+0032	G02	Unknown	NADPH 15/96	0.408325	440.2	340	20																																			
+0032	H02	Unknown	NADPH 16/96	0.437463	21.62	340	1																																			
+0032	H02	Unknown	NADPH 16/96	0.428974	43.9	340	2																																			
+0032	H02	Unknown	NADPH 16/96	0.428964	66.19	340	3																																			
+0032	H02	Unknown	NADPH 16/96	0.426217	88.47	340	4																																			
+0032	H02	Unknown	NADPH 16/96	0.423741	110.76	340	5																																			
+0032	H02	Unknown	NADPH 16/96	0.421625	133.04	340	6																																			
+0032	H02	Unknown	NADPH 16/96	0.419903	155.33	340	7																																			
+0032	H02	Unknown	NADPH 16/96	0.417428	177.61	340	8																																			
+0032	H02	Unknown	NADPH 16/96	0.416266	199.9	340	9																																			
+0032	H02	Unknown	NADPH 16/96	0.413228	222.18	340	10																																			
+0032	H02	Unknown	NADPH 16/96	0.410439	244.47	340	11																																			
+0032	H02	Unknown	NADPH 16/96	0.407409	266.75	340	12																																			
+0032	H02	Unknown	NADPH 16/96	0.40571	289.04	340	13																																			
+0032	H02	Unknown	NADPH 16/96	0.40302	311.32	340	14																																			
+0032	H02	Unknown	NADPH 16/96	0.400936	333.61	340	15																																			
+0032	H02	Unknown	NADPH 16/96	0.399662	355.89	340	16																																			
+0032	H02	Unknown	NADPH 16/96	0.398139	378.18	340	17																																			
+0032	H02	Unknown	NADPH 16/96	0.396307	400.46	340	18																																			
+0032	H02	Unknown	NADPH 16/96	0.395788	422.75	340	19																																			
+0032	H02	Unknown	NADPH 16/96	0.394606	445.03	340	20																																			
+0032	A03	Unknown	NADPH 17/96	0.422139	22.74	340	2																																			
+0032	A03	Unknown	NADPH 17/96	0.425904	45.03	340	3																																			
+0032	A03	Unknown	NADPH 17/96	0.427289	67.31	340	4																																			
+0032	A03	Unknown	NADPH 17/96	0.425043	89.6	340	5																																			
+0032	A03	Unknown	NADPH 17/96	0.423406	111.88	340	6																																			
+0032	A03	Unknown	NADPH 17/96	0.422158	134.17	340	7																																			
+0032	A03	Unknown	NADPH 17/96	0.419525	156.45	340	8																																			
+0032	A03	Unknown	NADPH 17/96	0.417521	178.74	340	9																																			
+0032	A03	Unknown	NADPH 17/96	0.414753	201.02	340	10																																			
+0032	A03	Unknown	NADPH 17/96	0.412615	223.31	340	11																																			
+0032	A03	Unknown	NADPH 17/96	0.40998	245.59	340	12																																			
+0032	A03	Unknown	NADPH 17/96	0.40765	267.88	340	13																																			
+0032	A03	Unknown	NADPH 17/96	0.405538	290.16	340	14																																			
+0032	A03	Unknown	NADPH 17/96	0.40332	312.45	340	15																																			
+0032	A03	Unknown	NADPH 17/96	0.400819	334.73	340	16																																			
+0032	A03	Unknown	NADPH 17/96	0.399632	357.02	340	17																																			
+0032	A03	Unknown	NADPH 17/96	0.397411	379.3	340	18																																			
+0032	A03	Unknown	NADPH 17/96	0.394652	401.59	340	19																																			
+0032	A03	Unknown	NADPH 17/96	0.393276	423.87	340	20																																			
+0032	A03	Unknown	NADPH 17/96	0.474121	0.46	340	1																																			
+0032	B03	Unknown	NADPH 18/96	0.431555	27.11	340	2																																			
+0032	B03	Unknown	NADPH 18/96	0.435366	49.4	340	3																																			
+0032	B03	Unknown	NADPH 18/96	0.432994	71.68	340	4																																			
+0032	B03	Unknown	NADPH 18/96	0.431826	93.97	340	5																																			
+0032	B03	Unknown	NADPH 18/96	0.429632	116.25	340	6																																			
+0032	B03	Unknown	NADPH 18/96	0.426401	138.54	340	7																																			
+0032	B03	Unknown	NADPH 18/96	0.423589	160.82	340	8																																			
+0032	B03	Unknown	NADPH 18/96	0.420494	183.11	340	9																																			
+0032	B03	Unknown	NADPH 18/96	0.417765	205.39	340	10																																			
+0032	B03	Unknown	NADPH 18/96	0.415045	227.68	340	11																																			
+0032	B03	Unknown	NADPH 18/96	0.412434	249.96	340	12																																			
+0032	B03	Unknown	NADPH 18/96	0.409691	272.25	340	13																																			
+0032	B03	Unknown	NADPH 18/96	0.40703	294.53	340	14																																			
+0032	B03	Unknown	NADPH 18/96	0.404277	316.82	340	15																																			
+0032	B03	Unknown	NADPH 18/96	0.402835	339.1	340	16																																			
+0032	B03	Unknown	NADPH 18/96	0.401166	361.39	340	17																																			
+0032	B03	Unknown	NADPH 18/96	0.399063	383.67	340	18																																			
+0032	B03	Unknown	NADPH 18/96	0.397005	405.96	340	19																																			
+0032	B03	Unknown	NADPH 18/96	0.396226	428.24	340	20																																			
+0032	B03	Unknown	NADPH 18/96	0.427716	4.83	340	1																																			
+0032	C03	Unknown	NADPH 19/96	0.421847	5.98	340	1																																			
+0032	C03	Unknown	NADPH 19/96	0.425712	28.26	340	2																																			
+0032	C03	Unknown	NADPH 19/96	0.428464	50.55	340	3																																			
+0032	C03	Unknown	NADPH 19/96	0.42846	72.83	340	4																																			
+0032	C03	Unknown	NADPH 19/96	0.429276	95.12	340	5																																			
+0032	C03	Unknown	NADPH 19/96	0.429616	117.4	340	6																																			
+0032	C03	Unknown	NADPH 19/96	0.429071	139.69	340	7																																			
+0032	C03	Unknown	NADPH 19/96	0.42939	161.97	340	8																																			
+0032	C03	Unknown	NADPH 19/96	0.429287	184.26	340	9																																			
+0032	C03	Unknown	NADPH 19/96	0.429488	206.54	340	10																																			
+0032	C03	Unknown	NADPH 19/96	0.428582	228.83	340	11																																			
+0032	C03	Unknown	NADPH 19/96	0.428012	251.11	340	12																																			
+0032	C03	Unknown	NADPH 19/96	0.427451	273.4	340	13																																			
+0032	C03	Unknown	NADPH 19/96	0.426039	295.68	340	14																																			
+0032	C03	Unknown	NADPH 19/96	0.425482	317.97	340	15																																			
+0032	C03	Unknown	NADPH 19/96	0.425736	340.25	340	16																																			
+0032	C03	Unknown	NADPH 19/96	0.423851	362.54	340	17																																			
+0032	C03	Unknown	NADPH 19/96	0.423083	384.82	340	18																																			
+0032	C03	Unknown	NADPH 19/96	0.422194	407.11	340	19																																			
+0032	C03	Unknown	NADPH 19/96	0.420677	429.39	340	20																																			
+0032	B01	Unknown	NADPH 2/96	0.410383	27.57	340	2																																			
+0032	B01	Unknown	NADPH 2/96	0.39336	49.86	340	3																																			
+0032	B01	Unknown	NADPH 2/96	0.39026	72.14	340	4																																			
+0032	B01	Unknown	NADPH 2/96	0.389139	94.43	340	5																																			
+0032	B01	Unknown	NADPH 2/96	0.390135	116.71	340	6																																			
+0032	B01	Unknown	NADPH 2/96	0.385329	139	340	7																																			
+0032	B01	Unknown	NADPH 2/96	0.379608	161.28	340	8																																			
+0032	B01	Unknown	NADPH 2/96	0.376051	183.57	340	9																																			
+0032	B01	Unknown	NADPH 2/96	0.369575	205.85	340	10																																			
+0032	B01	Unknown	NADPH 2/96	0.365404	228.14	340	11																																			
+0032	B01	Unknown	NADPH 2/96	0.36186	250.42	340	12																																			
+0032	B01	Unknown	NADPH 2/96	0.358651	272.71	340	13																																			
+0032	B01	Unknown	NADPH 2/96	0.355284	294.99	340	14																																			
+0032	B01	Unknown	NADPH 2/96	0.353253	317.28	340	15																																			
+0032	B01	Unknown	NADPH 2/96	0.350161	339.56	340	16																																			
+0032	B01	Unknown	NADPH 2/96	0.348337	361.85	340	17																																			
+0032	B01	Unknown	NADPH 2/96	0.345595	384.13	340	18																																			
+0032	B01	Unknown	NADPH 2/96	0.343804	406.42	340	19																																			
+0032	B01	Unknown	NADPH 2/96	0.340788	428.7	340	20																																			
+0032	B01	Unknown	NADPH 2/96	0.43656	5.29	340	1																																			
+0032	D03	Unknown	NADPH 20/96	0.411607	10.35	340	1																																			
+0032	D03	Unknown	NADPH 20/96	0.417464	32.63	340	2																																			
+0032	D03	Unknown	NADPH 20/96	0.419208	54.92	340	3																																			
+0032	D03	Unknown	NADPH 20/96	0.419998	77.2	340	4																																			
+0032	D03	Unknown	NADPH 20/96	0.42138	99.49	340	5																																			
+0032	D03	Unknown	NADPH 20/96	0.423681	121.77	340	6																																			
+0032	D03	Unknown	NADPH 20/96	0.423254	144.06	340	7																																			
+0032	D03	Unknown	NADPH 20/96	0.422013	166.34	340	8																																			
+0032	D03	Unknown	NADPH 20/96	0.421794	188.63	340	9																																			
+0032	D03	Unknown	NADPH 20/96	0.421832	210.91	340	10																																			
+0032	D03	Unknown	NADPH 20/96	0.420467	233.2	340	11																																			
+0032	D03	Unknown	NADPH 20/96	0.420124	255.48	340	12																																			
+0032	D03	Unknown	NADPH 20/96	0.418689	277.77	340	13																																			
+0032	D03	Unknown	NADPH 20/96	0.418264	300.05	340	14																																			
+0032	D03	Unknown	NADPH 20/96	0.416916	322.34	340	15																																			
+0032	D03	Unknown	NADPH 20/96	0.415617	344.62	340	16																																			
+0032	D03	Unknown	NADPH 20/96	0.414051	366.91	340	17																																			
+0032	D03	Unknown	NADPH 20/96	0.412725	389.19	340	18																																			
+0032	D03	Unknown	NADPH 20/96	0.412227	411.48	340	19																																			
+0032	D03	Unknown	NADPH 20/96	0.410389	433.76	340	20																																			
+0032	E03	Unknown	NADPH 21/96	0.406511	11.5	340	1																																			
+0032	E03	Unknown	NADPH 21/96	0.42649	33.78	340	2																																			
+0032	E03	Unknown	NADPH 21/96	0.430248	56.07	340	3																																			
+0032	E03	Unknown	NADPH 21/96	0.428691	78.35	340	4																																			
+0032	E03	Unknown	NADPH 21/96	0.426066	100.64	340	5																																			
+0032	E03	Unknown	NADPH 21/96	0.423327	122.92	340	6																																			
+0032	E03	Unknown	NADPH 21/96	0.421392	145.21	340	7																																			
+0032	E03	Unknown	NADPH 21/96	0.417802	167.49	340	8																																			
+0032	E03	Unknown	NADPH 21/96	0.416246	189.78	340	9																																			
+0032	E03	Unknown	NADPH 21/96	0.414015	212.06	340	10																																			
+0032	E03	Unknown	NADPH 21/96	0.412227	234.35	340	11																																			
+0032	E03	Unknown	NADPH 21/96	0.411576	256.63	340	12																																			
+0032	E03	Unknown	NADPH 21/96	0.408557	278.92	340	13																																			
+0032	E03	Unknown	NADPH 21/96	0.406921	301.2	340	14																																			
+0032	E03	Unknown	NADPH 21/96	0.405345	323.49	340	15																																			
+0032	E03	Unknown	NADPH 21/96	0.403775	345.77	340	16																																			
+0032	E03	Unknown	NADPH 21/96	0.402391	368.06	340	17																																			
+0032	E03	Unknown	NADPH 21/96	0.400927	390.34	340	18																																			
+0032	E03	Unknown	NADPH 21/96	0.400063	412.63	340	19																																			
+0032	E03	Unknown	NADPH 21/96	0.398612	434.91	340	20																																			
+0032	F03	Unknown	NADPH 22/96	0.410697	15.87	340	1																																			
+0032	F03	Unknown	NADPH 22/96	0.416428	38.15	340	2																																			
+0032	F03	Unknown	NADPH 22/96	0.427892	60.44	340	3																																			
+0032	F03	Unknown	NADPH 22/96	0.428474	82.72	340	4																																			
+0032	F03	Unknown	NADPH 22/96	0.427293	105.01	340	5																																			
+0032	F03	Unknown	NADPH 22/96	0.42451	127.29	340	6																																			
+0032	F03	Unknown	NADPH 22/96	0.421801	149.58	340	7																																			
+0032	F03	Unknown	NADPH 22/96	0.419143	171.86	340	8																																			
+0032	F03	Unknown	NADPH 22/96	0.416411	194.15	340	9																																			
+0032	F03	Unknown	NADPH 22/96	0.414695	216.43	340	10																																			
+0032	F03	Unknown	NADPH 22/96	0.413042	238.72	340	11																																			
+0032	F03	Unknown	NADPH 22/96	0.412244	261	340	12																																			
+0032	F03	Unknown	NADPH 22/96	0.410935	283.29	340	13																																			
+0032	F03	Unknown	NADPH 22/96	0.409956	305.57	340	14																																			
+0032	F03	Unknown	NADPH 22/96	0.408788	327.86	340	15																																			
+0032	F03	Unknown	NADPH 22/96	0.408984	350.14	340	16																																			
+0032	F03	Unknown	NADPH 22/96	0.407755	372.43	340	17																																			
+0032	F03	Unknown	NADPH 22/96	0.406692	394.71	340	18																																			
+0032	F03	Unknown	NADPH 22/96	0.405775	417	340	19																																			
+0032	F03	Unknown	NADPH 22/96	0.404057	439.28	340	20																																			
+0032	G03	Unknown	NADPH 23/96	0.436998	17.02	340	1																																			
+0032	G03	Unknown	NADPH 23/96	0.441618	39.3	340	2																																			
+0032	G03	Unknown	NADPH 23/96	0.435242	61.59	340	3																																			
+0032	G03	Unknown	NADPH 23/96	0.42886	83.87	340	4																																			
+0032	G03	Unknown	NADPH 23/96	0.427813	106.16	340	5																																			
+0032	G03	Unknown	NADPH 23/96	0.425668	128.44	340	6																																			
+0032	G03	Unknown	NADPH 23/96	0.424251	150.73	340	7																																			
+0032	G03	Unknown	NADPH 23/96	0.421303	173.01	340	8																																			
+0032	G03	Unknown	NADPH 23/96	0.420595	195.3	340	9																																			
+0032	G03	Unknown	NADPH 23/96	0.419136	217.58	340	10																																			
+0032	G03	Unknown	NADPH 23/96	0.417719	239.87	340	11																																			
+0032	G03	Unknown	NADPH 23/96	0.417459	262.15	340	12																																			
+0032	G03	Unknown	NADPH 23/96	0.416343	284.44	340	13																																			
+0032	G03	Unknown	NADPH 23/96	0.415228	306.72	340	14																																			
+0032	G03	Unknown	NADPH 23/96	0.414454	329.01	340	15																																			
+0032	G03	Unknown	NADPH 23/96	0.413699	351.29	340	16																																			
+0032	G03	Unknown	NADPH 23/96	0.412489	373.58	340	17																																			
+0032	G03	Unknown	NADPH 23/96	0.410781	395.86	340	18																																			
+0032	G03	Unknown	NADPH 23/96	0.409722	418.15	340	19																																			
+0032	G03	Unknown	NADPH 23/96	0.40957	440.43	340	20																																			
+0032	H03	Unknown	NADPH 24/96	0.402564	21.39	340	1																																			
+0032	H03	Unknown	NADPH 24/96	0.418902	43.67	340	2																																			
+0032	H03	Unknown	NADPH 24/96	0.422413	65.96	340	3																																			
+0032	H03	Unknown	NADPH 24/96	0.423511	88.24	340	4																																			
+0032	H03	Unknown	NADPH 24/96	0.422089	110.53	340	5																																			
+0032	H03	Unknown	NADPH 24/96	0.421889	132.81	340	6																																			
+0032	H03	Unknown	NADPH 24/96	0.420713	155.1	340	7																																			
+0032	H03	Unknown	NADPH 24/96	0.419347	177.38	340	8																																			
+0032	H03	Unknown	NADPH 24/96	0.418461	199.67	340	9																																			
+0032	H03	Unknown	NADPH 24/96	0.416904	221.95	340	10																																			
+0032	H03	Unknown	NADPH 24/96	0.415023	244.24	340	11																																			
+0032	H03	Unknown	NADPH 24/96	0.4134	266.52	340	12																																			
+0032	H03	Unknown	NADPH 24/96	0.411615	288.81	340	13																																			
+0032	H03	Unknown	NADPH 24/96	0.409293	311.09	340	14																																			
+0032	H03	Unknown	NADPH 24/96	0.407899	333.38	340	15																																			
+0032	H03	Unknown	NADPH 24/96	0.406958	355.66	340	16																																			
+0032	H03	Unknown	NADPH 24/96	0.405953	377.95	340	17																																			
+0032	H03	Unknown	NADPH 24/96	0.405017	400.23	340	18																																			
+0032	H03	Unknown	NADPH 24/96	0.404723	422.52	340	19																																			
+0032	H03	Unknown	NADPH 24/96	0.404339	444.8	340	20																																			
+0032	A04	Unknown	NADPH 25/96	0.436634	22.97	340	2																																			
+0032	A04	Unknown	NADPH 25/96	0.434217	45.26	340	3																																			
+0032	A04	Unknown	NADPH 25/96	0.434268	67.54	340	4																																			
+0032	A04	Unknown	NADPH 25/96	0.434003	89.83	340	5																																			
+0032	A04	Unknown	NADPH 25/96	0.432158	112.11	340	6																																			
+0032	A04	Unknown	NADPH 25/96	0.429464	134.4	340	7																																			
+0032	A04	Unknown	NADPH 25/96	0.426097	156.68	340	8																																			
+0032	A04	Unknown	NADPH 25/96	0.400624	178.97	340	9																																			
+0032	A04	Unknown	NADPH 25/96	0.421789	201.25	340	10																																			
+0032	A04	Unknown	NADPH 25/96	0.419637	223.54	340	11																																			
+0032	A04	Unknown	NADPH 25/96	0.418177	245.82	340	12																																			
+0032	A04	Unknown	NADPH 25/96	0.416489	268.11	340	13																																			
+0032	A04	Unknown	NADPH 25/96	0.414494	290.39	340	14																																			
+0032	A04	Unknown	NADPH 25/96	0.41291	312.68	340	15																																			
+0032	A04	Unknown	NADPH 25/96	0.411513	334.96	340	16																																			
+0032	A04	Unknown	NADPH 25/96	0.410771	357.25	340	17																																			
+0032	A04	Unknown	NADPH 25/96	0.409458	379.53	340	18																																			
+0032	A04	Unknown	NADPH 25/96	0.408362	401.82	340	19																																			
+0032	A04	Unknown	NADPH 25/96	0.407178	424.1	340	20																																			
+0032	A04	Unknown	NADPH 25/96	0.440283	0.69	340	1																																			
+0032	B04	Unknown	NADPH 26/96	0.428752	26.88	340	2																																			
+0032	B04	Unknown	NADPH 26/96	0.429575	49.17	340	3																																			
+0032	B04	Unknown	NADPH 26/96	0.426234	71.45	340	4																																			
+0032	B04	Unknown	NADPH 26/96	0.423534	93.74	340	5																																			
+0032	B04	Unknown	NADPH 26/96	0.421156	116.02	340	6																																			
+0032	B04	Unknown	NADPH 26/96	0.418424	138.31	340	7																																			
+0032	B04	Unknown	NADPH 26/96	0.417657	160.59	340	8																																			
+0032	B04	Unknown	NADPH 26/96	0.416088	182.88	340	9																																			
+0032	B04	Unknown	NADPH 26/96	0.414786	205.16	340	10																																			
+0032	B04	Unknown	NADPH 26/96	0.412849	227.45	340	11																																			
+0032	B04	Unknown	NADPH 26/96	0.41021	249.73	340	12																																			
+0032	B04	Unknown	NADPH 26/96	0.408523	272.02	340	13																																			
+0032	B04	Unknown	NADPH 26/96	0.405615	294.3	340	14																																			
+0032	B04	Unknown	NADPH 26/96	0.403447	316.59	340	15																																			
+0032	B04	Unknown	NADPH 26/96	0.400573	338.87	340	16																																			
+0032	B04	Unknown	NADPH 26/96	0.398861	361.16	340	17																																			
+0032	B04	Unknown	NADPH 26/96	0.396863	383.44	340	18																																			
+0032	B04	Unknown	NADPH 26/96	0.393747	405.73	340	19																																			
+0032	B04	Unknown	NADPH 26/96	0.391939	428.01	340	20																																			
+0032	B04	Unknown	NADPH 26/96	0.432424	4.6	340	1																																			
+0032	C04	Unknown	NADPH 27/96	0.403858	6.21	340	1																																			
+0032	C04	Unknown	NADPH 27/96	0.411566	28.49	340	2																																			
+0032	C04	Unknown	NADPH 27/96	0.418935	50.78	340	3																																			
+0032	C04	Unknown	NADPH 27/96	0.420276	73.06	340	4																																			
+0032	C04	Unknown	NADPH 27/96	0.422568	95.35	340	5																																			
+0032	C04	Unknown	NADPH 27/96	0.422835	117.63	340	6																																			
+0032	C04	Unknown	NADPH 27/96	0.420865	139.92	340	7																																			
+0032	C04	Unknown	NADPH 27/96	0.419042	162.2	340	8																																			
+0032	C04	Unknown	NADPH 27/96	0.418572	184.49	340	9																																			
+0032	C04	Unknown	NADPH 27/96	0.418415	206.77	340	10																																			
+0032	C04	Unknown	NADPH 27/96	0.416685	229.06	340	11																																			
+0032	C04	Unknown	NADPH 27/96	0.41638	251.34	340	12																																			
+0032	C04	Unknown	NADPH 27/96	0.414618	273.63	340	13																																			
+0032	C04	Unknown	NADPH 27/96	0.414171	295.91	340	14																																			
+0032	C04	Unknown	NADPH 27/96	0.413028	318.2	340	15																																			
+0032	C04	Unknown	NADPH 27/96	0.411544	340.48	340	16																																			
+0032	C04	Unknown	NADPH 27/96	0.411292	362.77	340	17																																			
+0032	C04	Unknown	NADPH 27/96	0.410337	385.05	340	18																																			
+0032	C04	Unknown	NADPH 27/96	0.409445	407.34	340	19																																			
+0032	C04	Unknown	NADPH 27/96	0.408578	429.62	340	20																																			
+0032	D04	Unknown	NADPH 28/96	0.433549	10.12	340	1																																			
+0032	D04	Unknown	NADPH 28/96	0.440801	32.4	340	2																																			
+0032	D04	Unknown	NADPH 28/96	0.435963	54.69	340	3																																			
+0032	D04	Unknown	NADPH 28/96	0.436785	76.97	340	4																																			
+0032	D04	Unknown	NADPH 28/96	0.436151	99.26	340	5																																			
+0032	D04	Unknown	NADPH 28/96	0.43036	121.54	340	6																																			
+0032	D04	Unknown	NADPH 28/96	0.428467	143.83	340	7																																			
+0032	D04	Unknown	NADPH 28/96	0.426775	166.11	340	8																																			
+0032	D04	Unknown	NADPH 28/96	0.425795	188.4	340	9																																			
+0032	D04	Unknown	NADPH 28/96	0.424536	210.68	340	10																																			
+0032	D04	Unknown	NADPH 28/96	0.423151	232.97	340	11																																			
+0032	D04	Unknown	NADPH 28/96	0.422541	255.25	340	12																																			
+0032	D04	Unknown	NADPH 28/96	0.422105	277.54	340	13																																			
+0032	D04	Unknown	NADPH 28/96	0.420305	299.82	340	14																																			
+0032	D04	Unknown	NADPH 28/96	0.419877	322.11	340	15																																			
+0032	D04	Unknown	NADPH 28/96	0.418929	344.39	340	16																																			
+0032	D04	Unknown	NADPH 28/96	0.417579	366.68	340	17																																			
+0032	D04	Unknown	NADPH 28/96	0.416553	388.96	340	18																																			
+0032	D04	Unknown	NADPH 28/96	0.415464	411.25	340	19																																			
+0032	D04	Unknown	NADPH 28/96	0.414314	433.53	340	20																																			
+0032	E04	Unknown	NADPH 29/96	0.435425	11.73	340	1																																			
+0032	E04	Unknown	NADPH 29/96	0.417859	34.01	340	2																																			
+0032	E04	Unknown	NADPH 29/96	0.419738	56.3	340	3																																			
+0032	E04	Unknown	NADPH 29/96	0.421254	78.58	340	4																																			
+0032	E04	Unknown	NADPH 29/96	0.419188	100.87	340	5																																			
+0032	E04	Unknown	NADPH 29/96	0.418192	123.15	340	6																																			
+0032	E04	Unknown	NADPH 29/96	0.416222	145.44	340	7																																			
+0032	E04	Unknown	NADPH 29/96	0.414731	167.72	340	8																																			
+0032	E04	Unknown	NADPH 29/96	0.412803	190.01	340	9																																			
+0032	E04	Unknown	NADPH 29/96	0.411539	212.29	340	10																																			
+0032	E04	Unknown	NADPH 29/96	0.409605	234.58	340	11																																			
+0032	E04	Unknown	NADPH 29/96	0.408243	256.86	340	12																																			
+0032	E04	Unknown	NADPH 29/96	0.406689	279.15	340	13																																			
+0032	E04	Unknown	NADPH 29/96	0.405666	301.43	340	14																																			
+0032	E04	Unknown	NADPH 29/96	0.403796	323.72	340	15																																			
+0032	E04	Unknown	NADPH 29/96	0.402556	346	340	16																																			
+0032	E04	Unknown	NADPH 29/96	0.401168	368.29	340	17																																			
+0032	E04	Unknown	NADPH 29/96	0.400007	390.57	340	18																																			
+0032	E04	Unknown	NADPH 29/96	0.398531	412.86	340	19																																			
+0032	E04	Unknown	NADPH 29/96	0.397681	435.14	340	20																																			
+0032	C01	Unknown	NADPH 3/96	0.410037	27.8	340	2																																			
+0032	C01	Unknown	NADPH 3/96	0.410245	50.09	340	3																																			
+0032	C01	Unknown	NADPH 3/96	0.409603	72.37	340	4																																			
+0032	C01	Unknown	NADPH 3/96	0.407184	94.66	340	5																																			
+0032	C01	Unknown	NADPH 3/96	0.405126	116.94	340	6																																			
+0032	C01	Unknown	NADPH 3/96	0.400352	139.23	340	7																																			
+0032	C01	Unknown	NADPH 3/96	0.39586	161.51	340	8																																			
+0032	C01	Unknown	NADPH 3/96	0.391747	183.8	340	9																																			
+0032	C01	Unknown	NADPH 3/96	0.388356	206.08	340	10																																			
+0032	C01	Unknown	NADPH 3/96	0.385033	228.37	340	11																																			
+0032	C01	Unknown	NADPH 3/96	0.38126	250.65	340	12																																			
+0032	C01	Unknown	NADPH 3/96	0.378027	272.94	340	13																																			
+0032	C01	Unknown	NADPH 3/96	0.374734	295.22	340	14																																			
+0032	C01	Unknown	NADPH 3/96	0.371796	317.51	340	15																																			
+0032	C01	Unknown	NADPH 3/96	0.369102	339.79	340	16																																			
+0032	C01	Unknown	NADPH 3/96	0.366122	362.08	340	17																																			
+0032	C01	Unknown	NADPH 3/96	0.364341	384.36	340	18																																			
+0032	C01	Unknown	NADPH 3/96	0.361924	406.65	340	19																																			
+0032	C01	Unknown	NADPH 3/96	0.35887	428.93	340	20																																			
+0032	C01	Unknown	NADPH 3/96	0.409548	5.52	340	1																																			
+0032	F04	Unknown	NADPH 30/96	0.402326	15.64	340	1																																			
+0032	F04	Unknown	NADPH 30/96	0.432523	37.92	340	2																																			
+0032	F04	Unknown	NADPH 30/96	0.422068	60.21	340	3																																			
+0032	F04	Unknown	NADPH 30/96	0.421507	82.49	340	4																																			
+0032	F04	Unknown	NADPH 30/96	0.420258	104.78	340	5																																			
+0032	F04	Unknown	NADPH 30/96	0.418442	127.06	340	6																																			
+0032	F04	Unknown	NADPH 30/96	0.41713	149.35	340	7																																			
+0032	F04	Unknown	NADPH 30/96	0.416652	171.63	340	8																																			
+0032	F04	Unknown	NADPH 30/96	0.414947	193.92	340	9																																			
+0032	F04	Unknown	NADPH 30/96	0.413581	216.2	340	10																																			
+0032	F04	Unknown	NADPH 30/96	0.411518	238.49	340	11																																			
+0032	F04	Unknown	NADPH 30/96	0.410506	260.77	340	12																																			
+0032	F04	Unknown	NADPH 30/96	0.410065	283.06	340	13																																			
+0032	F04	Unknown	NADPH 30/96	0.408493	305.34	340	14																																			
+0032	F04	Unknown	NADPH 30/96	0.406318	327.63	340	15																																			
+0032	F04	Unknown	NADPH 30/96	0.404874	349.91	340	16																																			
+0032	F04	Unknown	NADPH 30/96	0.403504	372.2	340	17																																			
+0032	F04	Unknown	NADPH 30/96	0.402294	394.48	340	18																																			
+0032	F04	Unknown	NADPH 30/96	0.401424	416.77	340	19																																			
+0032	F04	Unknown	NADPH 30/96	0.400005	439.05	340	20																																			
+0032	G04	Unknown	NADPH 31/96	0.43663	17.25	340	1																																			
+0032	G04	Unknown	NADPH 31/96	0.423109	39.53	340	2																																			
+0032	G04	Unknown	NADPH 31/96	0.422355	61.82	340	3																																			
+0032	G04	Unknown	NADPH 31/96	0.424705	84.1	340	4																																			
+0032	G04	Unknown	NADPH 31/96	0.423387	106.39	340	5																																			
+0032	G04	Unknown	NADPH 31/96	0.423797	128.67	340	6																																			
+0032	G04	Unknown	NADPH 31/96	0.423349	150.96	340	7																																			
+0032	G04	Unknown	NADPH 31/96	0.423614	173.24	340	8																																			
+0032	G04	Unknown	NADPH 31/96	0.423054	195.53	340	9																																			
+0032	G04	Unknown	NADPH 31/96	0.42274	217.81	340	10																																			
+0032	G04	Unknown	NADPH 31/96	0.422331	240.1	340	11																																			
+0032	G04	Unknown	NADPH 31/96	0.422494	262.38	340	12																																			
+0032	G04	Unknown	NADPH 31/96	0.420995	284.67	340	13																																			
+0032	G04	Unknown	NADPH 31/96	0.419893	306.95	340	14																																			
+0032	G04	Unknown	NADPH 31/96	0.419068	329.24	340	15																																			
+0032	G04	Unknown	NADPH 31/96	0.418093	351.52	340	16																																			
+0032	G04	Unknown	NADPH 31/96	0.417475	373.81	340	17																																			
+0032	G04	Unknown	NADPH 31/96	0.416324	396.09	340	18																																			
+0032	G04	Unknown	NADPH 31/96	0.415845	418.38	340	19																																			
+0032	G04	Unknown	NADPH 31/96	0.415253	440.66	340	20																																			
+0032	H04	Unknown	NADPH 32/96	0.425848	21.16	340	1																																			
+0032	H04	Unknown	NADPH 32/96	0.42827	43.44	340	2																																			
+0032	H04	Unknown	NADPH 32/96	0.427556	65.73	340	3																																			
+0032	H04	Unknown	NADPH 32/96	0.425214	88.01	340	4																																			
+0032	H04	Unknown	NADPH 32/96	0.422581	110.3	340	5																																			
+0032	H04	Unknown	NADPH 32/96	0.421112	132.58	340	6																																			
+0032	H04	Unknown	NADPH 32/96	0.418904	154.87	340	7																																			
+0032	H04	Unknown	NADPH 32/96	0.417777	177.15	340	8																																			
+0032	H04	Unknown	NADPH 32/96	0.416637	199.44	340	9																																			
+0032	H04	Unknown	NADPH 32/96	0.41491	221.72	340	10																																			
+0032	H04	Unknown	NADPH 32/96	0.412822	244.01	340	11																																			
+0032	H04	Unknown	NADPH 32/96	0.411753	266.29	340	12																																			
+0032	H04	Unknown	NADPH 32/96	0.410441	288.58	340	13																																			
+0032	H04	Unknown	NADPH 32/96	0.409121	310.86	340	14																																			
+0032	H04	Unknown	NADPH 32/96	0.407856	333.15	340	15																																			
+0032	H04	Unknown	NADPH 32/96	0.406402	355.43	340	16																																			
+0032	H04	Unknown	NADPH 32/96	0.405015	377.72	340	17																																			
+0032	H04	Unknown	NADPH 32/96	0.404133	400	340	18																																			
+0032	H04	Unknown	NADPH 32/96	0.402288	422.29	340	19																																			
+0032	H04	Unknown	NADPH 32/96	0.401483	444.57	340	20																																			
+0032	A05	Unknown	NADPH 33/96	0.422965	23.2	340	2																																			
+0032	A05	Unknown	NADPH 33/96	0.414166	45.49	340	3																																			
+0032	A05	Unknown	NADPH 33/96	0.420933	67.77	340	4																																			
+0032	A05	Unknown	NADPH 33/96	0.420411	90.06	340	5																																			
+0032	A05	Unknown	NADPH 33/96	0.418376	112.34	340	6																																			
+0032	A05	Unknown	NADPH 33/96	0.416658	134.63	340	7																																			
+0032	A05	Unknown	NADPH 33/96	0.414	156.91	340	8																																			
+0032	A05	Unknown	NADPH 33/96	0.412115	179.2	340	9																																			
+0032	A05	Unknown	NADPH 33/96	0.409827	201.48	340	10																																			
+0032	A05	Unknown	NADPH 33/96	0.40814	223.77	340	11																																			
+0032	A05	Unknown	NADPH 33/96	0.406432	246.05	340	12																																			
+0032	A05	Unknown	NADPH 33/96	0.4047	268.34	340	13																																			
+0032	A05	Unknown	NADPH 33/96	0.403223	290.62	340	14																																			
+0032	A05	Unknown	NADPH 33/96	0.401419	312.91	340	15																																			
+0032	A05	Unknown	NADPH 33/96	0.39946	335.19	340	16																																			
+0032	A05	Unknown	NADPH 33/96	0.398015	357.48	340	17																																			
+0032	A05	Unknown	NADPH 33/96	0.397617	379.76	340	18																																			
+0032	A05	Unknown	NADPH 33/96	0.395123	402.05	340	19																																			
+0032	A05	Unknown	NADPH 33/96	0.393288	424.33	340	20																																			
+0032	A05	Unknown	NADPH 33/96	0.385368	0.92	340	1																																			
+0032	B05	Unknown	NADPH 34/96	0.415862	26.65	340	2																																			
+0032	B05	Unknown	NADPH 34/96	0.419609	48.94	340	3																																			
+0032	B05	Unknown	NADPH 34/96	0.41898	71.22	340	4																																			
+0032	B05	Unknown	NADPH 34/96	0.419274	93.51	340	5																																			
+0032	B05	Unknown	NADPH 34/96	0.418788	115.79	340	6																																			
+0032	B05	Unknown	NADPH 34/96	0.417801	138.08	340	7																																			
+0032	B05	Unknown	NADPH 34/96	0.415797	160.36	340	8																																			
+0032	B05	Unknown	NADPH 34/96	0.414494	182.65	340	9																																			
+0032	B05	Unknown	NADPH 34/96	0.412532	204.93	340	10																																			
+0032	B05	Unknown	NADPH 34/96	0.409144	227.22	340	11																																			
+0032	B05	Unknown	NADPH 34/96	0.40704	249.5	340	12																																			
+0032	B05	Unknown	NADPH 34/96	0.404113	271.79	340	13																																			
+0032	B05	Unknown	NADPH 34/96	0.402146	294.07	340	14																																			
+0032	B05	Unknown	NADPH 34/96	0.400122	316.36	340	15																																			
+0032	B05	Unknown	NADPH 34/96	0.398577	338.64	340	16																																			
+0032	B05	Unknown	NADPH 34/96	0.396927	360.93	340	17																																			
+0032	B05	Unknown	NADPH 34/96	0.394587	383.21	340	18																																			
+0032	B05	Unknown	NADPH 34/96	0.393493	405.5	340	19																																			
+0032	B05	Unknown	NADPH 34/96	0.391562	427.78	340	20																																			
+0032	B05	Unknown	NADPH 34/96	0.402233	4.37	340	1																																			
+0032	C05	Unknown	NADPH 35/96	0.390818	6.44	340	1																																			
+0032	C05	Unknown	NADPH 35/96	0.405792	28.72	340	2																																			
+0032	C05	Unknown	NADPH 35/96	0.4093	51.01	340	3																																			
+0032	C05	Unknown	NADPH 35/96	0.410417	73.29	340	4																																			
+0032	C05	Unknown	NADPH 35/96	0.409371	95.58	340	5																																			
+0032	C05	Unknown	NADPH 35/96	0.407656	117.86	340	6																																			
+0032	C05	Unknown	NADPH 35/96	0.405771	140.15	340	7																																			
+0032	C05	Unknown	NADPH 35/96	0.404197	162.43	340	8																																			
+0032	C05	Unknown	NADPH 35/96	0.400956	184.72	340	9																																			
+0032	C05	Unknown	NADPH 35/96	0.398762	207	340	10																																			
+0032	C05	Unknown	NADPH 35/96	0.396518	229.29	340	11																																			
+0032	C05	Unknown	NADPH 35/96	0.394761	251.57	340	12																																			
+0032	C05	Unknown	NADPH 35/96	0.393199	273.86	340	13																																			
+0032	C05	Unknown	NADPH 35/96	0.391101	296.14	340	14																																			
+0032	C05	Unknown	NADPH 35/96	0.38942	318.43	340	15																																			
+0032	C05	Unknown	NADPH 35/96	0.387586	340.71	340	16																																			
+0032	C05	Unknown	NADPH 35/96	0.386175	363	340	17																																			
+0032	C05	Unknown	NADPH 35/96	0.384983	385.28	340	18																																			
+0032	C05	Unknown	NADPH 35/96	0.383347	407.57	340	19																																			
+0032	C05	Unknown	NADPH 35/96	0.382532	429.85	340	20																																			
+0032	D05	Unknown	NADPH 36/96	0.415125	9.89	340	1																																			
+0032	D05	Unknown	NADPH 36/96	0.426603	32.17	340	2																																			
+0032	D05	Unknown	NADPH 36/96	0.43297	54.46	340	3																																			
+0032	D05	Unknown	NADPH 36/96	0.432846	76.74	340	4																																			
+0032	D05	Unknown	NADPH 36/96	0.429213	99.03	340	5																																			
+0032	D05	Unknown	NADPH 36/96	0.426088	121.31	340	6																																			
+0032	D05	Unknown	NADPH 36/96	0.423153	143.6	340	7																																			
+0032	D05	Unknown	NADPH 36/96	0.419954	165.88	340	8																																			
+0032	D05	Unknown	NADPH 36/96	0.416842	188.17	340	9																																			
+0032	D05	Unknown	NADPH 36/96	0.413176	210.45	340	10																																			
+0032	D05	Unknown	NADPH 36/96	0.410507	232.74	340	11																																			
+0032	D05	Unknown	NADPH 36/96	0.408053	255.02	340	12																																			
+0032	D05	Unknown	NADPH 36/96	0.405571	277.31	340	13																																			
+0032	D05	Unknown	NADPH 36/96	0.403297	299.59	340	14																																			
+0032	D05	Unknown	NADPH 36/96	0.400951	321.88	340	15																																			
+0032	D05	Unknown	NADPH 36/96	0.399444	344.16	340	16																																			
+0032	D05	Unknown	NADPH 36/96	0.398099	366.45	340	17																																			
+0032	D05	Unknown	NADPH 36/96	0.395782	388.73	340	18																																			
+0032	D05	Unknown	NADPH 36/96	0.394395	411.02	340	19																																			
+0032	D05	Unknown	NADPH 36/96	0.39331	433.3	340	20																																			
+0032	E05	Unknown	NADPH 37/96	0.425062	11.96	340	1																																			
+0032	E05	Unknown	NADPH 37/96	0.422461	34.24	340	2																																			
+0032	E05	Unknown	NADPH 37/96	0.425029	56.53	340	3																																			
+0032	E05	Unknown	NADPH 37/96	0.422153	78.81	340	4																																			
+0032	E05	Unknown	NADPH 37/96	0.417479	101.1	340	5																																			
+0032	E05	Unknown	NADPH 37/96	0.413872	123.38	340	6																																			
+0032	E05	Unknown	NADPH 37/96	0.408697	145.67	340	7																																			
+0032	E05	Unknown	NADPH 37/96	0.404275	167.95	340	8																																			
+0032	E05	Unknown	NADPH 37/96	0.400277	190.24	340	9																																			
+0032	E05	Unknown	NADPH 37/96	0.396975	212.52	340	10																																			
+0032	E05	Unknown	NADPH 37/96	0.393216	234.81	340	11																																			
+0032	E05	Unknown	NADPH 37/96	0.390196	257.09	340	12																																			
+0032	E05	Unknown	NADPH 37/96	0.387674	279.38	340	13																																			
+0032	E05	Unknown	NADPH 37/96	0.385293	301.66	340	14																																			
+0032	E05	Unknown	NADPH 37/96	0.383026	323.95	340	15																																			
+0032	E05	Unknown	NADPH 37/96	0.380434	346.23	340	16																																			
+0032	E05	Unknown	NADPH 37/96	0.378649	368.52	340	17																																			
+0032	E05	Unknown	NADPH 37/96	0.37645	390.8	340	18																																			
+0032	E05	Unknown	NADPH 37/96	0.374244	413.09	340	19																																			
+0032	E05	Unknown	NADPH 37/96	0.372571	435.37	340	20																																			
+0032	F05	Unknown	NADPH 38/96	0.425792	15.41	340	1																																			
+0032	F05	Unknown	NADPH 38/96	0.452584	37.69	340	2																																			
+0032	F05	Unknown	NADPH 38/96	0.445999	59.98	340	3																																			
+0032	F05	Unknown	NADPH 38/96	0.437637	82.26	340	4																																			
+0032	F05	Unknown	NADPH 38/96	0.432947	104.55	340	5																																			
+0032	F05	Unknown	NADPH 38/96	0.429127	126.83	340	6																																			
+0032	F05	Unknown	NADPH 38/96	0.425654	149.12	340	7																																			
+0032	F05	Unknown	NADPH 38/96	0.42239	171.4	340	8																																			
+0032	F05	Unknown	NADPH 38/96	0.418923	193.69	340	9																																			
+0032	F05	Unknown	NADPH 38/96	0.416747	215.97	340	10																																			
+0032	F05	Unknown	NADPH 38/96	0.414044	238.26	340	11																																			
+0032	F05	Unknown	NADPH 38/96	0.411514	260.54	340	12																																			
+0032	F05	Unknown	NADPH 38/96	0.409639	282.83	340	13																																			
+0032	F05	Unknown	NADPH 38/96	0.406806	305.11	340	14																																			
+0032	F05	Unknown	NADPH 38/96	0.404861	327.4	340	15																																			
+0032	F05	Unknown	NADPH 38/96	0.403434	349.68	340	16																																			
+0032	F05	Unknown	NADPH 38/96	0.401688	371.97	340	17																																			
+0032	F05	Unknown	NADPH 38/96	0.399696	394.25	340	18																																			
+0032	F05	Unknown	NADPH 38/96	0.397866	416.54	340	19																																			
+0032	F05	Unknown	NADPH 38/96	0.396065	438.82	340	20																																			
+0032	G05	Unknown	NADPH 39/96	0.406	17.48	340	1																																			
+0032	G05	Unknown	NADPH 39/96	0.430648	39.76	340	2																																			
+0032	G05	Unknown	NADPH 39/96	0.44098	62.05	340	3																																			
+0032	G05	Unknown	NADPH 39/96	0.439352	84.33	340	4																																			
+0032	G05	Unknown	NADPH 39/96	0.435807	106.62	340	5																																			
+0032	G05	Unknown	NADPH 39/96	0.431581	128.9	340	6																																			
+0032	G05	Unknown	NADPH 39/96	0.42662	151.19	340	7																																			
+0032	G05	Unknown	NADPH 39/96	0.422702	173.47	340	8																																			
+0032	G05	Unknown	NADPH 39/96	0.419164	195.76	340	9																																			
+0032	G05	Unknown	NADPH 39/96	0.416652	218.04	340	10																																			
+0032	G05	Unknown	NADPH 39/96	0.414699	240.33	340	11																																			
+0032	G05	Unknown	NADPH 39/96	0.413025	262.61	340	12																																			
+0032	G05	Unknown	NADPH 39/96	0.411639	284.9	340	13																																			
+0032	G05	Unknown	NADPH 39/96	0.409657	307.18	340	14																																			
+0032	G05	Unknown	NADPH 39/96	0.407879	329.47	340	15																																			
+0032	G05	Unknown	NADPH 39/96	0.406722	351.75	340	16																																			
+0032	G05	Unknown	NADPH 39/96	0.405743	374.04	340	17																																			
+0032	G05	Unknown	NADPH 39/96	0.404965	396.32	340	18																																			
+0032	G05	Unknown	NADPH 39/96	0.403544	418.61	340	19																																			
+0032	G05	Unknown	NADPH 39/96	0.402551	440.89	340	20																																			
+0032	D01	Unknown	NADPH 4/96	0.430104	10.81	340	1																																			
+0032	D01	Unknown	NADPH 4/96	0.420383	33.09	340	2																																			
+0032	D01	Unknown	NADPH 4/96	0.419366	55.38	340	3																																			
+0032	D01	Unknown	NADPH 4/96	0.412615	77.66	340	4																																			
+0032	D01	Unknown	NADPH 4/96	0.410223	99.95	340	5																																			
+0032	D01	Unknown	NADPH 4/96	0.411166	122.23	340	6																																			
+0032	D01	Unknown	NADPH 4/96	0.412511	144.52	340	7																																			
+0032	D01	Unknown	NADPH 4/96	0.41337	166.8	340	8																																			
+0032	D01	Unknown	NADPH 4/96	0.412801	189.09	340	9																																			
+0032	D01	Unknown	NADPH 4/96	0.41017	211.37	340	10																																			
+0032	D01	Unknown	NADPH 4/96	0.407458	233.66	340	11																																			
+0032	D01	Unknown	NADPH 4/96	0.405044	255.94	340	12																																			
+0032	D01	Unknown	NADPH 4/96	0.403497	278.23	340	13																																			
+0032	D01	Unknown	NADPH 4/96	0.401435	300.51	340	14																																			
+0032	D01	Unknown	NADPH 4/96	0.39948	322.8	340	15																																			
+0032	D01	Unknown	NADPH 4/96	0.39797	345.08	340	16																																			
+0032	D01	Unknown	NADPH 4/96	0.396186	367.37	340	17																																			
+0032	D01	Unknown	NADPH 4/96	0.394065	389.65	340	18																																			
+0032	D01	Unknown	NADPH 4/96	0.392282	411.94	340	19																																			
+0032	D01	Unknown	NADPH 4/96	0.390399	434.22	340	20																																			
+0032	H05	Unknown	NADPH 40/96	0.424463	20.93	340	1																																			
+0032	H05	Unknown	NADPH 40/96	0.421399	43.21	340	2																																			
+0032	H05	Unknown	NADPH 40/96	0.417994	65.5	340	3																																			
+0032	H05	Unknown	NADPH 40/96	0.412475	87.78	340	4																																			
+0032	H05	Unknown	NADPH 40/96	0.412336	110.07	340	5																																			
+0032	H05	Unknown	NADPH 40/96	0.408531	132.35	340	6																																			
+0032	H05	Unknown	NADPH 40/96	0.407175	154.64	340	7																																			
+0032	H05	Unknown	NADPH 40/96	0.404515	176.92	340	8																																			
+0032	H05	Unknown	NADPH 40/96	0.402482	199.21	340	9																																			
+0032	H05	Unknown	NADPH 40/96	0.402986	221.49	340	10																																			
+0032	H05	Unknown	NADPH 40/96	0.40304	243.78	340	11																																			
+0032	H05	Unknown	NADPH 40/96	0.402302	266.06	340	12																																			
+0032	H05	Unknown	NADPH 40/96	0.401606	288.35	340	13																																			
+0032	H05	Unknown	NADPH 40/96	0.40039	310.63	340	14																																			
+0032	H05	Unknown	NADPH 40/96	0.401052	332.92	340	15																																			
+0032	H05	Unknown	NADPH 40/96	0.399034	355.2	340	16																																			
+0032	H05	Unknown	NADPH 40/96	0.40007	377.49	340	17																																			
+0032	H05	Unknown	NADPH 40/96	0.39857	399.77	340	18																																			
+0032	H05	Unknown	NADPH 40/96	0.398451	422.06	340	19																																			
+0032	H05	Unknown	NADPH 40/96	0.397104	444.34	340	20																																			
+0032	A06	Unknown	NADPH 41/96	0.418751	23.43	340	2																																			
+0032	A06	Unknown	NADPH 41/96	0.415407	45.72	340	3																																			
+0032	A06	Unknown	NADPH 41/96	0.413233	68	340	4																																			
+0032	A06	Unknown	NADPH 41/96	0.412645	90.29	340	5																																			
+0032	A06	Unknown	NADPH 41/96	0.40958	112.57	340	6																																			
+0032	A06	Unknown	NADPH 41/96	0.407478	134.86	340	7																																			
+0032	A06	Unknown	NADPH 41/96	0.404905	157.14	340	8																																			
+0032	A06	Unknown	NADPH 41/96	0.402273	179.43	340	9																																			
+0032	A06	Unknown	NADPH 41/96	0.399697	201.71	340	10																																			
+0032	A06	Unknown	NADPH 41/96	0.396723	224	340	11																																			
+0032	A06	Unknown	NADPH 41/96	0.393549	246.28	340	12																																			
+0032	A06	Unknown	NADPH 41/96	0.391427	268.57	340	13																																			
+0032	A06	Unknown	NADPH 41/96	0.389614	290.85	340	14																																			
+0032	A06	Unknown	NADPH 41/96	0.386643	313.14	340	15																																			
+0032	A06	Unknown	NADPH 41/96	0.384193	335.42	340	16																																			
+0032	A06	Unknown	NADPH 41/96	0.381721	357.71	340	17																																			
+0032	A06	Unknown	NADPH 41/96	0.379595	379.99	340	18																																			
+0032	A06	Unknown	NADPH 41/96	0.377288	402.28	340	19																																			
+0032	A06	Unknown	NADPH 41/96	0.375374	424.56	340	20																																			
+0032	A06	Unknown	NADPH 41/96	0.403916	1.15	340	1																																			
+0032	B06	Unknown	NADPH 42/96	0.429666	26.42	340	2																																			
+0032	B06	Unknown	NADPH 42/96	0.433317	48.71	340	3																																			
+0032	B06	Unknown	NADPH 42/96	0.431166	70.99	340	4																																			
+0032	B06	Unknown	NADPH 42/96	0.429288	93.28	340	5																																			
+0032	B06	Unknown	NADPH 42/96	0.426313	115.56	340	6																																			
+0032	B06	Unknown	NADPH 42/96	0.423777	137.85	340	7																																			
+0032	B06	Unknown	NADPH 42/96	0.421722	160.13	340	8																																			
+0032	B06	Unknown	NADPH 42/96	0.419724	182.42	340	9																																			
+0032	B06	Unknown	NADPH 42/96	0.41895	204.7	340	10																																			
+0032	B06	Unknown	NADPH 42/96	0.418321	226.99	340	11																																			
+0032	B06	Unknown	NADPH 42/96	0.417658	249.27	340	12																																			
+0032	B06	Unknown	NADPH 42/96	0.417199	271.56	340	13																																			
+0032	B06	Unknown	NADPH 42/96	0.416534	293.84	340	14																																			
+0032	B06	Unknown	NADPH 42/96	0.415475	316.13	340	15																																			
+0032	B06	Unknown	NADPH 42/96	0.415248	338.41	340	16																																			
+0032	B06	Unknown	NADPH 42/96	0.415307	360.7	340	17																																			
+0032	B06	Unknown	NADPH 42/96	0.4137	382.98	340	18																																			
+0032	B06	Unknown	NADPH 42/96	0.413917	405.27	340	19																																			
+0032	B06	Unknown	NADPH 42/96	0.413429	427.55	340	20																																			
+0032	B06	Unknown	NADPH 42/96	0.422957	4.14	340	1																																			
+0032	C06	Unknown	NADPH 43/96	0.448989	6.67	340	1																																			
+0032	C06	Unknown	NADPH 43/96	0.425099	28.95	340	2																																			
+0032	C06	Unknown	NADPH 43/96	0.426827	51.24	340	3																																			
+0032	C06	Unknown	NADPH 43/96	0.426009	73.52	340	4																																			
+0032	C06	Unknown	NADPH 43/96	0.423573	95.81	340	5																																			
+0032	C06	Unknown	NADPH 43/96	0.422115	118.09	340	6																																			
+0032	C06	Unknown	NADPH 43/96	0.42026	140.38	340	7																																			
+0032	C06	Unknown	NADPH 43/96	0.419075	162.66	340	8																																			
+0032	C06	Unknown	NADPH 43/96	0.417275	184.95	340	9																																			
+0032	C06	Unknown	NADPH 43/96	0.415537	207.23	340	10																																			
+0032	C06	Unknown	NADPH 43/96	0.413695	229.52	340	11																																			
+0032	C06	Unknown	NADPH 43/96	0.411976	251.8	340	12																																			
+0032	C06	Unknown	NADPH 43/96	0.410039	274.09	340	13																																			
+0032	C06	Unknown	NADPH 43/96	0.408857	296.37	340	14																																			
+0032	C06	Unknown	NADPH 43/96	0.407367	318.66	340	15																																			
+0032	C06	Unknown	NADPH 43/96	0.40521	340.94	340	16																																			
+0032	C06	Unknown	NADPH 43/96	0.403875	363.23	340	17																																			
+0032	C06	Unknown	NADPH 43/96	0.402329	385.51	340	18																																			
+0032	C06	Unknown	NADPH 43/96	0.40053	407.8	340	19																																			
+0032	C06	Unknown	NADPH 43/96	0.399637	430.08	340	20																																			
+0032	D06	Unknown	NADPH 44/96	0.428132	9.66	340	1																																			
+0032	D06	Unknown	NADPH 44/96	0.43101	31.94	340	2																																			
+0032	D06	Unknown	NADPH 44/96	0.433094	54.23	340	3																																			
+0032	D06	Unknown	NADPH 44/96	0.433918	76.51	340	4																																			
+0032	D06	Unknown	NADPH 44/96	0.431605	98.8	340	5																																			
+0032	D06	Unknown	NADPH 44/96	0.430126	121.08	340	6																																			
+0032	D06	Unknown	NADPH 44/96	0.428797	143.37	340	7																																			
+0032	D06	Unknown	NADPH 44/96	0.427329	165.65	340	8																																			
+0032	D06	Unknown	NADPH 44/96	0.42628	187.94	340	9																																			
+0032	D06	Unknown	NADPH 44/96	0.426272	210.22	340	10																																			
+0032	D06	Unknown	NADPH 44/96	0.424912	232.51	340	11																																			
+0032	D06	Unknown	NADPH 44/96	0.424202	254.79	340	12																																			
+0032	D06	Unknown	NADPH 44/96	0.422569	277.08	340	13																																			
+0032	D06	Unknown	NADPH 44/96	0.420957	299.36	340	14																																			
+0032	D06	Unknown	NADPH 44/96	0.419128	321.65	340	15																																			
+0032	D06	Unknown	NADPH 44/96	0.418459	343.93	340	16																																			
+0032	D06	Unknown	NADPH 44/96	0.417112	366.22	340	17																																			
+0032	D06	Unknown	NADPH 44/96	0.415915	388.5	340	18																																			
+0032	D06	Unknown	NADPH 44/96	0.415045	410.79	340	19																																			
+0032	D06	Unknown	NADPH 44/96	0.413914	433.07	340	20																																			
+0032	E06	Unknown	NADPH 45/96	0.404843	12.19	340	1																																			
+0032	E06	Unknown	NADPH 45/96	0.414652	34.47	340	2																																			
+0032	E06	Unknown	NADPH 45/96	0.417148	56.76	340	3																																			
+0032	E06	Unknown	NADPH 45/96	0.415472	79.04	340	4																																			
+0032	E06	Unknown	NADPH 45/96	0.423564	101.33	340	5																																			
+0032	E06	Unknown	NADPH 45/96	0.419154	123.61	340	6																																			
+0032	E06	Unknown	NADPH 45/96	0.418091	145.9	340	7																																			
+0032	E06	Unknown	NADPH 45/96	0.416992	168.18	340	8																																			
+0032	E06	Unknown	NADPH 45/96	0.415357	190.47	340	9																																			
+0032	E06	Unknown	NADPH 45/96	0.414189	212.75	340	10																																			
+0032	E06	Unknown	NADPH 45/96	0.413425	235.04	340	11																																			
+0032	E06	Unknown	NADPH 45/96	0.412026	257.32	340	12																																			
+0032	E06	Unknown	NADPH 45/96	0.411616	279.61	340	13																																			
+0032	E06	Unknown	NADPH 45/96	0.40963	301.89	340	14																																			
+0032	E06	Unknown	NADPH 45/96	0.408748	324.18	340	15																																			
+0032	E06	Unknown	NADPH 45/96	0.40806	346.46	340	16																																			
+0032	E06	Unknown	NADPH 45/96	0.407022	368.75	340	17																																			
+0032	E06	Unknown	NADPH 45/96	0.405022	391.03	340	18																																			
+0032	E06	Unknown	NADPH 45/96	0.403888	413.32	340	19																																			
+0032	E06	Unknown	NADPH 45/96	0.403033	435.6	340	20																																			
+0032	F06	Unknown	NADPH 46/96	0.453107	15.18	340	1																																			
+0032	F06	Unknown	NADPH 46/96	0.436561	37.46	340	2																																			
+0032	F06	Unknown	NADPH 46/96	0.444525	59.75	340	3																																			
+0032	F06	Unknown	NADPH 46/96	0.443943	82.03	340	4																																			
+0032	F06	Unknown	NADPH 46/96	0.44219	104.32	340	5																																			
+0032	F06	Unknown	NADPH 46/96	0.439792	126.6	340	6																																			
+0032	F06	Unknown	NADPH 46/96	0.437812	148.89	340	7																																			
+0032	F06	Unknown	NADPH 46/96	0.435233	171.17	340	8																																			
+0032	F06	Unknown	NADPH 46/96	0.433034	193.46	340	9																																			
+0032	F06	Unknown	NADPH 46/96	0.430669	215.74	340	10																																			
+0032	F06	Unknown	NADPH 46/96	0.428214	238.03	340	11																																			
+0032	F06	Unknown	NADPH 46/96	0.425764	260.31	340	12																																			
+0032	F06	Unknown	NADPH 46/96	0.424761	282.6	340	13																																			
+0032	F06	Unknown	NADPH 46/96	0.422724	304.88	340	14																																			
+0032	F06	Unknown	NADPH 46/96	0.421112	327.17	340	15																																			
+0032	F06	Unknown	NADPH 46/96	0.418921	349.45	340	16																																			
+0032	F06	Unknown	NADPH 46/96	0.417579	371.74	340	17																																			
+0032	F06	Unknown	NADPH 46/96	0.416572	394.02	340	18																																			
+0032	F06	Unknown	NADPH 46/96	0.414166	416.31	340	19																																			
+0032	F06	Unknown	NADPH 46/96	0.413539	438.59	340	20																																			
+0032	G06	Unknown	NADPH 47/96	0.422894	17.71	340	1																																			
+0032	G06	Unknown	NADPH 47/96	0.432812	39.99	340	2																																			
+0032	G06	Unknown	NADPH 47/96	0.427872	62.28	340	3																																			
+0032	G06	Unknown	NADPH 47/96	0.422355	84.56	340	4																																			
+0032	G06	Unknown	NADPH 47/96	0.417648	106.85	340	5																																			
+0032	G06	Unknown	NADPH 47/96	0.415072	129.13	340	6																																			
+0032	G06	Unknown	NADPH 47/96	0.411193	151.42	340	7																																			
+0032	G06	Unknown	NADPH 47/96	0.409599	173.7	340	8																																			
+0032	G06	Unknown	NADPH 47/96	0.406989	195.99	340	9																																			
+0032	G06	Unknown	NADPH 47/96	0.404831	218.27	340	10																																			
+0032	G06	Unknown	NADPH 47/96	0.402326	240.56	340	11																																			
+0032	G06	Unknown	NADPH 47/96	0.400698	262.84	340	12																																			
+0032	G06	Unknown	NADPH 47/96	0.398587	285.13	340	13																																			
+0032	G06	Unknown	NADPH 47/96	0.396062	307.41	340	14																																			
+0032	G06	Unknown	NADPH 47/96	0.393755	329.7	340	15																																			
+0032	G06	Unknown	NADPH 47/96	0.392965	351.98	340	16																																			
+0032	G06	Unknown	NADPH 47/96	0.390632	374.27	340	17																																			
+0032	G06	Unknown	NADPH 47/96	0.38853	396.55	340	18																																			
+0032	G06	Unknown	NADPH 47/96	0.386731	418.84	340	19																																			
+0032	G06	Unknown	NADPH 47/96	0.385204	441.12	340	20																																			
+0032	H06	Unknown	NADPH 48/96	0.421328	20.7	340	1																																			
+0032	H06	Unknown	NADPH 48/96	0.425947	42.98	340	2																																			
+0032	H06	Unknown	NADPH 48/96	0.428572	65.27	340	3																																			
+0032	H06	Unknown	NADPH 48/96	0.425547	87.55	340	4																																			
+0032	H06	Unknown	NADPH 48/96	0.421412	109.84	340	5																																			
+0032	H06	Unknown	NADPH 48/96	0.419146	132.12	340	6																																			
+0032	H06	Unknown	NADPH 48/96	0.417357	154.41	340	7																																			
+0032	H06	Unknown	NADPH 48/96	0.415765	176.69	340	8																																			
+0032	H06	Unknown	NADPH 48/96	0.414174	198.98	340	9																																			
+0032	H06	Unknown	NADPH 48/96	0.411808	221.26	340	10																																			
+0032	H06	Unknown	NADPH 48/96	0.409233	243.55	340	11																																			
+0032	H06	Unknown	NADPH 48/96	0.407635	265.83	340	12																																			
+0032	H06	Unknown	NADPH 48/96	0.406365	288.12	340	13																																			
+0032	H06	Unknown	NADPH 48/96	0.404511	310.4	340	14																																			
+0032	H06	Unknown	NADPH 48/96	0.403575	332.69	340	15																																			
+0032	H06	Unknown	NADPH 48/96	0.402407	354.97	340	16																																			
+0032	H06	Unknown	NADPH 48/96	0.399881	377.26	340	17																																			
+0032	H06	Unknown	NADPH 48/96	0.39877	399.54	340	18																																			
+0032	H06	Unknown	NADPH 48/96	0.396335	421.83	340	19																																			
+0032	H06	Unknown	NADPH 48/96	0.395108	444.11	340	20																																			
+0032	A07	Unknown	NADPH 49/96	0.41629	23.66	340	2																																			
+0032	A07	Unknown	NADPH 49/96	0.410282	45.95	340	3																																			
+0032	A07	Unknown	NADPH 49/96	0.411157	68.23	340	4																																			
+0032	A07	Unknown	NADPH 49/96	0.411457	90.52	340	5																																			
+0032	A07	Unknown	NADPH 49/96	0.40844	112.8	340	6																																			
+0032	A07	Unknown	NADPH 49/96	0.406843	135.09	340	7																																			
+0032	A07	Unknown	NADPH 49/96	0.405873	157.37	340	8																																			
+0032	A07	Unknown	NADPH 49/96	0.404384	179.66	340	9																																			
+0032	A07	Unknown	NADPH 49/96	0.403424	201.94	340	10																																			
+0032	A07	Unknown	NADPH 49/96	0.40274	224.23	340	11																																			
+0032	A07	Unknown	NADPH 49/96	0.401625	246.51	340	12																																			
+0032	A07	Unknown	NADPH 49/96	0.400709	268.8	340	13																																			
+0032	A07	Unknown	NADPH 49/96	0.40028	291.08	340	14																																			
+0032	A07	Unknown	NADPH 49/96	0.398619	313.37	340	15																																			
+0032	A07	Unknown	NADPH 49/96	0.39698	335.65	340	16																																			
+0032	A07	Unknown	NADPH 49/96	0.395689	357.94	340	17																																			
+0032	A07	Unknown	NADPH 49/96	0.394773	380.22	340	18																																			
+0032	A07	Unknown	NADPH 49/96	0.393403	402.51	340	19																																			
+0032	A07	Unknown	NADPH 49/96	0.391708	424.79	340	20																																			
+0032	A07	Unknown	NADPH 49/96	0.368048	1.38	340	1																																			
+0032	E01	Unknown	NADPH 5/96	0.432632	11.04	340	1																																			
+0032	E01	Unknown	NADPH 5/96	0.454507	33.32	340	2																																			
+0032	E01	Unknown	NADPH 5/96	0.454526	55.61	340	3																																			
+0032	E01	Unknown	NADPH 5/96	0.456447	77.89	340	4																																			
+0032	E01	Unknown	NADPH 5/96	0.458113	100.18	340	5																																			
+0032	E01	Unknown	NADPH 5/96	0.45828	122.46	340	6																																			
+0032	E01	Unknown	NADPH 5/96	0.458722	144.75	340	7																																			
+0032	E01	Unknown	NADPH 5/96	0.460304	167.03	340	8																																			
+0032	E01	Unknown	NADPH 5/96	0.462808	189.32	340	9																																			
+0032	E01	Unknown	NADPH 5/96	0.463908	211.6	340	10																																			
+0032	E01	Unknown	NADPH 5/96	0.46205	233.89	340	11																																			
+0032	E01	Unknown	NADPH 5/96	0.463223	256.17	340	12																																			
+0032	E01	Unknown	NADPH 5/96	0.463884	278.46	340	13																																			
+0032	E01	Unknown	NADPH 5/96	0.46493	300.74	340	14																																			
+0032	E01	Unknown	NADPH 5/96	0.464627	323.03	340	15																																			
+0032	E01	Unknown	NADPH 5/96	0.466106	345.31	340	16																																			
+0032	E01	Unknown	NADPH 5/96	0.464483	367.6	340	17																																			
+0032	E01	Unknown	NADPH 5/96	0.465059	389.88	340	18																																			
+0032	E01	Unknown	NADPH 5/96	0.465783	412.17	340	19																																			
+0032	E01	Unknown	NADPH 5/96	0.466186	434.45	340	20																																			
+0032	B07	Unknown	NADPH 50/96	0.42115	26.19	340	2																																			
+0032	B07	Unknown	NADPH 50/96	0.417675	48.48	340	3																																			
+0032	B07	Unknown	NADPH 50/96	0.425225	70.76	340	4																																			
+0032	B07	Unknown	NADPH 50/96	0.427606	93.05	340	5																																			
+0032	B07	Unknown	NADPH 50/96	0.423985	115.33	340	6																																			
+0032	B07	Unknown	NADPH 50/96	0.421682	137.62	340	7																																			
+0032	B07	Unknown	NADPH 50/96	0.419604	159.9	340	8																																			
+0032	B07	Unknown	NADPH 50/96	0.417436	182.19	340	9																																			
+0032	B07	Unknown	NADPH 50/96	0.415199	204.47	340	10																																			
+0032	B07	Unknown	NADPH 50/96	0.412654	226.76	340	11																																			
+0032	B07	Unknown	NADPH 50/96	0.411868	249.04	340	12																																			
+0032	B07	Unknown	NADPH 50/96	0.409625	271.33	340	13																																			
+0032	B07	Unknown	NADPH 50/96	0.40801	293.61	340	14																																			
+0032	B07	Unknown	NADPH 50/96	0.405889	315.9	340	15																																			
+0032	B07	Unknown	NADPH 50/96	0.403723	338.18	340	16																																			
+0032	B07	Unknown	NADPH 50/96	0.402264	360.47	340	17																																			
+0032	B07	Unknown	NADPH 50/96	0.401039	382.75	340	18																																			
+0032	B07	Unknown	NADPH 50/96	0.399749	405.04	340	19																																			
+0032	B07	Unknown	NADPH 50/96	0.398066	427.32	340	20																																			
+0032	B07	Unknown	NADPH 50/96	0.37428	3.91	340	1																																			
+0032	C07	Unknown	NADPH 51/96	0.461308	6.9	340	1																																			
+0032	C07	Unknown	NADPH 51/96	0.432481	29.18	340	2																																			
+0032	C07	Unknown	NADPH 51/96	0.426511	51.47	340	3																																			
+0032	C07	Unknown	NADPH 51/96	0.425172	73.75	340	4																																			
+0032	C07	Unknown	NADPH 51/96	0.423228	96.04	340	5																																			
+0032	C07	Unknown	NADPH 51/96	0.421681	118.32	340	6																																			
+0032	C07	Unknown	NADPH 51/96	0.418577	140.61	340	7																																			
+0032	C07	Unknown	NADPH 51/96	0.41542	162.89	340	8																																			
+0032	C07	Unknown	NADPH 51/96	0.412407	185.18	340	9																																			
+0032	C07	Unknown	NADPH 51/96	0.409506	207.46	340	10																																			
+0032	C07	Unknown	NADPH 51/96	0.405422	229.75	340	11																																			
+0032	C07	Unknown	NADPH 51/96	0.402525	252.03	340	12																																			
+0032	C07	Unknown	NADPH 51/96	0.399979	274.32	340	13																																			
+0032	C07	Unknown	NADPH 51/96	0.398138	296.6	340	14																																			
+0032	C07	Unknown	NADPH 51/96	0.394889	318.89	340	15																																			
+0032	C07	Unknown	NADPH 51/96	0.392844	341.17	340	16																																			
+0032	C07	Unknown	NADPH 51/96	0.390787	363.46	340	17																																			
+0032	C07	Unknown	NADPH 51/96	0.389104	385.74	340	18																																			
+0032	C07	Unknown	NADPH 51/96	0.387334	408.03	340	19																																			
+0032	C07	Unknown	NADPH 51/96	0.386165	430.31	340	20																																			
+0032	D07	Unknown	NADPH 52/96	0.418403	9.43	340	1																																			
+0032	D07	Unknown	NADPH 52/96	0.432304	31.71	340	2																																			
+0032	D07	Unknown	NADPH 52/96	0.429243	54	340	3																																			
+0032	D07	Unknown	NADPH 52/96	0.427984	76.28	340	4																																			
+0032	D07	Unknown	NADPH 52/96	0.425689	98.57	340	5																																			
+0032	D07	Unknown	NADPH 52/96	0.424816	120.85	340	6																																			
+0032	D07	Unknown	NADPH 52/96	0.422239	143.14	340	7																																			
+0032	D07	Unknown	NADPH 52/96	0.420033	165.42	340	8																																			
+0032	D07	Unknown	NADPH 52/96	0.417903	187.71	340	9																																			
+0032	D07	Unknown	NADPH 52/96	0.416908	209.99	340	10																																			
+0032	D07	Unknown	NADPH 52/96	0.416128	232.28	340	11																																			
+0032	D07	Unknown	NADPH 52/96	0.415937	254.56	340	12																																			
+0032	D07	Unknown	NADPH 52/96	0.414694	276.85	340	13																																			
+0032	D07	Unknown	NADPH 52/96	0.414959	299.13	340	14																																			
+0032	D07	Unknown	NADPH 52/96	0.414186	321.42	340	15																																			
+0032	D07	Unknown	NADPH 52/96	0.413653	343.7	340	16																																			
+0032	D07	Unknown	NADPH 52/96	0.413828	365.99	340	17																																			
+0032	D07	Unknown	NADPH 52/96	0.413579	388.27	340	18																																			
+0032	D07	Unknown	NADPH 52/96	0.413938	410.56	340	19																																			
+0032	D07	Unknown	NADPH 52/96	0.413179	432.84	340	20																																			
+0032	E07	Unknown	NADPH 53/96	0.400316	12.42	340	1																																			
+0032	E07	Unknown	NADPH 53/96	0.406649	34.7	340	2																																			
+0032	E07	Unknown	NADPH 53/96	0.428778	56.99	340	3																																			
+0032	E07	Unknown	NADPH 53/96	0.431344	79.27	340	4																																			
+0032	E07	Unknown	NADPH 53/96	0.431223	101.56	340	5																																			
+0032	E07	Unknown	NADPH 53/96	0.429696	123.84	340	6																																			
+0032	E07	Unknown	NADPH 53/96	0.428154	146.13	340	7																																			
+0032	E07	Unknown	NADPH 53/96	0.426716	168.41	340	8																																			
+0032	E07	Unknown	NADPH 53/96	0.427785	190.7	340	9																																			
+0032	E07	Unknown	NADPH 53/96	0.426501	212.98	340	10																																			
+0032	E07	Unknown	NADPH 53/96	0.424972	235.27	340	11																																			
+0032	E07	Unknown	NADPH 53/96	0.423613	257.55	340	12																																			
+0032	E07	Unknown	NADPH 53/96	0.423186	279.84	340	13																																			
+0032	E07	Unknown	NADPH 53/96	0.421858	302.12	340	14																																			
+0032	E07	Unknown	NADPH 53/96	0.420728	324.41	340	15																																			
+0032	E07	Unknown	NADPH 53/96	0.419722	346.69	340	16																																			
+0032	E07	Unknown	NADPH 53/96	0.41965	368.98	340	17																																			
+0032	E07	Unknown	NADPH 53/96	0.418917	391.26	340	18																																			
+0032	E07	Unknown	NADPH 53/96	0.418234	413.55	340	19																																			
+0032	E07	Unknown	NADPH 53/96	0.41759	435.83	340	20																																			
+0032	F07	Unknown	NADPH 54/96	0.424892	14.95	340	1																																			
+0032	F07	Unknown	NADPH 54/96	0.429565	37.23	340	2																																			
+0032	F07	Unknown	NADPH 54/96	0.430446	59.52	340	3																																			
+0032	F07	Unknown	NADPH 54/96	0.433928	81.8	340	4																																			
+0032	F07	Unknown	NADPH 54/96	0.433021	104.09	340	5																																			
+0032	F07	Unknown	NADPH 54/96	0.431804	126.37	340	6																																			
+0032	F07	Unknown	NADPH 54/96	0.431892	148.66	340	7																																			
+0032	F07	Unknown	NADPH 54/96	0.431676	170.94	340	8																																			
+0032	F07	Unknown	NADPH 54/96	0.430524	193.23	340	9																																			
+0032	F07	Unknown	NADPH 54/96	0.429594	215.51	340	10																																			
+0032	F07	Unknown	NADPH 54/96	0.429135	237.8	340	11																																			
+0032	F07	Unknown	NADPH 54/96	0.428578	260.08	340	12																																			
+0032	F07	Unknown	NADPH 54/96	0.42737	282.37	340	13																																			
+0032	F07	Unknown	NADPH 54/96	0.426505	304.65	340	14																																			
+0032	F07	Unknown	NADPH 54/96	0.425422	326.94	340	15																																			
+0032	F07	Unknown	NADPH 54/96	0.42447	349.22	340	16																																			
+0032	F07	Unknown	NADPH 54/96	0.423315	371.51	340	17																																			
+0032	F07	Unknown	NADPH 54/96	0.42244	393.79	340	18																																			
+0032	F07	Unknown	NADPH 54/96	0.421475	416.08	340	19																																			
+0032	F07	Unknown	NADPH 54/96	0.420323	438.36	340	20																																			
+0032	G07	Unknown	NADPH 55/96	0.429402	17.94	340	1																																			
+0032	G07	Unknown	NADPH 55/96	0.433267	40.22	340	2																																			
+0032	G07	Unknown	NADPH 55/96	0.430141	62.51	340	3																																			
+0032	G07	Unknown	NADPH 55/96	0.429303	84.79	340	4																																			
+0032	G07	Unknown	NADPH 55/96	0.425724	107.08	340	5																																			
+0032	G07	Unknown	NADPH 55/96	0.424208	129.36	340	6																																			
+0032	G07	Unknown	NADPH 55/96	0.422469	151.65	340	7																																			
+0032	G07	Unknown	NADPH 55/96	0.421536	173.93	340	8																																			
+0032	G07	Unknown	NADPH 55/96	0.420156	196.22	340	9																																			
+0032	G07	Unknown	NADPH 55/96	0.418743	218.5	340	10																																			
+0032	G07	Unknown	NADPH 55/96	0.416363	240.79	340	11																																			
+0032	G07	Unknown	NADPH 55/96	0.415696	263.07	340	12																																			
+0032	G07	Unknown	NADPH 55/96	0.414101	285.36	340	13																																			
+0032	G07	Unknown	NADPH 55/96	0.413103	307.64	340	14																																			
+0032	G07	Unknown	NADPH 55/96	0.412467	329.93	340	15																																			
+0032	G07	Unknown	NADPH 55/96	0.411058	352.21	340	16																																			
+0032	G07	Unknown	NADPH 55/96	0.410046	374.5	340	17																																			
+0032	G07	Unknown	NADPH 55/96	0.409194	396.78	340	18																																			
+0032	G07	Unknown	NADPH 55/96	0.408411	419.07	340	19																																			
+0032	G07	Unknown	NADPH 55/96	0.407034	441.35	340	20																																			
+0032	H07	Unknown	NADPH 56/96	0.455399	20.47	340	1																																			
+0032	H07	Unknown	NADPH 56/96	0.443924	42.75	340	2																																			
+0032	H07	Unknown	NADPH 56/96	0.436522	65.04	340	3																																			
+0032	H07	Unknown	NADPH 56/96	0.434722	87.32	340	4																																			
+0032	H07	Unknown	NADPH 56/96	0.428485	109.61	340	5																																			
+0032	H07	Unknown	NADPH 56/96	0.425186	131.89	340	6																																			
+0032	H07	Unknown	NADPH 56/96	0.423823	154.18	340	7																																			
+0032	H07	Unknown	NADPH 56/96	0.420803	176.46	340	8																																			
+0032	H07	Unknown	NADPH 56/96	0.418157	198.75	340	9																																			
+0032	H07	Unknown	NADPH 56/96	0.416085	221.03	340	10																																			
+0032	H07	Unknown	NADPH 56/96	0.41446	243.32	340	11																																			
+0032	H07	Unknown	NADPH 56/96	0.412704	265.6	340	12																																			
+0032	H07	Unknown	NADPH 56/96	0.411369	287.89	340	13																																			
+0032	H07	Unknown	NADPH 56/96	0.41015	310.17	340	14																																			
+0032	H07	Unknown	NADPH 56/96	0.40959	332.46	340	15																																			
+0032	H07	Unknown	NADPH 56/96	0.407588	354.74	340	16																																			
+0032	H07	Unknown	NADPH 56/96	0.406435	377.03	340	17																																			
+0032	H07	Unknown	NADPH 56/96	0.40438	399.31	340	18																																			
+0032	H07	Unknown	NADPH 56/96	0.403863	421.6	340	19																																			
+0032	H07	Unknown	NADPH 56/96	0.402573	443.88	340	20																																			
+0032	A08	Unknown	NADPH 57/96	0.426621	23.89	340	2																																			
+0032	A08	Unknown	NADPH 57/96	0.42377	46.18	340	3																																			
+0032	A08	Unknown	NADPH 57/96	0.423277	68.46	340	4																																			
+0032	A08	Unknown	NADPH 57/96	0.422297	90.75	340	5																																			
+0032	A08	Unknown	NADPH 57/96	0.420198	113.03	340	6																																			
+0032	A08	Unknown	NADPH 57/96	0.416997	135.32	340	7																																			
+0032	A08	Unknown	NADPH 57/96	0.41447	157.6	340	8																																			
+0032	A08	Unknown	NADPH 57/96	0.413284	179.89	340	9																																			
+0032	A08	Unknown	NADPH 57/96	0.411501	202.17	340	10																																			
+0032	A08	Unknown	NADPH 57/96	0.409103	224.46	340	11																																			
+0032	A08	Unknown	NADPH 57/96	0.407597	246.74	340	12																																			
+0032	A08	Unknown	NADPH 57/96	0.406459	269.03	340	13																																			
+0032	A08	Unknown	NADPH 57/96	0.405298	291.31	340	14																																			
+0032	A08	Unknown	NADPH 57/96	0.402483	313.6	340	15																																			
+0032	A08	Unknown	NADPH 57/96	0.401839	335.88	340	16																																			
+0032	A08	Unknown	NADPH 57/96	0.399964	358.17	340	17																																			
+0032	A08	Unknown	NADPH 57/96	0.398768	380.45	340	18																																			
+0032	A08	Unknown	NADPH 57/96	0.396683	402.74	340	19																																			
+0032	A08	Unknown	NADPH 57/96	0.395227	425.02	340	20																																			
+0032	A08	Unknown	NADPH 57/96	0.417251	1.61	340	1																																			
+0032	B08	Unknown	NADPH 58/96	0.418797	25.96	340	2																																			
+0032	B08	Unknown	NADPH 58/96	0.424214	48.25	340	3																																			
+0032	B08	Unknown	NADPH 58/96	0.427441	70.53	340	4																																			
+0032	B08	Unknown	NADPH 58/96	0.430758	92.82	340	5																																			
+0032	B08	Unknown	NADPH 58/96	0.43324	115.1	340	6																																			
+0032	B08	Unknown	NADPH 58/96	0.433636	137.39	340	7																																			
+0032	B08	Unknown	NADPH 58/96	0.433289	159.67	340	8																																			
+0032	B08	Unknown	NADPH 58/96	0.432888	181.96	340	9																																			
+0032	B08	Unknown	NADPH 58/96	0.431845	204.24	340	10																																			
+0032	B08	Unknown	NADPH 58/96	0.430985	226.53	340	11																																			
+0032	B08	Unknown	NADPH 58/96	0.431089	248.81	340	12																																			
+0032	B08	Unknown	NADPH 58/96	0.429317	271.1	340	13																																			
+0032	B08	Unknown	NADPH 58/96	0.429031	293.38	340	14																																			
+0032	B08	Unknown	NADPH 58/96	0.427618	315.67	340	15																																			
+0032	B08	Unknown	NADPH 58/96	0.426838	337.95	340	16																																			
+0032	B08	Unknown	NADPH 58/96	0.426734	360.24	340	17																																			
+0032	B08	Unknown	NADPH 58/96	0.425314	382.52	340	18																																			
+0032	B08	Unknown	NADPH 58/96	0.424757	404.81	340	19																																			
+0032	B08	Unknown	NADPH 58/96	0.424492	427.09	340	20																																			
+0032	B08	Unknown	NADPH 58/96	0.417591	3.68	340	1																																			
+0032	C08	Unknown	NADPH 59/96	0.419602	7.13	340	1																																			
+0032	C08	Unknown	NADPH 59/96	0.414063	29.41	340	2																																			
+0032	C08	Unknown	NADPH 59/96	0.413923	51.7	340	3																																			
+0032	C08	Unknown	NADPH 59/96	0.41105	73.98	340	4																																			
+0032	C08	Unknown	NADPH 59/96	0.410837	96.27	340	5																																			
+0032	C08	Unknown	NADPH 59/96	0.410606	118.55	340	6																																			
+0032	C08	Unknown	NADPH 59/96	0.409756	140.84	340	7																																			
+0032	C08	Unknown	NADPH 59/96	0.408417	163.12	340	8																																			
+0032	C08	Unknown	NADPH 59/96	0.406665	185.41	340	9																																			
+0032	C08	Unknown	NADPH 59/96	0.405088	207.69	340	10																																			
+0032	C08	Unknown	NADPH 59/96	0.403273	229.98	340	11																																			
+0032	C08	Unknown	NADPH 59/96	0.402085	252.26	340	12																																			
+0032	C08	Unknown	NADPH 59/96	0.400218	274.55	340	13																																			
+0032	C08	Unknown	NADPH 59/96	0.398894	296.83	340	14																																			
+0032	C08	Unknown	NADPH 59/96	0.397062	319.12	340	15																																			
+0032	C08	Unknown	NADPH 59/96	0.395848	341.4	340	16																																			
+0032	C08	Unknown	NADPH 59/96	0.394793	363.69	340	17																																			
+0032	C08	Unknown	NADPH 59/96	0.392798	385.97	340	18																																			
+0032	C08	Unknown	NADPH 59/96	0.391598	408.26	340	19																																			
+0032	C08	Unknown	NADPH 59/96	0.390615	430.54	340	20																																			
+0032	F01	Unknown	NADPH 6/96	0.42201	16.33	340	1																																			
+0032	F01	Unknown	NADPH 6/96	0.431664	38.61	340	2																																			
+0032	F01	Unknown	NADPH 6/96	0.418564	60.9	340	3																																			
+0032	F01	Unknown	NADPH 6/96	0.41457	83.18	340	4																																			
+0032	F01	Unknown	NADPH 6/96	0.415385	105.47	340	5																																			
+0032	F01	Unknown	NADPH 6/96	0.411653	127.75	340	6																																			
+0032	F01	Unknown	NADPH 6/96	0.409824	150.04	340	7																																			
+0032	F01	Unknown	NADPH 6/96	0.40701	172.32	340	8																																			
+0032	F01	Unknown	NADPH 6/96	0.404958	194.61	340	9																																			
+0032	F01	Unknown	NADPH 6/96	0.403334	216.89	340	10																																			
+0032	F01	Unknown	NADPH 6/96	0.40241	239.18	340	11																																			
+0032	F01	Unknown	NADPH 6/96	0.402741	261.46	340	12																																			
+0032	F01	Unknown	NADPH 6/96	0.402685	283.75	340	13																																			
+0032	F01	Unknown	NADPH 6/96	0.403658	306.03	340	14																																			
+0032	F01	Unknown	NADPH 6/96	0.40312	328.32	340	15																																			
+0032	F01	Unknown	NADPH 6/96	0.404177	350.6	340	16																																			
+0032	F01	Unknown	NADPH 6/96	0.404855	372.89	340	17																																			
+0032	F01	Unknown	NADPH 6/96	0.404917	395.17	340	18																																			
+0032	F01	Unknown	NADPH 6/96	0.405864	417.46	340	19																																			
+0032	F01	Unknown	NADPH 6/96	0.406234	439.74	340	20																																			
+0032	D08	Unknown	NADPH 60/96	0.449302	9.2	340	1																																			
+0032	D08	Unknown	NADPH 60/96	0.447333	31.48	340	2																																			
+0032	D08	Unknown	NADPH 60/96	0.444108	53.77	340	3																																			
+0032	D08	Unknown	NADPH 60/96	0.443122	76.05	340	4																																			
+0032	D08	Unknown	NADPH 60/96	0.440928	98.34	340	5																																			
+0032	D08	Unknown	NADPH 60/96	0.438726	120.62	340	6																																			
+0032	D08	Unknown	NADPH 60/96	0.436902	142.91	340	7																																			
+0032	D08	Unknown	NADPH 60/96	0.435427	165.19	340	8																																			
+0032	D08	Unknown	NADPH 60/96	0.432373	187.48	340	9																																			
+0032	D08	Unknown	NADPH 60/96	0.430188	209.76	340	10																																			
+0032	D08	Unknown	NADPH 60/96	0.427687	232.05	340	11																																			
+0032	D08	Unknown	NADPH 60/96	0.425594	254.33	340	12																																			
+0032	D08	Unknown	NADPH 60/96	0.423553	276.62	340	13																																			
+0032	D08	Unknown	NADPH 60/96	0.421257	298.9	340	14																																			
+0032	D08	Unknown	NADPH 60/96	0.419898	321.19	340	15																																			
+0032	D08	Unknown	NADPH 60/96	0.417647	343.47	340	16																																			
+0032	D08	Unknown	NADPH 60/96	0.415462	365.76	340	17																																			
+0032	D08	Unknown	NADPH 60/96	0.413669	388.04	340	18																																			
+0032	D08	Unknown	NADPH 60/96	0.413186	410.33	340	19																																			
+0032	D08	Unknown	NADPH 60/96	0.41097	432.61	340	20																																			
+0032	E08	Unknown	NADPH 61/96	0.444338	12.65	340	1																																			
+0032	E08	Unknown	NADPH 61/96	0.42456	34.93	340	2																																			
+0032	E08	Unknown	NADPH 61/96	0.425146	57.22	340	3																																			
+0032	E08	Unknown	NADPH 61/96	0.428015	79.5	340	4																																			
+0032	E08	Unknown	NADPH 61/96	0.427708	101.79	340	5																																			
+0032	E08	Unknown	NADPH 61/96	0.426447	124.07	340	6																																			
+0032	E08	Unknown	NADPH 61/96	0.424951	146.36	340	7																																			
+0032	E08	Unknown	NADPH 61/96	0.423811	168.64	340	8																																			
+0032	E08	Unknown	NADPH 61/96	0.422594	190.93	340	9																																			
+0032	E08	Unknown	NADPH 61/96	0.42115	213.21	340	10																																			
+0032	E08	Unknown	NADPH 61/96	0.420294	235.5	340	11																																			
+0032	E08	Unknown	NADPH 61/96	0.419225	257.78	340	12																																			
+0032	E08	Unknown	NADPH 61/96	0.418636	280.07	340	13																																			
+0032	E08	Unknown	NADPH 61/96	0.417413	302.35	340	14																																			
+0032	E08	Unknown	NADPH 61/96	0.416291	324.64	340	15																																			
+0032	E08	Unknown	NADPH 61/96	0.415294	346.92	340	16																																			
+0032	E08	Unknown	NADPH 61/96	0.413987	369.21	340	17																																			
+0032	E08	Unknown	NADPH 61/96	0.413513	391.49	340	18																																			
+0032	E08	Unknown	NADPH 61/96	0.412424	413.78	340	19																																			
+0032	E08	Unknown	NADPH 61/96	0.41073	436.06	340	20																																			
+0032	F08	Unknown	NADPH 62/96	0.413942	14.72	340	1																																			
+0032	F08	Unknown	NADPH 62/96	0.421873	37	340	2																																			
+0032	F08	Unknown	NADPH 62/96	0.427772	59.29	340	3																																			
+0032	F08	Unknown	NADPH 62/96	0.426645	81.57	340	4																																			
+0032	F08	Unknown	NADPH 62/96	0.422534	103.86	340	5																																			
+0032	F08	Unknown	NADPH 62/96	0.420501	126.14	340	6																																			
+0032	F08	Unknown	NADPH 62/96	0.417484	148.43	340	7																																			
+0032	F08	Unknown	NADPH 62/96	0.415758	170.71	340	8																																			
+0032	F08	Unknown	NADPH 62/96	0.413413	193	340	9																																			
+0032	F08	Unknown	NADPH 62/96	0.413064	215.28	340	10																																			
+0032	F08	Unknown	NADPH 62/96	0.412264	237.57	340	11																																			
+0032	F08	Unknown	NADPH 62/96	0.41196	259.85	340	12																																			
+0032	F08	Unknown	NADPH 62/96	0.410529	282.14	340	13																																			
+0032	F08	Unknown	NADPH 62/96	0.40951	304.42	340	14																																			
+0032	F08	Unknown	NADPH 62/96	0.40836	326.71	340	15																																			
+0032	F08	Unknown	NADPH 62/96	0.407231	348.99	340	16																																			
+0032	F08	Unknown	NADPH 62/96	0.405743	371.28	340	17																																			
+0032	F08	Unknown	NADPH 62/96	0.404615	393.56	340	18																																			
+0032	F08	Unknown	NADPH 62/96	0.40315	415.85	340	19																																			
+0032	F08	Unknown	NADPH 62/96	0.401601	438.13	340	20																																			
+0032	G08	Unknown	NADPH 63/96	0.414546	18.17	340	1																																			
+0032	G08	Unknown	NADPH 63/96	0.423366	40.45	340	2																																			
+0032	G08	Unknown	NADPH 63/96	0.415276	62.74	340	3																																			
+0032	G08	Unknown	NADPH 63/96	0.41204	85.02	340	4																																			
+0032	G08	Unknown	NADPH 63/96	0.409927	107.31	340	5																																			
+0032	G08	Unknown	NADPH 63/96	0.409141	129.59	340	6																																			
+0032	G08	Unknown	NADPH 63/96	0.408202	151.88	340	7																																			
+0032	G08	Unknown	NADPH 63/96	0.407437	174.16	340	8																																			
+0032	G08	Unknown	NADPH 63/96	0.406154	196.45	340	9																																			
+0032	G08	Unknown	NADPH 63/96	0.40512	218.73	340	10																																			
+0032	G08	Unknown	NADPH 63/96	0.403843	241.02	340	11																																			
+0032	G08	Unknown	NADPH 63/96	0.403259	263.3	340	12																																			
+0032	G08	Unknown	NADPH 63/96	0.402771	285.59	340	13																																			
+0032	G08	Unknown	NADPH 63/96	0.40117	307.87	340	14																																			
+0032	G08	Unknown	NADPH 63/96	0.399999	330.16	340	15																																			
+0032	G08	Unknown	NADPH 63/96	0.398458	352.44	340	16																																			
+0032	G08	Unknown	NADPH 63/96	0.397754	374.73	340	17																																			
+0032	G08	Unknown	NADPH 63/96	0.396709	397.01	340	18																																			
+0032	G08	Unknown	NADPH 63/96	0.396293	419.3	340	19																																			
+0032	G08	Unknown	NADPH 63/96	0.394539	441.58	340	20																																			
+0032	H08	Unknown	NADPH 64/96	0.423601	20.24	340	1																																			
+0032	H08	Unknown	NADPH 64/96	0.424465	42.52	340	2																																			
+0032	H08	Unknown	NADPH 64/96	0.421885	64.81	340	3																																			
+0032	H08	Unknown	NADPH 64/96	0.423361	87.09	340	4																																			
+0032	H08	Unknown	NADPH 64/96	0.423577	109.38	340	5																																			
+0032	H08	Unknown	NADPH 64/96	0.422953	131.66	340	6																																			
+0032	H08	Unknown	NADPH 64/96	0.422678	153.95	340	7																																			
+0032	H08	Unknown	NADPH 64/96	0.421913	176.23	340	8																																			
+0032	H08	Unknown	NADPH 64/96	0.420792	198.52	340	9																																			
+0032	H08	Unknown	NADPH 64/96	0.419353	220.8	340	10																																			
+0032	H08	Unknown	NADPH 64/96	0.416892	243.09	340	11																																			
+0032	H08	Unknown	NADPH 64/96	0.415051	265.37	340	12																																			
+0032	H08	Unknown	NADPH 64/96	0.413641	287.66	340	13																																			
+0032	H08	Unknown	NADPH 64/96	0.411281	309.94	340	14																																			
+0032	H08	Unknown	NADPH 64/96	0.409889	332.23	340	15																																			
+0032	H08	Unknown	NADPH 64/96	0.406662	354.51	340	16																																			
+0032	H08	Unknown	NADPH 64/96	0.405628	376.8	340	17																																			
+0032	H08	Unknown	NADPH 64/96	0.402198	399.08	340	18																																			
+0032	H08	Unknown	NADPH 64/96	0.400243	421.37	340	19																																			
+0032	H08	Unknown	NADPH 64/96	0.397734	443.65	340	20																																			
+0032	A09	Unknown	NADPH 65/96	0.398632	24.12	340	2																																			
+0032	A09	Unknown	NADPH 65/96	0.406008	46.41	340	3																																			
+0032	A09	Unknown	NADPH 65/96	0.408212	68.69	340	4																																			
+0032	A09	Unknown	NADPH 65/96	0.408657	90.98	340	5																																			
+0032	A09	Unknown	NADPH 65/96	0.407816	113.26	340	6																																			
+0032	A09	Unknown	NADPH 65/96	0.407397	135.55	340	7																																			
+0032	A09	Unknown	NADPH 65/96	0.406416	157.83	340	8																																			
+0032	A09	Unknown	NADPH 65/96	0.40515	180.12	340	9																																			
+0032	A09	Unknown	NADPH 65/96	0.403407	202.4	340	10																																			
+0032	A09	Unknown	NADPH 65/96	0.402037	224.69	340	11																																			
+0032	A09	Unknown	NADPH 65/96	0.399797	246.97	340	12																																			
+0032	A09	Unknown	NADPH 65/96	0.398463	269.26	340	13																																			
+0032	A09	Unknown	NADPH 65/96	0.39728	291.54	340	14																																			
+0032	A09	Unknown	NADPH 65/96	0.395777	313.83	340	15																																			
+0032	A09	Unknown	NADPH 65/96	0.394502	336.11	340	16																																			
+0032	A09	Unknown	NADPH 65/96	0.393772	358.4	340	17																																			
+0032	A09	Unknown	NADPH 65/96	0.392087	380.68	340	18																																			
+0032	A09	Unknown	NADPH 65/96	0.391892	402.97	340	19																																			
+0032	A09	Unknown	NADPH 65/96	0.390861	425.25	340	20																																			
+0032	A09	Unknown	NADPH 65/96	0.398069	1.84	340	1																																			
+0032	B09	Unknown	NADPH 66/96	0.422608	25.73	340	2																																			
+0032	B09	Unknown	NADPH 66/96	0.427287	48.02	340	3																																			
+0032	B09	Unknown	NADPH 66/96	0.427624	70.3	340	4																																			
+0032	B09	Unknown	NADPH 66/96	0.428075	92.59	340	5																																			
+0032	B09	Unknown	NADPH 66/96	0.428496	114.87	340	6																																			
+0032	B09	Unknown	NADPH 66/96	0.429307	137.16	340	7																																			
+0032	B09	Unknown	NADPH 66/96	0.428675	159.44	340	8																																			
+0032	B09	Unknown	NADPH 66/96	0.427774	181.73	340	9																																			
+0032	B09	Unknown	NADPH 66/96	0.426281	204.01	340	10																																			
+0032	B09	Unknown	NADPH 66/96	0.425763	226.3	340	11																																			
+0032	B09	Unknown	NADPH 66/96	0.424929	248.58	340	12																																			
+0032	B09	Unknown	NADPH 66/96	0.424379	270.87	340	13																																			
+0032	B09	Unknown	NADPH 66/96	0.422901	293.15	340	14																																			
+0032	B09	Unknown	NADPH 66/96	0.421966	315.44	340	15																																			
+0032	B09	Unknown	NADPH 66/96	0.421288	337.72	340	16																																			
+0032	B09	Unknown	NADPH 66/96	0.420653	360.01	340	17																																			
+0032	B09	Unknown	NADPH 66/96	0.42012	382.29	340	18																																			
+0032	B09	Unknown	NADPH 66/96	0.418843	404.58	340	19																																			
+0032	B09	Unknown	NADPH 66/96	0.418139	426.86	340	20																																			
+0032	B09	Unknown	NADPH 66/96	0.418325	3.45	340	1																																			
+0032	C09	Unknown	NADPH 67/96	0.397564	7.36	340	1																																			
+0032	C09	Unknown	NADPH 67/96	0.416301	29.64	340	2																																			
+0032	C09	Unknown	NADPH 67/96	0.416891	51.93	340	3																																			
+0032	C09	Unknown	NADPH 67/96	0.417001	74.21	340	4																																			
+0032	C09	Unknown	NADPH 67/96	0.417104	96.5	340	5																																			
+0032	C09	Unknown	NADPH 67/96	0.417015	118.78	340	6																																			
+0032	C09	Unknown	NADPH 67/96	0.415002	141.07	340	7																																			
+0032	C09	Unknown	NADPH 67/96	0.41368	163.35	340	8																																			
+0032	C09	Unknown	NADPH 67/96	0.411321	185.64	340	9																																			
+0032	C09	Unknown	NADPH 67/96	0.409534	207.92	340	10																																			
+0032	C09	Unknown	NADPH 67/96	0.406369	230.21	340	11																																			
+0032	C09	Unknown	NADPH 67/96	0.405193	252.49	340	12																																			
+0032	C09	Unknown	NADPH 67/96	0.403491	274.78	340	13																																			
+0032	C09	Unknown	NADPH 67/96	0.401928	297.06	340	14																																			
+0032	C09	Unknown	NADPH 67/96	0.399274	319.35	340	15																																			
+0032	C09	Unknown	NADPH 67/96	0.397082	341.63	340	16																																			
+0032	C09	Unknown	NADPH 67/96	0.395268	363.92	340	17																																			
+0032	C09	Unknown	NADPH 67/96	0.394019	386.2	340	18																																			
+0032	C09	Unknown	NADPH 67/96	0.392722	408.49	340	19																																			
+0032	C09	Unknown	NADPH 67/96	0.390732	430.77	340	20																																			
+0032	D09	Unknown	NADPH 68/96	0.429678	8.97	340	1																																			
+0032	D09	Unknown	NADPH 68/96	0.440773	31.25	340	2																																			
+0032	D09	Unknown	NADPH 68/96	0.444484	53.54	340	3																																			
+0032	D09	Unknown	NADPH 68/96	0.440631	75.82	340	4																																			
+0032	D09	Unknown	NADPH 68/96	0.437795	98.11	340	5																																			
+0032	D09	Unknown	NADPH 68/96	0.435325	120.39	340	6																																			
+0032	D09	Unknown	NADPH 68/96	0.436375	142.68	340	7																																			
+0032	D09	Unknown	NADPH 68/96	0.437524	164.96	340	8																																			
+0032	D09	Unknown	NADPH 68/96	0.439185	187.25	340	9																																			
+0032	D09	Unknown	NADPH 68/96	0.439878	209.53	340	10																																			
+0032	D09	Unknown	NADPH 68/96	0.440063	231.82	340	11																																			
+0032	D09	Unknown	NADPH 68/96	0.439191	254.1	340	12																																			
+0032	D09	Unknown	NADPH 68/96	0.438705	276.39	340	13																																			
+0032	D09	Unknown	NADPH 68/96	0.438695	298.67	340	14																																			
+0032	D09	Unknown	NADPH 68/96	0.438052	320.96	340	15																																			
+0032	D09	Unknown	NADPH 68/96	0.438001	343.24	340	16																																			
+0032	D09	Unknown	NADPH 68/96	0.437722	365.53	340	17																																			
+0032	D09	Unknown	NADPH 68/96	0.437111	387.81	340	18																																			
+0032	D09	Unknown	NADPH 68/96	0.436125	410.1	340	19																																			
+0032	D09	Unknown	NADPH 68/96	0.435917	432.38	340	20																																			
+0032	E09	Unknown	NADPH 69/96	0.407219	12.88	340	1																																			
+0032	E09	Unknown	NADPH 69/96	0.407063	35.16	340	2																																			
+0032	E09	Unknown	NADPH 69/96	0.417907	57.45	340	3																																			
+0032	E09	Unknown	NADPH 69/96	0.421267	79.73	340	4																																			
+0032	E09	Unknown	NADPH 69/96	0.420099	102.02	340	5																																			
+0032	E09	Unknown	NADPH 69/96	0.417698	124.3	340	6																																			
+0032	E09	Unknown	NADPH 69/96	0.41632	146.59	340	7																																			
+0032	E09	Unknown	NADPH 69/96	0.413974	168.87	340	8																																			
+0032	E09	Unknown	NADPH 69/96	0.411531	191.16	340	9																																			
+0032	E09	Unknown	NADPH 69/96	0.4093	213.44	340	10																																			
+0032	E09	Unknown	NADPH 69/96	0.407971	235.73	340	11																																			
+0032	E09	Unknown	NADPH 69/96	0.405549	258.01	340	12																																			
+0032	E09	Unknown	NADPH 69/96	0.403607	280.3	340	13																																			
+0032	E09	Unknown	NADPH 69/96	0.401092	302.58	340	14																																			
+0032	E09	Unknown	NADPH 69/96	0.398899	324.87	340	15																																			
+0032	E09	Unknown	NADPH 69/96	0.397464	347.15	340	16																																			
+0032	E09	Unknown	NADPH 69/96	0.395869	369.44	340	17																																			
+0032	E09	Unknown	NADPH 69/96	0.394659	391.72	340	18																																			
+0032	E09	Unknown	NADPH 69/96	0.393565	414.01	340	19																																			
+0032	E09	Unknown	NADPH 69/96	0.39175	436.29	340	20																																			
+0032	G01	Unknown	NADPH 7/96	0.414675	16.56	340	1																																			
+0032	G01	Unknown	NADPH 7/96	0.424107	38.84	340	2																																			
+0032	G01	Unknown	NADPH 7/96	0.434677	61.13	340	3																																			
+0032	G01	Unknown	NADPH 7/96	0.435716	83.41	340	4																																			
+0032	G01	Unknown	NADPH 7/96	0.431828	105.7	340	5																																			
+0032	G01	Unknown	NADPH 7/96	0.436303	127.98	340	6																																			
+0032	G01	Unknown	NADPH 7/96	0.434037	150.27	340	7																																			
+0032	G01	Unknown	NADPH 7/96	0.424381	172.55	340	8																																			
+0032	G01	Unknown	NADPH 7/96	0.422817	194.84	340	9																																			
+0032	G01	Unknown	NADPH 7/96	0.421447	217.12	340	10																																			
+0032	G01	Unknown	NADPH 7/96	0.419452	239.41	340	11																																			
+0032	G01	Unknown	NADPH 7/96	0.420143	261.69	340	12																																			
+0032	G01	Unknown	NADPH 7/96	0.419337	283.98	340	13																																			
+0032	G01	Unknown	NADPH 7/96	0.421273	306.26	340	14																																			
+0032	G01	Unknown	NADPH 7/96	0.418436	328.55	340	15																																			
+0032	G01	Unknown	NADPH 7/96	0.418519	350.83	340	16																																			
+0032	G01	Unknown	NADPH 7/96	0.416278	373.12	340	17																																			
+0032	G01	Unknown	NADPH 7/96	0.416302	395.4	340	18																																			
+0032	G01	Unknown	NADPH 7/96	0.415185	417.69	340	19																																			
+0032	G01	Unknown	NADPH 7/96	0.413869	439.97	340	20																																			
+0032	F09	Unknown	NADPH 70/96	0.45263	14.49	340	1																																			
+0032	F09	Unknown	NADPH 70/96	0.458667	36.77	340	2																																			
+0032	F09	Unknown	NADPH 70/96	0.453261	59.06	340	3																																			
+0032	F09	Unknown	NADPH 70/96	0.450476	81.34	340	4																																			
+0032	F09	Unknown	NADPH 70/96	0.447428	103.63	340	5																																			
+0032	F09	Unknown	NADPH 70/96	0.445354	125.91	340	6																																			
+0032	F09	Unknown	NADPH 70/96	0.443269	148.2	340	7																																			
+0032	F09	Unknown	NADPH 70/96	0.440788	170.48	340	8																																			
+0032	F09	Unknown	NADPH 70/96	0.439004	192.77	340	9																																			
+0032	F09	Unknown	NADPH 70/96	0.43792	215.05	340	10																																			
+0032	F09	Unknown	NADPH 70/96	0.43575	237.34	340	11																																			
+0032	F09	Unknown	NADPH 70/96	0.433671	259.62	340	12																																			
+0032	F09	Unknown	NADPH 70/96	0.431665	281.91	340	13																																			
+0032	F09	Unknown	NADPH 70/96	0.43062	304.19	340	14																																			
+0032	F09	Unknown	NADPH 70/96	0.4292	326.48	340	15																																			
+0032	F09	Unknown	NADPH 70/96	0.428229	348.76	340	16																																			
+0032	F09	Unknown	NADPH 70/96	0.427701	371.05	340	17																																			
+0032	F09	Unknown	NADPH 70/96	0.42589	393.33	340	18																																			
+0032	F09	Unknown	NADPH 70/96	0.424803	415.62	340	19																																			
+0032	F09	Unknown	NADPH 70/96	0.423693	437.9	340	20																																			
+0032	G09	Unknown	NADPH 71/96	0.422327	18.4	340	1																																			
+0032	G09	Unknown	NADPH 71/96	0.426432	40.68	340	2																																			
+0032	G09	Unknown	NADPH 71/96	0.42423	62.97	340	3																																			
+0032	G09	Unknown	NADPH 71/96	0.42177	85.25	340	4																																			
+0032	G09	Unknown	NADPH 71/96	0.419584	107.54	340	5																																			
+0032	G09	Unknown	NADPH 71/96	0.418018	129.82	340	6																																			
+0032	G09	Unknown	NADPH 71/96	0.416086	152.11	340	7																																			
+0032	G09	Unknown	NADPH 71/96	0.414671	174.39	340	8																																			
+0032	G09	Unknown	NADPH 71/96	0.412943	196.68	340	9																																			
+0032	G09	Unknown	NADPH 71/96	0.410753	218.96	340	10																																			
+0032	G09	Unknown	NADPH 71/96	0.408846	241.25	340	11																																			
+0032	G09	Unknown	NADPH 71/96	0.408397	263.53	340	12																																			
+0032	G09	Unknown	NADPH 71/96	0.406456	285.82	340	13																																			
+0032	G09	Unknown	NADPH 71/96	0.405317	308.1	340	14																																			
+0032	G09	Unknown	NADPH 71/96	0.403632	330.39	340	15																																			
+0032	G09	Unknown	NADPH 71/96	0.403268	352.67	340	16																																			
+0032	G09	Unknown	NADPH 71/96	0.40184	374.96	340	17																																			
+0032	G09	Unknown	NADPH 71/96	0.400601	397.24	340	18																																			
+0032	G09	Unknown	NADPH 71/96	0.399403	419.53	340	19																																			
+0032	G09	Unknown	NADPH 71/96	0.398182	441.81	340	20																																			
+0032	H09	Unknown	NADPH 72/96	0.45275	20.01	340	1																																			
+0032	H09	Unknown	NADPH 72/96	0.452014	42.29	340	2																																			
+0032	H09	Unknown	NADPH 72/96	0.456346	64.58	340	3																																			
+0032	H09	Unknown	NADPH 72/96	0.455764	86.86	340	4																																			
+0032	H09	Unknown	NADPH 72/96	0.454404	109.15	340	5																																			
+0032	H09	Unknown	NADPH 72/96	0.452236	131.43	340	6																																			
+0032	H09	Unknown	NADPH 72/96	0.448608	153.72	340	7																																			
+0032	H09	Unknown	NADPH 72/96	0.445944	176	340	8																																			
+0032	H09	Unknown	NADPH 72/96	0.44314	198.29	340	9																																			
+0032	H09	Unknown	NADPH 72/96	0.441634	220.57	340	10																																			
+0032	H09	Unknown	NADPH 72/96	0.439878	242.86	340	11																																			
+0032	H09	Unknown	NADPH 72/96	0.437134	265.14	340	12																																			
+0032	H09	Unknown	NADPH 72/96	0.435812	287.43	340	13																																			
+0032	H09	Unknown	NADPH 72/96	0.434105	309.71	340	14																																			
+0032	H09	Unknown	NADPH 72/96	0.432782	332	340	15																																			
+0032	H09	Unknown	NADPH 72/96	0.431052	354.28	340	16																																			
+0032	H09	Unknown	NADPH 72/96	0.429638	376.57	340	17																																			
+0032	H09	Unknown	NADPH 72/96	0.428343	398.85	340	18																																			
+0032	H09	Unknown	NADPH 72/96	0.42637	421.14	340	19																																			
+0032	H09	Unknown	NADPH 72/96	0.425848	443.42	340	20																																			
+0032	A10	Unknown	NADPH 73/96	0.443886	24.35	340	2																																			
+0032	A10	Unknown	NADPH 73/96	0.438215	46.64	340	3																																			
+0032	A10	Unknown	NADPH 73/96	0.432791	68.92	340	4																																			
+0032	A10	Unknown	NADPH 73/96	0.431622	91.21	340	5																																			
+0032	A10	Unknown	NADPH 73/96	0.42906	113.49	340	6																																			
+0032	A10	Unknown	NADPH 73/96	0.426672	135.78	340	7																																			
+0032	A10	Unknown	NADPH 73/96	0.424276	158.06	340	8																																			
+0032	A10	Unknown	NADPH 73/96	0.421576	180.35	340	9																																			
+0032	A10	Unknown	NADPH 73/96	0.420099	202.63	340	10																																			
+0032	A10	Unknown	NADPH 73/96	0.418397	224.92	340	11																																			
+0032	A10	Unknown	NADPH 73/96	0.416277	247.2	340	12																																			
+0032	A10	Unknown	NADPH 73/96	0.415073	269.49	340	13																																			
+0032	A10	Unknown	NADPH 73/96	0.413536	291.77	340	14																																			
+0032	A10	Unknown	NADPH 73/96	0.411702	314.06	340	15																																			
+0032	A10	Unknown	NADPH 73/96	0.410629	336.34	340	16																																			
+0032	A10	Unknown	NADPH 73/96	0.409317	358.63	340	17																																			
+0032	A10	Unknown	NADPH 73/96	0.407577	380.91	340	18																																			
+0032	A10	Unknown	NADPH 73/96	0.407161	403.2	340	19																																			
+0032	A10	Unknown	NADPH 73/96	0.405748	425.48	340	20																																			
+0032	A10	Unknown	NADPH 73/96	0.412203	2.07	340	1																																			
+0032	B10	Unknown	NADPH 74/96	0.416233	25.5	340	2																																			
+0032	B10	Unknown	NADPH 74/96	0.426332	47.79	340	3																																			
+0032	B10	Unknown	NADPH 74/96	0.427459	70.07	340	4																																			
+0032	B10	Unknown	NADPH 74/96	0.427633	92.36	340	5																																			
+0032	B10	Unknown	NADPH 74/96	0.424805	114.64	340	6																																			
+0032	B10	Unknown	NADPH 74/96	0.422135	136.93	340	7																																			
+0032	B10	Unknown	NADPH 74/96	0.420199	159.21	340	8																																			
+0032	B10	Unknown	NADPH 74/96	0.418393	181.5	340	9																																			
+0032	B10	Unknown	NADPH 74/96	0.415506	203.78	340	10																																			
+0032	B10	Unknown	NADPH 74/96	0.412673	226.07	340	11																																			
+0032	B10	Unknown	NADPH 74/96	0.410781	248.35	340	12																																			
+0032	B10	Unknown	NADPH 74/96	0.408605	270.64	340	13																																			
+0032	B10	Unknown	NADPH 74/96	0.406255	292.92	340	14																																			
+0032	B10	Unknown	NADPH 74/96	0.403782	315.21	340	15																																			
+0032	B10	Unknown	NADPH 74/96	0.402052	337.49	340	16																																			
+0032	B10	Unknown	NADPH 74/96	0.400891	359.78	340	17																																			
+0032	B10	Unknown	NADPH 74/96	0.398928	382.06	340	18																																			
+0032	B10	Unknown	NADPH 74/96	0.397752	404.35	340	19																																			
+0032	B10	Unknown	NADPH 74/96	0.39665	426.63	340	20																																			
+0032	B10	Unknown	NADPH 74/96	0.42059	3.22	340	1																																			
+0032	C10	Unknown	NADPH 75/96	0.398252	7.59	340	1																																			
+0032	C10	Unknown	NADPH 75/96	0.412571	29.87	340	2																																			
+0032	C10	Unknown	NADPH 75/96	0.415012	52.16	340	3																																			
+0032	C10	Unknown	NADPH 75/96	0.412338	74.44	340	4																																			
+0032	C10	Unknown	NADPH 75/96	0.410314	96.73	340	5																																			
+0032	C10	Unknown	NADPH 75/96	0.409118	119.01	340	6																																			
+0032	C10	Unknown	NADPH 75/96	0.408104	141.3	340	7																																			
+0032	C10	Unknown	NADPH 75/96	0.407257	163.58	340	8																																			
+0032	C10	Unknown	NADPH 75/96	0.405403	185.87	340	9																																			
+0032	C10	Unknown	NADPH 75/96	0.40325	208.15	340	10																																			
+0032	C10	Unknown	NADPH 75/96	0.401297	230.44	340	11																																			
+0032	C10	Unknown	NADPH 75/96	0.399288	252.72	340	12																																			
+0032	C10	Unknown	NADPH 75/96	0.397428	275.01	340	13																																			
+0032	C10	Unknown	NADPH 75/96	0.396047	297.29	340	14																																			
+0032	C10	Unknown	NADPH 75/96	0.394388	319.58	340	15																																			
+0032	C10	Unknown	NADPH 75/96	0.392911	341.86	340	16																																			
+0032	C10	Unknown	NADPH 75/96	0.39168	364.15	340	17																																			
+0032	C10	Unknown	NADPH 75/96	0.390532	386.43	340	18																																			
+0032	C10	Unknown	NADPH 75/96	0.388657	408.72	340	19																																			
+0032	C10	Unknown	NADPH 75/96	0.388312	431	340	20																																			
+0032	D10	Unknown	NADPH 76/96	0.389548	8.74	340	1																																			
+0032	D10	Unknown	NADPH 76/96	0.420096	31.02	340	2																																			
+0032	D10	Unknown	NADPH 76/96	0.422549	53.31	340	3																																			
+0032	D10	Unknown	NADPH 76/96	0.426011	75.59	340	4																																			
+0032	D10	Unknown	NADPH 76/96	0.424702	97.88	340	5																																			
+0032	D10	Unknown	NADPH 76/96	0.423045	120.16	340	6																																			
+0032	D10	Unknown	NADPH 76/96	0.421739	142.45	340	7																																			
+0032	D10	Unknown	NADPH 76/96	0.420131	164.73	340	8																																			
+0032	D10	Unknown	NADPH 76/96	0.418375	187.02	340	9																																			
+0032	D10	Unknown	NADPH 76/96	0.41603	209.3	340	10																																			
+0032	D10	Unknown	NADPH 76/96	0.414118	231.59	340	11																																			
+0032	D10	Unknown	NADPH 76/96	0.412575	253.87	340	12																																			
+0032	D10	Unknown	NADPH 76/96	0.410296	276.16	340	13																																			
+0032	D10	Unknown	NADPH 76/96	0.409097	298.44	340	14																																			
+0032	D10	Unknown	NADPH 76/96	0.407002	320.73	340	15																																			
+0032	D10	Unknown	NADPH 76/96	0.4057	343.01	340	16																																			
+0032	D10	Unknown	NADPH 76/96	0.404971	365.3	340	17																																			
+0032	D10	Unknown	NADPH 76/96	0.403241	387.58	340	18																																			
+0032	D10	Unknown	NADPH 76/96	0.402145	409.87	340	19																																			
+0032	D10	Unknown	NADPH 76/96	0.400474	432.15	340	20																																			
+0032	E10	Unknown	NADPH 77/96	0.429621	13.11	340	1																																			
+0032	E10	Unknown	NADPH 77/96	0.424171	35.39	340	2																																			
+0032	E10	Unknown	NADPH 77/96	0.427747	57.68	340	3																																			
+0032	E10	Unknown	NADPH 77/96	0.424398	79.96	340	4																																			
+0032	E10	Unknown	NADPH 77/96	0.421064	102.25	340	5																																			
+0032	E10	Unknown	NADPH 77/96	0.417292	124.53	340	6																																			
+0032	E10	Unknown	NADPH 77/96	0.414338	146.82	340	7																																			
+0032	E10	Unknown	NADPH 77/96	0.41153	169.1	340	8																																			
+0032	E10	Unknown	NADPH 77/96	0.407842	191.39	340	9																																			
+0032	E10	Unknown	NADPH 77/96	0.404671	213.67	340	10																																			
+0032	E10	Unknown	NADPH 77/96	0.402513	235.96	340	11																																			
+0032	E10	Unknown	NADPH 77/96	0.399634	258.24	340	12																																			
+0032	E10	Unknown	NADPH 77/96	0.395969	280.53	340	13																																			
+0032	E10	Unknown	NADPH 77/96	0.39466	302.81	340	14																																			
+0032	E10	Unknown	NADPH 77/96	0.390798	325.1	340	15																																			
+0032	E10	Unknown	NADPH 77/96	0.389193	347.38	340	16																																			
+0032	E10	Unknown	NADPH 77/96	0.387313	369.67	340	17																																			
+0032	E10	Unknown	NADPH 77/96	0.384762	391.95	340	18																																			
+0032	E10	Unknown	NADPH 77/96	0.382425	414.24	340	19																																			
+0032	E10	Unknown	NADPH 77/96	0.380247	436.52	340	20																																			
+0032	F10	Unknown	NADPH 78/96	0.413571	14.26	340	1																																			
+0032	F10	Unknown	NADPH 78/96	0.424288	36.54	340	2																																			
+0032	F10	Unknown	NADPH 78/96	0.417383	58.83	340	3																																			
+0032	F10	Unknown	NADPH 78/96	0.40986	81.11	340	4																																			
+0032	F10	Unknown	NADPH 78/96	0.408624	103.4	340	5																																			
+0032	F10	Unknown	NADPH 78/96	0.405745	125.68	340	6																																			
+0032	F10	Unknown	NADPH 78/96	0.403833	147.97	340	7																																			
+0032	F10	Unknown	NADPH 78/96	0.399793	170.25	340	8																																			
+0032	F10	Unknown	NADPH 78/96	0.397236	192.54	340	9																																			
+0032	F10	Unknown	NADPH 78/96	0.395514	214.82	340	10																																			
+0032	F10	Unknown	NADPH 78/96	0.393288	237.11	340	11																																			
+0032	F10	Unknown	NADPH 78/96	0.39216	259.39	340	12																																			
+0032	F10	Unknown	NADPH 78/96	0.390074	281.68	340	13																																			
+0032	F10	Unknown	NADPH 78/96	0.388504	303.96	340	14																																			
+0032	F10	Unknown	NADPH 78/96	0.387511	326.25	340	15																																			
+0032	F10	Unknown	NADPH 78/96	0.386252	348.53	340	16																																			
+0032	F10	Unknown	NADPH 78/96	0.384598	370.82	340	17																																			
+0032	F10	Unknown	NADPH 78/96	0.384236	393.1	340	18																																			
+0032	F10	Unknown	NADPH 78/96	0.382158	415.39	340	19																																			
+0032	F10	Unknown	NADPH 78/96	0.380826	437.67	340	20																																			
+0032	G10	Unknown	NADPH 79/96	0.456889	18.63	340	1																																			
+0032	G10	Unknown	NADPH 79/96	0.456763	40.91	340	2																																			
+0032	G10	Unknown	NADPH 79/96	0.454075	63.2	340	3																																			
+0032	G10	Unknown	NADPH 79/96	0.451199	85.48	340	4																																			
+0032	G10	Unknown	NADPH 79/96	0.447803	107.77	340	5																																			
+0032	G10	Unknown	NADPH 79/96	0.445006	130.05	340	6																																			
+0032	G10	Unknown	NADPH 79/96	0.441646	152.34	340	7																																			
+0032	G10	Unknown	NADPH 79/96	0.439074	174.62	340	8																																			
+0032	G10	Unknown	NADPH 79/96	0.436254	196.91	340	9																																			
+0032	G10	Unknown	NADPH 79/96	0.434488	219.19	340	10																																			
+0032	G10	Unknown	NADPH 79/96	0.432486	241.48	340	11																																			
+0032	G10	Unknown	NADPH 79/96	0.430869	263.76	340	12																																			
+0032	G10	Unknown	NADPH 79/96	0.429573	286.05	340	13																																			
+0032	G10	Unknown	NADPH 79/96	0.42812	308.33	340	14																																			
+0032	G10	Unknown	NADPH 79/96	0.426871	330.62	340	15																																			
+0032	G10	Unknown	NADPH 79/96	0.4251	352.9	340	16																																			
+0032	G10	Unknown	NADPH 79/96	0.42443	375.19	340	17																																			
+0032	G10	Unknown	NADPH 79/96	0.423289	397.47	340	18																																			
+0032	G10	Unknown	NADPH 79/96	0.42262	419.76	340	19																																			
+0032	G10	Unknown	NADPH 79/96	0.421466	442.04	340	20																																			
+0032	H01	Unknown	NADPH 8/96	0.462108	21.85	340	1																																			
+0032	H01	Unknown	NADPH 8/96	0.466028	44.13	340	2																																			
+0032	H01	Unknown	NADPH 8/96	0.463055	66.42	340	3																																			
+0032	H01	Unknown	NADPH 8/96	0.464748	88.7	340	4																																			
+0032	H01	Unknown	NADPH 8/96	0.46649	110.99	340	5																																			
+0032	H01	Unknown	NADPH 8/96	0.467829	133.27	340	6																																			
+0032	H01	Unknown	NADPH 8/96	0.46996	155.56	340	7																																			
+0032	H01	Unknown	NADPH 8/96	0.471109	177.84	340	8																																			
+0032	H01	Unknown	NADPH 8/96	0.471088	200.13	340	9																																			
+0032	H01	Unknown	NADPH 8/96	0.472046	222.41	340	10																																			
+0032	H01	Unknown	NADPH 8/96	0.47182	244.7	340	11																																			
+0032	H01	Unknown	NADPH 8/96	0.472431	266.98	340	12																																			
+0032	H01	Unknown	NADPH 8/96	0.472132	289.27	340	13																																			
+0032	H01	Unknown	NADPH 8/96	0.472269	311.55	340	14																																			
+0032	H01	Unknown	NADPH 8/96	0.47285	333.84	340	15																																			
+0032	H01	Unknown	NADPH 8/96	0.472731	356.12	340	16																																			
+0032	H01	Unknown	NADPH 8/96	0.472933	378.41	340	17																																			
+0032	H01	Unknown	NADPH 8/96	0.473696	400.69	340	18																																			
+0032	H01	Unknown	NADPH 8/96	0.473629	422.98	340	19																																			
+0032	H01	Unknown	NADPH 8/96	0.47386	445.26	340	20																																			
+0032	H10	Unknown	NADPH 80/96	0.456053	19.78	340	1																																			
+0032	H10	Unknown	NADPH 80/96	0.450698	42.06	340	2																																			
+0032	H10	Unknown	NADPH 80/96	0.445641	64.35	340	3																																			
+0032	H10	Unknown	NADPH 80/96	0.442723	86.63	340	4																																			
+0032	H10	Unknown	NADPH 80/96	0.441483	108.92	340	5																																			
+0032	H10	Unknown	NADPH 80/96	0.439358	131.2	340	6																																			
+0032	H10	Unknown	NADPH 80/96	0.438342	153.49	340	7																																			
+0032	H10	Unknown	NADPH 80/96	0.43669	175.77	340	8																																			
+0032	H10	Unknown	NADPH 80/96	0.435437	198.06	340	9																																			
+0032	H10	Unknown	NADPH 80/96	0.433608	220.34	340	10																																			
+0032	H10	Unknown	NADPH 80/96	0.432577	242.63	340	11																																			
+0032	H10	Unknown	NADPH 80/96	0.430894	264.91	340	12																																			
+0032	H10	Unknown	NADPH 80/96	0.430617	287.2	340	13																																			
+0032	H10	Unknown	NADPH 80/96	0.429791	309.48	340	14																																			
+0032	H10	Unknown	NADPH 80/96	0.428852	331.77	340	15																																			
+0032	H10	Unknown	NADPH 80/96	0.427407	354.05	340	16																																			
+0032	H10	Unknown	NADPH 80/96	0.426662	376.34	340	17																																			
+0032	H10	Unknown	NADPH 80/96	0.426174	398.62	340	18																																			
+0032	H10	Unknown	NADPH 80/96	0.424559	420.91	340	19																																			
+0032	H10	Unknown	NADPH 80/96	0.424604	443.19	340	20																																			
+0032	A11	Unknown	NADPH 81/96	0.416396	24.58	340	2																																			
+0032	A11	Unknown	NADPH 81/96	0.417182	46.87	340	3																																			
+0032	A11	Unknown	NADPH 81/96	0.419587	69.15	340	4																																			
+0032	A11	Unknown	NADPH 81/96	0.420487	91.44	340	5																																			
+0032	A11	Unknown	NADPH 81/96	0.419689	113.72	340	6																																			
+0032	A11	Unknown	NADPH 81/96	0.418275	136.01	340	7																																			
+0032	A11	Unknown	NADPH 81/96	0.414893	158.29	340	8																																			
+0032	A11	Unknown	NADPH 81/96	0.411939	180.58	340	9																																			
+0032	A11	Unknown	NADPH 81/96	0.40954	202.86	340	10																																			
+0032	A11	Unknown	NADPH 81/96	0.406586	225.15	340	11																																			
+0032	A11	Unknown	NADPH 81/96	0.404605	247.43	340	12																																			
+0032	A11	Unknown	NADPH 81/96	0.401676	269.72	340	13																																			
+0032	A11	Unknown	NADPH 81/96	0.399729	292	340	14																																			
+0032	A11	Unknown	NADPH 81/96	0.397741	314.29	340	15																																			
+0032	A11	Unknown	NADPH 81/96	0.3951	336.57	340	16																																			
+0032	A11	Unknown	NADPH 81/96	0.393668	358.86	340	17																																			
+0032	A11	Unknown	NADPH 81/96	0.391453	381.14	340	18																																			
+0032	A11	Unknown	NADPH 81/96	0.38978	403.43	340	19																																			
+0032	A11	Unknown	NADPH 81/96	0.387645	425.71	340	20																																			
+0032	A11	Unknown	NADPH 81/96	0.400402	2.3	340	1																																			
+0032	B11	Unknown	NADPH 82/96	0.433202	25.27	340	2																																			
+0032	B11	Unknown	NADPH 82/96	0.431977	47.56	340	3																																			
+0032	B11	Unknown	NADPH 82/96	0.433532	69.84	340	4																																			
+0032	B11	Unknown	NADPH 82/96	0.434892	92.13	340	5																																			
+0032	B11	Unknown	NADPH 82/96	0.434809	114.41	340	6																																			
+0032	B11	Unknown	NADPH 82/96	0.434747	136.7	340	7																																			
+0032	B11	Unknown	NADPH 82/96	0.434109	158.98	340	8																																			
+0032	B11	Unknown	NADPH 82/96	0.433258	181.27	340	9																																			
+0032	B11	Unknown	NADPH 82/96	0.433513	203.55	340	10																																			
+0032	B11	Unknown	NADPH 82/96	0.432363	225.84	340	11																																			
+0032	B11	Unknown	NADPH 82/96	0.431614	248.12	340	12																																			
+0032	B11	Unknown	NADPH 82/96	0.430906	270.41	340	13																																			
+0032	B11	Unknown	NADPH 82/96	0.430627	292.69	340	14																																			
+0032	B11	Unknown	NADPH 82/96	0.429887	314.98	340	15																																			
+0032	B11	Unknown	NADPH 82/96	0.428638	337.26	340	16																																			
+0032	B11	Unknown	NADPH 82/96	0.428781	359.55	340	17																																			
+0032	B11	Unknown	NADPH 82/96	0.427935	381.83	340	18																																			
+0032	B11	Unknown	NADPH 82/96	0.427456	404.12	340	19																																			
+0032	B11	Unknown	NADPH 82/96	0.427549	426.4	340	20																																			
+0032	B11	Unknown	NADPH 82/96	0.418877	2.99	340	1																																			
+0032	C11	Unknown	NADPH 83/96	0.420197	7.82	340	1																																			
+0032	C11	Unknown	NADPH 83/96	0.42846	30.1	340	2																																			
+0032	C11	Unknown	NADPH 83/96	0.431219	52.39	340	3																																			
+0032	C11	Unknown	NADPH 83/96	0.436656	74.67	340	4																																			
+0032	C11	Unknown	NADPH 83/96	0.437484	96.96	340	5																																			
+0032	C11	Unknown	NADPH 83/96	0.437889	119.24	340	6																																			
+0032	C11	Unknown	NADPH 83/96	0.439504	141.53	340	7																																			
+0032	C11	Unknown	NADPH 83/96	0.441278	163.81	340	8																																			
+0032	C11	Unknown	NADPH 83/96	0.442247	186.1	340	9																																			
+0032	C11	Unknown	NADPH 83/96	0.44305	208.38	340	10																																			
+0032	C11	Unknown	NADPH 83/96	0.442783	230.67	340	11																																			
+0032	C11	Unknown	NADPH 83/96	0.442684	252.95	340	12																																			
+0032	C11	Unknown	NADPH 83/96	0.443692	275.24	340	13																																			
+0032	C11	Unknown	NADPH 83/96	0.44328	297.52	340	14																																			
+0032	C11	Unknown	NADPH 83/96	0.442593	319.81	340	15																																			
+0032	C11	Unknown	NADPH 83/96	0.441952	342.09	340	16																																			
+0032	C11	Unknown	NADPH 83/96	0.441893	364.38	340	17																																			
+0032	C11	Unknown	NADPH 83/96	0.441281	386.66	340	18																																			
+0032	C11	Unknown	NADPH 83/96	0.440564	408.95	340	19																																			
+0032	C11	Unknown	NADPH 83/96	0.440175	431.23	340	20																																			
+0032	D11	Unknown	NADPH 84/96	0.438293	8.51	340	1																																			
+0032	D11	Unknown	NADPH 84/96	0.442009	30.79	340	2																																			
+0032	D11	Unknown	NADPH 84/96	0.442159	53.08	340	3																																			
+0032	D11	Unknown	NADPH 84/96	0.43992	75.36	340	4																																			
+0032	D11	Unknown	NADPH 84/96	0.436068	97.65	340	5																																			
+0032	D11	Unknown	NADPH 84/96	0.431205	119.93	340	6																																			
+0032	D11	Unknown	NADPH 84/96	0.425793	142.22	340	7																																			
+0032	D11	Unknown	NADPH 84/96	0.422211	164.5	340	8																																			
+0032	D11	Unknown	NADPH 84/96	0.417702	186.79	340	9																																			
+0032	D11	Unknown	NADPH 84/96	0.413742	209.07	340	10																																			
+0032	D11	Unknown	NADPH 84/96	0.409713	231.36	340	11																																			
+0032	D11	Unknown	NADPH 84/96	0.407097	253.64	340	12																																			
+0032	D11	Unknown	NADPH 84/96	0.402959	275.93	340	13																																			
+0032	D11	Unknown	NADPH 84/96	0.40034	298.21	340	14																																			
+0032	D11	Unknown	NADPH 84/96	0.39703	320.5	340	15																																			
+0032	D11	Unknown	NADPH 84/96	0.394434	342.78	340	16																																			
+0032	D11	Unknown	NADPH 84/96	0.391939	365.07	340	17																																			
+0032	D11	Unknown	NADPH 84/96	0.389856	387.35	340	18																																			
+0032	D11	Unknown	NADPH 84/96	0.387651	409.64	340	19																																			
+0032	D11	Unknown	NADPH 84/96	0.386278	431.92	340	20																																			
+0032	E11	Unknown	NADPH 85/96	0.431985	13.34	340	1																																			
+0032	E11	Unknown	NADPH 85/96	0.440954	35.62	340	2																																			
+0032	E11	Unknown	NADPH 85/96	0.440426	57.91	340	3																																			
+0032	E11	Unknown	NADPH 85/96	0.439326	80.19	340	4																																			
+0032	E11	Unknown	NADPH 85/96	0.438773	102.48	340	5																																			
+0032	E11	Unknown	NADPH 85/96	0.438292	124.76	340	6																																			
+0032	E11	Unknown	NADPH 85/96	0.436353	147.05	340	7																																			
+0032	E11	Unknown	NADPH 85/96	0.434966	169.33	340	8																																			
+0032	E11	Unknown	NADPH 85/96	0.433825	191.62	340	9																																			
+0032	E11	Unknown	NADPH 85/96	0.431789	213.9	340	10																																			
+0032	E11	Unknown	NADPH 85/96	0.430448	236.19	340	11																																			
+0032	E11	Unknown	NADPH 85/96	0.429251	258.47	340	12																																			
+0032	E11	Unknown	NADPH 85/96	0.427445	280.76	340	13																																			
+0032	E11	Unknown	NADPH 85/96	0.425939	303.04	340	14																																			
+0032	E11	Unknown	NADPH 85/96	0.424852	325.33	340	15																																			
+0032	E11	Unknown	NADPH 85/96	0.42402	347.61	340	16																																			
+0032	E11	Unknown	NADPH 85/96	0.423077	369.9	340	17																																			
+0032	E11	Unknown	NADPH 85/96	0.422026	392.18	340	18																																			
+0032	E11	Unknown	NADPH 85/96	0.420415	414.47	340	19																																			
+0032	E11	Unknown	NADPH 85/96	0.419836	436.75	340	20																																			
+0032	F11	Unknown	NADPH 86/96	0.450226	14.03	340	1																																			
+0032	F11	Unknown	NADPH 86/96	0.450589	36.31	340	2																																			
+0032	F11	Unknown	NADPH 86/96	0.438094	58.6	340	3																																			
+0032	F11	Unknown	NADPH 86/96	0.434843	80.88	340	4																																			
+0032	F11	Unknown	NADPH 86/96	0.432673	103.17	340	5																																			
+0032	F11	Unknown	NADPH 86/96	0.431271	125.45	340	6																																			
+0032	F11	Unknown	NADPH 86/96	0.428675	147.74	340	7																																			
+0032	F11	Unknown	NADPH 86/96	0.427077	170.02	340	8																																			
+0032	F11	Unknown	NADPH 86/96	0.42594	192.31	340	9																																			
+0032	F11	Unknown	NADPH 86/96	0.424137	214.59	340	10																																			
+0032	F11	Unknown	NADPH 86/96	0.422637	236.88	340	11																																			
+0032	F11	Unknown	NADPH 86/96	0.421143	259.16	340	12																																			
+0032	F11	Unknown	NADPH 86/96	0.42037	281.45	340	13																																			
+0032	F11	Unknown	NADPH 86/96	0.418084	303.73	340	14																																			
+0032	F11	Unknown	NADPH 86/96	0.416569	326.02	340	15																																			
+0032	F11	Unknown	NADPH 86/96	0.415099	348.3	340	16																																			
+0032	F11	Unknown	NADPH 86/96	0.414132	370.59	340	17																																			
+0032	F11	Unknown	NADPH 86/96	0.412884	392.87	340	18																																			
+0032	F11	Unknown	NADPH 86/96	0.41125	415.16	340	19																																			
+0032	F11	Unknown	NADPH 86/96	0.40994	437.44	340	20																																			
+0032	G11	Unknown	NADPH 87/96	0.425834	18.86	340	1																																			
+0032	G11	Unknown	NADPH 87/96	0.436484	41.14	340	2																																			
+0032	G11	Unknown	NADPH 87/96	0.434951	63.43	340	3																																			
+0032	G11	Unknown	NADPH 87/96	0.432634	85.71	340	4																																			
+0032	G11	Unknown	NADPH 87/96	0.429299	108	340	5																																			
+0032	G11	Unknown	NADPH 87/96	0.427395	130.28	340	6																																			
+0032	G11	Unknown	NADPH 87/96	0.424848	152.57	340	7																																			
+0032	G11	Unknown	NADPH 87/96	0.42335	174.85	340	8																																			
+0032	G11	Unknown	NADPH 87/96	0.423449	197.14	340	9																																			
+0032	G11	Unknown	NADPH 87/96	0.421707	219.42	340	10																																			
+0032	G11	Unknown	NADPH 87/96	0.421362	241.71	340	11																																			
+0032	G11	Unknown	NADPH 87/96	0.420992	263.99	340	12																																			
+0032	G11	Unknown	NADPH 87/96	0.420088	286.28	340	13																																			
+0032	G11	Unknown	NADPH 87/96	0.418252	308.56	340	14																																			
+0032	G11	Unknown	NADPH 87/96	0.418201	330.85	340	15																																			
+0032	G11	Unknown	NADPH 87/96	0.416876	353.13	340	16																																			
+0032	G11	Unknown	NADPH 87/96	0.415566	375.42	340	17																																			
+0032	G11	Unknown	NADPH 87/96	0.414254	397.7	340	18																																			
+0032	G11	Unknown	NADPH 87/96	0.414112	419.99	340	19																																			
+0032	G11	Unknown	NADPH 87/96	0.41268	442.27	340	20																																			
+0032	H11	Unknown	NADPH 88/96	0.440406	19.55	340	1																																			
+0032	H11	Unknown	NADPH 88/96	0.446972	41.83	340	2																																			
+0032	H11	Unknown	NADPH 88/96	0.4456	64.12	340	3																																			
+0032	H11	Unknown	NADPH 88/96	0.443286	86.4	340	4																																			
+0032	H11	Unknown	NADPH 88/96	0.439762	108.69	340	5																																			
+0032	H11	Unknown	NADPH 88/96	0.435968	130.97	340	6																																			
+0032	H11	Unknown	NADPH 88/96	0.432967	153.26	340	7																																			
+0032	H11	Unknown	NADPH 88/96	0.429926	175.54	340	8																																			
+0032	H11	Unknown	NADPH 88/96	0.427352	197.83	340	9																																			
+0032	H11	Unknown	NADPH 88/96	0.425434	220.11	340	10																																			
+0032	H11	Unknown	NADPH 88/96	0.42243	242.4	340	11																																			
+0032	H11	Unknown	NADPH 88/96	0.419843	264.68	340	12																																			
+0032	H11	Unknown	NADPH 88/96	0.417589	286.97	340	13																																			
+0032	H11	Unknown	NADPH 88/96	0.416267	309.25	340	14																																			
+0032	H11	Unknown	NADPH 88/96	0.414085	331.54	340	15																																			
+0032	H11	Unknown	NADPH 88/96	0.413217	353.82	340	16																																			
+0032	H11	Unknown	NADPH 88/96	0.412405	376.11	340	17																																			
+0032	H11	Unknown	NADPH 88/96	0.411235	398.39	340	18																																			
+0032	H11	Unknown	NADPH 88/96	0.410146	420.68	340	19																																			
+0032	H11	Unknown	NADPH 88/96	0.408809	442.96	340	20																																			
+0032	A12	Unknown	NADPH 89/96	0.443679	24.81	340	2																																			
+0032	A12	Unknown	NADPH 89/96	0.462657	47.1	340	3																																			
+0032	A12	Unknown	NADPH 89/96	0.458047	69.38	340	4																																			
+0032	A12	Unknown	NADPH 89/96	0.455867	91.67	340	5																																			
+0032	A12	Unknown	NADPH 89/96	0.459225	113.95	340	6																																			
+0032	A12	Unknown	NADPH 89/96	0.460418	136.24	340	7																																			
+0032	A12	Unknown	NADPH 89/96	0.459733	158.52	340	8																																			
+0032	A12	Unknown	NADPH 89/96	0.462254	180.81	340	9																																			
+0032	A12	Unknown	NADPH 89/96	0.463003	203.09	340	10																																			
+0032	A12	Unknown	NADPH 89/96	0.461727	225.38	340	11																																			
+0032	A12	Unknown	NADPH 89/96	0.46308	247.66	340	12																																			
+0032	A12	Unknown	NADPH 89/96	0.461058	269.95	340	13																																			
+0032	A12	Unknown	NADPH 89/96	0.461772	292.23	340	14																																			
+0032	A12	Unknown	NADPH 89/96	0.46379	314.52	340	15																																			
+0032	A12	Unknown	NADPH 89/96	0.465378	336.8	340	16																																			
+0032	A12	Unknown	NADPH 89/96	0.463967	359.09	340	17																																			
+0032	A12	Unknown	NADPH 89/96	0.465207	381.37	340	18																																			
+0032	A12	Unknown	NADPH 89/96	0.464341	403.66	340	19																																			
+0032	A12	Unknown	NADPH 89/96	0.464329	425.94	340	20																																			
+0032	A12	Unknown	NADPH 89/96	0.40903	2.53	340	1																																			
+0032	A02	Unknown	NADPH 9/96	0.440526	0.23	340	1																																			
+0032	A02	Unknown	NADPH 9/96	0.438175	22.51	340	2																																			
+0032	A02	Unknown	NADPH 9/96	0.433502	44.8	340	3																																			
+0032	A02	Unknown	NADPH 9/96	0.426752	67.08	340	4																																			
+0032	A02	Unknown	NADPH 9/96	0.421249	89.37	340	5																																			
+0032	A02	Unknown	NADPH 9/96	0.414471	111.65	340	6																																			
+0032	A02	Unknown	NADPH 9/96	0.407484	133.94	340	7																																			
+0032	A02	Unknown	NADPH 9/96	0.398837	156.22	340	8																																			
+0032	A02	Unknown	NADPH 9/96	0.391067	178.51	340	9																																			
+0032	A02	Unknown	NADPH 9/96	0.384146	200.79	340	10																																			
+0032	A02	Unknown	NADPH 9/96	0.378141	223.08	340	11																																			
+0032	A02	Unknown	NADPH 9/96	0.372942	245.36	340	12																																			
+0032	A02	Unknown	NADPH 9/96	0.369077	267.65	340	13																																			
+0032	A02	Unknown	NADPH 9/96	0.365618	289.93	340	14																																			
+0032	A02	Unknown	NADPH 9/96	0.363018	312.22	340	15																																			
+0032	A02	Unknown	NADPH 9/96	0.360031	334.5	340	16																																			
+0032	A02	Unknown	NADPH 9/96	0.357267	356.79	340	17																																			
+0032	A02	Unknown	NADPH 9/96	0.355308	379.07	340	18																																			
+0032	A02	Unknown	NADPH 9/96	0.352329	401.36	340	19																																			
+0032	A02	Unknown	NADPH 9/96	0.350012	423.64	340	20																																			
+0032	B12	Unknown	NADPH 90/96	0.471698	25.04	340	2																																			
+0032	B12	Unknown	NADPH 90/96	0.472187	47.33	340	3																																			
+0032	B12	Unknown	NADPH 90/96	0.474015	69.61	340	4																																			
+0032	B12	Unknown	NADPH 90/96	0.476169	91.9	340	5																																			
+0032	B12	Unknown	NADPH 90/96	0.471804	114.18	340	6																																			
+0032	B12	Unknown	NADPH 90/96	0.469337	136.47	340	7																																			
+0032	B12	Unknown	NADPH 90/96	0.468747	158.75	340	8																																			
+0032	B12	Unknown	NADPH 90/96	0.47082	181.04	340	9																																			
+0032	B12	Unknown	NADPH 90/96	0.470127	203.32	340	10																																			
+0032	B12	Unknown	NADPH 90/96	0.467789	225.61	340	11																																			
+0032	B12	Unknown	NADPH 90/96	0.466653	247.89	340	12																																			
+0032	B12	Unknown	NADPH 90/96	0.470947	270.18	340	13																																			
+0032	B12	Unknown	NADPH 90/96	0.469182	292.46	340	14																																			
+0032	B12	Unknown	NADPH 90/96	0.468177	314.75	340	15																																			
+0032	B12	Unknown	NADPH 90/96	0.474768	337.03	340	16																																			
+0032	B12	Unknown	NADPH 90/96	0.467467	359.32	340	17																																			
+0032	B12	Unknown	NADPH 90/96	0.468389	381.6	340	18																																			
+0032	B12	Unknown	NADPH 90/96	0.466959	403.89	340	19																																			
+0032	B12	Unknown	NADPH 90/96	0.46645	426.17	340	20																																			
+0032	B12	Unknown	NADPH 90/96	0.48239	2.76	340	1																																			
+0032	C12	Unknown	NADPH 91/96	0.41582	8.05	340	1																																			
+0032	C12	Unknown	NADPH 91/96	0.439713	30.33	340	2																																			
+0032	C12	Unknown	NADPH 91/96	0.446915	52.62	340	3																																			
+0032	C12	Unknown	NADPH 91/96	0.445954	74.9	340	4																																			
+0032	C12	Unknown	NADPH 91/96	0.448889	97.19	340	5																																			
+0032	C12	Unknown	NADPH 91/96	0.451208	119.47	340	6																																			
+0032	C12	Unknown	NADPH 91/96	0.453035	141.76	340	7																																			
+0032	C12	Unknown	NADPH 91/96	0.453352	164.04	340	8																																			
+0032	C12	Unknown	NADPH 91/96	0.454583	186.33	340	9																																			
+0032	C12	Unknown	NADPH 91/96	0.454315	208.61	340	10																																			
+0032	C12	Unknown	NADPH 91/96	0.455166	230.9	340	11																																			
+0032	C12	Unknown	NADPH 91/96	0.455337	253.18	340	12																																			
+0032	C12	Unknown	NADPH 91/96	0.456038	275.47	340	13																																			
+0032	C12	Unknown	NADPH 91/96	0.455693	297.75	340	14																																			
+0032	C12	Unknown	NADPH 91/96	0.456206	320.04	340	15																																			
+0032	C12	Unknown	NADPH 91/96	0.456753	342.32	340	16																																			
+0032	C12	Unknown	NADPH 91/96	0.456565	364.61	340	17																																			
+0032	C12	Unknown	NADPH 91/96	0.457024	386.89	340	18																																			
+0032	C12	Unknown	NADPH 91/96	0.457882	409.18	340	19																																			
+0032	C12	Unknown	NADPH 91/96	0.457363	431.46	340	20																																			
+0032	D12	Unknown	NADPH 92/96	0.422581	8.28	340	1																																			
+0032	D12	Unknown	NADPH 92/96	0.440523	30.56	340	2																																			
+0032	D12	Unknown	NADPH 92/96	0.44782	52.85	340	3																																			
+0032	D12	Unknown	NADPH 92/96	0.452671	75.13	340	4																																			
+0032	D12	Unknown	NADPH 92/96	0.45231	97.42	340	5																																			
+0032	D12	Unknown	NADPH 92/96	0.455035	119.7	340	6																																			
+0032	D12	Unknown	NADPH 92/96	0.456873	141.99	340	7																																			
+0032	D12	Unknown	NADPH 92/96	0.460356	164.27	340	8																																			
+0032	D12	Unknown	NADPH 92/96	0.460516	186.56	340	9																																			
+0032	D12	Unknown	NADPH 92/96	0.460945	208.84	340	10																																			
+0032	D12	Unknown	NADPH 92/96	0.462612	231.13	340	11																																			
+0032	D12	Unknown	NADPH 92/96	0.462514	253.41	340	12																																			
+0032	D12	Unknown	NADPH 92/96	0.465179	275.7	340	13																																			
+0032	D12	Unknown	NADPH 92/96	0.463938	297.98	340	14																																			
+0032	D12	Unknown	NADPH 92/96	0.464017	320.27	340	15																																			
+0032	D12	Unknown	NADPH 92/96	0.464032	342.55	340	16																																			
+0032	D12	Unknown	NADPH 92/96	0.465172	364.84	340	17																																			
+0032	D12	Unknown	NADPH 92/96	0.464685	387.12	340	18																																			
+0032	D12	Unknown	NADPH 92/96	0.465646	409.41	340	19																																			
+0032	D12	Unknown	NADPH 92/96	0.46634	431.69	340	20																																			
+0032	E12	Unknown	NADPH 93/96	0.473781	13.57	340	1																																			
+0032	E12	Unknown	NADPH 93/96	0.460046	35.85	340	2																																			
+0032	E12	Unknown	NADPH 93/96	0.452569	58.14	340	3																																			
+0032	E12	Unknown	NADPH 93/96	0.449833	80.42	340	4																																			
+0032	E12	Unknown	NADPH 93/96	0.443689	102.71	340	5																																			
+0032	E12	Unknown	NADPH 93/96	0.437207	124.99	340	6																																			
+0032	E12	Unknown	NADPH 93/96	0.432804	147.28	340	7																																			
+0032	E12	Unknown	NADPH 93/96	0.42761	169.56	340	8																																			
+0032	E12	Unknown	NADPH 93/96	0.424056	191.85	340	9																																			
+0032	E12	Unknown	NADPH 93/96	0.42034	214.13	340	10																																			
+0032	E12	Unknown	NADPH 93/96	0.418128	236.42	340	11																																			
+0032	E12	Unknown	NADPH 93/96	0.41447	258.7	340	12																																			
+0032	E12	Unknown	NADPH 93/96	0.410158	280.99	340	13																																			
+0032	E12	Unknown	NADPH 93/96	0.407871	303.27	340	14																																			
+0032	E12	Unknown	NADPH 93/96	0.406027	325.56	340	15																																			
+0032	E12	Unknown	NADPH 93/96	0.402874	347.84	340	16																																			
+0032	E12	Unknown	NADPH 93/96	0.401182	370.13	340	17																																			
+0032	E12	Unknown	NADPH 93/96	0.398884	392.41	340	18																																			
+0032	E12	Unknown	NADPH 93/96	0.397552	414.7	340	19																																			
+0032	E12	Unknown	NADPH 93/96	0.394951	436.98	340	20																																			
+0032	F12	Unknown	NADPH 94/96	0.434305	13.8	340	1																																			
+0032	F12	Unknown	NADPH 94/96	0.436022	36.08	340	2																																			
+0032	F12	Unknown	NADPH 94/96	0.437022	58.37	340	3																																			
+0032	F12	Unknown	NADPH 94/96	0.438896	80.65	340	4																																			
+0032	F12	Unknown	NADPH 94/96	0.440106	102.94	340	5																																			
+0032	F12	Unknown	NADPH 94/96	0.439826	125.22	340	6																																			
+0032	F12	Unknown	NADPH 94/96	0.442299	147.51	340	7																																			
+0032	F12	Unknown	NADPH 94/96	0.440843	169.79	340	8																																			
+0032	F12	Unknown	NADPH 94/96	0.438797	192.08	340	9																																			
+0032	F12	Unknown	NADPH 94/96	0.43842	214.36	340	10																																			
+0032	F12	Unknown	NADPH 94/96	0.438629	236.65	340	11																																			
+0032	F12	Unknown	NADPH 94/96	0.436096	258.93	340	12																																			
+0032	F12	Unknown	NADPH 94/96	0.436235	281.22	340	13																																			
+0032	F12	Unknown	NADPH 94/96	0.435697	303.5	340	14																																			
+0032	F12	Unknown	NADPH 94/96	0.434397	325.79	340	15																																			
+0032	F12	Unknown	NADPH 94/96	0.433734	348.07	340	16																																			
+0032	F12	Unknown	NADPH 94/96	0.432395	370.36	340	17																																			
+0032	F12	Unknown	NADPH 94/96	0.431643	392.64	340	18																																			
+0032	F12	Unknown	NADPH 94/96	0.430821	414.93	340	19																																			
+0032	F12	Unknown	NADPH 94/96	0.429428	437.21	340	20																																			
+0032	G12	Unknown	NADPH 95/96	0.400727	19.09	340	1																																			
+0032	G12	Unknown	NADPH 95/96	0.401636	41.37	340	2																																			
+0032	G12	Unknown	NADPH 95/96	0.409454	63.66	340	3																																			
+0032	G12	Unknown	NADPH 95/96	0.410035	85.94	340	4																																			
+0032	G12	Unknown	NADPH 95/96	0.408918	108.23	340	5																																			
+0032	G12	Unknown	NADPH 95/96	0.405553	130.51	340	6																																			
+0032	G12	Unknown	NADPH 95/96	0.40204	152.8	340	7																																			
+0032	G12	Unknown	NADPH 95/96	0.396364	175.08	340	8																																			
+0032	G12	Unknown	NADPH 95/96	0.393201	197.37	340	9																																			
+0032	G12	Unknown	NADPH 95/96	0.388758	219.65	340	10																																			
+0032	G12	Unknown	NADPH 95/96	0.385333	241.94	340	11																																			
+0032	G12	Unknown	NADPH 95/96	0.381643	264.22	340	12																																			
+0032	G12	Unknown	NADPH 95/96	0.377854	286.51	340	13																																			
+0032	G12	Unknown	NADPH 95/96	0.373166	308.79	340	14																																			
+0032	G12	Unknown	NADPH 95/96	0.370359	331.08	340	15																																			
+0032	G12	Unknown	NADPH 95/96	0.367738	353.36	340	16																																			
+0032	G12	Unknown	NADPH 95/96	0.36506	375.65	340	17																																			
+0032	G12	Unknown	NADPH 95/96	0.362944	397.93	340	18																																			
+0032	G12	Unknown	NADPH 95/96	0.358683	420.22	340	19																																			
+0032	G12	Unknown	NADPH 95/96	0.356451	442.5	340	20																																			
+0032	H12	Unknown	NADPH 96/96	0.464827	19.32	340	1																																			
+0032	H12	Unknown	NADPH 96/96	0.455656	41.6	340	2																																			
+0032	H12	Unknown	NADPH 96/96	0.446797	63.89	340	3																																			
+0032	H12	Unknown	NADPH 96/96	0.443575	86.17	340	4																																			
+0032	H12	Unknown	NADPH 96/96	0.439629	108.46	340	5																																			
+0032	H12	Unknown	NADPH 96/96	0.438265	130.74	340	6																																			
+0032	H12	Unknown	NADPH 96/96	0.436903	153.03	340	7																																			
+0032	H12	Unknown	NADPH 96/96	0.434588	175.31	340	8																																			
+0032	H12	Unknown	NADPH 96/96	0.432541	197.6	340	9																																			
+0032	H12	Unknown	NADPH 96/96	0.430863	219.88	340	10																																			
+0032	H12	Unknown	NADPH 96/96	0.427917	242.17	340	11																																			
+0032	H12	Unknown	NADPH 96/96	0.425748	264.45	340	12																																			
+0032	H12	Unknown	NADPH 96/96	0.42267	286.74	340	13																																			
+0032	H12	Unknown	NADPH 96/96	0.420985	309.02	340	14																																			
+0032	H12	Unknown	NADPH 96/96	0.418095	331.31	340	15																																			
+0032	H12	Unknown	NADPH 96/96	0.416755	353.59	340	16																																			
+0032	H12	Unknown	NADPH 96/96	0.414523	375.88	340	17																																			
+0032	H12	Unknown	NADPH 96/96	0.41233	398.16	340	18																																			
+0032	H12	Unknown	NADPH 96/96	0.410684	420.45	340	19																																			
+0032	H12	Unknown	NADPH 96/96	0.408669	442.73	340	20																																			
+
+																																										
+Layout																																										
+																																										
+Plate 1: 0032																																										
+																																										
+Sample	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH																														
+B	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH																														
+C	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH																														
+D	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH																														
+E	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH																														
+F	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH																														
+G	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH																														
+H	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH	NADPH																														
+																																										
+Type	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+B	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+C	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+D	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+E	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+F	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+G	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+H	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+																																										
+Conc/Dil	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+B	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+C	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+D	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+E	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+F	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+G	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+H	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+																																										
+Unit	1	2	3	4	5	6	7	8	9	10	11	12																														
+A																																										
+B																																										
+C																																										
+D																																										
+E																																										
+F																																										
+G																																										
+H																																										
+																																										
+Description																																										
+	No description																																									
+
+																																										
+KineticCalculation1																																										
+																																										
+Parameters																																										
+	Processor Type				AvgRate																																					
+	Reaction				Undefined																																					
+	Kinetic Rate				s																																					
+	Ignore First N Readings				0																																					
+	Ignore Last N Readings				0																																					
+	Window				1																																					
+	Baseline				0																																					
+	Reading Index				1																																					
+	Change type				Absolute																																					
+	Change value				0																																					
+																																										
+Plate	Well	Type	Sample	Value	Time (s)	WL																																				
+0032	A01	Unknown	NADPH 1/96	-0.000189756646046418	0	340																																				
+0032	B02	Unknown	NADPH 10/96	-7.11766255296313E-05	0	340																																				
+0032	C02	Unknown	NADPH 11/96	-7.0220423403613E-05	0	340																																				
+0032	D02	Unknown	NADPH 12/96	-4.25470796656075E-05	0	340																																				
+0032	E02	Unknown	NADPH 13/96	-0.0001062675303007	0	340																																				
+0032	F02	Unknown	NADPH 14/96	-2.12217421223494E-05	0	340																																				
+0032	G02	Unknown	NADPH 15/96	-2.25253176929642E-05	0	340																																				
+0032	H02	Unknown	NADPH 16/96	-9.75239851877902E-05	0	340																																				
+0032	A03	Unknown	NADPH 17/96	-0.000115994953738365	0	340																																				
+0032	B03	Unknown	NADPH 18/96	-9.86218620952779E-05	0	340																																				
+0032	C03	Unknown	NADPH 19/96	-1.12846156400486E-05	0	340																																				
+0032	B01	Unknown	NADPH 2/96	-0.000180016916248778	0	340																																				
+0032	D03	Unknown	NADPH 20/96	-1.58214297024371E-05	0	340																																				
+0032	E03	Unknown	NADPH 21/96	-6.58395352248586E-05	0	340																																				
+0032	F03	Unknown	NADPH 22/96	-4.64123334810823E-05	0	340																																				
+0032	G03	Unknown	NADPH 23/96	-6.74134960463344E-05	0	340																																				
+0032	H03	Unknown	NADPH 24/96	-3.7940912836348E-05	0	340																																				
+0032	A04	Unknown	NADPH 25/96	-8.02510193727048E-05	0	340																																				
+0032	B04	Unknown	NADPH 26/96	-9.37172094283816E-05	0	340																																				
+0032	C04	Unknown	NADPH 27/96	-1.61595041420509E-05	0	340																																				
+0032	D04	Unknown	NADPH 28/96	-5.77766961323822E-05	0	340																																				
+0032	E04	Unknown	NADPH 29/96	-6.8997764496509E-05	0	340																																				
+0032	C01	Unknown	NADPH 3/96	-0.000136872509285527	0	340																																				
+0032	F04	Unknown	NADPH 30/96	-5.02904230401486E-05	0	340																																				
+0032	G04	Unknown	NADPH 31/96	-2.88226726578168E-05	0	340																																				
+0032	H04	Unknown	NADPH 32/96	-6.5377916779644E-05	0	340																																				
+0032	A05	Unknown	NADPH 33/96	-4.76185806783647E-05	0	340																																				
+0032	B05	Unknown	NADPH 34/96	-6.18934442306284E-05	0	340																																				
+0032	C05	Unknown	NADPH 35/96	-6.07703259620382E-05	0	340																																				
+0032	D05	Unknown	NADPH 36/96	-9.32956512552598E-05	0	340																																				
+0032	E05	Unknown	NADPH 37/96	-0.000137561977236229	0	340																																				
+0032	F05	Unknown	NADPH 38/96	-0.000115407552618292	0	340																																				
+0032	G05	Unknown	NADPH 39/96	-7.52766645239444E-05	0	340																																				
+0032	D01	Unknown	NADPH 4/96	-7.4835136736742E-05	0	340																																				
+0032	H05	Unknown	NADPH 40/96	-5.52892800266341E-05	0	340																																				
+0032	A06	Unknown	NADPH 41/96	-9.90248447261104E-05	0	340																																				
+0032	B06	Unknown	NADPH 42/96	-4.32306441698622E-05	0	340																																				
+0032	C06	Unknown	NADPH 43/96	-8.39445996028124E-05	0	340																																				
+0032	D06	Unknown	NADPH 44/96	-4.5466218394642E-05	0	340																																				
+0032	E06	Unknown	NADPH 45/96	-2.93592982186951E-05	0	340																																				
+0032	F06	Unknown	NADPH 46/96	-8.43770323807639E-05	0	340																																				
+0032	G06	Unknown	NADPH 47/96	-0.000106202636840651	0	340																																				
+0032	H06	Unknown	NADPH 48/96	-7.72826769901742E-05	0	340																																				
+0032	A07	Unknown	NADPH 49/96	-2.3672384143514E-05	0	340																																				
+0032	E01	Unknown	NADPH 5/96	4.37756051382331E-05	0	340																																				
+0032	B07	Unknown	NADPH 50/96	-3.5438156611561E-05	0	340																																				
+0032	C07	Unknown	NADPH 51/96	-0.000136059994101383	0	340																																				
+0032	D07	Unknown	NADPH 52/96	-3.85596180968481E-05	0	340																																				
+0032	E07	Unknown	NADPH 53/96	-1.94932363475611E-06	0	340																																				
+0032	F07	Unknown	NADPH 54/96	-2.35985185652186E-05	0	340																																				
+0032	G07	Unknown	NADPH 55/96	-6.06492680125345E-05	0	340																																				
+0032	H07	Unknown	NADPH 56/96	-0.000103434206358424	0	340																																				
+0032	A08	Unknown	NADPH 57/96	-7.19114616082397E-05	0	340																																				
+0032	B08	Unknown	NADPH 58/96	2.9581801730819E-06	0	340																																				
+0032	C08	Unknown	NADPH 59/96	-6.34377702883894E-05	0	340																																				
+0032	F01	Unknown	NADPH 6/96	-4.52712077515501E-05	0	340																																				
+0032	D08	Unknown	NADPH 60/96	-9.25212813358877E-05	0	340																																				
+0032	E08	Unknown	NADPH 61/96	-5.12595459206013E-05	0	340																																				
+0032	F08	Unknown	NADPH 62/96	-5.18430799179987E-05	0	340																																				
+0032	G08	Unknown	NADPH 63/96	-5.38328519829822E-05	0	340																																				
+0032	H08	Unknown	NADPH 64/96	-6.3212154637652E-05	0	340																																				
+0032	A09	Unknown	NADPH 65/96	-3.50934887069674E-05	0	340																																				
+0032	B09	Unknown	NADPH 66/96	-1.60082832109905E-05	0	340																																				
+0032	C09	Unknown	NADPH 67/96	-5.73631885539475E-05	0	340																																				
+0032	D09	Unknown	NADPH 68/96	-2.01529038126391E-06	0	340																																				
+0032	E09	Unknown	NADPH 69/96	-6.06684799627747E-05	0	340																																				
+0032	G01	Unknown	NADPH 7/96	-3.80275008811035E-05	0	340																																				
+0032	F09	Unknown	NADPH 70/96	-7.89849468148789E-05	0	340																																				
+0032	G09	Unknown	NADPH 71/96	-6.65585055555193E-05	0	340																																				
+0032	H09	Unknown	NADPH 72/96	-7.7960875364933E-05	0	340																																				
+0032	A10	Unknown	NADPH 73/96	-6.9314725331997E-05	0	340																																				
+0032	B10	Unknown	NADPH 74/96	-7.39187295854081E-05	0	340																																				
+0032	C10	Unknown	NADPH 75/96	-5.76605191374158E-05	0	340																																				
+0032	D10	Unknown	NADPH 76/96	-3.95124557769351E-05	0	340																																				
+0032	E10	Unknown	NADPH 77/96	-0.000121664953578381	0	340																																				
+0032	F10	Unknown	NADPH 78/96	-9.26997585590707E-05	0	340																																				
+0032	G10	Unknown	NADPH 79/96	-8.89553484021978E-05	0	340																																				
+0032	H01	Unknown	NADPH 8/96	2.55556827429407E-05	0	340																																				
+0032	H10	Unknown	NADPH 80/96	-6.40022638712229E-05	0	340																																				
+0032	A11	Unknown	NADPH 81/96	-7.13719346114895E-05	0	340																																				
+0032	B11	Unknown	NADPH 82/96	-7.40035589882935E-06	0	340																																				
+0032	C11	Unknown	NADPH 83/96	3.15594088127251E-05	0	340																																				
+0032	D11	Unknown	NADPH 84/96	-0.000148334809905264	0	340																																				
+0032	E11	Unknown	NADPH 85/96	-4.98006754693373E-05	0	340																																				
+0032	F11	Unknown	NADPH 86/96	-8.53870168002225E-05	0	340																																				
+0032	G11	Unknown	NADPH 87/96	-4.89958418586495E-05	0	340																																				
+0032	H11	Unknown	NADPH 88/96	-9.56973291824169E-05	0	340																																				
+0032	A12	Unknown	NADPH 89/96	5.66871429746262E-05	0	340																																				
+0032	A02	Unknown	NADPH 9/96	-0.000232601673460568	0	340																																				
+0032	B12	Unknown	NADPH 90/96	-1.95179877948976E-05	0	340																																				
+0032	C12	Unknown	NADPH 91/96	5.24444102345409E-05	0	340																																				
+0032	D12	Unknown	NADPH 92/96	6.62980519477565E-05	0	340																																				
+0032	E12	Unknown	NADPH 93/96	-0.000169379877109935	0	340																																				
+0032	F12	Unknown	NADPH 94/96	-1.8299501580159E-05	0	340																																				
+0032	G12	Unknown	NADPH 95/96	-0.000133481680832393	0	340																																				
+0032	H12	Unknown	NADPH 96/96	-0.000113151306194738	0	340																																				
+
+																																										
+Run Log																																										
+																																										
+																																										
+	2015-03-25 15:19:33+01:00 - Execution started																																									
+	2015-03-25 15:19:39+01:00 - KineticLoop1 started																																									
+	2015-03-25 15:19:39+01:00 - Photometric1 started																																									
+	2015-03-25 15:27:06+01:00 - Warning 103 (Unable to comply with the defined kinetic interval.) occurs during execution																																									
+	2015-03-25 15:27:06+01:00 - Photometric1 completed																																									
+	2015-03-25 15:27:06+01:00 - KineticLoop1 completed																																									
+	2015-03-25 15:27:06+01:00 - Execution completed																																									
+

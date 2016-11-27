@@ -1,0 +1,70 @@
+# Barcodes: 0003;0005;0007-0012,,,,,,,,,,,,
+# Description: This is a template file for plate layouts. It can be directly edited with a plain text editor or in a spread sheet program,,,,,,,,,,,,
+# rows=8 ; colums=12,,,,,,,,,,,,
+# Entry format: Type:Description; supported types: S: sample; R: reference; pCTRL: postitive control; nCTRL: negative control; BL: blank; 0: empty well,,,,,,,,,,,,
+# in case ALL fields of the substrate, cofactor or enzyme specifications are  empty, the standard concentrations in the header comment are  assumed for all fields.,,,,,,,,,,
+# A zero (0) in a field means that no Substrate/Cofactor/Enzyme was added => concentration = 0. Conc.,,,,,,,,,,,,
+# NA means, concentration was not determined. NA is also assumed, if no header concentration is given.,,,,,,,,,,
+# Standard volume unit is ul and concentration unit is mM,,,,,,,,,,,,
+HEAD_DESCR,1,2,3,4,5,6,7,8,9,10,11,12
+A,R: WT,0: empty,BL: blank,0: empty,0: empty,0: empty,S:PLE3-WT,S:PLE3-WT,S:PLE3-WT,S:PLE3-WT,S:PLE3-WT,S:PLE3-WT
+B,R: WT,0: empty,0: empty,0: empty,0: empty,0: empty,S:PLE3-sG clon 11,S:PLE3-sG clone 11,S:PLE3-sG clone 11,S:PLE3-sG clone 11,S:PLE3-sG clone 11,S:PLE3-sG clone 11
+C,BL: blank,0: empty,0: empty,0: empty,0: empty,0: empty,S:PLE3-sG clon 25,S:PLE3-sG clon 25,S:PLE3-sG clon 25,S:PLE3-sG clon 25,S:PLE3-sG clon 25,S:PLE3-sG clon 25
+D,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,S:PLE3-sG clon 34,S:PLE3-sG clon 34,S:PLE3-sG clon 34,S:PLE3-sG clon 34,S:PLE3-sG clon 34,S:PLE3-sG clon 34
+E,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,nCTRL: Vfl-TA WT,nCTRL: Vfl-TA WT,nCTRL: Vfl-TA WT,nCTRL: Vfl-TA WT,pCTRL: Vfl-TA WT,pCTRL: Vfl-TA WT
+F,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,S:CHMO-WT,S:CHMO-WT,S:CHMO-WT,S:CHMO-WT,S:CHMO-WT,S:CHMO-WT
+G,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,S:CHMO-sG,S:CHMO-sG,S:CHMO-sG,S:CHMO-sG,S:CHMO-sG,S:CHMO-sG
+H,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,nCTRL: buffer only,nCTRL: buffer only,nCTRL: buffer only,nCTRL: buffer only,nCTRL: buffer only,nCTRL: buffer only
+# Volumes: 220.0 ,,,,,,,,,,,,
+# Addition 1: Inductor1 : IPTG : 0.1,,,,,,,,,,,,
+# Addition 2: Inductor2 : rhamnose : 0.2,,,,,,,,,,,,
+# Addition 3: Inductor3,,,,,,,,,,,,
+HEAD_ADDITION,1,2,3,4,5,6,7,8,9,10,11,12
+A,arbinose : 0.4,arbinose : 0.5,mannose : 0.6,mannose : 0.7,mannose : 0.8,mannose : 0.9,mannose : 0.10,mannose : 0.11,mannose : 0.12,mannose : 0.13,arbinose : 0.14,arbinose : 0.15
+B,arbinose : 0.4,arbinose : 0.5,arbinose : 0.6,arbinose : 0.7,arbinose : 0.8,arbinose : 0.9,arbinose : 0.10,arbinose : 0.11,arbinose : 0.12,arbinose : 0.13,arbinose : 0.14,arbinose : 0.15
+C,arbinose : 0.4,arbinose : 0.5,arbinose : 0.6,arbinose : 0.7,arbinose : 0.8,arbinose : 0.9,arbinose : 0.10,arbinose : 0.11,arbinose : 0.12,arbinose : 0.13,arbinose : 0.14,arbinose : 0.15
+D,arbinose : 0.4,arbinose : 0.5,arbinose : 0.6,arbinose : 0.7,arbinose : 0.8,arbinose : 0.9,arbinose : 0.10,arbinose : 0.11,arbinose : 0.12,arbinose : 0.13,arbinose : 0.14,arbinose : 0.15
+E,arbinose : 0.4,arbinose : 0.5,arbinose : 0.6,arbinose : 0.7,arbinose : 0.8,arbinose : 0.9,arbinose : 0.10,arbinose : 0.11,arbinose : 0.12,arbinose : 0.13,arbinose : 0.14,arbinose : 0.15
+F,arbinose : 0.4,arbinose : 0.5,arbinose : 0.6,arbinose : 0.7,arbinose : 0.8,arbinose : 0.9,arbinose : 0.10,arbinose : 0.11,arbinose : 0.12,arbinose : 0.13,arbinose : 0.14,arbinose : 0.15
+G,arbinose : 0.4,arbinose : 0.5,arbinose : 0.6,arbinose : 0.7,arbinose : 0.8,arbinose : 0.9,arbinose : 0.10,arbinose : 0.11,arbinose : 0.12,arbinose : 0.13,arbinose : 0.14,arbinose : 0.15
+H,arbinose : 0.4,arbinose : 0.5,arbinose : 0.6,arbinose : 0.7,arbinose : 0.8,arbinose : 0.9,arbinose : 0.10,arbinose : 0.11,arbinose : 0.12,arbinose : 0.13,arbinose : 0.14,arbinose : 0.15
+# Addition 4: Substrate1,,,,,,,,,,,,
+HEAD_SUBSTR1,1,2,3,4,5,6,7,8,9,10,11,12
+A,S-PBA: 0.1 ,S-PBA : 0.35 ,S-PBA,S-PBA,S-PBA,empty:0,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA
+B,S-PBA: 0.3 ,S-PBA,S-PBA,S-PBA,S-PBA,empty:0,S-PPA,S-PPA: 0.3,S-PPA: 0.3,S-PPA: 0.3,S-PPA: 0.3,S-PPA: 0.3
+C,S-PBA: 0.1 ,S-PBA,S-PBA,S-PBA,S-PBA,empty:0,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA
+D,S-PBA: 0.1 ,S-PBA,S-PBA,S-PBA,S-PBA,empty:0,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA
+E,S-PBA: 0.1 ,S-PBA,S-PBA,S-PBA,S-PBA,empty:0,S-PPA,S-PPA: 0.7,S-PPA: 0.7,S-PPA: 0.7,S-PPA: 0.7,S-PPA: 0.7
+F,S-PBA: 0.1 ,S-PBA,S-PBA,S-PBA,S-PBA,empty:0,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA
+G,empty:0,S-PBA ,S-PBA,S-PBA,S-PBA,empty:0,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA,0
+H,empty:0,S-PBA ,S-PBA,S-PBA,S-PBA,empty:0,S-PPA,S-PPA,S-PPA,S-PPA,S-PPA,0
+# Addition 5: Substrate2,,,,,,,,,,,,
+HEAD_SUBSTR2,1,2,3,4,5,6,7,8,9,10,11,12
+A,pyruvate: 0.42,pyruvate : 0.45,pyruvate : 0.89,pyruvate : 1.454,pyruvate,pyruvate,propanal,propanal,propanal,propanal,propanal,propanal
+B,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,propanal,propanal,propanal,propanal,propanal,propanal
+C,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,propanal,propanal,propanal,propanal,propanal,propanal
+D,pyruvate : 0.45,pyruvate : 0.46,pyruvate : 0.47,pyruvate : 0.48,pyruvate : 0.49,pyruvate : 0.50,propanal,propanal,propanal,propanal,propanal,propanal
+E,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,propanal,propanal,propanal,propanal,propanal,propanal
+F,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,propanal,propanal,propanal,propanal,propanal,propanal
+G,empty:0,0,empty:0,0,empty:0,0,propanal,propanal,propanal,propanal,propanal,propanal
+H,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,pyruvate,propanal,propanal,propanal,propanal,propanal,propanal
+# Addition 6: Cofactor,,,,,,,,,,,,
+HEAD_COFACT,1,2,3,4,5,6,7,8,9,10,11,12
+A,PLP:33.3,PLP : 0.1,PLP : 0.56,PLP,PLP,empty:0,NADPH : 0.3,NADPH : 0.4,NADPH : 0.5,NADPH : 0.6,NADPH : 0.7,NADPH : 0.8
+B,PLP:33.4,PLP,PLP,PLP,PLP,empty:0,NADPH,NADPH,NADPH,NADPH,NADPH,NADPH
+C,PLP:33.5,PLP,PLP,PLP,PLP,empty:0,NADPH,NADPH,NADPH,NADPH,NADPH,NADPH
+D,PLP:33.6,PLP,PLP,PLP,PLP,empty:0,NADPH,NADPH,NADPH,empty: 0,NADPH,NADPH
+E,PLP:33.7,PLP,PLP,PLP,PLP,empty:0,NADPH,NADPH,NADPH,empty: 0,NADPH,NADPH
+F,PLP:33.8,PLP,PLP,PLP,PLP,empty:0,NADPH,NADPH,NADPH,empty:0,NADPH,NADPH
+G,PLP:33.9,PLP,PLP,PLP,PLP,empty:0,NADPH,NADPH,NADPH,NADPH,NADPH,NADPH
+H,PLP:33.10,PLP,PLP,PLP,PLP,empty:0,NADPH,NADPH,NADPH,NADPH,NADPH,NADPH
+# Addition 7: Enzyme,,,,,,,,,,,,
+HEAD_ENZYME,1,2,3,4,5,6,7,8,9,10,11,12
+A, ATAVflWT:42.0, ATAVflWT: 35.0, ATAVflWT: 37, ATAVflWT, ATAVflWT, ATAVflWT,CHMO,CHMO,CHMO,CHMO,CHMO,CHM
+B, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT,CHMO,CHMO,CHMO,CHMO,CHMO,CHMO
+C, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT,CHMO,CHMO,CHMO,CHMO,CHMO,CHMO
+D, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT,CHMO,CHMO,CHMO,CHMO,CHMO,CHMO
+E, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT,CHMO,CHMO,CHMO,CHMO,CHMO,CHMO
+F, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT,CHMO,CHMO,CHMO,CHMO,CHMO,CHMO
+G, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT,CHMO,CHMO,CHMO,CHMO,CHMO,CHMO
+H, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT, ATAVflWT,CHMO,CHMO,CHMO,CHMO,CHMO,CHMO

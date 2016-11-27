@@ -3,7 +3,8 @@ lara-R
 
 A collection of useful R scripts for evaluation and visualisation of high-throughput experiments.
 
-
+  * laraDataReader - data input functions, like reading device output files and combining them with advanced and versatile plate layouts 
+  
 
 Installation of lara-R scripts
 _______________________________
