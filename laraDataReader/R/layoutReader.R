@@ -53,9 +53,9 @@
 
 loadPlateLayout <- function(barcode="000000", dir="./", padding=4, concUnit="uM", asList=TRUE)
 {
-  printDebug(module="loadPlateLayout", "v0.1.0c")
+  printDebug(module="loadPlateLayout", "v0.1.0d")
   
-  file_pattern = paste("0*", barcode, "_plate_layout.*csv", sep="")
+  file_pattern = paste("0*", barcode, "_plate_layout.*csv$", sep="")
 
   layout_filename <- list.files(path = dir, pattern = file_pattern  , all.files = FALSE,
                                 full.names = FALSE, recursive = FALSE,
@@ -69,16 +69,14 @@ loadPlateLayout <- function(barcode="000000", dir="./", padding=4, concUnit="uM"
   # "asList" returns a list of layout meta information, like barcode, matrix size, and layout
   if (isTRUE(asList)) {
     # 1. retrieving barcode or barcode interval
-    layout_barcodes <- sub("(#\\s*Barcodes\\s*:\\s*)([^,]+)(\\s*)(,*)", "\\2", grep('Barcodes\\s*:',data_file, value=TRUE)) 
+    layout_barcodes <- sub("(^#\\s*Barcodes\\s*:\\s*)([^,]+)(\\s*)(,*)", "\\2;", grep('Barcodes\\s*:',data_file, value=TRUE)) 
     
-    # regmatches(layout_barcodes, gregexpr("\\s*;\\s*", layout_barcodes), invert = T )[[1]]
-    
-    bc_str_vec  = unlist(strsplit(layout_barcodes, split="(\\s*;\\s*)"))
+    bc_str_vec <- unlist(strsplit(layout_barcodes, split="(\\s*;\\s*)"))
     
     if (length(bc_str_vec) > 0L){  # it is possible to denote an barcode interval, e.g. 4510-4555, even with a prefix: HY0001-HY0022 
       checkBarcodeInterval <- function(bc_str){
         bc_interval <- unlist(strsplit(bc_str, split="(\\s*-\\s*)"))
-        printDebug(module="loadPlateLayout", "barcode interval", bc_interval)
+        printDebug(module="loadPlateLayout", "barcode interval", bc_str,  bc_interval)
         
         prefix_pattern = "([:alpha:]*[.,|,_]*)(\\d+$)"  # valid barcodes are e.g. TA1001, GA_20, Tbe.0003, XY_abc|0404, WZ.def.4432
         if ( length(bc_interval) == 1) {
@@ -96,14 +94,16 @@ loadPlateLayout <- function(barcode="000000", dir="./", padding=4, concUnit="uM"
         }
       }
       all_barcodes_vec <- unlist(lapply(bc_str_vec, checkBarcodeInterval))
-    }
+    } 
     # 2. retrieving description of layout
     description <- sub("(#\\s*Description\\s*:\\s*)([^,]+)(\\s*)(,*)", "\\2", grep('Description:',data_file, value=TRUE))
     
     # 3. retrieving concentration_unit 
     concUnit_infile <- sub("(#\\s*concentration_unit\\s*:\\s*)([u,m,M]+)(\\s*;.*)", "\\2", grep('concentration_unit\\s*:',data_file, value=TRUE))
-    printDebug(module="loadPlateLayout", "unit %s",concUnit_infile)
-    if(length(concUnit_infile) >1 ) concUnit = concUnit_infile
+    printDebug(module="loadPlateLayout", "unit %s", concUnit_infile)
+    if( length(concUnit_infile) > 0 ){
+      if( grep("(uM)|(mM)|(M)", concUnit_infile )  ) concUnit = concUnit_infile
+      }
   }
 
   # 4. plate size/geometry info, if present, else using default 8x12 layout

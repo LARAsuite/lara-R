@@ -2,7 +2,7 @@
 # Description: This is a template file for plate layouts. It can be directly edited with a plain text editor or in a spread sheet program,,,,,,,,,,,,
 # rows=8 ; columns=12,,,,,,,,,,,,
 # Entry format: Type:Description; supported types: S: sample; R: reference; pCTRL: postitive control; nCTRL: negative control; BL: blank; 0: empty well,,,,,,,,,,,,
-# in case ALL fields of the substrate, cofactor or enzyme specifications are  empty, the standard concentrations in the header comment are  assumed for all fields.,,,,,,,,,,,,
+# in case ALL fields of the substrate cofactor or enzyme specifications are empty the standard concentrations in the header comment are assumed for all fields.,,,,,,,,,,,,
 # A zero (0) in a field means that no Substrate/Cofactor/Enzyme was added => concentration = 0. Conc.,,,,,,,,,,,,
 # NA means, concentration was not determined. NA is also assumed, if no header concentration is given.,,,,,,,,,,,,
 # concentration_unit: uM ; volume_unit : ul; possible units: uM mM  M uL mL L,,,,,,,,,,,,

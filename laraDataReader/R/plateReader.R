@@ -12,7 +12,7 @@
 # VERSION: 0.1.0
 #
 # CREATION_DATE: 2015/04/27
-# LASTMODIFICATION_DATE: 2015/10/10
+# LASTMODIFICATION_DATE: 161130
 #
 # BRIEF_DESCRIPTION: Library for reading microtiter plate reader files 
 # DETAILED_DESCRIPTION: currently supported devices BMG omega and Thermo Varioskan
@@ -40,18 +40,21 @@
 #' @description This function requires a table/list Varioskan  output file starting 
 #'              from the keyword "Photometric1" with the following columns:
 #'              'Barcode', 'Well', 'Type', 'Description', 'SampleNo', 'Value', 'Time', 'Wavelength', 'Read'.
-#' @param filename (string) - single varioskan outputfile of kinetic data
+#' @param deltaTime=32.0 - default time difference between two reads
+#' @param addTime=TRUE - adding DataTime info to output data frame
+#' @param coords=FALSE - adding plate coords to output data frame (if provided by reader file)
+#' @param read=FALSE - adding read info to output data frame (if provided by reader file)
 #' @param barcode="000000" (string) - for defining a new barcode
 #' @return data.frame
 #' @keywords plate readers, Thermo Varioskan
 #' @export 
 #' 
-#' @note todo - adding meta info (temp....), spectrum read: assigning start and end wavelength
+#' @note todo - spectrum read: assigning start and end wavelength
 
 LA_ImportData.varioskan <- function(filename="", deltaTime=32.0, addTime=TRUE, coords=FALSE, read=FALSE, ...)
 {
-  if(isTRUE(coords)) printDebug("LA_importData v.0.0.9: reading Varioskan %s file with coordinates: %s", current_method, filename_list[1]) else
-    printDebug("LA_importData v.0.0.9a: reading Varioskan %s file: %s \nWarning: reading possibly multiple files", current_method, filename_list[1])
+  if(isTRUE(coords)) printDebug(module="LA_importData.varioskan v.0.0.9b", "reading %s file with coordinates: %s", current_method, filename_list[1]) else
+    printDebug(module="LA_importData.varioskan v.0.0.9b", "reading %s file: %s \nWarning: reading possibly multiple files", current_method, filename_list[1])
  
   table_offset = 2  # offset between the keyword 'Photometric1' and the begin of the data table
  
@@ -94,31 +97,34 @@ LA_ImportData.varioskan <- function(filename="", deltaTime=32.0, addTime=TRUE, c
     # retrieving date - mind the time zone information !
     raw_date <- sub("(\\s*Run started\\s*)(.*)([+]\\d*:\\d*)", "\\2", grep('Run started\\s*\\d*.*',data_file, value=TRUE))
     # %I hours in 1-12, %p AM/PM
-    date_time <- strptime(raw_date, format = "%m/%d/%Y %H:%M:%S", tz = "CET")
+    date_time <- strptime(raw_date, format = "%m/%d/%Y %H:%M:%S", tz = "CET") # date of single measurement file
     if(is.na(date_time)) {printError("ERROR (LA_ImportData.varioskan): wrong date or time format in file %s. Please use mm/dd/YYYY HH:MM:SS !", filename)}
     
     #temperature <-   grep('Actual instrument temperature',data_file, value=TRUE) 
-    temperature <- as.numeric(sub("(\\s*Actual instrument temperature\\s*.MIN\\s*)(\\d*.\\d*)(\\s*)(\\d*)(\\s*)", "\\4",  grep('Actual instrument temperature',data_file, value=TRUE) ))
+    temperature <- as.numeric(sub("(\\s*Actual instrument temperature\\s*.MIN\\s*)(\\d*.\\d*)(\\s*)(\\d*)(\\s*)", "\\4",  
+                                  grep('Actual instrument temperature',data_file, value=TRUE) ))
 
     if ( current_method == "SPECabs" ) {
-      printError("WARNING (LA_ImportData.varioskan): assign start and end wavelengths from spectrum file")
+      wavelength_start <- as.numeric(sub("(^\\s*Scanning wavelengths start \\[nm\\]\\s*)?(\\d*)(\\s*)", "\\2", grep('Scanning wavelengths start',data_file, value=TRUE)))
+      wavelength_end <- as.numeric(sub("(^\\s*Scanning wavelengths end \\[nm\\]\\s*)?(\\d*)(\\s*)", "\\2", grep('Scanning wavelengths end',data_file, value=TRUE)))
+      wavelength_step_size <- as.numeric(sub("(^\\s*Scanning wavelengths step size \\[nm\\]\\s*)?(\\d*)(\\s*)", "\\2", grep('Scanning wavelengths step size',data_file, value=TRUE)))
+      
       num_wavelengths <- ((wavelength_end - wavelength_start) / wavelength_step_size )
       num_readings <<- 1
-      printDebug("spectral read varioskan num Wls: %s", num_wavelengths)
-    } else {
+      printDebug(module="LA_ImportData.varioskan", "spectral read varioskan num Wls: %s", num_wavelengths)
+    } else { # non spectrum read
       # detecting number of wavelengths
       num_wavelengths <<- length(grep("Wavelength \\[nm\\]", data_file))
       if(current_method=="SPfl") num_wavelengths <<- 1
       # detecting number of readings
-      num_readings <<- as.numeric(sub("(\\s*Readings\\s*)(\\d*)(.*)", "\\2", grep('^\\s*Readings\\s*\\d*\\s*',data_file, value=TRUE) ))
-      #print(num_readings)
+      num_readings <<- as.numeric(sub("(^\\s*Readings\\s*)(\\d*)(.*)", "\\2", grep('^\\s*Readings\\s*\\d*\\s*',data_file, value=TRUE) ))
     }
     if ( length(num_readings)==0 ) num_readings <<- 1
       
     # finding start of data
     table_start_row <- grep(table_start_string, data_file)[2] + table_offset 
     
-    #printDebug("nr: %s , nWL %s, currsam:%s", num_readings, num_wavelengths,  current_sample_num)
+    #printDebug(module="plr.varioskan", nr: %s , nWL %s, currsam:%s", num_readings, num_wavelengths,  current_sample_num)
 
     if ( current_method == "KINabsMatr" ) { 
       # raw_tab = data.frame() raw_tab[[i+1]] col.names=as.character(0:12),
@@ -139,8 +145,8 @@ LA_ImportData.varioskan <- function(filename="", deltaTime=32.0, addTime=TRUE, c
       if( current_barcode == "000000" )  printError("ERROR (LA_ImportData.varioskan): no barcode specified, please add a barcode to the file or specify a barcode as parameter!")
       raw_tab_df$Barcode <- as.factor(current_barcode)
       
-    } else {
-      printDebug("num reads:%s; num wl:%s; curr samp no:%s ", num_readings , num_wavelengths, current_sample_num)
+    } else { # list reading
+      #printDebug("num reads:%s; num wl:%s; curr samp no:%s ", num_readings , num_wavelengths, current_sample_num)
       raw_tab_df <- read.table(textConnection(data_file), skip = table_start_row, header=FALSE, col.names=col_names, stringsAsFactors=TRUE,
                                nrows=num_readings * num_wavelengths * current_sample_num)
       if(addTime) raw_tab_df$DateTime <- raw_tab_df$Duration + date_time  else raw_tab_df$DateTime <- date_time 
@@ -191,7 +197,8 @@ LA_ImportData.varioskan <- function(filename="", deltaTime=32.0, addTime=TRUE, c
   output_df$StartTime <- output_df[output_df$Well=="A01",]$DateTime[1]
   
   output_df$RefTime <- 1 #as.difftime(tim=1, units="secs")
-  output_df$RefTime <- output_df[output_df$Well=="A01",]$DateTime # as.difftime(tim=output_df[output_df$Well=="A01",]$DiffTime, units="secs") #output_df[output_df$Well=="A01",]$DiffTime
+  output_df$RefTime <- output_df[output_df$Well=="A01",]$DateTime 
+  # as.difftime(tim=output_df[output_df$Well=="A01",]$DiffTime, units="secs") #output_df[output_df$Well=="A01",]$DiffTime
   output_df$RefDiffTime <- output_df[output_df$Well=="A01",]$DiffTime
 
   output_df$UID <- 1
@@ -207,7 +214,7 @@ LA_ImportData.varioskan <- function(filename="", deltaTime=32.0, addTime=TRUE, c
   # adding plate layout information
   if ( isTRUE(load_layout) ) {
     output_df <- addPlateLayout(reader_df=output_df, barcode=current_barcode, 
-                                useDBlayout=load_layout_from_db )
+                                useDBlayout=load_layout_from_db, concUnit=current_conc_unit )
     if(identical(output_df, FALSE) ) return(FALSE)
   } else {
     # adding separate coordinates
@@ -229,9 +236,9 @@ LA_ImportData.varioskan <- function(filename="", deltaTime=32.0, addTime=TRUE, c
 #' @title BMG omega - file reader
 #' @description This function requires a table/list omega output file starting 
 #'              from the keyword "Chromatic" with the following columns:
-#'              
 #' @param filename (string) - single varioskan outputfile of kinetic data
 #' @param barcode="000000" (string) - for defining a new barcode
+#' @param coords=FALSE - adding plate coords to output data frame (if provided by reader file)
 #' @return data.frame
 #' @keywords plate readers, BMG omega
 #' @export 
@@ -240,7 +247,7 @@ LA_ImportData.varioskan <- function(filename="", deltaTime=32.0, addTime=TRUE, c
 
 LA_ImportData.omega <- function(filename, coords=FALSE, ...)
 {
-  printDebug("plateReader - omegaSPabs: reading Omega SPabs - table format. ToDo: do.call s.o.")
+  printDebug(module="plateReader.omegaSPabs", "reading Omega SPabs - table format. ToDo: do.call s.o.")
   
   readAllData <- function(filename)
   {  

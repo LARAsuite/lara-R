@@ -148,7 +148,7 @@ print(head(vs_assay_df))
 
 # importing data in Varioskan matrix format
 assay_filename <- structure("BC_0041.*varioskan_KINabsMatr.*", class="varioskan")
-vs_kinabsmatr_df = LA_ImportData(assay_filename, barcode="0041", layout=TRUE, method='KINabsMatr')
+vs_kinabsmatr_df = LA_ImportData(assay_filename, barcode="0041", layout=TRUE, method='KINabsMatr', concUnit="mM")
 
 printDebug("varioskan matrix data frame:")
 print(head(vs_kinabsmatr_df))

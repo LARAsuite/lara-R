@@ -29,9 +29,11 @@ ____
   
   * unit information in all layouts
   * testing of barcode variations, intervals
-  * speed 
+  * no-comma usage warning in all templates
   * units (infile, parameter)
   * testing geometry (stability)
+  * speed 
+  * changing to R6 classes (https://cran.r-project.org/web/packages/R6/vignettes/Introduction.html)
 
 Installation of lara-R script
 _______________________________

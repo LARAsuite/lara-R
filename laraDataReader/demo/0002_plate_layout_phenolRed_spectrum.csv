@@ -1,0 +1,18 @@
+# Barcodes: 0002,,,,,,,,,,,,
+# Description: This is a template file for plate layouts. It can be directly edited with a plain text editor or in a spread sheet program,,,,,,,,,,,,
+# rows=8 ; columns=12,,,,,,,,,,,,
+# Entry format: Type:Description; supported types: S: sample; R: reference; pCTRL: postitive control; nCTRL: negative control; BL: blank; 0: empty well,,,,,,,,,,,,
+# in case ALL fields of the substrate, cofactor or enzyme specifications are  empty, the standard concentrations in the header comment are  assumed for all fields.,,,,,,,,,,
+# A zero (0) in a field means that no Substrate/Cofactor/Enzyme was added => concentration = 0. Conc.,,,,,,,,,,,,
+# NA means, concentration was not determined. NA is also assumed, if no header concentration is given.,,,,,,,,,,
+# Standard volume unit is ul and concentration unit is mM,,,,,,,,,,,,
+HEAD_DESCR,1,2,3,4,5,6,7,8,9,10,11,12
+A,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1,S : pH-series_1
+B,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2,S : pH-series_2
+C,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3,S : pH-series_3
+D,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4,S : pH-series_4
+E,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5,S : pH-series_5
+F,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6,S : pH-series_6
+G,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7,S : pH-series_7
+H,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8,S : pH-series_8
+# Volumes : 200.0,,,,,,,,,,,,
