@@ -105,7 +105,6 @@ print(pl96well)
 pl96well = loadPlateLayout(barcode="0022") 
 print(pl96well)
 
-
 # ... I think, you got the idea (there is almost no limit with adding additions)
 
 # unit testing, speed

@@ -1,6 +1,6 @@
 # Barcodes: 0003; 0005; 0007-0012; TA1001-TA1003 ; GA_20-GA_22; Tbe.0003-Tbe.0005; XY_abc|0404-XY_abc|0408; WZ.def.4432-WZ.def.4436,,,,,,,,,,,,
 # Description: This is a template file for plate layouts. It can be directly edited with a plain text editor or in a spread sheet program,,,,,,,,,,,,
-# rows=8 ; colums=12,,,,,,,,,,,,
+# rows=8 ; columns=12,,,,,,,,,,,,
 # Entry format: Type:Description; supported types: S: sample; R: reference; pCTRL: postitive control; nCTRL: negative control; BL: blank; 0: empty well,,,,,,,,,,,,
 # in case ALL fields of the substrate, cofactor or enzyme specifications are  empty, the standard concentrations in the header comment are  assumed for all fields.,,,,,,,,,,
 # A zero (0) in a field means that no Substrate/Cofactor/Enzyme was added => concentration = 0. Conc.,,,,,,,,,,,,

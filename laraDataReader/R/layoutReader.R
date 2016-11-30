@@ -12,7 +12,7 @@
 # VERSION: 0.1.0
 #
 # CREATION_DATE: 2015/04/27
-# LASTMODIFICATION_DATE: 161125
+# LASTMODIFICATION_DATE: 161130
 #
 # BRIEF_DESCRIPTION: Library for reading microtiter plate layouts 
 # DETAILED_DESCRIPTION: 
@@ -41,7 +41,8 @@
 #'              The function is looking for a file "0*"barcode"_plate_layout.*csv" in the given directory.
 #'              Default substrate, cofactor and enzyme concentrations overwrite individual concentrations.
 #' @param barcode="000000" - this is used for finding the layout file BC_plate_layout_*.csv
-#'        barcodes can have a non-numeric prefix, valid barcodes are e.g. TA1001, GA_20, Tbe.0003, XY_abc|0404, WZ.def.4432
+#'        barcodes can have a non-numeric prefix, valid barcodes are e.g. TA1001, GA_20, Tbe.0003, XY_abc|0404, WZ.def.4432, 
+#'        the minus sign "-" is omitted as separator, since it is need to denote intervals: TA1001-TA1024  
 #' @param padding=4 - overall number of barcode digits, leading digits are filled with zeros, will be soon changed to 6
 #' @param dir="./" (string) - directory of layout file with leading / 
 #' @param concUnit="uM"  - unit of concentration, valid values are 'uM' and 'mM' 
@@ -65,16 +66,18 @@ loadPlateLayout <- function(barcode="000000", dir="./", padding=4, concUnit="uM"
     data_file <- readLines(layout_filename,encoding= "UTF-8") }
   printDebug(module="loadPlateLayout", "Layout file %s read", layout_filename)
   
-  # asList returns a list of layout meta information, like barcode, matrix size, and layout
+  # "asList" returns a list of layout meta information, like barcode, matrix size, and layout
   if (isTRUE(asList)) {
     # 1. retrieving barcode or barcode interval
     layout_barcodes <- sub("(#\\s*Barcodes\\s*:\\s*)([^,]+)(\\s*)(,*)", "\\2", grep('Barcodes\\s*:',data_file, value=TRUE)) 
     
-    bc_str_vec  = regmatches(layout_barcodes, gregexpr("\\s*;\\s*", layout_barcodes), invert = T )[[1]]
+    # regmatches(layout_barcodes, gregexpr("\\s*;\\s*", layout_barcodes), invert = T )[[1]]
+    
+    bc_str_vec  = unlist(strsplit(layout_barcodes, split="(\\s*;\\s*)"))
     
     if (length(bc_str_vec) > 0L){  # it is possible to denote an barcode interval, e.g. 4510-4555, even with a prefix: HY0001-HY0022 
       checkBarcodeInterval <- function(bc_str){
-        bc_interval <- unlist(strsplit(bc_str, split="-"))
+        bc_interval <- unlist(strsplit(bc_str, split="(\\s*-\\s*)"))
         printDebug(module="loadPlateLayout", "barcode interval", bc_interval)
         
         prefix_pattern = "([:alpha:]*[.,|,_]*)(\\d+$)"  # valid barcodes are e.g. TA1001, GA_20, Tbe.0003, XY_abc|0404, WZ.def.4432
@@ -103,23 +106,24 @@ loadPlateLayout <- function(barcode="000000", dir="./", padding=4, concUnit="uM"
     if(length(concUnit_infile) >1 ) concUnit = concUnit_infile
   }
 
-  # 4. plate size info, if present, else using default 8x12 layout
-  plate_size_info <- grep('colums=', data_file, value=TRUE)
+  # 4. plate size/geometry info, if present, else using default 8x12 layout
+  plate_size_info <- grep('columns=', data_file, value=TRUE)
   
   if( length(plate_size_info) > 0 )  {
-    # \\2 means 2nd match of parthesized pattern
-    psi <- sub("([# *rows=]+)(\\d+)(\\s*;\\s*)(colums=\\s*)(\\d+)(\\s*)(,*)", "\\2x\\5", plate_size_info)[[1]]
-    psi <- unlist(strsplit(psi, "x"))
+    # \\2 means 2nd match of parthesized pattern; expected string: "# rows=8; colums=12,,,,,,,,,,,,"
+    psi = unlist(strsplit(plate_size_info, "((\\s*#\\s*)|(\\s*rows\\s*=\\s*)|(\\s*;\\s*)|(\\s*columns\\s*=\\s*))|((,|\\s)*)$"))
     printDebug(module="loadPlateLayout", "plate_size_info: %s ",psi)
-    nrows <- as.numeric(psi[1])
-    ncols <- as.numeric(psi[2])
+    nrows <- as.numeric(psi[3])
+    ncols <- as.numeric(psi[5])
+    
     if(is.na(ncols)) {
       # default values for 96 well plate
       nrows <- 8
       ncols <- 12
     }
+  } else {
+    printError(module="loadPlateLayout", "No plate geometry specified !! (s. layout templates how to specify plate geometry)")
   }
-
   descr_tab_position <- grep('HEAD_DESCR',data_file, value=FALSE) 
   raw_well_info_df <- read.csv(textConnection(data_file), skip=descr_tab_position-1, nrows=nrows, 
                          header=TRUE, row.names=1, 
@@ -249,7 +253,7 @@ loadPlateLayout <- function(barcode="000000", dir="./", padding=4, concUnit="uM"
 #' @param padding - used for adding leading zeros to barcode - will later be changed to 6 
 #' @param useDBlayout - retrieve layout from django database
 #' @param setValueNA=TRUE (boolean) - set values to NA for empty plates of type '0'
-#' @param set_Slope_NA=FALSE (boolean) - set slope and intercept values to NA for empty plates of type '0'
+#' @param setSlopeNA=FALSE (boolean) - set slope and intercept values to NA for empty plates of type '0'
 #' @keywords plate readers, plate layout
 #' @export 
 #'   
@@ -259,9 +263,12 @@ addPlateLayout <- function(reader_df=NULL, barcode="000000",
                            useDBlayout=FALSE, padding = 4, concUnit='uM', 
                            setValueNA=FALSE, setSlopeNA=FALSE)
 {  
-  # auto choose barcode from reader_df
-  if (barcode == "000000") {
-    barcode <- sprintf(paste("%0", padding,"d", sep=""), as.numeric(levels(reader_df$Barcode)[1]))
+  if (barcode == "000000") { # auto choose barcode from reader_df if no barcode provided
+    barcode <- levels(reader_df$Barcode)[1] # just take first barcode of data frame
+    numeric_barcode <- as.numeric(barcode)
+    if (! is.na(numeric_barcode)) { # add padding to numeric barcode else: leave barcode as is
+      barcode <- sprintf(paste("%0", padding,"d", sep=""), numeric_barcode)
+    } 
   } 
 
   if(isTRUE(useDBlayout)) { 

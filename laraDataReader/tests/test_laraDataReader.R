@@ -37,6 +37,7 @@
 test_that("testing most simple layout reading", { 
   ### ------ plain plate layout functions
   # layout matrix is determined by the layout file 
+  
   # most simple layout 
   
   tmp <- tempfile(pattern = "ldr_prof_", fileext = ".txt")
@@ -64,4 +65,30 @@ test_that("testing most simple layout reading", {
   }
 )
 
+test_that("testing complex layout reading", { 
+  ### ------ plain plate layout functions
+  # layout matrix is determined by the layout file 
+  
+  tmp <- tempfile(pattern = "ldr_prof_", fileext = ".txt")
+  
+  printDebug(module="test_that", "set current working directory to 'demo'")
+  
+  setwd("../plate_layout_templates")
+  
+  # testing very complex layout
+  # with individually defined medium information for each wells and uM unit
+  Rprof(tmp)
+  pl96well = loadPlateLayout(barcode="0022") 
+  Rprof(NULL) 
+  
+  expect_equal(pl96well$Barcodes[27], "WZ.def.4436" ) 
+  expect_equal(pl96well$Rows, 8 )
+  expect_equal(pl96well$Columns, 12 )
+  
+  prof_df = summaryRprof(tmp)
+  
+  print(prof_df)
+  
+}
+)
 

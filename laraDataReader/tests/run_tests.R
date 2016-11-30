@@ -36,7 +36,7 @@
 
 library(testthat) 
 
-debugging <- TRUE
+debugging <- FALSE
 
 setwd(".")
 
