@@ -1,0 +1,9 @@
+Package: laraDB
+Title: lara R database functions
+Version: 0.1
+Authors@R: "Mark Doerr <mark.doerr@uni-greifswald.de> [aut, cre]"
+Description: lara R database functions
+Depends:
+    R (>= 3.0.2)
+License: GLP >= 2.0
+LazyData: true

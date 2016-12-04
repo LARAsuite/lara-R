@@ -1,0 +1,17 @@
+# Barcodes: 0001,,,,,,,,,,,,
+# Description: (Please change according to your samples) This is a template file for plate layouts. It can be directly edited with a plain text editor or in a spread sheet program,,,,,,,,,,,,
+# rows=8 ; columns=12,,,,,,,,,,,,
+# Entry format: Type:Description; supported types: S: sample; R: reference; pCTRL: postitive control; nCTRL: negative control; BL: blank; 0: empty well,,,,,,,,,,,,
+# in case ALL fields of the substrate cofactor or enzyme specifications are  empty the standard concentrations in the header comment are  assumed for all fields. ,,,,,,,,,,,,
+# A zero (0) in a field means that no Substrate/Cofactor/Enzyme was added => concentration = 0. Conc.,,,,,,,,,,,,
+# NA means, concentration was not determined. NA is also assumed, if no header concentration is given.,,,,,,,,,,,,
+# concentration_unit: uM ; volume_unit : ul; possible units: uM mM  M uL mL L,,,,,,,,,,,,
+HEAD_DESCR,1,2,3,4,5,6,7,8,9,10,11,12
+A,R: WT,0: empty,BL: blank,0: empty,0: empty,0: empty,S:PLE3-WT,S:PLE3-WT,S:PLE3-WT,S:PLE3-WT,S:PLE3-WT,S:PLE3-WT
+B,R: WT,0: empty,0: empty,0: empty,0: empty,0: empty,S:PLE3-sG clon 11,S:PLE3-sG clone 11,S:PLE3-sG clone 11,S:PLE3-sG clone 11,S:PLE3-sG clone 11,S:PLE3-sG clone 11
+C,BL: blank,0: empty,0: empty,0: empty,0: empty,0: empty,S:PLE3-sG clon 25,S:PLE3-sG clon 25,S:PLE3-sG clon 25,S:PLE3-sG clon 25,S:PLE3-sG clon 25,S:PLE3-sG clon 25
+D,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,S:PLE3-sG clon 34,S:PLE3-sG clon 34,S:PLE3-sG clon 34,S:PLE3-sG clon 34,S:PLE3-sG clon 34,S:PLE3-sG clon 34
+E,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,nCTRL: Vfl-TA WT,nCTRL: Vfl-TA WT,nCTRL: Vfl-TA WT,nCTRL: Vfl-TA WT,nCTRL: Vfl-TA WT,nCTRL: Vfl-TA WT
+F,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,S:CHMO-WT,S:CHMO-WT,S:CHMO-WT,S:CHMO-WT,S:CHMO-WT,S:CHMO-WT
+G,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,S:CHMO-sG,S:CHMO-sG,S:CHMO-sG,S:CHMO-sG,S:CHMO-sG,S:CHMO-sG
+H,0: empty,0: empty,0: empty,0: empty,0: empty,0: empty,nCTRL: buffer only,nCTRL: buffer only,nCTRL: buffer only,nCTRL: buffer only,nCTRL: buffer only,nCTRL: buffer only

@@ -1,0 +1,307 @@
+																																										
+General Info																																										
+																																										
+Run information																																										
+	Session name				SPabs_600_660_150612																																					
+	Session creator				admin																																					
+	Run name				SPabs_600_660_150612-Thursday.20.August-22:56:51																																					
+	Run creator				admin																																					
+	Run started				08/20/2015 22:56:51+02:00																																					
+	Total warnings				0																																					
+	Total errors				0																																					
+																																										
+Instrument parameters																																										
+	Instrument name				Varioskan																																					
+	Instrument version				3.01.15																																					
+	Instrument serial number				74																																					
+	Actual instrument temperature				<MIN 26.7 27																																					
+	Dispenser				1																																					
+	LumiSens module				N\A																																					
+	LumiSens scaling factor				N\A																																					
+																																										
+SW Parameters																																										
+	Run Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+	Current Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+
+																																										
+Steps Data																																										
+																																										
+Protocol properties																																										
+	Protocol name				SPabs_600_660_150612																																					
+	Protocol description				OD 600nm and 660nm for cell growth monitoring																																					
+	Plate template				Thermo Cliniplate, 96-well plate																																					
+	Execution block type				plate																																					
+	Execution order				3																																					
+	Settle delay [ms]				0																																					
+	Well interval [ms]				0																																					
+																																										
+Photometric1																																										
+	Measurement technology				Photometric																																					
+	Measurement type				Normal																																					
+	Step duration				0:00:00.0																																					
+	Lag time				0:00:00.0																																					
+	Measurement time [ms]				100																																					
+	Bandwidth [nm]				5																																					
+	Multipoint				Not in use																																					
+	Multiple wavelengths				True																																					
+	Measurement interval [ms]				0																																					
+	Wavelength [nm]				600																																					
+	Wavelength [nm]				660																																					
+
+																																										
+Sample Data																																										
+
+																																										
+Photometric1																																										
+																																										
+Plate	Well	Type	Sample	Value	Time (s)	WL																																				
+3275	A01	Unknown	growth 1/96	0.511381	0	600																																				
+3275	A01	Unknown	growth 1/96	0.461884	0.26	660																																				
+3275	B02	Unknown	growth 10/96	0.519605	14.33	600																																				
+3275	B02	Unknown	growth 10/96	0.472065	14.59	660																																				
+3275	C02	Unknown	growth 11/96	0.558678	16.28	600																																				
+3275	C02	Unknown	growth 11/96	0.506661	16.54	660																																				
+3275	D02	Unknown	growth 12/96	0.605602	29.96	600																																				
+3275	D02	Unknown	growth 12/96	0.553468	30.22	660																																				
+3275	E02	Unknown	growth 13/96	0.634434	31.91	600																																				
+3275	E02	Unknown	growth 13/96	0.580625	32.18	660																																				
+3275	F02	Unknown	growth 14/96	0.588067	45.59	600																																				
+3275	F02	Unknown	growth 14/96	0.536844	45.86	660																																				
+3275	G02	Unknown	growth 15/96	0.242885	47.55	600																																				
+3275	G02	Unknown	growth 15/96	0.218138	47.81	660																																				
+3275	H02	Unknown	growth 16/96	0.572607	61.23	600																																				
+3275	H02	Unknown	growth 16/96	0.522251	61.49	660																																				
+3275	A03	Unknown	growth 17/96	0.517244	1.3	600																																				
+3275	A03	Unknown	growth 17/96	0.467823	1.56	660																																				
+3275	B03	Unknown	growth 18/96	0.562487	13.68	600																																				
+3275	B03	Unknown	growth 18/96	0.51133	13.94	660																																				
+3275	C03	Unknown	growth 19/96	0.543356	16.93	600																																				
+3275	C03	Unknown	growth 19/96	0.492884	17.2	660																																				
+3275	B01	Unknown	growth 2/96	0.534408	14.98	600																																				
+3275	B01	Unknown	growth 2/96	0.484385	15.24	660																																				
+3275	D03	Unknown	growth 20/96	0.523341	29.31	600																																				
+3275	D03	Unknown	growth 20/96	0.47578	29.57	660																																				
+3275	E03	Unknown	growth 21/96	0.608132	32.57	600																																				
+3275	E03	Unknown	growth 21/96	0.556037	32.83	660																																				
+3275	F03	Unknown	growth 22/96	0.588601	44.94	600																																				
+3275	F03	Unknown	growth 22/96	0.537491	45.2	660																																				
+3275	G03	Unknown	growth 23/96	0.615567	48.2	600																																				
+3275	G03	Unknown	growth 23/96	0.561937	48.46	660																																				
+3275	H03	Unknown	growth 24/96	0.577302	60.58	600																																				
+3275	H03	Unknown	growth 24/96	0.525049	60.84	660																																				
+3275	A04	Unknown	growth 25/96	0.465722	1.95	600																																				
+3275	A04	Unknown	growth 25/96	0.419988	2.21	660																																				
+3275	B04	Unknown	growth 26/96	0.874206	13.02	600																																				
+3275	B04	Unknown	growth 26/96	0.815773	13.29	660																																				
+3275	C04	Unknown	growth 27/96	0.592092	17.58	600																																				
+3275	C04	Unknown	growth 27/96	0.539582	17.85	660																																				
+3275	D04	Unknown	growth 28/96	0.525744	28.66	600																																				
+3275	D04	Unknown	growth 28/96	0.479243	28.92	660																																				
+3275	E04	Unknown	growth 29/96	0.519706	33.22	600																																				
+3275	E04	Unknown	growth 29/96	0.474087	33.48	660																																				
+3275	C01	Unknown	growth 3/96	0.517285	15.63	600																																				
+3275	C01	Unknown	growth 3/96	0.468427	15.89	660																																				
+3275	F04	Unknown	growth 30/96	0.59125	44.29	600																																				
+3275	F04	Unknown	growth 30/96	0.54002	44.55	660																																				
+3275	G04	Unknown	growth 31/96	0.545077	48.85	600																																				
+3275	G04	Unknown	growth 31/96	0.498215	49.11	660																																				
+3275	H04	Unknown	growth 32/96	0.613826	59.92	600																																				
+3275	H04	Unknown	growth 32/96	0.562073	60.19	660																																				
+3275	A05	Unknown	growth 33/96	0.41769	2.6	600																																				
+3275	A05	Unknown	growth 33/96	0.374781	2.87	660																																				
+3275	B05	Unknown	growth 34/96	0.520104	12.37	600																																				
+3275	B05	Unknown	growth 34/96	0.470778	12.64	660																																				
+3275	C05	Unknown	growth 35/96	0.494597	18.24	600																																				
+3275	C05	Unknown	growth 35/96	0.447286	18.5	660																																				
+3275	D05	Unknown	growth 36/96	0.371865	28.01	600																																				
+3275	D05	Unknown	growth 36/96	0.334913	28.27	660																																				
+3275	E05	Unknown	growth 37/96	0.49999	33.87	600																																				
+3275	E05	Unknown	growth 37/96	0.454949	34.13	660																																				
+3275	F05	Unknown	growth 38/96	0.504319	43.64	600																																				
+3275	F05	Unknown	growth 38/96	0.457741	43.9	660																																				
+3275	G05	Unknown	growth 39/96	0.428952	49.5	600																																				
+3275	G05	Unknown	growth 39/96	0.390524	49.76	660																																				
+3275	D01	Unknown	growth 4/96	0.5674	30.61	600																																				
+3275	D01	Unknown	growth 4/96	0.515895	30.87	660																																				
+3275	H05	Unknown	growth 40/96	0.540739	59.27	600																																				
+3275	H05	Unknown	growth 40/96	0.49035	59.53	660																																				
+3275	A06	Unknown	growth 41/96	0.596529	3.25	600																																				
+3275	A06	Unknown	growth 41/96	0.543802	3.52	660																																				
+3275	B06	Unknown	growth 42/96	0.553604	11.72	600																																				
+3275	B06	Unknown	growth 42/96	0.508651	11.98	660																																				
+3275	C06	Unknown	growth 43/96	0.500553	18.89	600																																				
+3275	C06	Unknown	growth 43/96	0.453734	19.15	660																																				
+3275	D06	Unknown	growth 44/96	0.573627	27.35	600																																				
+3275	D06	Unknown	growth 44/96	0.524688	27.62	660																																				
+3275	E06	Unknown	growth 45/96	0.608328	34.52	600																																				
+3275	E06	Unknown	growth 45/96	0.555564	34.78	660																																				
+3275	F06	Unknown	growth 46/96	0.559557	42.99	600																																				
+3275	F06	Unknown	growth 46/96	0.51245	43.25	660																																				
+3275	G06	Unknown	growth 47/96	0.468067	50.15	600																																				
+3275	G06	Unknown	growth 47/96	0.42519	50.42	660																																				
+3275	H06	Unknown	growth 48/96	0.569227	58.62	600																																				
+3275	H06	Unknown	growth 48/96	0.518271	58.88	660																																				
+3275	A07	Unknown	growth 49/96	0.544002	3.91	600																																				
+3275	A07	Unknown	growth 49/96	0.494888	4.17	660																																				
+3275	E01	Unknown	growth 5/96	0.60492	31.26	600																																				
+3275	E01	Unknown	growth 5/96	0.551517	31.53	660																																				
+3275	B07	Unknown	growth 50/96	0.572745	11.07	600																																				
+3275	B07	Unknown	growth 50/96	0.526861	11.33	660																																				
+3275	C07	Unknown	growth 51/96	0.477346	19.54	600																																				
+3275	C07	Unknown	growth 51/96	0.43367	19.8	660																																				
+3275	D07	Unknown	growth 52/96	0.570009	26.7	600																																				
+3275	D07	Unknown	growth 52/96	0.522367	26.97	660																																				
+3275	E07	Unknown	growth 53/96	0.567715	35.17	600																																				
+3275	E07	Unknown	growth 53/96	0.517662	35.43	660																																				
+3275	F07	Unknown	growth 54/96	0.502691	42.34	600																																				
+3275	F07	Unknown	growth 54/96	0.457236	42.6	660																																				
+3275	G07	Unknown	growth 55/96	0.54602	50.8	600																																				
+3275	G07	Unknown	growth 55/96	0.497398	51.07	660																																				
+3275	H07	Unknown	growth 56/96	0.546707	57.97	600																																				
+3275	H07	Unknown	growth 56/96	0.49523	58.23	660																																				
+3275	A08	Unknown	growth 57/96	0.458015	4.56	600																																				
+3275	A08	Unknown	growth 57/96	0.412788	4.82	660																																				
+3275	B08	Unknown	growth 58/96	0.609148	10.42	600																																				
+3275	B08	Unknown	growth 58/96	0.556773	10.68	660																																				
+3275	C08	Unknown	growth 59/96	0.576349	20.19	600																																				
+3275	C08	Unknown	growth 59/96	0.524689	20.45	660																																				
+3275	F01	Unknown	growth 6/96	0.596626	46.24	600																																				
+3275	F01	Unknown	growth 6/96	0.544184	46.51	660																																				
+3275	D08	Unknown	growth 60/96	0.521164	26.05	600																																				
+3275	D08	Unknown	growth 60/96	0.474218	26.31	660																																				
+3275	E08	Unknown	growth 61/96	0.60172	35.82	600																																				
+3275	E08	Unknown	growth 61/96	0.55137	36.09	660																																				
+3275	F08	Unknown	growth 62/96	0.605081	41.69	600																																				
+3275	F08	Unknown	growth 62/96	0.553562	41.95	660																																				
+3275	G08	Unknown	growth 63/96	0.659384	51.46	600																																				
+3275	G08	Unknown	growth 63/96	0.60769	51.72	660																																				
+3275	H08	Unknown	growth 64/96	0.111047	57.32	600																																				
+3275	H08	Unknown	growth 64/96	0.0977571	57.58	660																																				
+3275	A09	Unknown	growth 65/96	0.552699	5.21	600																																				
+3275	A09	Unknown	growth 65/96	0.499216	5.47	660																																				
+3275	B09	Unknown	growth 66/96	0.621441	9.77	600																																				
+3275	B09	Unknown	growth 66/96	0.569564	10.03	660																																				
+3275	C09	Unknown	growth 67/96	0.554828	20.84	600																																				
+3275	C09	Unknown	growth 67/96	0.504582	21.1	660																																				
+3275	D09	Unknown	growth 68/96	0.514633	25.4	600																																				
+3275	D09	Unknown	growth 68/96	0.46821	25.66	660																																				
+3275	E09	Unknown	growth 69/96	0.461538	36.47	600																																				
+3275	E09	Unknown	growth 69/96	0.417741	36.74	660																																				
+3275	G01	Unknown	growth 7/96	0.181781	46.9	600																																				
+3275	G01	Unknown	growth 7/96	0.162257	47.16	660																																				
+3275	F09	Unknown	growth 70/96	0.504352	41.03	600																																				
+3275	F09	Unknown	growth 70/96	0.458157	41.3	660																																				
+3275	G09	Unknown	growth 71/96	0.583127	52.11	600																																				
+3275	G09	Unknown	growth 71/96	0.531152	52.37	660																																				
+3275	H09	Unknown	growth 72/96	0.624413	56.67	600																																				
+3275	H09	Unknown	growth 72/96	0.570001	56.93	660																																				
+3275	A10	Unknown	growth 73/96	0.626756	5.86	600																																				
+3275	A10	Unknown	growth 73/96	0.569354	6.12	660																																				
+3275	B10	Unknown	growth 74/96	0.607685	9.12	600																																				
+3275	B10	Unknown	growth 74/96	0.556112	9.38	660																																				
+3275	C10	Unknown	growth 75/96	0.545814	21.49	600																																				
+3275	C10	Unknown	growth 75/96	0.497224	21.75	660																																				
+3275	D10	Unknown	growth 76/96	0.722811	24.75	600																																				
+3275	D10	Unknown	growth 76/96	0.671447	25.01	660																																				
+3275	E10	Unknown	growth 77/96	0.653269	37.13	600																																				
+3275	E10	Unknown	growth 77/96	0.600364	37.39	660																																				
+3275	F10	Unknown	growth 78/96	0.693953	40.38	600																																				
+3275	F10	Unknown	growth 78/96	0.64258	40.64	660																																				
+3275	G10	Unknown	growth 79/96	0.629816	52.76	600																																				
+3275	G10	Unknown	growth 79/96	0.580766	53.02	660																																				
+3275	H01	Unknown	growth 8/96	0.646433	61.88	600																																				
+3275	H01	Unknown	growth 8/96	0.593057	62.14	660																																				
+3275	H10	Unknown	growth 80/96	0.557206	56.01	600																																				
+3275	H10	Unknown	growth 80/96	0.506595	56.28	660																																				
+3275	A11	Unknown	growth 81/96	0.6295	6.51	600																																				
+3275	A11	Unknown	growth 81/96	0.574478	6.77	660																																				
+3275	B11	Unknown	growth 82/96	0.61666	8.47	600																																				
+3275	B11	Unknown	growth 82/96	0.567859	8.73	660																																				
+3275	C11	Unknown	growth 83/96	0.610586	22.14	600																																				
+3275	C11	Unknown	growth 83/96	0.559178	22.41	660																																				
+3275	D11	Unknown	growth 84/96	0.621129	24.1	600																																				
+3275	D11	Unknown	growth 84/96	0.570327	24.36	660																																				
+3275	E11	Unknown	growth 85/96	0.641006	37.78	600																																				
+3275	E11	Unknown	growth 85/96	0.586977	38.04	660																																				
+3275	F11	Unknown	growth 86/96	0.621845	39.73	600																																				
+3275	F11	Unknown	growth 86/96	0.572427	39.99	660																																				
+3275	G11	Unknown	growth 87/96	0.531092	53.41	600																																				
+3275	G11	Unknown	growth 87/96	0.484402	53.67	660																																				
+3275	H11	Unknown	growth 88/96	0.566329	55.36	600																																				
+3275	H11	Unknown	growth 88/96	0.515036	55.63	660																																				
+3275	A12	Unknown	growth 89/96	0.610471	7.16	600																																				
+3275	A12	Unknown	growth 89/96	0.557413	7.43	660																																				
+3275	A02	Unknown	growth 9/96	0.562212	0.65	600																																				
+3275	A02	Unknown	growth 9/96	0.511333	0.91	660																																				
+3275	B12	Unknown	growth 90/96	0.635623	7.81	600																																				
+3275	B12	Unknown	growth 90/96	0.578896	8.08	660																																				
+3275	C12	Unknown	growth 91/96	0.675618	22.8	600																																				
+3275	C12	Unknown	growth 91/96	0.621841	23.06	660																																				
+3275	D12	Unknown	growth 92/96	0.555696	23.45	600																																				
+3275	D12	Unknown	growth 92/96	0.503693	23.71	660																																				
+3275	E12	Unknown	growth 93/96	0.53779	38.43	600																																				
+3275	E12	Unknown	growth 93/96	0.490298	38.69	660																																				
+3275	F12	Unknown	growth 94/96	0.610181	39.08	600																																				
+3275	F12	Unknown	growth 94/96	0.553922	39.34	660																																				
+3275	G12	Unknown	growth 95/96	0.649748	54.06	600																																				
+3275	G12	Unknown	growth 95/96	0.594912	54.32	660																																				
+3275	H12	Unknown	growth 96/96	0.663118	54.71	600																																				
+3275	H12	Unknown	growth 96/96	0.609935	54.97	660																																				
+
+																																										
+Layout																																										
+																																										
+Plate 1: 3275																																										
+																																										
+Sample	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth																														
+B	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth																														
+C	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth																														
+D	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth																														
+E	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth																														
+F	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth																														
+G	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth																														
+H	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth	growth																														
+																																										
+Type	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+B	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+C	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+D	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+E	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+F	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+G	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+H	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+																																										
+Conc/Dil	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+B	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+C	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+D	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+E	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+F	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+G	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+H	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+																																										
+Unit	1	2	3	4	5	6	7	8	9	10	11	12																														
+A																																										
+B																																										
+C																																										
+D																																										
+E																																										
+F																																										
+G																																										
+H																																										
+																																										
+Description																																										
+	No description																																									
+
+																																										
+Run Log																																										
+																																										
+																																										
+	2015-08-20 22:56:51+02:00 - Execution started																																									
+	2015-08-20 22:56:57+02:00 - Photometric1 started																																									
+	2015-08-20 22:58:00+02:00 - Photometric1 completed																																									
+	2015-08-20 22:58:00+02:00 - Execution completed																																									
+

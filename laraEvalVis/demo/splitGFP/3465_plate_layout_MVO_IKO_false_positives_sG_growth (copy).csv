@@ -1,0 +1,18 @@
+# Barcodes: 3421-3432; 3461-3472; 3481-3492,,,,,,,,,,,,
+# Description: This is a template file for plate layouts. It can be directly edited with a plain text editor or in a spread sheet program,,,,,,,,,,,,
+# rows=8 ; colums=12,,,,,,,,,,,,
+# Entry format: Type:Description; supported types: S: sample; R: reference; pCTRL: postitive control; nCTRL: negative control; BL: blank; 0: empty well,,,,,,,,,,,,
+# in case ALL fields of the substrate, cofactor or enzyme specifications are  empty, the standard concentrations in the header comment are  assumed for all fields.,,,,,,,,,,
+# A zero (0) in a field means that no Substrate/Cofactor/Enzyme was added => concentration = 0. Conc.,,,,,,,,,,,,
+# NA means, concentration was not determined. NA is also assumed, if no header concentration is given.,,,,,,,,,,
+# Standard volume unit is ul and concentration unit is mM,,,,,,,,,,,,
+HEAD_DESCR,1,2,3,4,5,6,7,8,9,10,11,12
+A,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank
+B,BL: blank,pCTRL:R7CaM,nCTRL: empty vector,R: R2CaM,R: R2CaM,R: R2CaM,R: R2CaM,R: R2CaM,R: R2CaM,R: R2CaM,R: R2CaM,BL: blank
+C,BL: blank,pCTRL:R7CaM,nCTRL: empty vector,S: R2CaM V91M,S: R2CaM V91M,S: R2CaM V91M,S: R2CaM V91M,S: R2CaM V91M,S: R2CaM V91M,S: R2CaM V91M,S: R2CaM V91M,BL: blank
+D,BL: blank,pCTRL:R7CaM,nCTRL: empty vector,S: R2CaM L112R,S: R2CaM L112R,S: R2CaM L112R,S: R2CaM L112R,S: R2CaM L112R,S: R2CaM L112R,S: R2CaM L112R,S: R2CaM L112R,BL: blank
+E,BL: blank,pCTRL:R7CaM,nCTRL: empty vector,S: R2CaM V121I,S: R2CaM V121I,S: R2CaM V121I,S: R2CaM V121I,S: R2CaM V121I,S: R2CaM V121I,S: R2CaM V121I,S: R2CaM V121I,BL: blank
+F,BL: blank,pCTRL:R7CaM,nCTRL: empty vector,S: R2CaM E123K,S: R2CaM E123K,S: R2CaM E123K,S: R2CaM E123K,S: R2CaM E123K,S: R2CaM E123K,S: R2CaM E123K,S: R2CaM E123K,BL: blank
+G,BL: blank,pCTRL:R7CaM,nCTRL: empty vector,S: R2CaM T146R,S: R2CaM T146R,S: R2CaM T146R,S: R2CaM T146R,S: R2CaM T146R,S: R2CaM T146R,S: R2CaM T146R,S: R2CaM T146R,BL: blank
+H,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank,BL: blank
+# Volumes : 200,,,,,,,,,,,,

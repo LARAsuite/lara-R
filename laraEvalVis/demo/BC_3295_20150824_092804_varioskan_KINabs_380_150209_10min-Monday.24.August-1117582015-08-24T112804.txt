@@ -1,0 +1,2163 @@
+																																										
+General Info																																										
+																																										
+Run information																																										
+	Session name				KINabs_380_150209_10min																																					
+	Session creator				admin																																					
+	Run name				KINabs_380_150209_10min-Monday.24.August-11:17:58																																					
+	Run creator				admin																																					
+	Run started				08/24/2015 11:17:58+02:00																																					
+	Total warnings				0																																					
+	Total errors				0																																					
+																																										
+Instrument parameters																																										
+	Instrument name				Varioskan																																					
+	Instrument version				3.01.15																																					
+	Instrument serial number				74																																					
+	Actual instrument temperature				<MIN 26.7 26.9																																					
+	Dispenser				1																																					
+	LumiSens module				N\A																																					
+	LumiSens scaling factor				N\A																																					
+																																										
+SW Parameters																																										
+	Run Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+	Current Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+
+																																										
+Sample Data																																										
+
+																																										
+Steps Data																																										
+																																										
+Protocol properties																																										
+	Protocol name				KINabs_380_150209_10min																																					
+	Protocol description				Kinetec assay for Kemp Eliminase at 380nm																																					
+	Plate template				96-well Greiner Bio-One, flat bottom plate																																					
+	Execution block type				plate																																					
+	Execution order				3																																					
+	Settle delay [ms]				0																																					
+	Well interval [ms]				0																																					
+																																										
+KineticLoop1																																										
+	Readings				20																																					
+	Kinetic interval				0:00:30.0																																					
+																																										
+Photometric1																																										
+	Measurement technology				Photometric																																					
+	Measurement type				Kinetic																																					
+	Step duration				0:00:00.0																																					
+	Lag time				0:00:00.0																																					
+	Measurement time [ms]				100																																					
+	Bandwidth [nm]				5																																					
+	Multipoint				Not in use																																					
+	Wavelength [nm]				380																																					
+																																										
+KineticCalculation1																																										
+	Processor Type				AvgRate																																					
+	Reaction				Undefined																																					
+	Kinetic Rate				s																																					
+	Ignore First N Readings				0																																					
+	Ignore Last N Readings				0																																					
+	Window				1																																					
+	Baseline				0																																					
+	Reading Index				1																																					
+	Change type				Absolute																																					
+	Change value				0																																					
+
+																																										
+Photometric1																																										
+																																										
+Plate	Well	Type	Sample	Value	Time (s)	WL	Read.																																			
+3295	A01	Unknown	Kemp 1/96	0.0949101	0	380	1																																			
+3295	A01	Unknown	Kemp 1/96	0.101213	29.99	380	2																																			
+3295	A01	Unknown	Kemp 1/96	0.107776	59.99	380	3																																			
+3295	A01	Unknown	Kemp 1/96	0.114502	89.99	380	4																																			
+3295	A01	Unknown	Kemp 1/96	0.121469	119.99	380	5																																			
+3295	A01	Unknown	Kemp 1/96	0.128646	149.99	380	6																																			
+3295	A01	Unknown	Kemp 1/96	0.13571	179.99	380	7																																			
+3295	A01	Unknown	Kemp 1/96	0.142997	209.99	380	8																																			
+3295	A01	Unknown	Kemp 1/96	0.150238	239.99	380	9																																			
+3295	A01	Unknown	Kemp 1/96	0.157588	269.99	380	10																																			
+3295	A01	Unknown	Kemp 1/96	0.164861	299.99	380	11																																			
+3295	A01	Unknown	Kemp 1/96	0.172097	329.99	380	12																																			
+3295	A01	Unknown	Kemp 1/96	0.17958	359.99	380	13																																			
+3295	A01	Unknown	Kemp 1/96	0.187005	389.99	380	14																																			
+3295	A01	Unknown	Kemp 1/96	0.194335	419.99	380	15																																			
+3295	A01	Unknown	Kemp 1/96	0.201885	449.99	380	16																																			
+3295	A01	Unknown	Kemp 1/96	0.209372	479.99	380	17																																			
+3295	A01	Unknown	Kemp 1/96	0.216839	509.99	380	18																																			
+3295	A01	Unknown	Kemp 1/96	0.224375	539.99	380	19																																			
+3295	A01	Unknown	Kemp 1/96	0.231794	569.99	380	20																																			
+3295	B02	Unknown	Kemp 10/96	0.0862668	35.05	380	2																																			
+3295	B02	Unknown	Kemp 10/96	0.0891137	65.05	380	3																																			
+3295	B02	Unknown	Kemp 10/96	0.0920265	95.05	380	4																																			
+3295	B02	Unknown	Kemp 10/96	0.09492	125.05	380	5																																			
+3295	B02	Unknown	Kemp 10/96	0.0979089	155.05	380	6																																			
+3295	B02	Unknown	Kemp 10/96	0.100922	185.05	380	7																																			
+3295	B02	Unknown	Kemp 10/96	0.104049	215.05	380	8																																			
+3295	B02	Unknown	Kemp 10/96	0.107226	245.05	380	9																																			
+3295	B02	Unknown	Kemp 10/96	0.110423	275.05	380	10																																			
+3295	B02	Unknown	Kemp 10/96	0.113729	305.05	380	11																																			
+3295	B02	Unknown	Kemp 10/96	0.117042	335.05	380	12																																			
+3295	B02	Unknown	Kemp 10/96	0.120371	365.05	380	13																																			
+3295	B02	Unknown	Kemp 10/96	0.123768	395.05	380	14																																			
+3295	B02	Unknown	Kemp 10/96	0.127119	425.05	380	15																																			
+3295	B02	Unknown	Kemp 10/96	0.130565	455.05	380	16																																			
+3295	B02	Unknown	Kemp 10/96	0.134074	485.05	380	17																																			
+3295	B02	Unknown	Kemp 10/96	0.137377	515.05	380	18																																			
+3295	B02	Unknown	Kemp 10/96	0.140981	545.05	380	19																																			
+3295	B02	Unknown	Kemp 10/96	0.14449	575.05	380	20																																			
+3295	B02	Unknown	Kemp 10/96	0.0834462	5.06	380	1																																			
+3295	C02	Unknown	Kemp 11/96	0.0878966	35.74	380	2																																			
+3295	C02	Unknown	Kemp 11/96	0.0910652	65.74	380	3																																			
+3295	C02	Unknown	Kemp 11/96	0.0945083	95.74	380	4																																			
+3295	C02	Unknown	Kemp 11/96	0.09785	125.74	380	5																																			
+3295	C02	Unknown	Kemp 11/96	0.101281	155.74	380	6																																			
+3295	C02	Unknown	Kemp 11/96	0.104796	185.74	380	7																																			
+3295	C02	Unknown	Kemp 11/96	0.108755	215.74	380	8																																			
+3295	C02	Unknown	Kemp 11/96	0.111972	245.74	380	9																																			
+3295	C02	Unknown	Kemp 11/96	0.115895	275.74	380	10																																			
+3295	C02	Unknown	Kemp 11/96	0.119744	305.74	380	11																																			
+3295	C02	Unknown	Kemp 11/96	0.123416	335.74	380	12																																			
+3295	C02	Unknown	Kemp 11/96	0.127355	365.74	380	13																																			
+3295	C02	Unknown	Kemp 11/96	0.131224	395.74	380	14																																			
+3295	C02	Unknown	Kemp 11/96	0.1353	425.74	380	15																																			
+3295	C02	Unknown	Kemp 11/96	0.139074	455.74	380	16																																			
+3295	C02	Unknown	Kemp 11/96	0.143022	485.74	380	17																																			
+3295	C02	Unknown	Kemp 11/96	0.147016	515.74	380	18																																			
+3295	C02	Unknown	Kemp 11/96	0.151005	545.74	380	19																																			
+3295	C02	Unknown	Kemp 11/96	0.154953	575.74	380	20																																			
+3295	C02	Unknown	Kemp 11/96	0.0845362	5.75	380	1																																			
+3295	D02	Unknown	Kemp 12/96	0.0839669	10.58	380	1																																			
+3295	D02	Unknown	Kemp 12/96	0.0866337	40.57	380	2																																			
+3295	D02	Unknown	Kemp 12/96	0.0894424	70.57	380	3																																			
+3295	D02	Unknown	Kemp 12/96	0.0924378	100.57	380	4																																			
+3295	D02	Unknown	Kemp 12/96	0.0951607	130.57	380	5																																			
+3295	D02	Unknown	Kemp 12/96	0.0980672	160.57	380	6																																			
+3295	D02	Unknown	Kemp 12/96	0.101189	190.57	380	7																																			
+3295	D02	Unknown	Kemp 12/96	0.104218	220.57	380	8																																			
+3295	D02	Unknown	Kemp 12/96	0.10738	250.57	380	9																																			
+3295	D02	Unknown	Kemp 12/96	0.110464	280.57	380	10																																			
+3295	D02	Unknown	Kemp 12/96	0.113757	310.57	380	11																																			
+3295	D02	Unknown	Kemp 12/96	0.11697	340.57	380	12																																			
+3295	D02	Unknown	Kemp 12/96	0.120239	370.57	380	13																																			
+3295	D02	Unknown	Kemp 12/96	0.123594	400.57	380	14																																			
+3295	D02	Unknown	Kemp 12/96	0.126921	430.57	380	15																																			
+3295	D02	Unknown	Kemp 12/96	0.130316	460.57	380	16																																			
+3295	D02	Unknown	Kemp 12/96	0.133696	490.57	380	17																																			
+3295	D02	Unknown	Kemp 12/96	0.137228	520.57	380	18																																			
+3295	D02	Unknown	Kemp 12/96	0.140548	550.57	380	19																																			
+3295	D02	Unknown	Kemp 12/96	0.144069	580.57	380	20																																			
+3295	E02	Unknown	Kemp 13/96	0.0834618	11.27	380	1																																			
+3295	E02	Unknown	Kemp 13/96	0.0865681	41.26	380	2																																			
+3295	E02	Unknown	Kemp 13/96	0.0896909	71.26	380	3																																			
+3295	E02	Unknown	Kemp 13/96	0.0927223	101.26	380	4																																			
+3295	E02	Unknown	Kemp 13/96	0.0958625	131.26	380	5																																			
+3295	E02	Unknown	Kemp 13/96	0.0988833	161.26	380	6																																			
+3295	E02	Unknown	Kemp 13/96	0.102057	191.26	380	7																																			
+3295	E02	Unknown	Kemp 13/96	0.105409	221.26	380	8																																			
+3295	E02	Unknown	Kemp 13/96	0.108741	251.26	380	9																																			
+3295	E02	Unknown	Kemp 13/96	0.11207	281.26	380	10																																			
+3295	E02	Unknown	Kemp 13/96	0.11551	311.26	380	11																																			
+3295	E02	Unknown	Kemp 13/96	0.118803	341.26	380	12																																			
+3295	E02	Unknown	Kemp 13/96	0.122266	371.26	380	13																																			
+3295	E02	Unknown	Kemp 13/96	0.125757	401.26	380	14																																			
+3295	E02	Unknown	Kemp 13/96	0.129388	431.26	380	15																																			
+3295	E02	Unknown	Kemp 13/96	0.132913	461.26	380	16																																			
+3295	E02	Unknown	Kemp 13/96	0.136492	491.26	380	17																																			
+3295	E02	Unknown	Kemp 13/96	0.139931	521.26	380	18																																			
+3295	E02	Unknown	Kemp 13/96	0.143587	551.26	380	19																																			
+3295	E02	Unknown	Kemp 13/96	0.147285	581.26	380	20																																			
+3295	F02	Unknown	Kemp 14/96	0.103929	16.1	380	1																																			
+3295	F02	Unknown	Kemp 14/96	0.111614	46.09	380	2																																			
+3295	F02	Unknown	Kemp 14/96	0.119626	76.09	380	3																																			
+3295	F02	Unknown	Kemp 14/96	0.127712	106.09	380	4																																			
+3295	F02	Unknown	Kemp 14/96	0.135786	136.09	380	5																																			
+3295	F02	Unknown	Kemp 14/96	0.14411	166.09	380	6																																			
+3295	F02	Unknown	Kemp 14/96	0.152337	196.09	380	7																																			
+3295	F02	Unknown	Kemp 14/96	0.16069	226.09	380	8																																			
+3295	F02	Unknown	Kemp 14/96	0.169155	256.09	380	9																																			
+3295	F02	Unknown	Kemp 14/96	0.177691	286.09	380	10																																			
+3295	F02	Unknown	Kemp 14/96	0.186302	316.09	380	11																																			
+3295	F02	Unknown	Kemp 14/96	0.195101	346.09	380	12																																			
+3295	F02	Unknown	Kemp 14/96	0.203785	376.09	380	13																																			
+3295	F02	Unknown	Kemp 14/96	0.212424	406.09	380	14																																			
+3295	F02	Unknown	Kemp 14/96	0.221196	436.09	380	15																																			
+3295	F02	Unknown	Kemp 14/96	0.22978	466.09	380	16																																			
+3295	F02	Unknown	Kemp 14/96	0.238538	496.09	380	17																																			
+3295	F02	Unknown	Kemp 14/96	0.24727	526.09	380	18																																			
+3295	F02	Unknown	Kemp 14/96	0.256041	556.09	380	19																																			
+3295	F02	Unknown	Kemp 14/96	0.264732	586.09	380	20																																			
+3295	G02	Unknown	Kemp 15/96	0.0938172	16.79	380	1																																			
+3295	G02	Unknown	Kemp 15/96	0.0988801	46.78	380	2																																			
+3295	G02	Unknown	Kemp 15/96	0.104164	76.78	380	3																																			
+3295	G02	Unknown	Kemp 15/96	0.10941	106.78	380	4																																			
+3295	G02	Unknown	Kemp 15/96	0.115084	136.78	380	5																																			
+3295	G02	Unknown	Kemp 15/96	0.120402	166.78	380	6																																			
+3295	G02	Unknown	Kemp 15/96	0.126074	196.78	380	7																																			
+3295	G02	Unknown	Kemp 15/96	0.131814	226.78	380	8																																			
+3295	G02	Unknown	Kemp 15/96	0.137696	256.78	380	9																																			
+3295	G02	Unknown	Kemp 15/96	0.143642	286.78	380	10																																			
+3295	G02	Unknown	Kemp 15/96	0.149444	316.78	380	11																																			
+3295	G02	Unknown	Kemp 15/96	0.15534	346.78	380	12																																			
+3295	G02	Unknown	Kemp 15/96	0.161393	376.78	380	13																																			
+3295	G02	Unknown	Kemp 15/96	0.167421	406.78	380	14																																			
+3295	G02	Unknown	Kemp 15/96	0.173545	436.78	380	15																																			
+3295	G02	Unknown	Kemp 15/96	0.179634	466.78	380	16																																			
+3295	G02	Unknown	Kemp 15/96	0.185714	496.78	380	17																																			
+3295	G02	Unknown	Kemp 15/96	0.191842	526.78	380	18																																			
+3295	G02	Unknown	Kemp 15/96	0.198139	556.78	380	19																																			
+3295	G02	Unknown	Kemp 15/96	0.204162	586.78	380	20																																			
+3295	H02	Unknown	Kemp 16/96	0.0947506	21.62	380	1																																			
+3295	H02	Unknown	Kemp 16/96	0.0995942	51.61	380	2																																			
+3295	H02	Unknown	Kemp 16/96	0.104795	81.61	380	3																																			
+3295	H02	Unknown	Kemp 16/96	0.109872	111.61	380	4																																			
+3295	H02	Unknown	Kemp 16/96	0.115011	141.61	380	5																																			
+3295	H02	Unknown	Kemp 16/96	0.120602	171.61	380	6																																			
+3295	H02	Unknown	Kemp 16/96	0.126003	201.61	380	7																																			
+3295	H02	Unknown	Kemp 16/96	0.131636	231.61	380	8																																			
+3295	H02	Unknown	Kemp 16/96	0.137354	261.61	380	9																																			
+3295	H02	Unknown	Kemp 16/96	0.142909	291.61	380	10																																			
+3295	H02	Unknown	Kemp 16/96	0.148619	321.61	380	11																																			
+3295	H02	Unknown	Kemp 16/96	0.154209	351.61	380	12																																			
+3295	H02	Unknown	Kemp 16/96	0.160112	381.61	380	13																																			
+3295	H02	Unknown	Kemp 16/96	0.165861	411.61	380	14																																			
+3295	H02	Unknown	Kemp 16/96	0.171763	441.61	380	15																																			
+3295	H02	Unknown	Kemp 16/96	0.177636	471.61	380	16																																			
+3295	H02	Unknown	Kemp 16/96	0.183434	501.61	380	17																																			
+3295	H02	Unknown	Kemp 16/96	0.189275	531.61	380	18																																			
+3295	H02	Unknown	Kemp 16/96	0.195312	561.61	380	19																																			
+3295	H02	Unknown	Kemp 16/96	0.201217	591.61	380	20																																			
+3295	A03	Unknown	Kemp 17/96	0.0943811	30.45	380	2																																			
+3295	A03	Unknown	Kemp 17/96	0.0992609	60.45	380	3																																			
+3295	A03	Unknown	Kemp 17/96	0.104372	90.45	380	4																																			
+3295	A03	Unknown	Kemp 17/96	0.109458	120.45	380	5																																			
+3295	A03	Unknown	Kemp 17/96	0.11495	150.45	380	6																																			
+3295	A03	Unknown	Kemp 17/96	0.120223	180.45	380	7																																			
+3295	A03	Unknown	Kemp 17/96	0.125695	210.45	380	8																																			
+3295	A03	Unknown	Kemp 17/96	0.131381	240.45	380	9																																			
+3295	A03	Unknown	Kemp 17/96	0.136881	270.45	380	10																																			
+3295	A03	Unknown	Kemp 17/96	0.14251	300.45	380	11																																			
+3295	A03	Unknown	Kemp 17/96	0.148108	330.45	380	12																																			
+3295	A03	Unknown	Kemp 17/96	0.153891	360.45	380	13																																			
+3295	A03	Unknown	Kemp 17/96	0.159625	390.45	380	14																																			
+3295	A03	Unknown	Kemp 17/96	0.165349	420.45	380	15																																			
+3295	A03	Unknown	Kemp 17/96	0.171048	450.45	380	16																																			
+3295	A03	Unknown	Kemp 17/96	0.176826	480.45	380	17																																			
+3295	A03	Unknown	Kemp 17/96	0.182621	510.45	380	18																																			
+3295	A03	Unknown	Kemp 17/96	0.188538	540.45	380	19																																			
+3295	A03	Unknown	Kemp 17/96	0.194363	570.45	380	20																																			
+3295	A03	Unknown	Kemp 17/96	0.0892739	0.46	380	1																																			
+3295	B03	Unknown	Kemp 18/96	0.0914661	34.82	380	2																																			
+3295	B03	Unknown	Kemp 18/96	0.0958467	64.82	380	3																																			
+3295	B03	Unknown	Kemp 18/96	0.100458	94.82	380	4																																			
+3295	B03	Unknown	Kemp 18/96	0.105028	124.82	380	5																																			
+3295	B03	Unknown	Kemp 18/96	0.109684	154.82	380	6																																			
+3295	B03	Unknown	Kemp 18/96	0.114258	184.82	380	7																																			
+3295	B03	Unknown	Kemp 18/96	0.119021	214.82	380	8																																			
+3295	B03	Unknown	Kemp 18/96	0.123811	244.82	380	9																																			
+3295	B03	Unknown	Kemp 18/96	0.128669	274.82	380	10																																			
+3295	B03	Unknown	Kemp 18/96	0.133534	304.82	380	11																																			
+3295	B03	Unknown	Kemp 18/96	0.138418	334.82	380	12																																			
+3295	B03	Unknown	Kemp 18/96	0.143467	364.82	380	13																																			
+3295	B03	Unknown	Kemp 18/96	0.148385	394.82	380	14																																			
+3295	B03	Unknown	Kemp 18/96	0.153416	424.82	380	15																																			
+3295	B03	Unknown	Kemp 18/96	0.1585	454.82	380	16																																			
+3295	B03	Unknown	Kemp 18/96	0.163635	484.82	380	17																																			
+3295	B03	Unknown	Kemp 18/96	0.168656	514.82	380	18																																			
+3295	B03	Unknown	Kemp 18/96	0.173729	544.82	380	19																																			
+3295	B03	Unknown	Kemp 18/96	0.179013	574.82	380	20																																			
+3295	B03	Unknown	Kemp 18/96	0.0867078	4.83	380	1																																			
+3295	C03	Unknown	Kemp 19/96	0.0813238	5.98	380	1																																			
+3295	C03	Unknown	Kemp 19/96	0.0837804	35.97	380	2																																			
+3295	C03	Unknown	Kemp 19/96	0.0860383	65.97	380	3																																			
+3295	C03	Unknown	Kemp 19/96	0.0885872	95.97	380	4																																			
+3295	C03	Unknown	Kemp 19/96	0.0911081	125.97	380	5																																			
+3295	C03	Unknown	Kemp 19/96	0.0937472	155.97	380	6																																			
+3295	C03	Unknown	Kemp 19/96	0.0964803	185.97	380	7																																			
+3295	C03	Unknown	Kemp 19/96	0.0990541	215.97	380	8																																			
+3295	C03	Unknown	Kemp 19/96	0.101575	245.97	380	9																																			
+3295	C03	Unknown	Kemp 19/96	0.104333	275.97	380	10																																			
+3295	C03	Unknown	Kemp 19/96	0.107098	305.97	380	11																																			
+3295	C03	Unknown	Kemp 19/96	0.10976	335.97	380	12																																			
+3295	C03	Unknown	Kemp 19/96	0.112858	365.97	380	13																																			
+3295	C03	Unknown	Kemp 19/96	0.115681	395.97	380	14																																			
+3295	C03	Unknown	Kemp 19/96	0.118618	425.97	380	15																																			
+3295	C03	Unknown	Kemp 19/96	0.121463	455.97	380	16																																			
+3295	C03	Unknown	Kemp 19/96	0.12458	485.97	380	17																																			
+3295	C03	Unknown	Kemp 19/96	0.127622	515.97	380	18																																			
+3295	C03	Unknown	Kemp 19/96	0.130709	545.97	380	19																																			
+3295	C03	Unknown	Kemp 19/96	0.133666	575.97	380	20																																			
+3295	B01	Unknown	Kemp 2/96	0.0934843	35.28	380	2																																			
+3295	B01	Unknown	Kemp 2/96	0.0977616	65.28	380	3																																			
+3295	B01	Unknown	Kemp 2/96	0.102407	95.28	380	4																																			
+3295	B01	Unknown	Kemp 2/96	0.107072	125.28	380	5																																			
+3295	B01	Unknown	Kemp 2/96	0.111916	155.28	380	6																																			
+3295	B01	Unknown	Kemp 2/96	0.11702	185.28	380	7																																			
+3295	B01	Unknown	Kemp 2/96	0.122096	215.28	380	8																																			
+3295	B01	Unknown	Kemp 2/96	0.127247	245.28	380	9																																			
+3295	B01	Unknown	Kemp 2/96	0.132656	275.28	380	10																																			
+3295	B01	Unknown	Kemp 2/96	0.137774	305.28	380	11																																			
+3295	B01	Unknown	Kemp 2/96	0.142895	335.28	380	12																																			
+3295	B01	Unknown	Kemp 2/96	0.148255	365.28	380	13																																			
+3295	B01	Unknown	Kemp 2/96	0.153575	395.28	380	14																																			
+3295	B01	Unknown	Kemp 2/96	0.158803	425.28	380	15																																			
+3295	B01	Unknown	Kemp 2/96	0.164165	455.28	380	16																																			
+3295	B01	Unknown	Kemp 2/96	0.169535	485.28	380	17																																			
+3295	B01	Unknown	Kemp 2/96	0.174854	515.28	380	18																																			
+3295	B01	Unknown	Kemp 2/96	0.180237	545.28	380	19																																			
+3295	B01	Unknown	Kemp 2/96	0.185789	575.28	380	20																																			
+3295	B01	Unknown	Kemp 2/96	0.0889095	5.29	380	1																																			
+3295	D03	Unknown	Kemp 20/96	0.0854198	10.35	380	1																																			
+3295	D03	Unknown	Kemp 20/96	0.0885798	40.34	380	2																																			
+3295	D03	Unknown	Kemp 20/96	0.0920352	70.34	380	3																																			
+3295	D03	Unknown	Kemp 20/96	0.0953302	100.34	380	4																																			
+3295	D03	Unknown	Kemp 20/96	0.0986428	130.34	380	5																																			
+3295	D03	Unknown	Kemp 20/96	0.101987	160.34	380	6																																			
+3295	D03	Unknown	Kemp 20/96	0.105702	190.34	380	7																																			
+3295	D03	Unknown	Kemp 20/96	0.109234	220.34	380	8																																			
+3295	D03	Unknown	Kemp 20/96	0.112923	250.34	380	9																																			
+3295	D03	Unknown	Kemp 20/96	0.116634	280.34	380	10																																			
+3295	D03	Unknown	Kemp 20/96	0.12023	310.34	380	11																																			
+3295	D03	Unknown	Kemp 20/96	0.12408	340.34	380	12																																			
+3295	D03	Unknown	Kemp 20/96	0.127874	370.34	380	13																																			
+3295	D03	Unknown	Kemp 20/96	0.13177	400.34	380	14																																			
+3295	D03	Unknown	Kemp 20/96	0.135607	430.34	380	15																																			
+3295	D03	Unknown	Kemp 20/96	0.139536	460.34	380	16																																			
+3295	D03	Unknown	Kemp 20/96	0.143389	490.34	380	17																																			
+3295	D03	Unknown	Kemp 20/96	0.147428	520.34	380	18																																			
+3295	D03	Unknown	Kemp 20/96	0.151327	550.34	380	19																																			
+3295	D03	Unknown	Kemp 20/96	0.155278	580.34	380	20																																			
+3295	E03	Unknown	Kemp 21/96	0.0888115	11.5	380	1																																			
+3295	E03	Unknown	Kemp 21/96	0.0926357	41.49	380	2																																			
+3295	E03	Unknown	Kemp 21/96	0.0966069	71.49	380	3																																			
+3295	E03	Unknown	Kemp 21/96	0.100642	101.49	380	4																																			
+3295	E03	Unknown	Kemp 21/96	0.104653	131.49	380	5																																			
+3295	E03	Unknown	Kemp 21/96	0.10855	161.49	380	6																																			
+3295	E03	Unknown	Kemp 21/96	0.112855	191.49	380	7																																			
+3295	E03	Unknown	Kemp 21/96	0.117207	221.49	380	8																																			
+3295	E03	Unknown	Kemp 21/96	0.121382	251.49	380	9																																			
+3295	E03	Unknown	Kemp 21/96	0.125716	281.49	380	10																																			
+3295	E03	Unknown	Kemp 21/96	0.130075	311.49	380	11																																			
+3295	E03	Unknown	Kemp 21/96	0.134488	341.49	380	12																																			
+3295	E03	Unknown	Kemp 21/96	0.139112	371.49	380	13																																			
+3295	E03	Unknown	Kemp 21/96	0.143623	401.49	380	14																																			
+3295	E03	Unknown	Kemp 21/96	0.148206	431.49	380	15																																			
+3295	E03	Unknown	Kemp 21/96	0.152728	461.49	380	16																																			
+3295	E03	Unknown	Kemp 21/96	0.157277	491.49	380	17																																			
+3295	E03	Unknown	Kemp 21/96	0.161896	521.49	380	18																																			
+3295	E03	Unknown	Kemp 21/96	0.166618	551.49	380	19																																			
+3295	E03	Unknown	Kemp 21/96	0.171326	581.49	380	20																																			
+3295	F03	Unknown	Kemp 22/96	0.0889312	15.87	380	1																																			
+3295	F03	Unknown	Kemp 22/96	0.0927784	45.86	380	2																																			
+3295	F03	Unknown	Kemp 22/96	0.0968112	75.86	380	3																																			
+3295	F03	Unknown	Kemp 22/96	0.100839	105.86	380	4																																			
+3295	F03	Unknown	Kemp 22/96	0.104987	135.86	380	5																																			
+3295	F03	Unknown	Kemp 22/96	0.10913	165.86	380	6																																			
+3295	F03	Unknown	Kemp 22/96	0.113301	195.86	380	7																																			
+3295	F03	Unknown	Kemp 22/96	0.117613	225.86	380	8																																			
+3295	F03	Unknown	Kemp 22/96	0.12199	255.86	380	9																																			
+3295	F03	Unknown	Kemp 22/96	0.126428	285.86	380	10																																			
+3295	F03	Unknown	Kemp 22/96	0.130917	315.86	380	11																																			
+3295	F03	Unknown	Kemp 22/96	0.135564	345.86	380	12																																			
+3295	F03	Unknown	Kemp 22/96	0.140089	375.86	380	13																																			
+3295	F03	Unknown	Kemp 22/96	0.144781	405.86	380	14																																			
+3295	F03	Unknown	Kemp 22/96	0.149368	435.86	380	15																																			
+3295	F03	Unknown	Kemp 22/96	0.154097	465.86	380	16																																			
+3295	F03	Unknown	Kemp 22/96	0.158733	495.86	380	17																																			
+3295	F03	Unknown	Kemp 22/96	0.163523	525.86	380	18																																			
+3295	F03	Unknown	Kemp 22/96	0.168215	555.86	380	19																																			
+3295	F03	Unknown	Kemp 22/96	0.17298	585.86	380	20																																			
+3295	G03	Unknown	Kemp 23/96	0.0952907	17.02	380	1																																			
+3295	G03	Unknown	Kemp 23/96	0.101259	47.01	380	2																																			
+3295	G03	Unknown	Kemp 23/96	0.107154	77.01	380	3																																			
+3295	G03	Unknown	Kemp 23/96	0.113202	107.01	380	4																																			
+3295	G03	Unknown	Kemp 23/96	0.119369	137.01	380	5																																			
+3295	G03	Unknown	Kemp 23/96	0.125574	167.01	380	6																																			
+3295	G03	Unknown	Kemp 23/96	0.131809	197.01	380	7																																			
+3295	G03	Unknown	Kemp 23/96	0.138271	227.01	380	8																																			
+3295	G03	Unknown	Kemp 23/96	0.144596	257.01	380	9																																			
+3295	G03	Unknown	Kemp 23/96	0.151036	287.01	380	10																																			
+3295	G03	Unknown	Kemp 23/96	0.157567	317.01	380	11																																			
+3295	G03	Unknown	Kemp 23/96	0.164142	347.01	380	12																																			
+3295	G03	Unknown	Kemp 23/96	0.170696	377.01	380	13																																			
+3295	G03	Unknown	Kemp 23/96	0.177427	407.01	380	14																																			
+3295	G03	Unknown	Kemp 23/96	0.184163	437.01	380	15																																			
+3295	G03	Unknown	Kemp 23/96	0.190629	467.01	380	16																																			
+3295	G03	Unknown	Kemp 23/96	0.197285	497.01	380	17																																			
+3295	G03	Unknown	Kemp 23/96	0.204076	527.01	380	18																																			
+3295	G03	Unknown	Kemp 23/96	0.210939	557.01	380	19																																			
+3295	G03	Unknown	Kemp 23/96	0.217666	587.01	380	20																																			
+3295	H03	Unknown	Kemp 24/96	0.0926204	21.39	380	1																																			
+3295	H03	Unknown	Kemp 24/96	0.097732	51.38	380	2																																			
+3295	H03	Unknown	Kemp 24/96	0.10288	81.38	380	3																																			
+3295	H03	Unknown	Kemp 24/96	0.108013	111.38	380	4																																			
+3295	H03	Unknown	Kemp 24/96	0.113254	141.38	380	5																																			
+3295	H03	Unknown	Kemp 24/96	0.118628	171.38	380	6																																			
+3295	H03	Unknown	Kemp 24/96	0.124032	201.38	380	7																																			
+3295	H03	Unknown	Kemp 24/96	0.129426	231.38	380	8																																			
+3295	H03	Unknown	Kemp 24/96	0.13492	261.38	380	9																																			
+3295	H03	Unknown	Kemp 24/96	0.140457	291.38	380	10																																			
+3295	H03	Unknown	Kemp 24/96	0.146094	321.38	380	11																																			
+3295	H03	Unknown	Kemp 24/96	0.151739	351.38	380	12																																			
+3295	H03	Unknown	Kemp 24/96	0.157408	381.38	380	13																																			
+3295	H03	Unknown	Kemp 24/96	0.163067	411.38	380	14																																			
+3295	H03	Unknown	Kemp 24/96	0.168776	441.38	380	15																																			
+3295	H03	Unknown	Kemp 24/96	0.174636	471.38	380	16																																			
+3295	H03	Unknown	Kemp 24/96	0.180289	501.38	380	17																																			
+3295	H03	Unknown	Kemp 24/96	0.186203	531.38	380	18																																			
+3295	H03	Unknown	Kemp 24/96	0.191938	561.38	380	19																																			
+3295	H03	Unknown	Kemp 24/96	0.197727	591.38	380	20																																			
+3295	A04	Unknown	Kemp 25/96	0.104402	30.68	380	2																																			
+3295	A04	Unknown	Kemp 25/96	0.111742	60.68	380	3																																			
+3295	A04	Unknown	Kemp 25/96	0.119449	90.68	380	4																																			
+3295	A04	Unknown	Kemp 25/96	0.127356	120.68	380	5																																			
+3295	A04	Unknown	Kemp 25/96	0.135347	150.68	380	6																																			
+3295	A04	Unknown	Kemp 25/96	0.143242	180.68	380	7																																			
+3295	A04	Unknown	Kemp 25/96	0.151504	210.68	380	8																																			
+3295	A04	Unknown	Kemp 25/96	0.159772	240.68	380	9																																			
+3295	A04	Unknown	Kemp 25/96	0.168017	270.68	380	10																																			
+3295	A04	Unknown	Kemp 25/96	0.176324	300.68	380	11																																			
+3295	A04	Unknown	Kemp 25/96	0.184669	330.68	380	12																																			
+3295	A04	Unknown	Kemp 25/96	0.193013	360.68	380	13																																			
+3295	A04	Unknown	Kemp 25/96	0.201308	390.68	380	14																																			
+3295	A04	Unknown	Kemp 25/96	0.209814	420.68	380	15																																			
+3295	A04	Unknown	Kemp 25/96	0.218116	450.68	380	16																																			
+3295	A04	Unknown	Kemp 25/96	0.226529	480.68	380	17																																			
+3295	A04	Unknown	Kemp 25/96	0.234995	510.68	380	18																																			
+3295	A04	Unknown	Kemp 25/96	0.243565	540.68	380	19																																			
+3295	A04	Unknown	Kemp 25/96	0.251864	570.68	380	20																																			
+3295	A04	Unknown	Kemp 25/96	0.0971234	0.69	380	1																																			
+3295	B04	Unknown	Kemp 26/96	0.102511	34.59	380	2																																			
+3295	B04	Unknown	Kemp 26/96	0.109713	64.59	380	3																																			
+3295	B04	Unknown	Kemp 26/96	0.11712	94.59	380	4																																			
+3295	B04	Unknown	Kemp 26/96	0.124818	124.59	380	5																																			
+3295	B04	Unknown	Kemp 26/96	0.132391	154.59	380	6																																			
+3295	B04	Unknown	Kemp 26/96	0.140157	184.59	380	7																																			
+3295	B04	Unknown	Kemp 26/96	0.14802	214.59	380	8																																			
+3295	B04	Unknown	Kemp 26/96	0.155887	244.59	380	9																																			
+3295	B04	Unknown	Kemp 26/96	0.164079	274.59	380	10																																			
+3295	B04	Unknown	Kemp 26/96	0.171814	304.59	380	11																																			
+3295	B04	Unknown	Kemp 26/96	0.179827	334.59	380	12																																			
+3295	B04	Unknown	Kemp 26/96	0.187811	364.59	380	13																																			
+3295	B04	Unknown	Kemp 26/96	0.19583	394.59	380	14																																			
+3295	B04	Unknown	Kemp 26/96	0.203869	424.59	380	15																																			
+3295	B04	Unknown	Kemp 26/96	0.211934	454.59	380	16																																			
+3295	B04	Unknown	Kemp 26/96	0.220067	484.59	380	17																																			
+3295	B04	Unknown	Kemp 26/96	0.22805	514.59	380	18																																			
+3295	B04	Unknown	Kemp 26/96	0.236361	544.59	380	19																																			
+3295	B04	Unknown	Kemp 26/96	0.244419	574.59	380	20																																			
+3295	B04	Unknown	Kemp 26/96	0.0954913	4.6	380	1																																			
+3295	C04	Unknown	Kemp 27/96	0.0882759	6.21	380	1																																			
+3295	C04	Unknown	Kemp 27/96	0.0926046	36.2	380	2																																			
+3295	C04	Unknown	Kemp 27/96	0.0966044	66.2	380	3																																			
+3295	C04	Unknown	Kemp 27/96	0.101109	96.2	380	4																																			
+3295	C04	Unknown	Kemp 27/96	0.105461	126.2	380	5																																			
+3295	C04	Unknown	Kemp 27/96	0.110024	156.2	380	6																																			
+3295	C04	Unknown	Kemp 27/96	0.114533	186.2	380	7																																			
+3295	C04	Unknown	Kemp 27/96	0.119168	216.2	380	8																																			
+3295	C04	Unknown	Kemp 27/96	0.123666	246.2	380	9																																			
+3295	C04	Unknown	Kemp 27/96	0.128416	276.2	380	10																																			
+3295	C04	Unknown	Kemp 27/96	0.133203	306.2	380	11																																			
+3295	C04	Unknown	Kemp 27/96	0.137901	336.2	380	12																																			
+3295	C04	Unknown	Kemp 27/96	0.142928	366.2	380	13																																			
+3295	C04	Unknown	Kemp 27/96	0.147822	396.2	380	14																																			
+3295	C04	Unknown	Kemp 27/96	0.152732	426.2	380	15																																			
+3295	C04	Unknown	Kemp 27/96	0.157607	456.2	380	16																																			
+3295	C04	Unknown	Kemp 27/96	0.162671	486.2	380	17																																			
+3295	C04	Unknown	Kemp 27/96	0.167698	516.2	380	18																																			
+3295	C04	Unknown	Kemp 27/96	0.172596	546.2	380	19																																			
+3295	C04	Unknown	Kemp 27/96	0.177619	576.2	380	20																																			
+3295	D04	Unknown	Kemp 28/96	0.0840799	10.12	380	1																																			
+3295	D04	Unknown	Kemp 28/96	0.0868629	40.11	380	2																																			
+3295	D04	Unknown	Kemp 28/96	0.0897348	70.11	380	3																																			
+3295	D04	Unknown	Kemp 28/96	0.092558	100.11	380	4																																			
+3295	D04	Unknown	Kemp 28/96	0.095257	130.11	380	5																																			
+3295	D04	Unknown	Kemp 28/96	0.0980362	160.11	380	6																																			
+3295	D04	Unknown	Kemp 28/96	0.101033	190.11	380	7																																			
+3295	D04	Unknown	Kemp 28/96	0.104008	220.11	380	8																																			
+3295	D04	Unknown	Kemp 28/96	0.106993	250.11	380	9																																			
+3295	D04	Unknown	Kemp 28/96	0.110161	280.11	380	10																																			
+3295	D04	Unknown	Kemp 28/96	0.113277	310.11	380	11																																			
+3295	D04	Unknown	Kemp 28/96	0.116488	340.11	380	12																																			
+3295	D04	Unknown	Kemp 28/96	0.119845	370.11	380	13																																			
+3295	D04	Unknown	Kemp 28/96	0.123055	400.11	380	14																																			
+3295	D04	Unknown	Kemp 28/96	0.126452	430.11	380	15																																			
+3295	D04	Unknown	Kemp 28/96	0.129793	460.11	380	16																																			
+3295	D04	Unknown	Kemp 28/96	0.133037	490.11	380	17																																			
+3295	D04	Unknown	Kemp 28/96	0.136538	520.11	380	18																																			
+3295	D04	Unknown	Kemp 28/96	0.139817	550.11	380	19																																			
+3295	D04	Unknown	Kemp 28/96	0.143218	580.11	380	20																																			
+3295	E04	Unknown	Kemp 29/96	0.0832522	11.73	380	1																																			
+3295	E04	Unknown	Kemp 29/96	0.0855672	41.72	380	2																																			
+3295	E04	Unknown	Kemp 29/96	0.0880952	71.72	380	3																																			
+3295	E04	Unknown	Kemp 29/96	0.0904443	101.72	380	4																																			
+3295	E04	Unknown	Kemp 29/96	0.0929631	131.72	380	5																																			
+3295	E04	Unknown	Kemp 29/96	0.0954764	161.72	380	6																																			
+3295	E04	Unknown	Kemp 29/96	0.0978546	191.72	380	7																																			
+3295	E04	Unknown	Kemp 29/96	0.100397	221.72	380	8																																			
+3295	E04	Unknown	Kemp 29/96	0.102863	251.72	380	9																																			
+3295	E04	Unknown	Kemp 29/96	0.105504	281.72	380	10																																			
+3295	E04	Unknown	Kemp 29/96	0.108043	311.72	380	11																																			
+3295	E04	Unknown	Kemp 29/96	0.110642	341.72	380	12																																			
+3295	E04	Unknown	Kemp 29/96	0.113352	371.72	380	13																																			
+3295	E04	Unknown	Kemp 29/96	0.116131	401.72	380	14																																			
+3295	E04	Unknown	Kemp 29/96	0.118761	431.72	380	15																																			
+3295	E04	Unknown	Kemp 29/96	0.121669	461.72	380	16																																			
+3295	E04	Unknown	Kemp 29/96	0.124301	491.72	380	17																																			
+3295	E04	Unknown	Kemp 29/96	0.127328	521.72	380	18																																			
+3295	E04	Unknown	Kemp 29/96	0.129974	551.72	380	19																																			
+3295	E04	Unknown	Kemp 29/96	0.132943	581.72	380	20																																			
+3295	C01	Unknown	Kemp 3/96	0.0887362	35.51	380	2																																			
+3295	C01	Unknown	Kemp 3/96	0.0917095	65.51	380	3																																			
+3295	C01	Unknown	Kemp 3/96	0.0951368	95.51	380	4																																			
+3295	C01	Unknown	Kemp 3/96	0.0983343	125.51	380	5																																			
+3295	C01	Unknown	Kemp 3/96	0.1019	155.51	380	6																																			
+3295	C01	Unknown	Kemp 3/96	0.105627	185.51	380	7																																			
+3295	C01	Unknown	Kemp 3/96	0.109249	215.51	380	8																																			
+3295	C01	Unknown	Kemp 3/96	0.113049	245.51	380	9																																			
+3295	C01	Unknown	Kemp 3/96	0.116848	275.51	380	10																																			
+3295	C01	Unknown	Kemp 3/96	0.120627	305.51	380	11																																			
+3295	C01	Unknown	Kemp 3/96	0.124265	335.51	380	12																																			
+3295	C01	Unknown	Kemp 3/96	0.128304	365.51	380	13																																			
+3295	C01	Unknown	Kemp 3/96	0.132083	395.51	380	14																																			
+3295	C01	Unknown	Kemp 3/96	0.136006	425.51	380	15																																			
+3295	C01	Unknown	Kemp 3/96	0.140069	455.51	380	16																																			
+3295	C01	Unknown	Kemp 3/96	0.143831	485.51	380	17																																			
+3295	C01	Unknown	Kemp 3/96	0.147734	515.51	380	18																																			
+3295	C01	Unknown	Kemp 3/96	0.15175	545.51	380	19																																			
+3295	C01	Unknown	Kemp 3/96	0.155977	575.51	380	20																																			
+3295	C01	Unknown	Kemp 3/96	0.085754	5.52	380	1																																			
+3295	F04	Unknown	Kemp 30/96	0.0855659	15.64	380	1																																			
+3295	F04	Unknown	Kemp 30/96	0.0887168	45.63	380	2																																			
+3295	F04	Unknown	Kemp 30/96	0.0918083	75.63	380	3																																			
+3295	F04	Unknown	Kemp 30/96	0.0950049	105.63	380	4																																			
+3295	F04	Unknown	Kemp 30/96	0.0982043	135.63	380	5																																			
+3295	F04	Unknown	Kemp 30/96	0.101462	165.63	380	6																																			
+3295	F04	Unknown	Kemp 30/96	0.104746	195.63	380	7																																			
+3295	F04	Unknown	Kemp 30/96	0.108033	225.63	380	8																																			
+3295	F04	Unknown	Kemp 30/96	0.111276	255.63	380	9																																			
+3295	F04	Unknown	Kemp 30/96	0.114832	285.63	380	10																																			
+3295	F04	Unknown	Kemp 30/96	0.118159	315.63	380	11																																			
+3295	F04	Unknown	Kemp 30/96	0.121825	345.63	380	12																																			
+3295	F04	Unknown	Kemp 30/96	0.125223	375.63	380	13																																			
+3295	F04	Unknown	Kemp 30/96	0.128845	405.63	380	14																																			
+3295	F04	Unknown	Kemp 30/96	0.132405	435.63	380	15																																			
+3295	F04	Unknown	Kemp 30/96	0.136112	465.63	380	16																																			
+3295	F04	Unknown	Kemp 30/96	0.139742	495.63	380	17																																			
+3295	F04	Unknown	Kemp 30/96	0.143407	525.63	380	18																																			
+3295	F04	Unknown	Kemp 30/96	0.147027	555.63	380	19																																			
+3295	F04	Unknown	Kemp 30/96	0.150746	585.63	380	20																																			
+3295	G04	Unknown	Kemp 31/96	0.0875994	17.25	380	1																																			
+3295	G04	Unknown	Kemp 31/96	0.0910887	47.24	380	2																																			
+3295	G04	Unknown	Kemp 31/96	0.0946539	77.24	380	3																																			
+3295	G04	Unknown	Kemp 31/96	0.0981872	107.24	380	4																																			
+3295	G04	Unknown	Kemp 31/96	0.101904	137.24	380	5																																			
+3295	G04	Unknown	Kemp 31/96	0.105463	167.24	380	6																																			
+3295	G04	Unknown	Kemp 31/96	0.109205	197.24	380	7																																			
+3295	G04	Unknown	Kemp 31/96	0.112864	227.24	380	8																																			
+3295	G04	Unknown	Kemp 31/96	0.116743	257.24	380	9																																			
+3295	G04	Unknown	Kemp 31/96	0.120715	287.24	380	10																																			
+3295	G04	Unknown	Kemp 31/96	0.124606	317.24	380	11																																			
+3295	G04	Unknown	Kemp 31/96	0.128678	347.24	380	12																																			
+3295	G04	Unknown	Kemp 31/96	0.13257	377.24	380	13																																			
+3295	G04	Unknown	Kemp 31/96	0.136936	407.24	380	14																																			
+3295	G04	Unknown	Kemp 31/96	0.140903	437.24	380	15																																			
+3295	G04	Unknown	Kemp 31/96	0.145124	467.24	380	16																																			
+3295	G04	Unknown	Kemp 31/96	0.149151	497.24	380	17																																			
+3295	G04	Unknown	Kemp 31/96	0.153521	527.24	380	18																																			
+3295	G04	Unknown	Kemp 31/96	0.157595	557.24	380	19																																			
+3295	G04	Unknown	Kemp 31/96	0.161811	587.24	380	20																																			
+3295	H04	Unknown	Kemp 32/96	0.0942379	21.16	380	1																																			
+3295	H04	Unknown	Kemp 32/96	0.0999846	51.15	380	2																																			
+3295	H04	Unknown	Kemp 32/96	0.105671	81.15	380	3																																			
+3295	H04	Unknown	Kemp 32/96	0.111592	111.15	380	4																																			
+3295	H04	Unknown	Kemp 32/96	0.117443	141.15	380	5																																			
+3295	H04	Unknown	Kemp 32/96	0.123389	171.15	380	6																																			
+3295	H04	Unknown	Kemp 32/96	0.129453	201.15	380	7																																			
+3295	H04	Unknown	Kemp 32/96	0.135532	231.15	380	8																																			
+3295	H04	Unknown	Kemp 32/96	0.141728	261.15	380	9																																			
+3295	H04	Unknown	Kemp 32/96	0.147862	291.15	380	10																																			
+3295	H04	Unknown	Kemp 32/96	0.154209	321.15	380	11																																			
+3295	H04	Unknown	Kemp 32/96	0.160431	351.15	380	12																																			
+3295	H04	Unknown	Kemp 32/96	0.166808	381.15	380	13																																			
+3295	H04	Unknown	Kemp 32/96	0.173123	411.15	380	14																																			
+3295	H04	Unknown	Kemp 32/96	0.179517	441.15	380	15																																			
+3295	H04	Unknown	Kemp 32/96	0.185959	471.15	380	16																																			
+3295	H04	Unknown	Kemp 32/96	0.192399	501.15	380	17																																			
+3295	H04	Unknown	Kemp 32/96	0.198807	531.15	380	18																																			
+3295	H04	Unknown	Kemp 32/96	0.20532	561.15	380	19																																			
+3295	H04	Unknown	Kemp 32/96	0.211772	591.15	380	20																																			
+3295	A05	Unknown	Kemp 33/96	0.0925409	30.91	380	2																																			
+3295	A05	Unknown	Kemp 33/96	0.0972306	60.91	380	3																																			
+3295	A05	Unknown	Kemp 33/96	0.102102	90.91	380	4																																			
+3295	A05	Unknown	Kemp 33/96	0.107001	120.91	380	5																																			
+3295	A05	Unknown	Kemp 33/96	0.111989	150.91	380	6																																			
+3295	A05	Unknown	Kemp 33/96	0.116965	180.91	380	7																																			
+3295	A05	Unknown	Kemp 33/96	0.122252	210.91	380	8																																			
+3295	A05	Unknown	Kemp 33/96	0.127452	240.91	380	9																																			
+3295	A05	Unknown	Kemp 33/96	0.132699	270.91	380	10																																			
+3295	A05	Unknown	Kemp 33/96	0.137995	300.91	380	11																																			
+3295	A05	Unknown	Kemp 33/96	0.143354	330.91	380	12																																			
+3295	A05	Unknown	Kemp 33/96	0.148674	360.91	380	13																																			
+3295	A05	Unknown	Kemp 33/96	0.154061	390.91	380	14																																			
+3295	A05	Unknown	Kemp 33/96	0.159425	420.91	380	15																																			
+3295	A05	Unknown	Kemp 33/96	0.164971	450.91	380	16																																			
+3295	A05	Unknown	Kemp 33/96	0.170332	480.91	380	17																																			
+3295	A05	Unknown	Kemp 33/96	0.175868	510.91	380	18																																			
+3295	A05	Unknown	Kemp 33/96	0.181476	540.91	380	19																																			
+3295	A05	Unknown	Kemp 33/96	0.186896	570.91	380	20																																			
+3295	A05	Unknown	Kemp 33/96	0.0873478	0.92	380	1																																			
+3295	B05	Unknown	Kemp 34/96	0.0902783	34.36	380	2																																			
+3295	B05	Unknown	Kemp 34/96	0.0941653	64.36	380	3																																			
+3295	B05	Unknown	Kemp 34/96	0.0982242	94.36	380	4																																			
+3295	B05	Unknown	Kemp 34/96	0.102202	124.36	380	5																																			
+3295	B05	Unknown	Kemp 34/96	0.106182	154.36	380	6																																			
+3295	B05	Unknown	Kemp 34/96	0.110413	184.36	380	7																																			
+3295	B05	Unknown	Kemp 34/96	0.114606	214.36	380	8																																			
+3295	B05	Unknown	Kemp 34/96	0.118879	244.36	380	9																																			
+3295	B05	Unknown	Kemp 34/96	0.123314	274.36	380	10																																			
+3295	B05	Unknown	Kemp 34/96	0.127855	304.36	380	11																																			
+3295	B05	Unknown	Kemp 34/96	0.132218	334.36	380	12																																			
+3295	B05	Unknown	Kemp 34/96	0.136721	364.36	380	13																																			
+3295	B05	Unknown	Kemp 34/96	0.14127	394.36	380	14																																			
+3295	B05	Unknown	Kemp 34/96	0.145901	424.36	380	15																																			
+3295	B05	Unknown	Kemp 34/96	0.150473	454.36	380	16																																			
+3295	B05	Unknown	Kemp 34/96	0.155141	484.36	380	17																																			
+3295	B05	Unknown	Kemp 34/96	0.159711	514.36	380	18																																			
+3295	B05	Unknown	Kemp 34/96	0.164394	544.36	380	19																																			
+3295	B05	Unknown	Kemp 34/96	0.169139	574.36	380	20																																			
+3295	B05	Unknown	Kemp 34/96	0.086611	4.37	380	1																																			
+3295	C05	Unknown	Kemp 35/96	0.083972	6.44	380	1																																			
+3295	C05	Unknown	Kemp 35/96	0.0871298	36.43	380	2																																			
+3295	C05	Unknown	Kemp 35/96	0.0899722	66.43	380	3																																			
+3295	C05	Unknown	Kemp 35/96	0.0929717	96.43	380	4																																			
+3295	C05	Unknown	Kemp 35/96	0.0961252	126.43	380	5																																			
+3295	C05	Unknown	Kemp 35/96	0.0993122	156.43	380	6																																			
+3295	C05	Unknown	Kemp 35/96	0.102362	186.43	380	7																																			
+3295	C05	Unknown	Kemp 35/96	0.105684	216.43	380	8																																			
+3295	C05	Unknown	Kemp 35/96	0.108694	246.43	380	9																																			
+3295	C05	Unknown	Kemp 35/96	0.111817	276.43	380	10																																			
+3295	C05	Unknown	Kemp 35/96	0.115271	306.43	380	11																																			
+3295	C05	Unknown	Kemp 35/96	0.118399	336.43	380	12																																			
+3295	C05	Unknown	Kemp 35/96	0.121812	366.43	380	13																																			
+3295	C05	Unknown	Kemp 35/96	0.125164	396.43	380	14																																			
+3295	C05	Unknown	Kemp 35/96	0.128446	426.43	380	15																																			
+3295	C05	Unknown	Kemp 35/96	0.131969	456.43	380	16																																			
+3295	C05	Unknown	Kemp 35/96	0.135365	486.43	380	17																																			
+3295	C05	Unknown	Kemp 35/96	0.138864	516.43	380	18																																			
+3295	C05	Unknown	Kemp 35/96	0.142377	546.43	380	19																																			
+3295	C05	Unknown	Kemp 35/96	0.145876	576.43	380	20																																			
+3295	D05	Unknown	Kemp 36/96	0.084613	9.89	380	1																																			
+3295	D05	Unknown	Kemp 36/96	0.0877956	39.88	380	2																																			
+3295	D05	Unknown	Kemp 36/96	0.0910026	69.88	380	3																																			
+3295	D05	Unknown	Kemp 36/96	0.0942997	99.88	380	4																																			
+3295	D05	Unknown	Kemp 36/96	0.0974412	129.88	380	5																																			
+3295	D05	Unknown	Kemp 36/96	0.100599	159.88	380	6																																			
+3295	D05	Unknown	Kemp 36/96	0.104051	189.88	380	7																																			
+3295	D05	Unknown	Kemp 36/96	0.107542	219.88	380	8																																			
+3295	D05	Unknown	Kemp 36/96	0.110806	249.88	380	9																																			
+3295	D05	Unknown	Kemp 36/96	0.11436	279.88	380	10																																			
+3295	D05	Unknown	Kemp 36/96	0.117791	309.88	380	11																																			
+3295	D05	Unknown	Kemp 36/96	0.121322	339.88	380	12																																			
+3295	D05	Unknown	Kemp 36/96	0.124899	369.88	380	13																																			
+3295	D05	Unknown	Kemp 36/96	0.128613	399.88	380	14																																			
+3295	D05	Unknown	Kemp 36/96	0.132387	429.88	380	15																																			
+3295	D05	Unknown	Kemp 36/96	0.136145	459.88	380	16																																			
+3295	D05	Unknown	Kemp 36/96	0.139847	489.88	380	17																																			
+3295	D05	Unknown	Kemp 36/96	0.143665	519.88	380	18																																			
+3295	D05	Unknown	Kemp 36/96	0.147475	549.88	380	19																																			
+3295	D05	Unknown	Kemp 36/96	0.151292	579.88	380	20																																			
+3295	E05	Unknown	Kemp 37/96	0.0880323	11.96	380	1																																			
+3295	E05	Unknown	Kemp 37/96	0.0918141	41.95	380	2																																			
+3295	E05	Unknown	Kemp 37/96	0.0954441	71.95	380	3																																			
+3295	E05	Unknown	Kemp 37/96	0.0989733	101.95	380	4																																			
+3295	E05	Unknown	Kemp 37/96	0.102733	131.95	380	5																																			
+3295	E05	Unknown	Kemp 37/96	0.106256	161.95	380	6																																			
+3295	E05	Unknown	Kemp 37/96	0.110015	191.95	380	7																																			
+3295	E05	Unknown	Kemp 37/96	0.113881	221.95	380	8																																			
+3295	E05	Unknown	Kemp 37/96	0.117812	251.95	380	9																																			
+3295	E05	Unknown	Kemp 37/96	0.121728	281.95	380	10																																			
+3295	E05	Unknown	Kemp 37/96	0.12561	311.95	380	11																																			
+3295	E05	Unknown	Kemp 37/96	0.129612	341.95	380	12																																			
+3295	E05	Unknown	Kemp 37/96	0.133652	371.95	380	13																																			
+3295	E05	Unknown	Kemp 37/96	0.137794	401.95	380	14																																			
+3295	E05	Unknown	Kemp 37/96	0.141922	431.95	380	15																																			
+3295	E05	Unknown	Kemp 37/96	0.146061	461.95	380	16																																			
+3295	E05	Unknown	Kemp 37/96	0.150101	491.95	380	17																																			
+3295	E05	Unknown	Kemp 37/96	0.154426	521.95	380	18																																			
+3295	E05	Unknown	Kemp 37/96	0.158506	551.95	380	19																																			
+3295	E05	Unknown	Kemp 37/96	0.162812	581.95	380	20																																			
+3295	F05	Unknown	Kemp 38/96	0.0842983	15.41	380	1																																			
+3295	F05	Unknown	Kemp 38/96	0.0871451	45.4	380	2																																			
+3295	F05	Unknown	Kemp 38/96	0.0900124	75.4	380	3																																			
+3295	F05	Unknown	Kemp 38/96	0.0928807	105.4	380	4																																			
+3295	F05	Unknown	Kemp 38/96	0.0957056	135.4	380	5																																			
+3295	F05	Unknown	Kemp 38/96	0.0986326	165.4	380	6																																			
+3295	F05	Unknown	Kemp 38/96	0.101761	195.4	380	7																																			
+3295	F05	Unknown	Kemp 38/96	0.10485	225.4	380	8																																			
+3295	F05	Unknown	Kemp 38/96	0.108039	255.4	380	9																																			
+3295	F05	Unknown	Kemp 38/96	0.111304	285.4	380	10																																			
+3295	F05	Unknown	Kemp 38/96	0.114498	315.4	380	11																																			
+3295	F05	Unknown	Kemp 38/96	0.117883	345.4	380	12																																			
+3295	F05	Unknown	Kemp 38/96	0.12114	375.4	380	13																																			
+3295	F05	Unknown	Kemp 38/96	0.12445	405.4	380	14																																			
+3295	F05	Unknown	Kemp 38/96	0.127696	435.4	380	15																																			
+3295	F05	Unknown	Kemp 38/96	0.131111	465.4	380	16																																			
+3295	F05	Unknown	Kemp 38/96	0.134492	495.4	380	17																																			
+3295	F05	Unknown	Kemp 38/96	0.137896	525.4	380	18																																			
+3295	F05	Unknown	Kemp 38/96	0.141313	555.4	380	19																																			
+3295	F05	Unknown	Kemp 38/96	0.144754	585.4	380	20																																			
+3295	G05	Unknown	Kemp 39/96	0.0879675	17.48	380	1																																			
+3295	G05	Unknown	Kemp 39/96	0.0917339	47.47	380	2																																			
+3295	G05	Unknown	Kemp 39/96	0.0957488	77.47	380	3																																			
+3295	G05	Unknown	Kemp 39/96	0.099867	107.47	380	4																																			
+3295	G05	Unknown	Kemp 39/96	0.10402	137.47	380	5																																			
+3295	G05	Unknown	Kemp 39/96	0.108	167.47	380	6																																			
+3295	G05	Unknown	Kemp 39/96	0.112273	197.47	380	7																																			
+3295	G05	Unknown	Kemp 39/96	0.116328	227.47	380	8																																			
+3295	G05	Unknown	Kemp 39/96	0.120699	257.47	380	9																																			
+3295	G05	Unknown	Kemp 39/96	0.125046	287.47	380	10																																			
+3295	G05	Unknown	Kemp 39/96	0.129517	317.47	380	11																																			
+3295	G05	Unknown	Kemp 39/96	0.133976	347.47	380	12																																			
+3295	G05	Unknown	Kemp 39/96	0.138499	377.47	380	13																																			
+3295	G05	Unknown	Kemp 39/96	0.143014	407.47	380	14																																			
+3295	G05	Unknown	Kemp 39/96	0.147604	437.47	380	15																																			
+3295	G05	Unknown	Kemp 39/96	0.152286	467.47	380	16																																			
+3295	G05	Unknown	Kemp 39/96	0.156719	497.47	380	17																																			
+3295	G05	Unknown	Kemp 39/96	0.161412	527.47	380	18																																			
+3295	G05	Unknown	Kemp 39/96	0.166123	557.47	380	19																																			
+3295	G05	Unknown	Kemp 39/96	0.17078	587.47	380	20																																			
+3295	D01	Unknown	Kemp 4/96	0.0884058	10.81	380	1																																			
+3295	D01	Unknown	Kemp 4/96	0.0921579	40.8	380	2																																			
+3295	D01	Unknown	Kemp 4/96	0.0959535	70.8	380	3																																			
+3295	D01	Unknown	Kemp 4/96	0.0997927	100.8	380	4																																			
+3295	D01	Unknown	Kemp 4/96	0.103576	130.8	380	5																																			
+3295	D01	Unknown	Kemp 4/96	0.10757	160.8	380	6																																			
+3295	D01	Unknown	Kemp 4/96	0.111836	190.8	380	7																																			
+3295	D01	Unknown	Kemp 4/96	0.116182	220.8	380	8																																			
+3295	D01	Unknown	Kemp 4/96	0.120366	250.8	380	9																																			
+3295	D01	Unknown	Kemp 4/96	0.124771	280.8	380	10																																			
+3295	D01	Unknown	Kemp 4/96	0.129064	310.8	380	11																																			
+3295	D01	Unknown	Kemp 4/96	0.13328	340.8	380	12																																			
+3295	D01	Unknown	Kemp 4/96	0.137814	370.8	380	13																																			
+3295	D01	Unknown	Kemp 4/96	0.142183	400.8	380	14																																			
+3295	D01	Unknown	Kemp 4/96	0.146686	430.8	380	15																																			
+3295	D01	Unknown	Kemp 4/96	0.151248	460.8	380	16																																			
+3295	D01	Unknown	Kemp 4/96	0.155719	490.8	380	17																																			
+3295	D01	Unknown	Kemp 4/96	0.160304	520.8	380	18																																			
+3295	D01	Unknown	Kemp 4/96	0.164881	550.8	380	19																																			
+3295	D01	Unknown	Kemp 4/96	0.169401	580.8	380	20																																			
+3295	H05	Unknown	Kemp 40/96	0.0904193	20.93	380	1																																			
+3295	H05	Unknown	Kemp 40/96	0.0942255	50.92	380	2																																			
+3295	H05	Unknown	Kemp 40/96	0.0981398	80.92	380	3																																			
+3295	H05	Unknown	Kemp 40/96	0.102065	110.92	380	4																																			
+3295	H05	Unknown	Kemp 40/96	0.106039	140.92	380	5																																			
+3295	H05	Unknown	Kemp 40/96	0.110187	170.92	380	6																																			
+3295	H05	Unknown	Kemp 40/96	0.114437	200.92	380	7																																			
+3295	H05	Unknown	Kemp 40/96	0.11859	230.92	380	8																																			
+3295	H05	Unknown	Kemp 40/96	0.122981	260.92	380	9																																			
+3295	H05	Unknown	Kemp 40/96	0.127213	290.92	380	10																																			
+3295	H05	Unknown	Kemp 40/96	0.131633	320.92	380	11																																			
+3295	H05	Unknown	Kemp 40/96	0.135978	350.92	380	12																																			
+3295	H05	Unknown	Kemp 40/96	0.140505	380.92	380	13																																			
+3295	H05	Unknown	Kemp 40/96	0.144943	410.92	380	14																																			
+3295	H05	Unknown	Kemp 40/96	0.149362	440.92	380	15																																			
+3295	H05	Unknown	Kemp 40/96	0.154046	470.92	380	16																																			
+3295	H05	Unknown	Kemp 40/96	0.158481	500.92	380	17																																			
+3295	H05	Unknown	Kemp 40/96	0.163021	530.92	380	18																																			
+3295	H05	Unknown	Kemp 40/96	0.167632	560.92	380	19																																			
+3295	H05	Unknown	Kemp 40/96	0.172245	590.92	380	20																																			
+3295	A06	Unknown	Kemp 41/96	0.0925683	31.14	380	2																																			
+3295	A06	Unknown	Kemp 41/96	0.0969647	61.14	380	3																																			
+3295	A06	Unknown	Kemp 41/96	0.101611	91.14	380	4																																			
+3295	A06	Unknown	Kemp 41/96	0.106154	121.14	380	5																																			
+3295	A06	Unknown	Kemp 41/96	0.111044	151.14	380	6																																			
+3295	A06	Unknown	Kemp 41/96	0.115698	181.14	380	7																																			
+3295	A06	Unknown	Kemp 41/96	0.120817	211.14	380	8																																			
+3295	A06	Unknown	Kemp 41/96	0.12569	241.14	380	9																																			
+3295	A06	Unknown	Kemp 41/96	0.130657	271.14	380	10																																			
+3295	A06	Unknown	Kemp 41/96	0.135541	301.14	380	11																																			
+3295	A06	Unknown	Kemp 41/96	0.140684	331.14	380	12																																			
+3295	A06	Unknown	Kemp 41/96	0.145753	361.14	380	13																																			
+3295	A06	Unknown	Kemp 41/96	0.150875	391.14	380	14																																			
+3295	A06	Unknown	Kemp 41/96	0.156018	421.14	380	15																																			
+3295	A06	Unknown	Kemp 41/96	0.161273	451.14	380	16																																			
+3295	A06	Unknown	Kemp 41/96	0.166491	481.14	380	17																																			
+3295	A06	Unknown	Kemp 41/96	0.171744	511.14	380	18																																			
+3295	A06	Unknown	Kemp 41/96	0.177052	541.14	380	19																																			
+3295	A06	Unknown	Kemp 41/96	0.182279	571.14	380	20																																			
+3295	A06	Unknown	Kemp 41/96	0.0872386	1.15	380	1																																			
+3295	B06	Unknown	Kemp 42/96	0.0881278	34.13	380	2																																			
+3295	B06	Unknown	Kemp 42/96	0.091774	64.13	380	3																																			
+3295	B06	Unknown	Kemp 42/96	0.0955871	94.13	380	4																																			
+3295	B06	Unknown	Kemp 42/96	0.0994226	124.13	380	5																																			
+3295	B06	Unknown	Kemp 42/96	0.103241	154.13	380	6																																			
+3295	B06	Unknown	Kemp 42/96	0.107212	184.13	380	7																																			
+3295	B06	Unknown	Kemp 42/96	0.111234	214.13	380	8																																			
+3295	B06	Unknown	Kemp 42/96	0.115167	244.13	380	9																																			
+3295	B06	Unknown	Kemp 42/96	0.119292	274.13	380	10																																			
+3295	B06	Unknown	Kemp 42/96	0.123414	304.13	380	11																																			
+3295	B06	Unknown	Kemp 42/96	0.127632	334.13	380	12																																			
+3295	B06	Unknown	Kemp 42/96	0.131902	364.13	380	13																																			
+3295	B06	Unknown	Kemp 42/96	0.136163	394.13	380	14																																			
+3295	B06	Unknown	Kemp 42/96	0.140468	424.13	380	15																																			
+3295	B06	Unknown	Kemp 42/96	0.1448	454.13	380	16																																			
+3295	B06	Unknown	Kemp 42/96	0.149134	484.13	380	17																																			
+3295	B06	Unknown	Kemp 42/96	0.153404	514.13	380	18																																			
+3295	B06	Unknown	Kemp 42/96	0.157904	544.13	380	19																																			
+3295	B06	Unknown	Kemp 42/96	0.162267	574.13	380	20																																			
+3295	B06	Unknown	Kemp 42/96	0.0847061	4.14	380	1																																			
+3295	C06	Unknown	Kemp 43/96	0.0828773	6.67	380	1																																			
+3295	C06	Unknown	Kemp 43/96	0.0857027	36.66	380	2																																			
+3295	C06	Unknown	Kemp 43/96	0.0884475	66.66	380	3																																			
+3295	C06	Unknown	Kemp 43/96	0.0915445	96.66	380	4																																			
+3295	C06	Unknown	Kemp 43/96	0.0944844	126.66	380	5																																			
+3295	C06	Unknown	Kemp 43/96	0.0973774	156.66	380	6																																			
+3295	C06	Unknown	Kemp 43/96	0.100544	186.66	380	7																																			
+3295	C06	Unknown	Kemp 43/96	0.103735	216.66	380	8																																			
+3295	C06	Unknown	Kemp 43/96	0.106786	246.66	380	9																																			
+3295	C06	Unknown	Kemp 43/96	0.109986	276.66	380	10																																			
+3295	C06	Unknown	Kemp 43/96	0.113309	306.66	380	11																																			
+3295	C06	Unknown	Kemp 43/96	0.116363	336.66	380	12																																			
+3295	C06	Unknown	Kemp 43/96	0.119804	366.66	380	13																																			
+3295	C06	Unknown	Kemp 43/96	0.123266	396.66	380	14																																			
+3295	C06	Unknown	Kemp 43/96	0.12674	426.66	380	15																																			
+3295	C06	Unknown	Kemp 43/96	0.130159	456.66	380	16																																			
+3295	C06	Unknown	Kemp 43/96	0.133572	486.66	380	17																																			
+3295	C06	Unknown	Kemp 43/96	0.137064	516.66	380	18																																			
+3295	C06	Unknown	Kemp 43/96	0.140402	546.66	380	19																																			
+3295	C06	Unknown	Kemp 43/96	0.143963	576.66	380	20																																			
+3295	D06	Unknown	Kemp 44/96	0.0858547	9.66	380	1																																			
+3295	D06	Unknown	Kemp 44/96	0.0888855	39.65	380	2																																			
+3295	D06	Unknown	Kemp 44/96	0.0921561	69.65	380	3																																			
+3295	D06	Unknown	Kemp 44/96	0.0956463	99.65	380	4																																			
+3295	D06	Unknown	Kemp 44/96	0.099	129.65	380	5																																			
+3295	D06	Unknown	Kemp 44/96	0.102328	159.65	380	6																																			
+3295	D06	Unknown	Kemp 44/96	0.1059	189.65	380	7																																			
+3295	D06	Unknown	Kemp 44/96	0.109477	219.65	380	8																																			
+3295	D06	Unknown	Kemp 44/96	0.113022	249.65	380	9																																			
+3295	D06	Unknown	Kemp 44/96	0.116687	279.65	380	10																																			
+3295	D06	Unknown	Kemp 44/96	0.120277	309.65	380	11																																			
+3295	D06	Unknown	Kemp 44/96	0.123977	339.65	380	12																																			
+3295	D06	Unknown	Kemp 44/96	0.127875	369.65	380	13																																			
+3295	D06	Unknown	Kemp 44/96	0.131592	399.65	380	14																																			
+3295	D06	Unknown	Kemp 44/96	0.135559	429.65	380	15																																			
+3295	D06	Unknown	Kemp 44/96	0.139319	459.65	380	16																																			
+3295	D06	Unknown	Kemp 44/96	0.143242	489.65	380	17																																			
+3295	D06	Unknown	Kemp 44/96	0.147218	519.65	380	18																																			
+3295	D06	Unknown	Kemp 44/96	0.151036	549.65	380	19																																			
+3295	D06	Unknown	Kemp 44/96	0.155083	579.65	380	20																																			
+3295	E06	Unknown	Kemp 45/96	0.0856436	12.19	380	1																																			
+3295	E06	Unknown	Kemp 45/96	0.0888484	42.18	380	2																																			
+3295	E06	Unknown	Kemp 45/96	0.0921304	72.18	380	3																																			
+3295	E06	Unknown	Kemp 45/96	0.0953044	102.18	380	4																																			
+3295	E06	Unknown	Kemp 45/96	0.098667	132.18	380	5																																			
+3295	E06	Unknown	Kemp 45/96	0.101851	162.18	380	6																																			
+3295	E06	Unknown	Kemp 45/96	0.105321	192.18	380	7																																			
+3295	E06	Unknown	Kemp 45/96	0.108896	222.18	380	8																																			
+3295	E06	Unknown	Kemp 45/96	0.112446	252.18	380	9																																			
+3295	E06	Unknown	Kemp 45/96	0.115872	282.18	380	10																																			
+3295	E06	Unknown	Kemp 45/96	0.119251	312.18	380	11																																			
+3295	E06	Unknown	Kemp 45/96	0.122897	342.18	380	12																																			
+3295	E06	Unknown	Kemp 45/96	0.126519	372.18	380	13																																			
+3295	E06	Unknown	Kemp 45/96	0.130306	402.18	380	14																																			
+3295	E06	Unknown	Kemp 45/96	0.134055	432.18	380	15																																			
+3295	E06	Unknown	Kemp 45/96	0.137726	462.18	380	16																																			
+3295	E06	Unknown	Kemp 45/96	0.141466	492.18	380	17																																			
+3295	E06	Unknown	Kemp 45/96	0.145357	522.18	380	18																																			
+3295	E06	Unknown	Kemp 45/96	0.149174	552.18	380	19																																			
+3295	E06	Unknown	Kemp 45/96	0.153144	582.18	380	20																																			
+3295	F06	Unknown	Kemp 46/96	0.0882122	15.18	380	1																																			
+3295	F06	Unknown	Kemp 46/96	0.0917422	45.17	380	2																																			
+3295	F06	Unknown	Kemp 46/96	0.0954558	75.17	380	3																																			
+3295	F06	Unknown	Kemp 46/96	0.0992	105.17	380	4																																			
+3295	F06	Unknown	Kemp 46/96	0.10293	135.17	380	5																																			
+3295	F06	Unknown	Kemp 46/96	0.106768	165.17	380	6																																			
+3295	F06	Unknown	Kemp 46/96	0.110561	195.17	380	7																																			
+3295	F06	Unknown	Kemp 46/96	0.114391	225.17	380	8																																			
+3295	F06	Unknown	Kemp 46/96	0.118364	255.17	380	9																																			
+3295	F06	Unknown	Kemp 46/96	0.122457	285.17	380	10																																			
+3295	F06	Unknown	Kemp 46/96	0.126347	315.17	380	11																																			
+3295	F06	Unknown	Kemp 46/96	0.130445	345.17	380	12																																			
+3295	F06	Unknown	Kemp 46/96	0.13467	375.17	380	13																																			
+3295	F06	Unknown	Kemp 46/96	0.138766	405.17	380	14																																			
+3295	F06	Unknown	Kemp 46/96	0.143078	435.17	380	15																																			
+3295	F06	Unknown	Kemp 46/96	0.147308	465.17	380	16																																			
+3295	F06	Unknown	Kemp 46/96	0.15161	495.17	380	17																																			
+3295	F06	Unknown	Kemp 46/96	0.155806	525.17	380	18																																			
+3295	F06	Unknown	Kemp 46/96	0.160054	555.17	380	19																																			
+3295	F06	Unknown	Kemp 46/96	0.164366	585.17	380	20																																			
+3295	G06	Unknown	Kemp 47/96	0.088572	17.71	380	1																																			
+3295	G06	Unknown	Kemp 47/96	0.0919909	47.7	380	2																																			
+3295	G06	Unknown	Kemp 47/96	0.095416	77.7	380	3																																			
+3295	G06	Unknown	Kemp 47/96	0.0988974	107.7	380	4																																			
+3295	G06	Unknown	Kemp 47/96	0.102563	137.7	380	5																																			
+3295	G06	Unknown	Kemp 47/96	0.106042	167.7	380	6																																			
+3295	G06	Unknown	Kemp 47/96	0.109708	197.7	380	7																																			
+3295	G06	Unknown	Kemp 47/96	0.113383	227.7	380	8																																			
+3295	G06	Unknown	Kemp 47/96	0.117309	257.7	380	9																																			
+3295	G06	Unknown	Kemp 47/96	0.120803	287.7	380	10																																			
+3295	G06	Unknown	Kemp 47/96	0.124724	317.7	380	11																																			
+3295	G06	Unknown	Kemp 47/96	0.128446	347.7	380	12																																			
+3295	G06	Unknown	Kemp 47/96	0.132408	377.7	380	13																																			
+3295	G06	Unknown	Kemp 47/96	0.13623	407.7	380	14																																			
+3295	G06	Unknown	Kemp 47/96	0.140251	437.7	380	15																																			
+3295	G06	Unknown	Kemp 47/96	0.144418	467.7	380	16																																			
+3295	G06	Unknown	Kemp 47/96	0.148146	497.7	380	17																																			
+3295	G06	Unknown	Kemp 47/96	0.152282	527.7	380	18																																			
+3295	G06	Unknown	Kemp 47/96	0.156504	557.7	380	19																																			
+3295	G06	Unknown	Kemp 47/96	0.160517	587.7	380	20																																			
+3295	H06	Unknown	Kemp 48/96	0.0899303	20.7	380	1																																			
+3295	H06	Unknown	Kemp 48/96	0.0939601	50.69	380	2																																			
+3295	H06	Unknown	Kemp 48/96	0.0979788	80.69	380	3																																			
+3295	H06	Unknown	Kemp 48/96	0.10206	110.69	380	4																																			
+3295	H06	Unknown	Kemp 48/96	0.10624	140.69	380	5																																			
+3295	H06	Unknown	Kemp 48/96	0.110651	170.69	380	6																																			
+3295	H06	Unknown	Kemp 48/96	0.115247	200.69	380	7																																			
+3295	H06	Unknown	Kemp 48/96	0.119655	230.69	380	8																																			
+3295	H06	Unknown	Kemp 48/96	0.124195	260.69	380	9																																			
+3295	H06	Unknown	Kemp 48/96	0.12873	290.69	380	10																																			
+3295	H06	Unknown	Kemp 48/96	0.133274	320.69	380	11																																			
+3295	H06	Unknown	Kemp 48/96	0.137937	350.69	380	12																																			
+3295	H06	Unknown	Kemp 48/96	0.142669	380.69	380	13																																			
+3295	H06	Unknown	Kemp 48/96	0.147303	410.69	380	14																																			
+3295	H06	Unknown	Kemp 48/96	0.152056	440.69	380	15																																			
+3295	H06	Unknown	Kemp 48/96	0.156864	470.69	380	16																																			
+3295	H06	Unknown	Kemp 48/96	0.161579	500.69	380	17																																			
+3295	H06	Unknown	Kemp 48/96	0.166331	530.69	380	18																																			
+3295	H06	Unknown	Kemp 48/96	0.171228	560.69	380	19																																			
+3295	H06	Unknown	Kemp 48/96	0.176077	590.69	380	20																																			
+3295	A07	Unknown	Kemp 49/96	0.0925281	31.37	380	2																																			
+3295	A07	Unknown	Kemp 49/96	0.0970208	61.37	380	3																																			
+3295	A07	Unknown	Kemp 49/96	0.101768	91.37	380	4																																			
+3295	A07	Unknown	Kemp 49/96	0.106429	121.37	380	5																																			
+3295	A07	Unknown	Kemp 49/96	0.111481	151.37	380	6																																			
+3295	A07	Unknown	Kemp 49/96	0.116498	181.37	380	7																																			
+3295	A07	Unknown	Kemp 49/96	0.121595	211.37	380	8																																			
+3295	A07	Unknown	Kemp 49/96	0.126695	241.37	380	9																																			
+3295	A07	Unknown	Kemp 49/96	0.131851	271.37	380	10																																			
+3295	A07	Unknown	Kemp 49/96	0.136973	301.37	380	11																																			
+3295	A07	Unknown	Kemp 49/96	0.142093	331.37	380	12																																			
+3295	A07	Unknown	Kemp 49/96	0.147491	361.37	380	13																																			
+3295	A07	Unknown	Kemp 49/96	0.152808	391.37	380	14																																			
+3295	A07	Unknown	Kemp 49/96	0.158163	421.37	380	15																																			
+3295	A07	Unknown	Kemp 49/96	0.163443	451.37	380	16																																			
+3295	A07	Unknown	Kemp 49/96	0.168775	481.37	380	17																																			
+3295	A07	Unknown	Kemp 49/96	0.174159	511.37	380	18																																			
+3295	A07	Unknown	Kemp 49/96	0.179717	541.37	380	19																																			
+3295	A07	Unknown	Kemp 49/96	0.185032	571.37	380	20																																			
+3295	A07	Unknown	Kemp 49/96	0.0877199	1.38	380	1																																			
+3295	E01	Unknown	Kemp 5/96	0.0770068	11.04	380	1																																			
+3295	E01	Unknown	Kemp 5/96	0.0773818	41.03	380	2																																			
+3295	E01	Unknown	Kemp 5/96	0.0778616	71.03	380	3																																			
+3295	E01	Unknown	Kemp 5/96	0.0780641	101.03	380	4																																			
+3295	E01	Unknown	Kemp 5/96	0.0783476	131.03	380	5																																			
+3295	E01	Unknown	Kemp 5/96	0.0787308	161.03	380	6																																			
+3295	E01	Unknown	Kemp 5/96	0.079352	191.03	380	7																																			
+3295	E01	Unknown	Kemp 5/96	0.0799796	221.03	380	8																																			
+3295	E01	Unknown	Kemp 5/96	0.0805098	251.03	380	9																																			
+3295	E01	Unknown	Kemp 5/96	0.0809626	281.03	380	10																																			
+3295	E01	Unknown	Kemp 5/96	0.081523	311.03	380	11																																			
+3295	E01	Unknown	Kemp 5/96	0.0821301	341.03	380	12																																			
+3295	E01	Unknown	Kemp 5/96	0.0826331	371.03	380	13																																			
+3295	E01	Unknown	Kemp 5/96	0.0832504	401.03	380	14																																			
+3295	E01	Unknown	Kemp 5/96	0.0838843	431.03	380	15																																			
+3295	E01	Unknown	Kemp 5/96	0.0844567	461.03	380	16																																			
+3295	E01	Unknown	Kemp 5/96	0.0849763	491.03	380	17																																			
+3295	E01	Unknown	Kemp 5/96	0.0856723	521.03	380	18																																			
+3295	E01	Unknown	Kemp 5/96	0.0861671	551.03	380	19																																			
+3295	E01	Unknown	Kemp 5/96	0.0868183	581.03	380	20																																			
+3295	B07	Unknown	Kemp 50/96	0.0890732	33.9	380	2																																			
+3295	B07	Unknown	Kemp 50/96	0.0928438	63.9	380	3																																			
+3295	B07	Unknown	Kemp 50/96	0.0966175	93.9	380	4																																			
+3295	B07	Unknown	Kemp 50/96	0.100537	123.9	380	5																																			
+3295	B07	Unknown	Kemp 50/96	0.104564	153.9	380	6																																			
+3295	B07	Unknown	Kemp 50/96	0.108643	183.9	380	7																																			
+3295	B07	Unknown	Kemp 50/96	0.112779	213.9	380	8																																			
+3295	B07	Unknown	Kemp 50/96	0.117034	243.9	380	9																																			
+3295	B07	Unknown	Kemp 50/96	0.121245	273.9	380	10																																			
+3295	B07	Unknown	Kemp 50/96	0.12554	303.9	380	11																																			
+3295	B07	Unknown	Kemp 50/96	0.129891	333.9	380	12																																			
+3295	B07	Unknown	Kemp 50/96	0.134319	363.9	380	13																																			
+3295	B07	Unknown	Kemp 50/96	0.138666	393.9	380	14																																			
+3295	B07	Unknown	Kemp 50/96	0.143138	423.9	380	15																																			
+3295	B07	Unknown	Kemp 50/96	0.147656	453.9	380	16																																			
+3295	B07	Unknown	Kemp 50/96	0.152081	483.9	380	17																																			
+3295	B07	Unknown	Kemp 50/96	0.156518	513.9	380	18																																			
+3295	B07	Unknown	Kemp 50/96	0.161251	543.9	380	19																																			
+3295	B07	Unknown	Kemp 50/96	0.165836	573.9	380	20																																			
+3295	B07	Unknown	Kemp 50/96	0.0851703	3.91	380	1																																			
+3295	C07	Unknown	Kemp 51/96	0.0840012	6.9	380	1																																			
+3295	C07	Unknown	Kemp 51/96	0.0874372	36.89	380	2																																			
+3295	C07	Unknown	Kemp 51/96	0.090657	66.89	380	3																																			
+3295	C07	Unknown	Kemp 51/96	0.0938822	96.89	380	4																																			
+3295	C07	Unknown	Kemp 51/96	0.0969526	126.89	380	5																																			
+3295	C07	Unknown	Kemp 51/96	0.100311	156.89	380	6																																			
+3295	C07	Unknown	Kemp 51/96	0.103735	186.89	380	7																																			
+3295	C07	Unknown	Kemp 51/96	0.107002	216.89	380	8																																			
+3295	C07	Unknown	Kemp 51/96	0.110262	246.89	380	9																																			
+3295	C07	Unknown	Kemp 51/96	0.113706	276.89	380	10																																			
+3295	C07	Unknown	Kemp 51/96	0.117322	306.89	380	11																																			
+3295	C07	Unknown	Kemp 51/96	0.120702	336.89	380	12																																			
+3295	C07	Unknown	Kemp 51/96	0.124503	366.89	380	13																																			
+3295	C07	Unknown	Kemp 51/96	0.128183	396.89	380	14																																			
+3295	C07	Unknown	Kemp 51/96	0.131951	426.89	380	15																																			
+3295	C07	Unknown	Kemp 51/96	0.135561	456.89	380	16																																			
+3295	C07	Unknown	Kemp 51/96	0.139301	486.89	380	17																																			
+3295	C07	Unknown	Kemp 51/96	0.143202	516.89	380	18																																			
+3295	C07	Unknown	Kemp 51/96	0.146793	546.89	380	19																																			
+3295	C07	Unknown	Kemp 51/96	0.150484	576.89	380	20																																			
+3295	D07	Unknown	Kemp 52/96	0.0838134	9.43	380	1																																			
+3295	D07	Unknown	Kemp 52/96	0.0872887	39.42	380	2																																			
+3295	D07	Unknown	Kemp 52/96	0.0895796	69.42	380	3																																			
+3295	D07	Unknown	Kemp 52/96	0.0926417	99.42	380	4																																			
+3295	D07	Unknown	Kemp 52/96	0.0955148	129.42	380	5																																			
+3295	D07	Unknown	Kemp 52/96	0.0983607	159.42	380	6																																			
+3295	D07	Unknown	Kemp 52/96	0.101645	189.42	380	7																																			
+3295	D07	Unknown	Kemp 52/96	0.104855	219.42	380	8																																			
+3295	D07	Unknown	Kemp 52/96	0.108058	249.42	380	9																																			
+3295	D07	Unknown	Kemp 52/96	0.111267	279.42	380	10																																			
+3295	D07	Unknown	Kemp 52/96	0.114494	309.42	380	11																																			
+3295	D07	Unknown	Kemp 52/96	0.11781	339.42	380	12																																			
+3295	D07	Unknown	Kemp 52/96	0.121179	369.42	380	13																																			
+3295	D07	Unknown	Kemp 52/96	0.124609	399.42	380	14																																			
+3295	D07	Unknown	Kemp 52/96	0.128027	429.42	380	15																																			
+3295	D07	Unknown	Kemp 52/96	0.131507	459.42	380	16																																			
+3295	D07	Unknown	Kemp 52/96	0.134958	489.42	380	17																																			
+3295	D07	Unknown	Kemp 52/96	0.138514	519.42	380	18																																			
+3295	D07	Unknown	Kemp 52/96	0.142088	549.42	380	19																																			
+3295	D07	Unknown	Kemp 52/96	0.145509	579.42	380	20																																			
+3295	E07	Unknown	Kemp 53/96	0.0847535	12.42	380	1																																			
+3295	E07	Unknown	Kemp 53/96	0.0879286	42.41	380	2																																			
+3295	E07	Unknown	Kemp 53/96	0.0911735	72.41	380	3																																			
+3295	E07	Unknown	Kemp 53/96	0.0945869	102.41	380	4																																			
+3295	E07	Unknown	Kemp 53/96	0.0979109	132.41	380	5																																			
+3295	E07	Unknown	Kemp 53/96	0.101422	162.41	380	6																																			
+3295	E07	Unknown	Kemp 53/96	0.104927	192.41	380	7																																			
+3295	E07	Unknown	Kemp 53/96	0.108324	222.41	380	8																																			
+3295	E07	Unknown	Kemp 53/96	0.111733	252.41	380	9																																			
+3295	E07	Unknown	Kemp 53/96	0.115223	282.41	380	10																																			
+3295	E07	Unknown	Kemp 53/96	0.118874	312.41	380	11																																			
+3295	E07	Unknown	Kemp 53/96	0.122483	342.41	380	12																																			
+3295	E07	Unknown	Kemp 53/96	0.126454	372.41	380	13																																			
+3295	E07	Unknown	Kemp 53/96	0.130073	402.41	380	14																																			
+3295	E07	Unknown	Kemp 53/96	0.133907	432.41	380	15																																			
+3295	E07	Unknown	Kemp 53/96	0.137574	462.41	380	16																																			
+3295	E07	Unknown	Kemp 53/96	0.141376	492.41	380	17																																			
+3295	E07	Unknown	Kemp 53/96	0.145356	522.41	380	18																																			
+3295	E07	Unknown	Kemp 53/96	0.149202	552.41	380	19																																			
+3295	E07	Unknown	Kemp 53/96	0.153041	582.41	380	20																																			
+3295	F07	Unknown	Kemp 54/96	0.0848619	14.95	380	1																																			
+3295	F07	Unknown	Kemp 54/96	0.0879347	44.94	380	2																																			
+3295	F07	Unknown	Kemp 54/96	0.0912137	74.94	380	3																																			
+3295	F07	Unknown	Kemp 54/96	0.0942813	104.94	380	4																																			
+3295	F07	Unknown	Kemp 54/96	0.0974359	134.94	380	5																																			
+3295	F07	Unknown	Kemp 54/96	0.100511	164.94	380	6																																			
+3295	F07	Unknown	Kemp 54/96	0.10364	194.94	380	7																																			
+3295	F07	Unknown	Kemp 54/96	0.106917	224.94	380	8																																			
+3295	F07	Unknown	Kemp 54/96	0.110189	254.94	380	9																																			
+3295	F07	Unknown	Kemp 54/96	0.11356	284.94	380	10																																			
+3295	F07	Unknown	Kemp 54/96	0.116948	314.94	380	11																																			
+3295	F07	Unknown	Kemp 54/96	0.120452	344.94	380	12																																			
+3295	F07	Unknown	Kemp 54/96	0.123915	374.94	380	13																																			
+3295	F07	Unknown	Kemp 54/96	0.127469	404.94	380	14																																			
+3295	F07	Unknown	Kemp 54/96	0.131031	434.94	380	15																																			
+3295	F07	Unknown	Kemp 54/96	0.134596	464.94	380	16																																			
+3295	F07	Unknown	Kemp 54/96	0.138226	494.94	380	17																																			
+3295	F07	Unknown	Kemp 54/96	0.141819	524.94	380	18																																			
+3295	F07	Unknown	Kemp 54/96	0.145515	554.94	380	19																																			
+3295	F07	Unknown	Kemp 54/96	0.149284	584.94	380	20																																			
+3295	G07	Unknown	Kemp 55/96	0.0930472	17.94	380	1																																			
+3295	G07	Unknown	Kemp 55/96	0.0980815	47.93	380	2																																			
+3295	G07	Unknown	Kemp 55/96	0.102918	77.93	380	3																																			
+3295	G07	Unknown	Kemp 55/96	0.107914	107.93	380	4																																			
+3295	G07	Unknown	Kemp 55/96	0.113153	137.93	380	5																																			
+3295	G07	Unknown	Kemp 55/96	0.118424	167.93	380	6																																			
+3295	G07	Unknown	Kemp 55/96	0.123614	197.93	380	7																																			
+3295	G07	Unknown	Kemp 55/96	0.128818	227.93	380	8																																			
+3295	G07	Unknown	Kemp 55/96	0.13417	257.93	380	9																																			
+3295	G07	Unknown	Kemp 55/96	0.139589	287.93	380	10																																			
+3295	G07	Unknown	Kemp 55/96	0.145078	317.93	380	11																																			
+3295	G07	Unknown	Kemp 55/96	0.150649	347.93	380	12																																			
+3295	G07	Unknown	Kemp 55/96	0.156395	377.93	380	13																																			
+3295	G07	Unknown	Kemp 55/96	0.16202	407.93	380	14																																			
+3295	G07	Unknown	Kemp 55/96	0.167726	437.93	380	15																																			
+3295	G07	Unknown	Kemp 55/96	0.173114	467.93	380	16																																			
+3295	G07	Unknown	Kemp 55/96	0.178819	497.93	380	17																																			
+3295	G07	Unknown	Kemp 55/96	0.184675	527.93	380	18																																			
+3295	G07	Unknown	Kemp 55/96	0.190612	557.93	380	19																																			
+3295	G07	Unknown	Kemp 55/96	0.196159	587.93	380	20																																			
+3295	H07	Unknown	Kemp 56/96	0.0943864	20.47	380	1																																			
+3295	H07	Unknown	Kemp 56/96	0.0992806	50.46	380	2																																			
+3295	H07	Unknown	Kemp 56/96	0.104331	80.46	380	3																																			
+3295	H07	Unknown	Kemp 56/96	0.109526	110.46	380	4																																			
+3295	H07	Unknown	Kemp 56/96	0.114919	140.46	380	5																																			
+3295	H07	Unknown	Kemp 56/96	0.120392	170.46	380	6																																			
+3295	H07	Unknown	Kemp 56/96	0.125941	200.46	380	7																																			
+3295	H07	Unknown	Kemp 56/96	0.131597	230.46	380	8																																			
+3295	H07	Unknown	Kemp 56/96	0.137254	260.46	380	9																																			
+3295	H07	Unknown	Kemp 56/96	0.142926	290.46	380	10																																			
+3295	H07	Unknown	Kemp 56/96	0.148645	320.46	380	11																																			
+3295	H07	Unknown	Kemp 56/96	0.154488	350.46	380	12																																			
+3295	H07	Unknown	Kemp 56/96	0.160309	380.46	380	13																																			
+3295	H07	Unknown	Kemp 56/96	0.16613	410.46	380	14																																			
+3295	H07	Unknown	Kemp 56/96	0.171981	440.46	380	15																																			
+3295	H07	Unknown	Kemp 56/96	0.177881	470.46	380	16																																			
+3295	H07	Unknown	Kemp 56/96	0.183799	500.46	380	17																																			
+3295	H07	Unknown	Kemp 56/96	0.189696	530.46	380	18																																			
+3295	H07	Unknown	Kemp 56/96	0.195655	560.46	380	19																																			
+3295	H07	Unknown	Kemp 56/96	0.201572	590.46	380	20																																			
+3295	A08	Unknown	Kemp 57/96	0.0922961	31.6	380	2																																			
+3295	A08	Unknown	Kemp 57/96	0.0971272	61.6	380	3																																			
+3295	A08	Unknown	Kemp 57/96	0.102016	91.6	380	4																																			
+3295	A08	Unknown	Kemp 57/96	0.106833	121.6	380	5																																			
+3295	A08	Unknown	Kemp 57/96	0.111912	151.6	380	6																																			
+3295	A08	Unknown	Kemp 57/96	0.116464	181.6	380	7																																			
+3295	A08	Unknown	Kemp 57/96	0.121682	211.6	380	8																																			
+3295	A08	Unknown	Kemp 57/96	0.126929	241.6	380	9																																			
+3295	A08	Unknown	Kemp 57/96	0.131999	271.6	380	10																																			
+3295	A08	Unknown	Kemp 57/96	0.137113	301.6	380	11																																			
+3295	A08	Unknown	Kemp 57/96	0.142549	331.6	380	12																																			
+3295	A08	Unknown	Kemp 57/96	0.147534	361.6	380	13																																			
+3295	A08	Unknown	Kemp 57/96	0.152898	391.6	380	14																																			
+3295	A08	Unknown	Kemp 57/96	0.15815	421.6	380	15																																			
+3295	A08	Unknown	Kemp 57/96	0.163701	451.6	380	16																																			
+3295	A08	Unknown	Kemp 57/96	0.169083	481.6	380	17																																			
+3295	A08	Unknown	Kemp 57/96	0.174504	511.6	380	18																																			
+3295	A08	Unknown	Kemp 57/96	0.179956	541.6	380	19																																			
+3295	A08	Unknown	Kemp 57/96	0.185216	571.6	380	20																																			
+3295	A08	Unknown	Kemp 57/96	0.0871527	1.61	380	1																																			
+3295	B08	Unknown	Kemp 58/96	0.086631	33.67	380	2																																			
+3295	B08	Unknown	Kemp 58/96	0.0901186	63.67	380	3																																			
+3295	B08	Unknown	Kemp 58/96	0.0933391	93.67	380	4																																			
+3295	B08	Unknown	Kemp 58/96	0.0967462	123.67	380	5																																			
+3295	B08	Unknown	Kemp 58/96	0.100232	153.67	380	6																																			
+3295	B08	Unknown	Kemp 58/96	0.103807	183.67	380	7																																			
+3295	B08	Unknown	Kemp 58/96	0.107429	213.67	380	8																																			
+3295	B08	Unknown	Kemp 58/96	0.111122	243.67	380	9																																			
+3295	B08	Unknown	Kemp 58/96	0.114744	273.67	380	10																																			
+3295	B08	Unknown	Kemp 58/96	0.118518	303.67	380	11																																			
+3295	B08	Unknown	Kemp 58/96	0.122302	333.67	380	12																																			
+3295	B08	Unknown	Kemp 58/96	0.126105	363.67	380	13																																			
+3295	B08	Unknown	Kemp 58/96	0.129934	393.67	380	14																																			
+3295	B08	Unknown	Kemp 58/96	0.133887	423.67	380	15																																			
+3295	B08	Unknown	Kemp 58/96	0.137775	453.67	380	16																																			
+3295	B08	Unknown	Kemp 58/96	0.141768	483.67	380	17																																			
+3295	B08	Unknown	Kemp 58/96	0.145573	513.67	380	18																																			
+3295	B08	Unknown	Kemp 58/96	0.149674	543.67	380	19																																			
+3295	B08	Unknown	Kemp 58/96	0.153661	573.67	380	20																																			
+3295	B08	Unknown	Kemp 58/96	0.0834355	3.68	380	1																																			
+3295	C08	Unknown	Kemp 59/96	0.0852081	7.13	380	1																																			
+3295	C08	Unknown	Kemp 59/96	0.0884445	37.12	380	2																																			
+3295	C08	Unknown	Kemp 59/96	0.0916808	67.12	380	3																																			
+3295	C08	Unknown	Kemp 59/96	0.0952665	97.12	380	4																																			
+3295	C08	Unknown	Kemp 59/96	0.0986952	127.12	380	5																																			
+3295	C08	Unknown	Kemp 59/96	0.102037	157.12	380	6																																			
+3295	C08	Unknown	Kemp 59/96	0.105418	187.12	380	7																																			
+3295	C08	Unknown	Kemp 59/96	0.109146	217.12	380	8																																			
+3295	C08	Unknown	Kemp 59/96	0.112594	247.12	380	9																																			
+3295	C08	Unknown	Kemp 59/96	0.116242	277.12	380	10																																			
+3295	C08	Unknown	Kemp 59/96	0.120011	307.12	380	11																																			
+3295	C08	Unknown	Kemp 59/96	0.123457	337.12	380	12																																			
+3295	C08	Unknown	Kemp 59/96	0.127398	367.12	380	13																																			
+3295	C08	Unknown	Kemp 59/96	0.13118	397.12	380	14																																			
+3295	C08	Unknown	Kemp 59/96	0.135019	427.12	380	15																																			
+3295	C08	Unknown	Kemp 59/96	0.138985	457.12	380	16																																			
+3295	C08	Unknown	Kemp 59/96	0.143189	487.12	380	17																																			
+3295	C08	Unknown	Kemp 59/96	0.147018	517.12	380	18																																			
+3295	C08	Unknown	Kemp 59/96	0.150665	547.12	380	19																																			
+3295	C08	Unknown	Kemp 59/96	0.154641	577.12	380	20																																			
+3295	F01	Unknown	Kemp 6/96	0.076992	16.33	380	1																																			
+3295	F01	Unknown	Kemp 6/96	0.0773372	46.32	380	2																																			
+3295	F01	Unknown	Kemp 6/96	0.0778159	76.32	380	3																																			
+3295	F01	Unknown	Kemp 6/96	0.0780921	106.32	380	4																																			
+3295	F01	Unknown	Kemp 6/96	0.0784419	136.32	380	5																																			
+3295	F01	Unknown	Kemp 6/96	0.0790074	166.32	380	6																																			
+3295	F01	Unknown	Kemp 6/96	0.0795178	196.32	380	7																																			
+3295	F01	Unknown	Kemp 6/96	0.0799662	226.32	380	8																																			
+3295	F01	Unknown	Kemp 6/96	0.0805154	256.32	380	9																																			
+3295	F01	Unknown	Kemp 6/96	0.0811667	286.32	380	10																																			
+3295	F01	Unknown	Kemp 6/96	0.0816504	316.32	380	11																																			
+3295	F01	Unknown	Kemp 6/96	0.0823584	346.32	380	12																																			
+3295	F01	Unknown	Kemp 6/96	0.0828264	376.32	380	13																																			
+3295	F01	Unknown	Kemp 6/96	0.0834929	406.32	380	14																																			
+3295	F01	Unknown	Kemp 6/96	0.0840263	436.32	380	15																																			
+3295	F01	Unknown	Kemp 6/96	0.0846362	466.32	380	16																																			
+3295	F01	Unknown	Kemp 6/96	0.0852502	496.32	380	17																																			
+3295	F01	Unknown	Kemp 6/96	0.0859551	526.32	380	18																																			
+3295	F01	Unknown	Kemp 6/96	0.0864714	556.32	380	19																																			
+3295	F01	Unknown	Kemp 6/96	0.0871786	586.32	380	20																																			
+3295	D08	Unknown	Kemp 60/96	0.0824247	9.2	380	1																																			
+3295	D08	Unknown	Kemp 60/96	0.0842899	39.19	380	2																																			
+3295	D08	Unknown	Kemp 60/96	0.0862922	69.19	380	3																																			
+3295	D08	Unknown	Kemp 60/96	0.0885041	99.19	380	4																																			
+3295	D08	Unknown	Kemp 60/96	0.0905658	129.19	380	5																																			
+3295	D08	Unknown	Kemp 60/96	0.0926311	159.19	380	6																																			
+3295	D08	Unknown	Kemp 60/96	0.0949781	189.19	380	7																																			
+3295	D08	Unknown	Kemp 60/96	0.0972879	219.19	380	8																																			
+3295	D08	Unknown	Kemp 60/96	0.0995729	249.19	380	9																																			
+3295	D08	Unknown	Kemp 60/96	0.101901	279.19	380	10																																			
+3295	D08	Unknown	Kemp 60/96	0.104036	309.19	380	11																																			
+3295	D08	Unknown	Kemp 60/96	0.106441	339.19	380	12																																			
+3295	D08	Unknown	Kemp 60/96	0.108783	369.19	380	13																																			
+3295	D08	Unknown	Kemp 60/96	0.111192	399.19	380	14																																			
+3295	D08	Unknown	Kemp 60/96	0.113693	429.19	380	15																																			
+3295	D08	Unknown	Kemp 60/96	0.116234	459.19	380	16																																			
+3295	D08	Unknown	Kemp 60/96	0.118724	489.19	380	17																																			
+3295	D08	Unknown	Kemp 60/96	0.121252	519.19	380	18																																			
+3295	D08	Unknown	Kemp 60/96	0.123761	549.19	380	19																																			
+3295	D08	Unknown	Kemp 60/96	0.126377	579.19	380	20																																			
+3295	E08	Unknown	Kemp 61/96	0.0878936	12.65	380	1																																			
+3295	E08	Unknown	Kemp 61/96	0.0918979	42.64	380	2																																			
+3295	E08	Unknown	Kemp 61/96	0.0957249	72.64	380	3																																			
+3295	E08	Unknown	Kemp 61/96	0.0996438	102.64	380	4																																			
+3295	E08	Unknown	Kemp 61/96	0.103828	132.64	380	5																																			
+3295	E08	Unknown	Kemp 61/96	0.107721	162.64	380	6																																			
+3295	E08	Unknown	Kemp 61/96	0.111778	192.64	380	7																																			
+3295	E08	Unknown	Kemp 61/96	0.11584	222.64	380	8																																			
+3295	E08	Unknown	Kemp 61/96	0.119965	252.64	380	9																																			
+3295	E08	Unknown	Kemp 61/96	0.124348	282.64	380	10																																			
+3295	E08	Unknown	Kemp 61/96	0.128531	312.64	380	11																																			
+3295	E08	Unknown	Kemp 61/96	0.132895	342.64	380	12																																			
+3295	E08	Unknown	Kemp 61/96	0.137208	372.64	380	13																																			
+3295	E08	Unknown	Kemp 61/96	0.1416	402.64	380	14																																			
+3295	E08	Unknown	Kemp 61/96	0.146042	432.64	380	15																																			
+3295	E08	Unknown	Kemp 61/96	0.150458	462.64	380	16																																			
+3295	E08	Unknown	Kemp 61/96	0.155085	492.64	380	17																																			
+3295	E08	Unknown	Kemp 61/96	0.15964	522.64	380	18																																			
+3295	E08	Unknown	Kemp 61/96	0.163859	552.64	380	19																																			
+3295	E08	Unknown	Kemp 61/96	0.168684	582.64	380	20																																			
+3295	F08	Unknown	Kemp 62/96	0.0893187	14.72	380	1																																			
+3295	F08	Unknown	Kemp 62/96	0.0935544	44.71	380	2																																			
+3295	F08	Unknown	Kemp 62/96	0.0978818	74.71	380	3																																			
+3295	F08	Unknown	Kemp 62/96	0.102258	104.71	380	4																																			
+3295	F08	Unknown	Kemp 62/96	0.106678	134.71	380	5																																			
+3295	F08	Unknown	Kemp 62/96	0.111191	164.71	380	6																																			
+3295	F08	Unknown	Kemp 62/96	0.115518	194.71	380	7																																			
+3295	F08	Unknown	Kemp 62/96	0.120113	224.71	380	8																																			
+3295	F08	Unknown	Kemp 62/96	0.124517	254.71	380	9																																			
+3295	F08	Unknown	Kemp 62/96	0.129203	284.71	380	10																																			
+3295	F08	Unknown	Kemp 62/96	0.133948	314.71	380	11																																			
+3295	F08	Unknown	Kemp 62/96	0.138764	344.71	380	12																																			
+3295	F08	Unknown	Kemp 62/96	0.143631	374.71	380	13																																			
+3295	F08	Unknown	Kemp 62/96	0.148535	404.71	380	14																																			
+3295	F08	Unknown	Kemp 62/96	0.153484	434.71	380	15																																			
+3295	F08	Unknown	Kemp 62/96	0.158545	464.71	380	16																																			
+3295	F08	Unknown	Kemp 62/96	0.163291	494.71	380	17																																			
+3295	F08	Unknown	Kemp 62/96	0.16834	524.71	380	18																																			
+3295	F08	Unknown	Kemp 62/96	0.173192	554.71	380	19																																			
+3295	F08	Unknown	Kemp 62/96	0.178414	584.71	380	20																																			
+3295	G08	Unknown	Kemp 63/96	0.0931667	18.17	380	1																																			
+3295	G08	Unknown	Kemp 63/96	0.098118	48.16	380	2																																			
+3295	G08	Unknown	Kemp 63/96	0.103032	78.16	380	3																																			
+3295	G08	Unknown	Kemp 63/96	0.108307	108.16	380	4																																			
+3295	G08	Unknown	Kemp 63/96	0.113445	138.16	380	5																																			
+3295	G08	Unknown	Kemp 63/96	0.118275	168.16	380	6																																			
+3295	G08	Unknown	Kemp 63/96	0.123431	198.16	380	7																																			
+3295	G08	Unknown	Kemp 63/96	0.128622	228.16	380	8																																			
+3295	G08	Unknown	Kemp 63/96	0.133825	258.16	380	9																																			
+3295	G08	Unknown	Kemp 63/96	0.139231	288.16	380	10																																			
+3295	G08	Unknown	Kemp 63/96	0.144834	318.16	380	11																																			
+3295	G08	Unknown	Kemp 63/96	0.150003	348.16	380	12																																			
+3295	G08	Unknown	Kemp 63/96	0.155361	378.16	380	13																																			
+3295	G08	Unknown	Kemp 63/96	0.16085	408.16	380	14																																			
+3295	G08	Unknown	Kemp 63/96	0.166413	438.16	380	15																																			
+3295	G08	Unknown	Kemp 63/96	0.172002	468.16	380	16																																			
+3295	G08	Unknown	Kemp 63/96	0.177488	498.16	380	17																																			
+3295	G08	Unknown	Kemp 63/96	0.183342	528.16	380	18																																			
+3295	G08	Unknown	Kemp 63/96	0.188751	558.16	380	19																																			
+3295	G08	Unknown	Kemp 63/96	0.194394	588.16	380	20																																			
+3295	H08	Unknown	Kemp 64/96	0.0778151	20.24	380	1																																			
+3295	H08	Unknown	Kemp 64/96	0.0789688	50.23	380	2																																			
+3295	H08	Unknown	Kemp 64/96	0.0805314	80.23	380	3																																			
+3295	H08	Unknown	Kemp 64/96	0.0819912	110.23	380	4																																			
+3295	H08	Unknown	Kemp 64/96	0.0835574	140.23	380	5																																			
+3295	H08	Unknown	Kemp 64/96	0.0852687	170.23	380	6																																			
+3295	H08	Unknown	Kemp 64/96	0.0871339	200.23	380	7																																			
+3295	H08	Unknown	Kemp 64/96	0.0888489	230.23	380	8																																			
+3295	H08	Unknown	Kemp 64/96	0.0906425	260.23	380	9																																			
+3295	H08	Unknown	Kemp 64/96	0.0924574	290.23	380	10																																			
+3295	H08	Unknown	Kemp 64/96	0.0942347	320.23	380	11																																			
+3295	H08	Unknown	Kemp 64/96	0.0961105	350.23	380	12																																			
+3295	H08	Unknown	Kemp 64/96	0.0980124	380.23	380	13																																			
+3295	H08	Unknown	Kemp 64/96	0.100023	410.23	380	14																																			
+3295	H08	Unknown	Kemp 64/96	0.101758	440.23	380	15																																			
+3295	H08	Unknown	Kemp 64/96	0.103815	470.23	380	16																																			
+3295	H08	Unknown	Kemp 64/96	0.105679	500.23	380	17																																			
+3295	H08	Unknown	Kemp 64/96	0.107773	530.23	380	18																																			
+3295	H08	Unknown	Kemp 64/96	0.109518	560.23	380	19																																			
+3295	H08	Unknown	Kemp 64/96	0.111601	590.23	380	20																																			
+3295	A09	Unknown	Kemp 65/96	0.0895147	31.83	380	2																																			
+3295	A09	Unknown	Kemp 65/96	0.0934581	61.83	380	3																																			
+3295	A09	Unknown	Kemp 65/96	0.0973259	91.83	380	4																																			
+3295	A09	Unknown	Kemp 65/96	0.101297	121.83	380	5																																			
+3295	A09	Unknown	Kemp 65/96	0.105482	151.83	380	6																																			
+3295	A09	Unknown	Kemp 65/96	0.109458	181.83	380	7																																			
+3295	A09	Unknown	Kemp 65/96	0.11409	211.83	380	8																																			
+3295	A09	Unknown	Kemp 65/96	0.118525	241.83	380	9																																			
+3295	A09	Unknown	Kemp 65/96	0.12291	271.83	380	10																																			
+3295	A09	Unknown	Kemp 65/96	0.127068	301.83	380	11																																			
+3295	A09	Unknown	Kemp 65/96	0.131475	331.83	380	12																																			
+3295	A09	Unknown	Kemp 65/96	0.135936	361.83	380	13																																			
+3295	A09	Unknown	Kemp 65/96	0.140389	391.83	380	14																																			
+3295	A09	Unknown	Kemp 65/96	0.145011	421.83	380	15																																			
+3295	A09	Unknown	Kemp 65/96	0.149712	451.83	380	16																																			
+3295	A09	Unknown	Kemp 65/96	0.154181	481.83	380	17																																			
+3295	A09	Unknown	Kemp 65/96	0.158894	511.83	380	18																																			
+3295	A09	Unknown	Kemp 65/96	0.163414	541.83	380	19																																			
+3295	A09	Unknown	Kemp 65/96	0.167955	571.83	380	20																																			
+3295	A09	Unknown	Kemp 65/96	0.0851304	1.84	380	1																																			
+3295	B09	Unknown	Kemp 66/96	0.0941878	33.44	380	2																																			
+3295	B09	Unknown	Kemp 66/96	0.0988317	63.44	380	3																																			
+3295	B09	Unknown	Kemp 66/96	0.103538	93.44	380	4																																			
+3295	B09	Unknown	Kemp 66/96	0.108314	123.44	380	5																																			
+3295	B09	Unknown	Kemp 66/96	0.113151	153.44	380	6																																			
+3295	B09	Unknown	Kemp 66/96	0.118022	183.44	380	7																																			
+3295	B09	Unknown	Kemp 66/96	0.122934	213.44	380	8																																			
+3295	B09	Unknown	Kemp 66/96	0.127994	243.44	380	9																																			
+3295	B09	Unknown	Kemp 66/96	0.132904	273.44	380	10																																			
+3295	B09	Unknown	Kemp 66/96	0.138101	303.44	380	11																																			
+3295	B09	Unknown	Kemp 66/96	0.143231	333.44	380	12																																			
+3295	B09	Unknown	Kemp 66/96	0.148456	363.44	380	13																																			
+3295	B09	Unknown	Kemp 66/96	0.153756	393.44	380	14																																			
+3295	B09	Unknown	Kemp 66/96	0.159037	423.44	380	15																																			
+3295	B09	Unknown	Kemp 66/96	0.164337	453.44	380	16																																			
+3295	B09	Unknown	Kemp 66/96	0.169835	483.44	380	17																																			
+3295	B09	Unknown	Kemp 66/96	0.17504	513.44	380	18																																			
+3295	B09	Unknown	Kemp 66/96	0.180539	543.44	380	19																																			
+3295	B09	Unknown	Kemp 66/96	0.18605	573.44	380	20																																			
+3295	B09	Unknown	Kemp 66/96	0.0896956	3.45	380	1																																			
+3295	C09	Unknown	Kemp 67/96	0.0834023	7.36	380	1																																			
+3295	C09	Unknown	Kemp 67/96	0.0863563	37.35	380	2																																			
+3295	C09	Unknown	Kemp 67/96	0.0892902	67.35	380	3																																			
+3295	C09	Unknown	Kemp 67/96	0.0922458	97.35	380	4																																			
+3295	C09	Unknown	Kemp 67/96	0.0955233	127.35	380	5																																			
+3295	C09	Unknown	Kemp 67/96	0.0984471	157.35	380	6																																			
+3295	C09	Unknown	Kemp 67/96	0.101917	187.35	380	7																																			
+3295	C09	Unknown	Kemp 67/96	0.104945	217.35	380	8																																			
+3295	C09	Unknown	Kemp 67/96	0.108294	247.35	380	9																																			
+3295	C09	Unknown	Kemp 67/96	0.111853	277.35	380	10																																			
+3295	C09	Unknown	Kemp 67/96	0.115149	307.35	380	11																																			
+3295	C09	Unknown	Kemp 67/96	0.11816	337.35	380	12																																			
+3295	C09	Unknown	Kemp 67/96	0.122047	367.35	380	13																																			
+3295	C09	Unknown	Kemp 67/96	0.125437	397.35	380	14																																			
+3295	C09	Unknown	Kemp 67/96	0.129141	427.35	380	15																																			
+3295	C09	Unknown	Kemp 67/96	0.133606	457.35	380	16																																			
+3295	C09	Unknown	Kemp 67/96	0.136221	487.35	380	17																																			
+3295	C09	Unknown	Kemp 67/96	0.139731	517.35	380	18																																			
+3295	C09	Unknown	Kemp 67/96	0.143268	547.35	380	19																																			
+3295	C09	Unknown	Kemp 67/96	0.147257	577.35	380	20																																			
+3295	D09	Unknown	Kemp 68/96	0.0838369	8.97	380	1																																			
+3295	D09	Unknown	Kemp 68/96	0.0866292	38.96	380	2																																			
+3295	D09	Unknown	Kemp 68/96	0.0894168	68.96	380	3																																			
+3295	D09	Unknown	Kemp 68/96	0.0923125	98.96	380	4																																			
+3295	D09	Unknown	Kemp 68/96	0.0950356	128.96	380	5																																			
+3295	D09	Unknown	Kemp 68/96	0.0977117	158.96	380	6																																			
+3295	D09	Unknown	Kemp 68/96	0.100823	188.96	380	7																																			
+3295	D09	Unknown	Kemp 68/96	0.103693	218.96	380	8																																			
+3295	D09	Unknown	Kemp 68/96	0.106609	248.96	380	9																																			
+3295	D09	Unknown	Kemp 68/96	0.109596	278.96	380	10																																			
+3295	D09	Unknown	Kemp 68/96	0.112654	308.96	380	11																																			
+3295	D09	Unknown	Kemp 68/96	0.115648	338.96	380	12																																			
+3295	D09	Unknown	Kemp 68/96	0.118857	368.96	380	13																																			
+3295	D09	Unknown	Kemp 68/96	0.12192	398.96	380	14																																			
+3295	D09	Unknown	Kemp 68/96	0.125196	428.96	380	15																																			
+3295	D09	Unknown	Kemp 68/96	0.12845	458.96	380	16																																			
+3295	D09	Unknown	Kemp 68/96	0.131532	488.96	380	17																																			
+3295	D09	Unknown	Kemp 68/96	0.134887	518.96	380	18																																			
+3295	D09	Unknown	Kemp 68/96	0.138171	548.96	380	19																																			
+3295	D09	Unknown	Kemp 68/96	0.141467	578.96	380	20																																			
+3295	E09	Unknown	Kemp 69/96	0.0852812	12.88	380	1																																			
+3295	E09	Unknown	Kemp 69/96	0.0883049	42.87	380	2																																			
+3295	E09	Unknown	Kemp 69/96	0.0914777	72.87	380	3																																			
+3295	E09	Unknown	Kemp 69/96	0.0946666	102.87	380	4																																			
+3295	E09	Unknown	Kemp 69/96	0.0979847	132.87	380	5																																			
+3295	E09	Unknown	Kemp 69/96	0.101091	162.87	380	6																																			
+3295	E09	Unknown	Kemp 69/96	0.104297	192.87	380	7																																			
+3295	E09	Unknown	Kemp 69/96	0.107858	222.87	380	8																																			
+3295	E09	Unknown	Kemp 69/96	0.111169	252.87	380	9																																			
+3295	E09	Unknown	Kemp 69/96	0.114566	282.87	380	10																																			
+3295	E09	Unknown	Kemp 69/96	0.117786	312.87	380	11																																			
+3295	E09	Unknown	Kemp 69/96	0.121176	342.87	380	12																																			
+3295	E09	Unknown	Kemp 69/96	0.124778	372.87	380	13																																			
+3295	E09	Unknown	Kemp 69/96	0.128372	402.87	380	14																																			
+3295	E09	Unknown	Kemp 69/96	0.132399	432.87	380	15																																			
+3295	E09	Unknown	Kemp 69/96	0.135597	462.87	380	16																																			
+3295	E09	Unknown	Kemp 69/96	0.138839	492.87	380	17																																			
+3295	E09	Unknown	Kemp 69/96	0.142657	522.87	380	18																																			
+3295	E09	Unknown	Kemp 69/96	0.146302	552.87	380	19																																			
+3295	E09	Unknown	Kemp 69/96	0.150282	582.87	380	20																																			
+3295	G01	Unknown	Kemp 7/96	0.0747909	16.56	380	1																																			
+3295	G01	Unknown	Kemp 7/96	0.0750882	46.55	380	2																																			
+3295	G01	Unknown	Kemp 7/96	0.0751946	76.55	380	3																																			
+3295	G01	Unknown	Kemp 7/96	0.0754742	106.55	380	4																																			
+3295	G01	Unknown	Kemp 7/96	0.0761502	136.55	380	5																																			
+3295	G01	Unknown	Kemp 7/96	0.0766654	166.55	380	6																																			
+3295	G01	Unknown	Kemp 7/96	0.0770696	196.55	380	7																																			
+3295	G01	Unknown	Kemp 7/96	0.0777101	226.55	380	8																																			
+3295	G01	Unknown	Kemp 7/96	0.078283	256.55	380	9																																			
+3295	G01	Unknown	Kemp 7/96	0.0788135	286.55	380	10																																			
+3295	G01	Unknown	Kemp 7/96	0.0792886	316.55	380	11																																			
+3295	G01	Unknown	Kemp 7/96	0.0798401	346.55	380	12																																			
+3295	G01	Unknown	Kemp 7/96	0.0804305	376.55	380	13																																			
+3295	G01	Unknown	Kemp 7/96	0.0810444	406.55	380	14																																			
+3295	G01	Unknown	Kemp 7/96	0.0816324	436.55	380	15																																			
+3295	G01	Unknown	Kemp 7/96	0.0823695	466.55	380	16																																			
+3295	G01	Unknown	Kemp 7/96	0.0829324	496.55	380	17																																			
+3295	G01	Unknown	Kemp 7/96	0.0835065	526.55	380	18																																			
+3295	G01	Unknown	Kemp 7/96	0.0843415	556.55	380	19																																			
+3295	G01	Unknown	Kemp 7/96	0.084927	586.55	380	20																																			
+3295	F09	Unknown	Kemp 70/96	0.0840531	14.49	380	1																																			
+3295	F09	Unknown	Kemp 70/96	0.0869726	44.48	380	2																																			
+3295	F09	Unknown	Kemp 70/96	0.0897263	74.48	380	3																																			
+3295	F09	Unknown	Kemp 70/96	0.0926757	104.48	380	4																																			
+3295	F09	Unknown	Kemp 70/96	0.0957138	134.48	380	5																																			
+3295	F09	Unknown	Kemp 70/96	0.0986199	164.48	380	6																																			
+3295	F09	Unknown	Kemp 70/96	0.101563	194.48	380	7																																			
+3295	F09	Unknown	Kemp 70/96	0.10465	224.48	380	8																																			
+3295	F09	Unknown	Kemp 70/96	0.107629	254.48	380	9																																			
+3295	F09	Unknown	Kemp 70/96	0.110574	284.48	380	10																																			
+3295	F09	Unknown	Kemp 70/96	0.113672	314.48	380	11																																			
+3295	F09	Unknown	Kemp 70/96	0.116946	344.48	380	12																																			
+3295	F09	Unknown	Kemp 70/96	0.120144	374.48	380	13																																			
+3295	F09	Unknown	Kemp 70/96	0.123516	404.48	380	14																																			
+3295	F09	Unknown	Kemp 70/96	0.126696	434.48	380	15																																			
+3295	F09	Unknown	Kemp 70/96	0.130009	464.48	380	16																																			
+3295	F09	Unknown	Kemp 70/96	0.133231	494.48	380	17																																			
+3295	F09	Unknown	Kemp 70/96	0.136671	524.48	380	18																																			
+3295	F09	Unknown	Kemp 70/96	0.140026	554.48	380	19																																			
+3295	F09	Unknown	Kemp 70/96	0.14343	584.48	380	20																																			
+3295	G09	Unknown	Kemp 71/96	0.0881838	18.4	380	1																																			
+3295	G09	Unknown	Kemp 71/96	0.0917129	48.39	380	2																																			
+3295	G09	Unknown	Kemp 71/96	0.0952635	78.39	380	3																																			
+3295	G09	Unknown	Kemp 71/96	0.0987311	108.39	380	4																																			
+3295	G09	Unknown	Kemp 71/96	0.102711	138.39	380	5																																			
+3295	G09	Unknown	Kemp 71/96	0.106417	168.39	380	6																																			
+3295	G09	Unknown	Kemp 71/96	0.110507	198.39	380	7																																			
+3295	G09	Unknown	Kemp 71/96	0.114535	228.39	380	8																																			
+3295	G09	Unknown	Kemp 71/96	0.11883	258.39	380	9																																			
+3295	G09	Unknown	Kemp 71/96	0.122679	288.39	380	10																																			
+3295	G09	Unknown	Kemp 71/96	0.126708	318.39	380	11																																			
+3295	G09	Unknown	Kemp 71/96	0.130848	348.39	380	12																																			
+3295	G09	Unknown	Kemp 71/96	0.135075	378.39	380	13																																			
+3295	G09	Unknown	Kemp 71/96	0.13926	408.39	380	14																																			
+3295	G09	Unknown	Kemp 71/96	0.143943	438.39	380	15																																			
+3295	G09	Unknown	Kemp 71/96	0.148099	468.39	380	16																																			
+3295	G09	Unknown	Kemp 71/96	0.152027	498.39	380	17																																			
+3295	G09	Unknown	Kemp 71/96	0.156333	528.39	380	18																																			
+3295	G09	Unknown	Kemp 71/96	0.161153	558.39	380	19																																			
+3295	G09	Unknown	Kemp 71/96	0.16538	588.39	380	20																																			
+3295	H09	Unknown	Kemp 72/96	0.104749	20.01	380	1																																			
+3295	H09	Unknown	Kemp 72/96	0.112838	50	380	2																																			
+3295	H09	Unknown	Kemp 72/96	0.121262	80	380	3																																			
+3295	H09	Unknown	Kemp 72/96	0.129814	110	380	4																																			
+3295	H09	Unknown	Kemp 72/96	0.138435	140	380	5																																			
+3295	H09	Unknown	Kemp 72/96	0.147129	170	380	6																																			
+3295	H09	Unknown	Kemp 72/96	0.156132	200	380	7																																			
+3295	H09	Unknown	Kemp 72/96	0.165015	230	380	8																																			
+3295	H09	Unknown	Kemp 72/96	0.174107	260	380	9																																			
+3295	H09	Unknown	Kemp 72/96	0.183109	290	380	10																																			
+3295	H09	Unknown	Kemp 72/96	0.192129	320	380	11																																			
+3295	H09	Unknown	Kemp 72/96	0.201122	350	380	12																																			
+3295	H09	Unknown	Kemp 72/96	0.210321	380	380	13																																			
+3295	H09	Unknown	Kemp 72/96	0.219409	410	380	14																																			
+3295	H09	Unknown	Kemp 72/96	0.228587	440	380	15																																			
+3295	H09	Unknown	Kemp 72/96	0.237781	470	380	16																																			
+3295	H09	Unknown	Kemp 72/96	0.246739	500	380	17																																			
+3295	H09	Unknown	Kemp 72/96	0.255841	530	380	18																																			
+3295	H09	Unknown	Kemp 72/96	0.265076	560	380	19																																			
+3295	H09	Unknown	Kemp 72/96	0.274099	590	380	20																																			
+3295	A10	Unknown	Kemp 73/96	0.094602	32.06	380	2																																			
+3295	A10	Unknown	Kemp 73/96	0.0994699	62.06	380	3																																			
+3295	A10	Unknown	Kemp 73/96	0.104547	92.06	380	4																																			
+3295	A10	Unknown	Kemp 73/96	0.109531	122.06	380	5																																			
+3295	A10	Unknown	Kemp 73/96	0.114896	152.06	380	6																																			
+3295	A10	Unknown	Kemp 73/96	0.120233	182.06	380	7																																			
+3295	A10	Unknown	Kemp 73/96	0.125805	212.06	380	8																																			
+3295	A10	Unknown	Kemp 73/96	0.131237	242.06	380	9																																			
+3295	A10	Unknown	Kemp 73/96	0.136539	272.06	380	10																																			
+3295	A10	Unknown	Kemp 73/96	0.142068	302.06	380	11																																			
+3295	A10	Unknown	Kemp 73/96	0.147666	332.06	380	12																																			
+3295	A10	Unknown	Kemp 73/96	0.153371	362.06	380	13																																			
+3295	A10	Unknown	Kemp 73/96	0.159111	392.06	380	14																																			
+3295	A10	Unknown	Kemp 73/96	0.164752	422.06	380	15																																			
+3295	A10	Unknown	Kemp 73/96	0.170089	452.06	380	16																																			
+3295	A10	Unknown	Kemp 73/96	0.175891	482.06	380	17																																			
+3295	A10	Unknown	Kemp 73/96	0.181777	512.06	380	18																																			
+3295	A10	Unknown	Kemp 73/96	0.187779	542.06	380	19																																			
+3295	A10	Unknown	Kemp 73/96	0.193078	572.06	380	20																																			
+3295	A10	Unknown	Kemp 73/96	0.0894532	2.07	380	1																																			
+3295	B10	Unknown	Kemp 74/96	0.0922655	33.21	380	2																																			
+3295	B10	Unknown	Kemp 74/96	0.0966397	63.21	380	3																																			
+3295	B10	Unknown	Kemp 74/96	0.100973	93.21	380	4																																			
+3295	B10	Unknown	Kemp 74/96	0.105553	123.21	380	5																																			
+3295	B10	Unknown	Kemp 74/96	0.110166	153.21	380	6																																			
+3295	B10	Unknown	Kemp 74/96	0.114974	183.21	380	7																																			
+3295	B10	Unknown	Kemp 74/96	0.119606	213.21	380	8																																			
+3295	B10	Unknown	Kemp 74/96	0.124468	243.21	380	9																																			
+3295	B10	Unknown	Kemp 74/96	0.129288	273.21	380	10																																			
+3295	B10	Unknown	Kemp 74/96	0.134242	303.21	380	11																																			
+3295	B10	Unknown	Kemp 74/96	0.139131	333.21	380	12																																			
+3295	B10	Unknown	Kemp 74/96	0.144145	363.21	380	13																																			
+3295	B10	Unknown	Kemp 74/96	0.149186	393.21	380	14																																			
+3295	B10	Unknown	Kemp 74/96	0.154305	423.21	380	15																																			
+3295	B10	Unknown	Kemp 74/96	0.159472	453.21	380	16																																			
+3295	B10	Unknown	Kemp 74/96	0.164645	483.21	380	17																																			
+3295	B10	Unknown	Kemp 74/96	0.16962	513.21	380	18																																			
+3295	B10	Unknown	Kemp 74/96	0.174827	543.21	380	19																																			
+3295	B10	Unknown	Kemp 74/96	0.18033	573.21	380	20																																			
+3295	B10	Unknown	Kemp 74/96	0.0878751	3.22	380	1																																			
+3295	C10	Unknown	Kemp 75/96	0.0844344	7.59	380	1																																			
+3295	C10	Unknown	Kemp 75/96	0.0876401	37.58	380	2																																			
+3295	C10	Unknown	Kemp 75/96	0.0907461	67.58	380	3																																			
+3295	C10	Unknown	Kemp 75/96	0.093599	97.58	380	4																																			
+3295	C10	Unknown	Kemp 75/96	0.0966528	127.58	380	5																																			
+3295	C10	Unknown	Kemp 75/96	0.0999374	157.58	380	6																																			
+3295	C10	Unknown	Kemp 75/96	0.103173	187.58	380	7																																			
+3295	C10	Unknown	Kemp 75/96	0.10613	217.58	380	8																																			
+3295	C10	Unknown	Kemp 75/96	0.109083	247.58	380	9																																			
+3295	C10	Unknown	Kemp 75/96	0.112331	277.58	380	10																																			
+3295	C10	Unknown	Kemp 75/96	0.115829	307.58	380	11																																			
+3295	C10	Unknown	Kemp 75/96	0.118844	337.58	380	12																																			
+3295	C10	Unknown	Kemp 75/96	0.122835	367.58	380	13																																			
+3295	C10	Unknown	Kemp 75/96	0.126426	397.58	380	14																																			
+3295	C10	Unknown	Kemp 75/96	0.129488	427.58	380	15																																			
+3295	C10	Unknown	Kemp 75/96	0.132937	457.58	380	16																																			
+3295	C10	Unknown	Kemp 75/96	0.136442	487.58	380	17																																			
+3295	C10	Unknown	Kemp 75/96	0.140281	517.58	380	18																																			
+3295	C10	Unknown	Kemp 75/96	0.143761	547.58	380	19																																			
+3295	C10	Unknown	Kemp 75/96	0.147211	577.58	380	20																																			
+3295	D10	Unknown	Kemp 76/96	0.0900706	8.74	380	1																																			
+3295	D10	Unknown	Kemp 76/96	0.0952923	38.73	380	2																																			
+3295	D10	Unknown	Kemp 76/96	0.100477	68.73	380	3																																			
+3295	D10	Unknown	Kemp 76/96	0.105852	98.73	380	4																																			
+3295	D10	Unknown	Kemp 76/96	0.111257	128.73	380	5																																			
+3295	D10	Unknown	Kemp 76/96	0.116456	158.73	380	6																																			
+3295	D10	Unknown	Kemp 76/96	0.122015	188.73	380	7																																			
+3295	D10	Unknown	Kemp 76/96	0.127473	218.73	380	8																																			
+3295	D10	Unknown	Kemp 76/96	0.13298	248.73	380	9																																			
+3295	D10	Unknown	Kemp 76/96	0.13853	278.73	380	10																																			
+3295	D10	Unknown	Kemp 76/96	0.144136	308.73	380	11																																			
+3295	D10	Unknown	Kemp 76/96	0.149882	338.73	380	12																																			
+3295	D10	Unknown	Kemp 76/96	0.155659	368.73	380	13																																			
+3295	D10	Unknown	Kemp 76/96	0.16144	398.73	380	14																																			
+3295	D10	Unknown	Kemp 76/96	0.167324	428.73	380	15																																			
+3295	D10	Unknown	Kemp 76/96	0.173139	458.73	380	16																																			
+3295	D10	Unknown	Kemp 76/96	0.178929	488.73	380	17																																			
+3295	D10	Unknown	Kemp 76/96	0.184976	518.73	380	18																																			
+3295	D10	Unknown	Kemp 76/96	0.190798	548.73	380	19																																			
+3295	D10	Unknown	Kemp 76/96	0.196777	578.73	380	20																																			
+3295	E10	Unknown	Kemp 77/96	0.0902314	13.11	380	1																																			
+3295	E10	Unknown	Kemp 77/96	0.0943007	43.1	380	2																																			
+3295	E10	Unknown	Kemp 77/96	0.0984896	73.1	380	3																																			
+3295	E10	Unknown	Kemp 77/96	0.102802	103.1	380	4																																			
+3295	E10	Unknown	Kemp 77/96	0.107064	133.1	380	5																																			
+3295	E10	Unknown	Kemp 77/96	0.111546	163.1	380	6																																			
+3295	E10	Unknown	Kemp 77/96	0.115867	193.1	380	7																																			
+3295	E10	Unknown	Kemp 77/96	0.11983	223.1	380	8																																			
+3295	E10	Unknown	Kemp 77/96	0.12469	253.1	380	9																																			
+3295	E10	Unknown	Kemp 77/96	0.129096	283.1	380	10																																			
+3295	E10	Unknown	Kemp 77/96	0.134048	313.1	380	11																																			
+3295	E10	Unknown	Kemp 77/96	0.138798	343.1	380	12																																			
+3295	E10	Unknown	Kemp 77/96	0.143731	373.1	380	13																																			
+3295	E10	Unknown	Kemp 77/96	0.148539	403.1	380	14																																			
+3295	E10	Unknown	Kemp 77/96	0.153275	433.1	380	15																																			
+3295	E10	Unknown	Kemp 77/96	0.157642	463.1	380	16																																			
+3295	E10	Unknown	Kemp 77/96	0.162942	493.1	380	17																																			
+3295	E10	Unknown	Kemp 77/96	0.1677	523.1	380	18																																			
+3295	E10	Unknown	Kemp 77/96	0.172556	553.1	380	19																																			
+3295	E10	Unknown	Kemp 77/96	0.177077	583.1	380	20																																			
+3295	F10	Unknown	Kemp 78/96	0.0905518	14.26	380	1																																			
+3295	F10	Unknown	Kemp 78/96	0.0948663	44.25	380	2																																			
+3295	F10	Unknown	Kemp 78/96	0.0993623	74.25	380	3																																			
+3295	F10	Unknown	Kemp 78/96	0.103851	104.25	380	4																																			
+3295	F10	Unknown	Kemp 78/96	0.108555	134.25	380	5																																			
+3295	F10	Unknown	Kemp 78/96	0.113409	164.25	380	6																																			
+3295	F10	Unknown	Kemp 78/96	0.118234	194.25	380	7																																			
+3295	F10	Unknown	Kemp 78/96	0.12309	224.25	380	8																																			
+3295	F10	Unknown	Kemp 78/96	0.127962	254.25	380	9																																			
+3295	F10	Unknown	Kemp 78/96	0.132938	284.25	380	10																																			
+3295	F10	Unknown	Kemp 78/96	0.138054	314.25	380	11																																			
+3295	F10	Unknown	Kemp 78/96	0.143217	344.25	380	12																																			
+3295	F10	Unknown	Kemp 78/96	0.148302	374.25	380	13																																			
+3295	F10	Unknown	Kemp 78/96	0.1535	404.25	380	14																																			
+3295	F10	Unknown	Kemp 78/96	0.158482	434.25	380	15																																			
+3295	F10	Unknown	Kemp 78/96	0.163717	464.25	380	16																																			
+3295	F10	Unknown	Kemp 78/96	0.168856	494.25	380	17																																			
+3295	F10	Unknown	Kemp 78/96	0.174217	524.25	380	18																																			
+3295	F10	Unknown	Kemp 78/96	0.179479	554.25	380	19																																			
+3295	F10	Unknown	Kemp 78/96	0.184798	584.25	380	20																																			
+3295	G10	Unknown	Kemp 79/96	0.0891202	18.63	380	1																																			
+3295	G10	Unknown	Kemp 79/96	0.0931324	48.62	380	2																																			
+3295	G10	Unknown	Kemp 79/96	0.0967751	78.62	380	3																																			
+3295	G10	Unknown	Kemp 79/96	0.100563	108.62	380	4																																			
+3295	G10	Unknown	Kemp 79/96	0.1043	138.62	380	5																																			
+3295	G10	Unknown	Kemp 79/96	0.108445	168.62	380	6																																			
+3295	G10	Unknown	Kemp 79/96	0.11195	198.62	380	7																																			
+3295	G10	Unknown	Kemp 79/96	0.115834	228.62	380	8																																			
+3295	G10	Unknown	Kemp 79/96	0.11948	258.62	380	9																																			
+3295	G10	Unknown	Kemp 79/96	0.123373	288.62	380	10																																			
+3295	G10	Unknown	Kemp 79/96	0.12746	318.62	380	11																																			
+3295	G10	Unknown	Kemp 79/96	0.131705	348.62	380	12																																			
+3295	G10	Unknown	Kemp 79/96	0.136188	378.62	380	13																																			
+3295	G10	Unknown	Kemp 79/96	0.140146	408.62	380	14																																			
+3295	G10	Unknown	Kemp 79/96	0.144221	438.62	380	15																																			
+3295	G10	Unknown	Kemp 79/96	0.147988	468.62	380	16																																			
+3295	G10	Unknown	Kemp 79/96	0.152503	498.62	380	17																																			
+3295	G10	Unknown	Kemp 79/96	0.156648	528.62	380	18																																			
+3295	G10	Unknown	Kemp 79/96	0.160994	558.62	380	19																																			
+3295	G10	Unknown	Kemp 79/96	0.164877	588.62	380	20																																			
+3295	H01	Unknown	Kemp 8/96	0.0771197	21.85	380	1																																			
+3295	H01	Unknown	Kemp 8/96	0.0779065	51.84	380	2																																			
+3295	H01	Unknown	Kemp 8/96	0.0778651	81.84	380	3																																			
+3295	H01	Unknown	Kemp 8/96	0.078261	111.84	380	4																																			
+3295	H01	Unknown	Kemp 8/96	0.078712	141.84	380	5																																			
+3295	H01	Unknown	Kemp 8/96	0.079444	171.84	380	6																																			
+3295	H01	Unknown	Kemp 8/96	0.0799204	201.84	380	7																																			
+3295	H01	Unknown	Kemp 8/96	0.0804888	231.84	380	8																																			
+3295	H01	Unknown	Kemp 8/96	0.0811794	261.84	380	9																																			
+3295	H01	Unknown	Kemp 8/96	0.0817507	291.84	380	10																																			
+3295	H01	Unknown	Kemp 8/96	0.0824427	321.84	380	11																																			
+3295	H01	Unknown	Kemp 8/96	0.0830516	351.84	380	12																																			
+3295	H01	Unknown	Kemp 8/96	0.0837745	381.84	380	13																																			
+3295	H01	Unknown	Kemp 8/96	0.084285	411.84	380	14																																			
+3295	H01	Unknown	Kemp 8/96	0.08495	441.84	380	15																																			
+3295	H01	Unknown	Kemp 8/96	0.0857021	471.84	380	16																																			
+3295	H01	Unknown	Kemp 8/96	0.086214	501.84	380	17																																			
+3295	H01	Unknown	Kemp 8/96	0.0870001	531.84	380	18																																			
+3295	H01	Unknown	Kemp 8/96	0.0876777	561.84	380	19																																			
+3295	H01	Unknown	Kemp 8/96	0.0884095	591.84	380	20																																			
+3295	H10	Unknown	Kemp 80/96	0.0944416	19.78	380	1																																			
+3295	H10	Unknown	Kemp 80/96	0.0998717	49.77	380	2																																			
+3295	H10	Unknown	Kemp 80/96	0.105141	79.77	380	3																																			
+3295	H10	Unknown	Kemp 80/96	0.110615	109.77	380	4																																			
+3295	H10	Unknown	Kemp 80/96	0.115823	139.77	380	5																																			
+3295	H10	Unknown	Kemp 80/96	0.121428	169.77	380	6																																			
+3295	H10	Unknown	Kemp 80/96	0.127162	199.77	380	7																																			
+3295	H10	Unknown	Kemp 80/96	0.132982	229.77	380	8																																			
+3295	H10	Unknown	Kemp 80/96	0.138888	259.77	380	9																																			
+3295	H10	Unknown	Kemp 80/96	0.144569	289.77	380	10																																			
+3295	H10	Unknown	Kemp 80/96	0.150561	319.77	380	11																																			
+3295	H10	Unknown	Kemp 80/96	0.156388	349.77	380	12																																			
+3295	H10	Unknown	Kemp 80/96	0.162403	379.77	380	13																																			
+3295	H10	Unknown	Kemp 80/96	0.168358	409.77	380	14																																			
+3295	H10	Unknown	Kemp 80/96	0.17435	439.77	380	15																																			
+3295	H10	Unknown	Kemp 80/96	0.180484	469.77	380	16																																			
+3295	H10	Unknown	Kemp 80/96	0.186487	499.77	380	17																																			
+3295	H10	Unknown	Kemp 80/96	0.192602	529.77	380	18																																			
+3295	H10	Unknown	Kemp 80/96	0.198656	559.77	380	19																																			
+3295	H10	Unknown	Kemp 80/96	0.204795	589.77	380	20																																			
+3295	A11	Unknown	Kemp 81/96	0.0988	32.29	380	2																																			
+3295	A11	Unknown	Kemp 81/96	0.104552	62.29	380	3																																			
+3295	A11	Unknown	Kemp 81/96	0.110249	92.29	380	4																																			
+3295	A11	Unknown	Kemp 81/96	0.115896	122.29	380	5																																			
+3295	A11	Unknown	Kemp 81/96	0.122448	152.29	380	6																																			
+3295	A11	Unknown	Kemp 81/96	0.12815	182.29	380	7																																			
+3295	A11	Unknown	Kemp 81/96	0.134465	212.29	380	8																																			
+3295	A11	Unknown	Kemp 81/96	0.140726	242.29	380	9																																			
+3295	A11	Unknown	Kemp 81/96	0.147092	272.29	380	10																																			
+3295	A11	Unknown	Kemp 81/96	0.153082	302.29	380	11																																			
+3295	A11	Unknown	Kemp 81/96	0.159427	332.29	380	12																																			
+3295	A11	Unknown	Kemp 81/96	0.165798	362.29	380	13																																			
+3295	A11	Unknown	Kemp 81/96	0.17197	392.29	380	14																																			
+3295	A11	Unknown	Kemp 81/96	0.178689	422.29	380	15																																			
+3295	A11	Unknown	Kemp 81/96	0.185057	452.29	380	16																																			
+3295	A11	Unknown	Kemp 81/96	0.191845	482.29	380	17																																			
+3295	A11	Unknown	Kemp 81/96	0.197973	512.29	380	18																																			
+3295	A11	Unknown	Kemp 81/96	0.204452	542.29	380	19																																			
+3295	A11	Unknown	Kemp 81/96	0.21097	572.29	380	20																																			
+3295	A11	Unknown	Kemp 81/96	0.0924632	2.3	380	1																																			
+3295	B11	Unknown	Kemp 82/96	0.0905293	32.98	380	2																																			
+3295	B11	Unknown	Kemp 82/96	0.0943026	62.98	380	3																																			
+3295	B11	Unknown	Kemp 82/96	0.0981697	92.98	380	4																																			
+3295	B11	Unknown	Kemp 82/96	0.102169	122.98	380	5																																			
+3295	B11	Unknown	Kemp 82/96	0.10614	152.98	380	6																																			
+3295	B11	Unknown	Kemp 82/96	0.110251	182.98	380	7																																			
+3295	B11	Unknown	Kemp 82/96	0.114362	212.98	380	8																																			
+3295	B11	Unknown	Kemp 82/96	0.11849	242.98	380	9																																			
+3295	B11	Unknown	Kemp 82/96	0.122784	272.98	380	10																																			
+3295	B11	Unknown	Kemp 82/96	0.127014	302.98	380	11																																			
+3295	B11	Unknown	Kemp 82/96	0.131374	332.98	380	12																																			
+3295	B11	Unknown	Kemp 82/96	0.135701	362.98	380	13																																			
+3295	B11	Unknown	Kemp 82/96	0.140072	392.98	380	14																																			
+3295	B11	Unknown	Kemp 82/96	0.14448	422.98	380	15																																			
+3295	B11	Unknown	Kemp 82/96	0.149001	452.98	380	16																																			
+3295	B11	Unknown	Kemp 82/96	0.153494	482.98	380	17																																			
+3295	B11	Unknown	Kemp 82/96	0.158001	512.98	380	18																																			
+3295	B11	Unknown	Kemp 82/96	0.162483	542.98	380	19																																			
+3295	B11	Unknown	Kemp 82/96	0.167149	572.98	380	20																																			
+3295	B11	Unknown	Kemp 82/96	0.086503	2.99	380	1																																			
+3295	C11	Unknown	Kemp 83/96	0.0851027	7.82	380	1																																			
+3295	C11	Unknown	Kemp 83/96	0.0883542	37.81	380	2																																			
+3295	C11	Unknown	Kemp 83/96	0.0915841	67.81	380	3																																			
+3295	C11	Unknown	Kemp 83/96	0.0948255	97.81	380	4																																			
+3295	C11	Unknown	Kemp 83/96	0.0978651	127.81	380	5																																			
+3295	C11	Unknown	Kemp 83/96	0.10101	157.81	380	6																																			
+3295	C11	Unknown	Kemp 83/96	0.104398	187.81	380	7																																			
+3295	C11	Unknown	Kemp 83/96	0.107582	217.81	380	8																																			
+3295	C11	Unknown	Kemp 83/96	0.110765	247.81	380	9																																			
+3295	C11	Unknown	Kemp 83/96	0.114246	277.81	380	10																																			
+3295	C11	Unknown	Kemp 83/96	0.117851	307.81	380	11																																			
+3295	C11	Unknown	Kemp 83/96	0.120848	337.81	380	12																																			
+3295	C11	Unknown	Kemp 83/96	0.124602	367.81	380	13																																			
+3295	C11	Unknown	Kemp 83/96	0.128088	397.81	380	14																																			
+3295	C11	Unknown	Kemp 83/96	0.131684	427.81	380	15																																			
+3295	C11	Unknown	Kemp 83/96	0.135458	457.81	380	16																																			
+3295	C11	Unknown	Kemp 83/96	0.13896	487.81	380	17																																			
+3295	C11	Unknown	Kemp 83/96	0.142503	517.81	380	18																																			
+3295	C11	Unknown	Kemp 83/96	0.146317	547.81	380	19																																			
+3295	C11	Unknown	Kemp 83/96	0.149803	577.81	380	20																																			
+3295	D11	Unknown	Kemp 84/96	0.0845018	8.51	380	1																																			
+3295	D11	Unknown	Kemp 84/96	0.0870237	38.5	380	2																																			
+3295	D11	Unknown	Kemp 84/96	0.0898291	68.5	380	3																																			
+3295	D11	Unknown	Kemp 84/96	0.0927112	98.5	380	4																																			
+3295	D11	Unknown	Kemp 84/96	0.0955423	128.5	380	5																																			
+3295	D11	Unknown	Kemp 84/96	0.0984135	158.5	380	6																																			
+3295	D11	Unknown	Kemp 84/96	0.101549	188.5	380	7																																			
+3295	D11	Unknown	Kemp 84/96	0.104539	218.5	380	8																																			
+3295	D11	Unknown	Kemp 84/96	0.107561	248.5	380	9																																			
+3295	D11	Unknown	Kemp 84/96	0.110722	278.5	380	10																																			
+3295	D11	Unknown	Kemp 84/96	0.113847	308.5	380	11																																			
+3295	D11	Unknown	Kemp 84/96	0.116906	338.5	380	12																																			
+3295	D11	Unknown	Kemp 84/96	0.120213	368.5	380	13																																			
+3295	D11	Unknown	Kemp 84/96	0.123471	398.5	380	14																																			
+3295	D11	Unknown	Kemp 84/96	0.126669	428.5	380	15																																			
+3295	D11	Unknown	Kemp 84/96	0.130078	458.5	380	16																																			
+3295	D11	Unknown	Kemp 84/96	0.133341	488.5	380	17																																			
+3295	D11	Unknown	Kemp 84/96	0.136786	518.5	380	18																																			
+3295	D11	Unknown	Kemp 84/96	0.140036	548.5	380	19																																			
+3295	D11	Unknown	Kemp 84/96	0.143535	578.5	380	20																																			
+3295	E11	Unknown	Kemp 85/96	0.0876868	13.34	380	1																																			
+3295	E11	Unknown	Kemp 85/96	0.0916683	43.33	380	2																																			
+3295	E11	Unknown	Kemp 85/96	0.0950433	73.33	380	3																																			
+3295	E11	Unknown	Kemp 85/96	0.098574	103.33	380	4																																			
+3295	E11	Unknown	Kemp 85/96	0.102375	133.33	380	5																																			
+3295	E11	Unknown	Kemp 85/96	0.105966	163.33	380	6																																			
+3295	E11	Unknown	Kemp 85/96	0.109823	193.33	380	7																																			
+3295	E11	Unknown	Kemp 85/96	0.114177	223.33	380	8																																			
+3295	E11	Unknown	Kemp 85/96	0.118019	253.33	380	9																																			
+3295	E11	Unknown	Kemp 85/96	0.122393	283.33	380	10																																			
+3295	E11	Unknown	Kemp 85/96	0.126359	313.33	380	11																																			
+3295	E11	Unknown	Kemp 85/96	0.130265	343.33	380	12																																			
+3295	E11	Unknown	Kemp 85/96	0.134459	373.33	380	13																																			
+3295	E11	Unknown	Kemp 85/96	0.138908	403.33	380	14																																			
+3295	E11	Unknown	Kemp 85/96	0.143306	433.33	380	15																																			
+3295	E11	Unknown	Kemp 85/96	0.147834	463.33	380	16																																			
+3295	E11	Unknown	Kemp 85/96	0.151688	493.33	380	17																																			
+3295	E11	Unknown	Kemp 85/96	0.156024	523.33	380	18																																			
+3295	E11	Unknown	Kemp 85/96	0.159896	553.33	380	19																																			
+3295	E11	Unknown	Kemp 85/96	0.164772	583.33	380	20																																			
+3295	F11	Unknown	Kemp 86/96	0.087975	14.03	380	1																																			
+3295	F11	Unknown	Kemp 86/96	0.092032	44.02	380	2																																			
+3295	F11	Unknown	Kemp 86/96	0.0961303	74.02	380	3																																			
+3295	F11	Unknown	Kemp 86/96	0.100198	104.02	380	4																																			
+3295	F11	Unknown	Kemp 86/96	0.10415	134.02	380	5																																			
+3295	F11	Unknown	Kemp 86/96	0.108186	164.02	380	6																																			
+3295	F11	Unknown	Kemp 86/96	0.112436	194.02	380	7																																			
+3295	F11	Unknown	Kemp 86/96	0.116815	224.02	380	8																																			
+3295	F11	Unknown	Kemp 86/96	0.12131	254.02	380	9																																			
+3295	F11	Unknown	Kemp 86/96	0.125771	284.02	380	10																																			
+3295	F11	Unknown	Kemp 86/96	0.130164	314.02	380	11																																			
+3295	F11	Unknown	Kemp 86/96	0.134762	344.02	380	12																																			
+3295	F11	Unknown	Kemp 86/96	0.139324	374.02	380	13																																			
+3295	F11	Unknown	Kemp 86/96	0.143993	404.02	380	14																																			
+3295	F11	Unknown	Kemp 86/96	0.148664	434.02	380	15																																			
+3295	F11	Unknown	Kemp 86/96	0.153323	464.02	380	16																																			
+3295	F11	Unknown	Kemp 86/96	0.158036	494.02	380	17																																			
+3295	F11	Unknown	Kemp 86/96	0.162651	524.02	380	18																																			
+3295	F11	Unknown	Kemp 86/96	0.167368	554.02	380	19																																			
+3295	F11	Unknown	Kemp 86/96	0.172138	584.02	380	20																																			
+3295	G11	Unknown	Kemp 87/96	0.0894026	18.86	380	1																																			
+3295	G11	Unknown	Kemp 87/96	0.0937098	48.85	380	2																																			
+3295	G11	Unknown	Kemp 87/96	0.0975144	78.85	380	3																																			
+3295	G11	Unknown	Kemp 87/96	0.101444	108.85	380	4																																			
+3295	G11	Unknown	Kemp 87/96	0.105405	138.85	380	5																																			
+3295	G11	Unknown	Kemp 87/96	0.109003	168.85	380	6																																			
+3295	G11	Unknown	Kemp 87/96	0.113426	198.85	380	7																																			
+3295	G11	Unknown	Kemp 87/96	0.117683	228.85	380	8																																			
+3295	G11	Unknown	Kemp 87/96	0.121688	258.85	380	9																																			
+3295	G11	Unknown	Kemp 87/96	0.125927	288.85	380	10																																			
+3295	G11	Unknown	Kemp 87/96	0.130148	318.85	380	11																																			
+3295	G11	Unknown	Kemp 87/96	0.134553	348.85	380	12																																			
+3295	G11	Unknown	Kemp 87/96	0.138893	378.85	380	13																																			
+3295	G11	Unknown	Kemp 87/96	0.143176	408.85	380	14																																			
+3295	G11	Unknown	Kemp 87/96	0.147799	438.85	380	15																																			
+3295	G11	Unknown	Kemp 87/96	0.152156	468.85	380	16																																			
+3295	G11	Unknown	Kemp 87/96	0.156656	498.85	380	17																																			
+3295	G11	Unknown	Kemp 87/96	0.161136	528.85	380	18																																			
+3295	G11	Unknown	Kemp 87/96	0.165664	558.85	380	19																																			
+3295	G11	Unknown	Kemp 87/96	0.170151	588.85	380	20																																			
+3295	H11	Unknown	Kemp 88/96	0.0941893	19.55	380	1																																			
+3295	H11	Unknown	Kemp 88/96	0.0994118	49.54	380	2																																			
+3295	H11	Unknown	Kemp 88/96	0.104727	79.54	380	3																																			
+3295	H11	Unknown	Kemp 88/96	0.110032	109.54	380	4																																			
+3295	H11	Unknown	Kemp 88/96	0.115412	139.54	380	5																																			
+3295	H11	Unknown	Kemp 88/96	0.120985	169.54	380	6																																			
+3295	H11	Unknown	Kemp 88/96	0.126672	199.54	380	7																																			
+3295	H11	Unknown	Kemp 88/96	0.132479	229.54	380	8																																			
+3295	H11	Unknown	Kemp 88/96	0.138265	259.54	380	9																																			
+3295	H11	Unknown	Kemp 88/96	0.14394	289.54	380	10																																			
+3295	H11	Unknown	Kemp 88/96	0.14977	319.54	380	11																																			
+3295	H11	Unknown	Kemp 88/96	0.155636	349.54	380	12																																			
+3295	H11	Unknown	Kemp 88/96	0.161599	379.54	380	13																																			
+3295	H11	Unknown	Kemp 88/96	0.167534	409.54	380	14																																			
+3295	H11	Unknown	Kemp 88/96	0.173511	439.54	380	15																																			
+3295	H11	Unknown	Kemp 88/96	0.17959	469.54	380	16																																			
+3295	H11	Unknown	Kemp 88/96	0.185495	499.54	380	17																																			
+3295	H11	Unknown	Kemp 88/96	0.19146	529.54	380	18																																			
+3295	H11	Unknown	Kemp 88/96	0.197577	559.54	380	19																																			
+3295	H11	Unknown	Kemp 88/96	0.203619	589.54	380	20																																			
+3295	A12	Unknown	Kemp 89/96	0.0961083	32.52	380	2																																			
+3295	A12	Unknown	Kemp 89/96	0.101271	62.52	380	3																																			
+3295	A12	Unknown	Kemp 89/96	0.106562	92.52	380	4																																			
+3295	A12	Unknown	Kemp 89/96	0.111493	122.52	380	5																																			
+3295	A12	Unknown	Kemp 89/96	0.117444	152.52	380	6																																			
+3295	A12	Unknown	Kemp 89/96	0.122516	182.52	380	7																																			
+3295	A12	Unknown	Kemp 89/96	0.128204	212.52	380	8																																			
+3295	A12	Unknown	Kemp 89/96	0.133806	242.52	380	9																																			
+3295	A12	Unknown	Kemp 89/96	0.139338	272.52	380	10																																			
+3295	A12	Unknown	Kemp 89/96	0.144902	302.52	380	11																																			
+3295	A12	Unknown	Kemp 89/96	0.151045	332.52	380	12																																			
+3295	A12	Unknown	Kemp 89/96	0.156606	362.52	380	13																																			
+3295	A12	Unknown	Kemp 89/96	0.162458	392.52	380	14																																			
+3295	A12	Unknown	Kemp 89/96	0.168342	422.52	380	15																																			
+3295	A12	Unknown	Kemp 89/96	0.174079	452.52	380	16																																			
+3295	A12	Unknown	Kemp 89/96	0.179766	482.52	380	17																																			
+3295	A12	Unknown	Kemp 89/96	0.185678	512.52	380	18																																			
+3295	A12	Unknown	Kemp 89/96	0.19152	542.52	380	19																																			
+3295	A12	Unknown	Kemp 89/96	0.197353	572.52	380	20																																			
+3295	A12	Unknown	Kemp 89/96	0.0904604	2.53	380	1																																			
+3295	A02	Unknown	Kemp 9/96	0.0867018	0.23	380	1																																			
+3295	A02	Unknown	Kemp 9/96	0.0910677	30.22	380	2																																			
+3295	A02	Unknown	Kemp 9/96	0.0951109	60.22	380	3																																			
+3295	A02	Unknown	Kemp 9/96	0.099379	90.22	380	4																																			
+3295	A02	Unknown	Kemp 9/96	0.103418	120.22	380	5																																			
+3295	A02	Unknown	Kemp 9/96	0.107878	150.22	380	6																																			
+3295	A02	Unknown	Kemp 9/96	0.111894	180.22	380	7																																			
+3295	A02	Unknown	Kemp 9/96	0.116379	210.22	380	8																																			
+3295	A02	Unknown	Kemp 9/96	0.120747	240.22	380	9																																			
+3295	A02	Unknown	Kemp 9/96	0.125255	270.22	380	10																																			
+3295	A02	Unknown	Kemp 9/96	0.129625	300.22	380	11																																			
+3295	A02	Unknown	Kemp 9/96	0.134216	330.22	380	12																																			
+3295	A02	Unknown	Kemp 9/96	0.138704	360.22	380	13																																			
+3295	A02	Unknown	Kemp 9/96	0.143317	390.22	380	14																																			
+3295	A02	Unknown	Kemp 9/96	0.147927	420.22	380	15																																			
+3295	A02	Unknown	Kemp 9/96	0.152588	450.22	380	16																																			
+3295	A02	Unknown	Kemp 9/96	0.157229	480.22	380	17																																			
+3295	A02	Unknown	Kemp 9/96	0.161969	510.22	380	18																																			
+3295	A02	Unknown	Kemp 9/96	0.166655	540.22	380	19																																			
+3295	A02	Unknown	Kemp 9/96	0.171291	570.22	380	20																																			
+3295	B12	Unknown	Kemp 90/96	0.0998736	32.75	380	2																																			
+3295	B12	Unknown	Kemp 90/96	0.10583	62.75	380	3																																			
+3295	B12	Unknown	Kemp 90/96	0.111837	92.75	380	4																																			
+3295	B12	Unknown	Kemp 90/96	0.117994	122.75	380	5																																			
+3295	B12	Unknown	Kemp 90/96	0.124297	152.75	380	6																																			
+3295	B12	Unknown	Kemp 90/96	0.13062	182.75	380	7																																			
+3295	B12	Unknown	Kemp 90/96	0.137026	212.75	380	8																																			
+3295	B12	Unknown	Kemp 90/96	0.143742	242.75	380	9																																			
+3295	B12	Unknown	Kemp 90/96	0.150364	272.75	380	10																																			
+3295	B12	Unknown	Kemp 90/96	0.156726	302.75	380	11																																			
+3295	B12	Unknown	Kemp 90/96	0.163181	332.75	380	12																																			
+3295	B12	Unknown	Kemp 90/96	0.169888	362.75	380	13																																			
+3295	B12	Unknown	Kemp 90/96	0.177022	392.75	380	14																																			
+3295	B12	Unknown	Kemp 90/96	0.183189	422.75	380	15																																			
+3295	B12	Unknown	Kemp 90/96	0.190061	452.75	380	16																																			
+3295	B12	Unknown	Kemp 90/96	0.196709	482.75	380	17																																			
+3295	B12	Unknown	Kemp 90/96	0.203848	512.75	380	18																																			
+3295	B12	Unknown	Kemp 90/96	0.21032	542.75	380	19																																			
+3295	B12	Unknown	Kemp 90/96	0.217255	572.75	380	20																																			
+3295	B12	Unknown	Kemp 90/96	0.0937258	2.76	380	1																																			
+3295	C12	Unknown	Kemp 91/96	0.0914498	8.05	380	1																																			
+3295	C12	Unknown	Kemp 91/96	0.0966232	38.04	380	2																																			
+3295	C12	Unknown	Kemp 91/96	0.101696	68.04	380	3																																			
+3295	C12	Unknown	Kemp 91/96	0.106901	98.04	380	4																																			
+3295	C12	Unknown	Kemp 91/96	0.111888	128.04	380	5																																			
+3295	C12	Unknown	Kemp 91/96	0.117028	158.04	380	6																																			
+3295	C12	Unknown	Kemp 91/96	0.122565	188.04	380	7																																			
+3295	C12	Unknown	Kemp 91/96	0.127996	218.04	380	8																																			
+3295	C12	Unknown	Kemp 91/96	0.133203	248.04	380	9																																			
+3295	C12	Unknown	Kemp 91/96	0.138752	278.04	380	10																																			
+3295	C12	Unknown	Kemp 91/96	0.14434	308.04	380	11																																			
+3295	C12	Unknown	Kemp 91/96	0.14964	338.04	380	12																																			
+3295	C12	Unknown	Kemp 91/96	0.155561	368.04	380	13																																			
+3295	C12	Unknown	Kemp 91/96	0.161111	398.04	380	14																																			
+3295	C12	Unknown	Kemp 91/96	0.16634	428.04	380	15																																			
+3295	C12	Unknown	Kemp 91/96	0.172442	458.04	380	16																																			
+3295	C12	Unknown	Kemp 91/96	0.177954	488.04	380	17																																			
+3295	C12	Unknown	Kemp 91/96	0.183692	518.04	380	18																																			
+3295	C12	Unknown	Kemp 91/96	0.189442	548.04	380	19																																			
+3295	C12	Unknown	Kemp 91/96	0.195214	578.04	380	20																																			
+3295	D12	Unknown	Kemp 92/96	0.0896957	8.28	380	1																																			
+3295	D12	Unknown	Kemp 92/96	0.0934444	38.27	380	2																																			
+3295	D12	Unknown	Kemp 92/96	0.0971712	68.27	380	3																																			
+3295	D12	Unknown	Kemp 92/96	0.101328	98.27	380	4																																			
+3295	D12	Unknown	Kemp 92/96	0.105225	128.27	380	5																																			
+3295	D12	Unknown	Kemp 92/96	0.109555	158.27	380	6																																			
+3295	D12	Unknown	Kemp 92/96	0.114044	188.27	380	7																																			
+3295	D12	Unknown	Kemp 92/96	0.118264	218.27	380	8																																			
+3295	D12	Unknown	Kemp 92/96	0.122766	248.27	380	9																																			
+3295	D12	Unknown	Kemp 92/96	0.127155	278.27	380	10																																			
+3295	D12	Unknown	Kemp 92/96	0.131598	308.27	380	11																																			
+3295	D12	Unknown	Kemp 92/96	0.136029	338.27	380	12																																			
+3295	D12	Unknown	Kemp 92/96	0.140524	368.27	380	13																																			
+3295	D12	Unknown	Kemp 92/96	0.14506	398.27	380	14																																			
+3295	D12	Unknown	Kemp 92/96	0.149758	428.27	380	15																																			
+3295	D12	Unknown	Kemp 92/96	0.154298	458.27	380	16																																			
+3295	D12	Unknown	Kemp 92/96	0.158999	488.27	380	17																																			
+3295	D12	Unknown	Kemp 92/96	0.16359	518.27	380	18																																			
+3295	D12	Unknown	Kemp 92/96	0.168314	548.27	380	19																																			
+3295	D12	Unknown	Kemp 92/96	0.172963	578.27	380	20																																			
+3295	E12	Unknown	Kemp 93/96	0.0835476	13.57	380	1																																			
+3295	E12	Unknown	Kemp 93/96	0.0860165	43.56	380	2																																			
+3295	E12	Unknown	Kemp 93/96	0.0886094	73.56	380	3																																			
+3295	E12	Unknown	Kemp 93/96	0.0906378	103.56	380	4																																			
+3295	E12	Unknown	Kemp 93/96	0.0935721	133.56	380	5																																			
+3295	E12	Unknown	Kemp 93/96	0.095761	163.56	380	6																																			
+3295	E12	Unknown	Kemp 93/96	0.0983787	193.56	380	7																																			
+3295	E12	Unknown	Kemp 93/96	0.100984	223.56	380	8																																			
+3295	E12	Unknown	Kemp 93/96	0.103461	253.56	380	9																																			
+3295	E12	Unknown	Kemp 93/96	0.105972	283.56	380	10																																			
+3295	E12	Unknown	Kemp 93/96	0.108932	313.56	380	11																																			
+3295	E12	Unknown	Kemp 93/96	0.111448	343.56	380	12																																			
+3295	E12	Unknown	Kemp 93/96	0.114068	373.56	380	13																																			
+3295	E12	Unknown	Kemp 93/96	0.117261	403.56	380	14																																			
+3295	E12	Unknown	Kemp 93/96	0.119931	433.56	380	15																																			
+3295	E12	Unknown	Kemp 93/96	0.122732	463.56	380	16																																			
+3295	E12	Unknown	Kemp 93/96	0.125336	493.56	380	17																																			
+3295	E12	Unknown	Kemp 93/96	0.128308	523.56	380	18																																			
+3295	E12	Unknown	Kemp 93/96	0.131114	553.56	380	19																																			
+3295	E12	Unknown	Kemp 93/96	0.133917	583.56	380	20																																			
+3295	F12	Unknown	Kemp 94/96	0.0925115	13.8	380	1																																			
+3295	F12	Unknown	Kemp 94/96	0.0978218	43.79	380	2																																			
+3295	F12	Unknown	Kemp 94/96	0.103144	73.79	380	3																																			
+3295	F12	Unknown	Kemp 94/96	0.108308	103.79	380	4																																			
+3295	F12	Unknown	Kemp 94/96	0.113711	133.79	380	5																																			
+3295	F12	Unknown	Kemp 94/96	0.119163	163.79	380	6																																			
+3295	F12	Unknown	Kemp 94/96	0.124727	193.79	380	7																																			
+3295	F12	Unknown	Kemp 94/96	0.130406	223.79	380	8																																			
+3295	F12	Unknown	Kemp 94/96	0.136186	253.79	380	9																																			
+3295	F12	Unknown	Kemp 94/96	0.141912	283.79	380	10																																			
+3295	F12	Unknown	Kemp 94/96	0.147663	313.79	380	11																																			
+3295	F12	Unknown	Kemp 94/96	0.153784	343.79	380	12																																			
+3295	F12	Unknown	Kemp 94/96	0.15952	373.79	380	13																																			
+3295	F12	Unknown	Kemp 94/96	0.165448	403.79	380	14																																			
+3295	F12	Unknown	Kemp 94/96	0.171416	433.79	380	15																																			
+3295	F12	Unknown	Kemp 94/96	0.177246	463.79	380	16																																			
+3295	F12	Unknown	Kemp 94/96	0.183193	493.79	380	17																																			
+3295	F12	Unknown	Kemp 94/96	0.189218	523.79	380	18																																			
+3295	F12	Unknown	Kemp 94/96	0.195026	553.79	380	19																																			
+3295	F12	Unknown	Kemp 94/96	0.201147	583.79	380	20																																			
+3295	G12	Unknown	Kemp 95/96	0.0965057	19.09	380	1																																			
+3295	G12	Unknown	Kemp 95/96	0.102394	49.08	380	2																																			
+3295	G12	Unknown	Kemp 95/96	0.108139	79.08	380	3																																			
+3295	G12	Unknown	Kemp 95/96	0.114207	109.08	380	4																																			
+3295	G12	Unknown	Kemp 95/96	0.120121	139.08	380	5																																			
+3295	G12	Unknown	Kemp 95/96	0.125969	169.08	380	6																																			
+3295	G12	Unknown	Kemp 95/96	0.132248	199.08	380	7																																			
+3295	G12	Unknown	Kemp 95/96	0.138669	229.08	380	8																																			
+3295	G12	Unknown	Kemp 95/96	0.144471	259.08	380	9																																			
+3295	G12	Unknown	Kemp 95/96	0.150704	289.08	380	10																																			
+3295	G12	Unknown	Kemp 95/96	0.157463	319.08	380	11																																			
+3295	G12	Unknown	Kemp 95/96	0.163608	349.08	380	12																																			
+3295	G12	Unknown	Kemp 95/96	0.16988	379.08	380	13																																			
+3295	G12	Unknown	Kemp 95/96	0.176308	409.08	380	14																																			
+3295	G12	Unknown	Kemp 95/96	0.182675	439.08	380	15																																			
+3295	G12	Unknown	Kemp 95/96	0.189038	469.08	380	16																																			
+3295	G12	Unknown	Kemp 95/96	0.195375	499.08	380	17																																			
+3295	G12	Unknown	Kemp 95/96	0.201986	529.08	380	18																																			
+3295	G12	Unknown	Kemp 95/96	0.208387	559.08	380	19																																			
+3295	G12	Unknown	Kemp 95/96	0.21459	589.08	380	20																																			
+3295	H12	Unknown	Kemp 96/96	0.102464	19.32	380	1																																			
+3295	H12	Unknown	Kemp 96/96	0.109692	49.31	380	2																																			
+3295	H12	Unknown	Kemp 96/96	0.117202	79.31	380	3																																			
+3295	H12	Unknown	Kemp 96/96	0.12471	109.31	380	4																																			
+3295	H12	Unknown	Kemp 96/96	0.132509	139.31	380	5																																			
+3295	H12	Unknown	Kemp 96/96	0.140391	169.31	380	6																																			
+3295	H12	Unknown	Kemp 96/96	0.148124	199.31	380	7																																			
+3295	H12	Unknown	Kemp 96/96	0.156103	229.31	380	8																																			
+3295	H12	Unknown	Kemp 96/96	0.164143	259.31	380	9																																			
+3295	H12	Unknown	Kemp 96/96	0.17209	289.31	380	10																																			
+3295	H12	Unknown	Kemp 96/96	0.179984	319.31	380	11																																			
+3295	H12	Unknown	Kemp 96/96	0.188093	349.31	380	12																																			
+3295	H12	Unknown	Kemp 96/96	0.196149	379.31	380	13																																			
+3295	H12	Unknown	Kemp 96/96	0.204237	409.31	380	14																																			
+3295	H12	Unknown	Kemp 96/96	0.212281	439.31	380	15																																			
+3295	H12	Unknown	Kemp 96/96	0.220513	469.31	380	16																																			
+3295	H12	Unknown	Kemp 96/96	0.228648	499.31	380	17																																			
+3295	H12	Unknown	Kemp 96/96	0.236692	529.31	380	18																																			
+3295	H12	Unknown	Kemp 96/96	0.244762	559.31	380	19																																			
+3295	H12	Unknown	Kemp 96/96	0.252832	589.31	380	20																																			
+
+																																										
+Layout																																										
+																																										
+Plate 1: 3295																																										
+																																										
+Sample	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+B	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+C	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+D	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+E	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+F	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+G	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+H	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+																																										
+Type	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+B	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+C	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+D	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+E	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+F	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+G	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+H	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+																																										
+Conc/Dil	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+B	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+C	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+D	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+E	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+F	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+G	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+H	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+																																										
+Unit	1	2	3	4	5	6	7	8	9	10	11	12																														
+A																																										
+B																																										
+C																																										
+D																																										
+E																																										
+F																																										
+G																																										
+H																																										
+																																										
+Description																																										
+	No description																																									
+
+																																										
+KineticCalculation1																																										
+																																										
+Parameters																																										
+	Processor Type				AvgRate																																					
+	Reaction				Undefined																																					
+	Kinetic Rate				s																																					
+	Ignore First N Readings				0																																					
+	Ignore Last N Readings				0																																					
+	Window				1																																					
+	Baseline				0																																					
+	Reading Index				1																																					
+	Change type				Absolute																																					
+	Change value				0																																					
+																																										
+Plate	Well	Type	Sample	Value	Time (s)	WL																																				
+3295	A01	Unknown	Kemp 1/96	0.000241966351194929	0	380																																				
+3295	B02	Unknown	Kemp 10/96	0.000107514631371989	0	380																																				
+3295	C02	Unknown	Kemp 11/96	0.000124224026056804	0	380																																				
+3295	D02	Unknown	Kemp 12/96	0.00010594085525975	0	380																																				
+3295	E02	Unknown	Kemp 13/96	0.000112042618297962	0	380																																				
+3295	F02	Unknown	Kemp 14/96	0.000283614288980792	0	380																																				
+3295	G02	Unknown	Kemp 15/96	0.000194874883260939	0	380																																				
+3295	H02	Unknown	Kemp 16/96	0.000187984765278034	0	380																																				
+3295	A03	Unknown	Kemp 17/96	0.000185297869744034	0	380																																				
+3295	B03	Unknown	Kemp 18/96	0.000161837720445	0	380																																				
+3295	C03	Unknown	Kemp 19/96	9.2041444986287E-05	0	380																																				
+3295	B01	Unknown	Kemp 2/96	0.000171261609096411	0	380																																				
+3295	D03	Unknown	Kemp 20/96	0.000123178875192125	0	380																																				
+3295	E03	Unknown	Kemp 21/96	0.000145248162592612	0	380																																				
+3295	F03	Unknown	Kemp 22/96	0.000148195003294136	0	380																																				
+3295	G03	Unknown	Kemp 23/96	0.000215399064470935	0	380																																				
+3295	H03	Unknown	Kemp 24/96	0.000185057129644709	0	380																																				
+3295	A04	Unknown	Kemp 25/96	0.0002734911980487	0	380																																				
+3295	B04	Unknown	Kemp 26/96	0.000262864473902889	0	380																																				
+3295	C04	Unknown	Kemp 27/96	0.000157428737290554	0	380																																				
+3295	D04	Unknown	Kemp 28/96	0.000104078130179707	0	380																																				
+3295	E04	Unknown	Kemp 29/96	8.70074948637514E-05	0	380																																				
+3295	C01	Unknown	Kemp 3/96	0.000124381410204381	0	380																																				
+3295	F04	Unknown	Kemp 30/96	0.000114545595635611	0	380																																				
+3295	G04	Unknown	Kemp 31/96	0.000130649426941056	0	380																																				
+3295	H04	Unknown	Kemp 32/96	0.000206886590633521	0	380																																				
+3295	A05	Unknown	Kemp 33/96	0.000174919185772919	0	380																																				
+3295	B05	Unknown	Kemp 34/96	0.000145631970508767	0	380																																				
+3295	C05	Unknown	Kemp 35/96	0.000108501214494679	0	380																																				
+3295	D05	Unknown	Kemp 36/96	0.000117018960156902	0	380																																				
+3295	E05	Unknown	Kemp 37/96	0.000131182527081942	0	380																																				
+3295	F05	Unknown	Kemp 38/96	0.000106585552346989	0	380																																				
+3295	G05	Unknown	Kemp 39/96	0.000145859921898243	0	380																																				
+3295	D01	Unknown	Kemp 4/96	0.000143047347232815	0	380																																				
+3295	H05	Unknown	Kemp 40/96	0.000144271507862305	0	380																																				
+3295	A06	Unknown	Kemp 41/96	0.000166391282747209	0	380																																				
+3295	B06	Unknown	Kemp 42/96	0.000136895931376782	0	380																																				
+3295	C06	Unknown	Kemp 43/96	0.000107626057089224	0	380																																				
+3295	D06	Unknown	Kemp 44/96	0.000121991727353311	0	380																																				
+3295	E06	Unknown	Kemp 45/96	0.000118390798354058	0	380																																				
+3295	F06	Unknown	Kemp 46/96	0.000134053712531038	0	380																																				
+3295	G06	Unknown	Kemp 47/96	0.000126399029870196	0	380																																				
+3295	H06	Unknown	Kemp 48/96	0.00015198352149045	0	380																																				
+3295	A07	Unknown	Kemp 49/96	0.000171468590532626	0	380																																				
+3295	E01	Unknown	Kemp 5/96	1.76027720099887E-05	0	380																																				
+3295	B07	Unknown	Kemp 50/96	0.000141905747453433	0	380																																				
+3295	C07	Unknown	Kemp 51/96	0.000116638932111499	0	380																																				
+3295	D07	Unknown	Kemp 52/96	0.000108413926021101	0	380																																				
+3295	E07	Unknown	Kemp 53/96	0.000120084255376187	0	380																																				
+3295	F07	Unknown	Kemp 54/96	0.000112849093480973	0	380																																				
+3295	G07	Unknown	Kemp 55/96	0.000181584968256005	0	380																																				
+3295	H07	Unknown	Kemp 56/96	0.000189477178799363	0	380																																				
+3295	A08	Unknown	Kemp 57/96	0.000172028553911303	0	380																																				
+3295	B08	Unknown	Kemp 58/96	0.000123689884669828	0	380																																				
+3295	C08	Unknown	Kemp 59/96	0.000122256289528298	0	380																																				
+3295	F01	Unknown	Kemp 6/96	1.81809702599054E-05	0	380																																				
+3295	D08	Unknown	Kemp 60/96	7.74183685112714E-05	0	380																																				
+3295	E08	Unknown	Kemp 61/96	0.000141710077441736	0	380																																				
+3295	F08	Unknown	Kemp 62/96	0.000156500039321481	0	380																																				
+3295	G08	Unknown	Kemp 63/96	0.000177825846803815	0	380																																				
+3295	H08	Unknown	Kemp 64/96	6.02332315868804E-05	0	380																																				
+3295	A09	Unknown	Kemp 65/96	0.000145556883628001	0	380																																				
+3295	B09	Unknown	Kemp 66/96	0.000169463803519684	0	380																																				
+3295	C09	Unknown	Kemp 67/96	0.000112462377447565	0	380																																				
+3295	D09	Unknown	Kemp 68/96	0.000101045110432214	0	380																																				
+3295	E09	Unknown	Kemp 69/96	0.000113904566608453	0	380																																				
+3295	G01	Unknown	Kemp 7/96	1.83262750053913E-05	0	380																																				
+3295	F09	Unknown	Kemp 70/96	0.000104100270064244	0	380																																				
+3295	G09	Unknown	Kemp 71/96	0.000136270216987704	0	380																																				
+3295	H09	Unknown	Kemp 72/96	0.000298995638913512	0	380																																				
+3295	A10	Unknown	Kemp 73/96	0.000182822767179373	0	380																																				
+3295	B10	Unknown	Kemp 74/96	0.000162509850770361	0	380																																				
+3295	C10	Unknown	Kemp 75/96	0.00011004945651637	0	380																																				
+3295	D10	Unknown	Kemp 76/96	0.000187475488833795	0	380																																				
+3295	E10	Unknown	Kemp 77/96	0.000153579365228808	0	380																																				
+3295	F10	Unknown	Kemp 78/96	0.00016624696472716	0	380																																				
+3295	G10	Unknown	Kemp 79/96	0.000133053175006027	0	380																																				
+3295	H01	Unknown	Kemp 8/96	2.00694026955535E-05	0	380																																				
+3295	H10	Unknown	Kemp 80/96	0.000194382823520431	0	380																																				
+3295	A11	Unknown	Kemp 81/96	0.000208076552375073	0	380																																				
+3295	B11	Unknown	Kemp 82/96	0.000141572494143638	0	380																																				
+3295	C11	Unknown	Kemp 83/96	0.000113448604427682	0	380																																				
+3295	D11	Unknown	Kemp 84/96	0.000104074627562557	0	380																																				
+3295	E11	Unknown	Kemp 85/96	0.000135627240287694	0	380																																				
+3295	F11	Unknown	Kemp 86/96	0.000148194000381911	0	380																																				
+3295	G11	Unknown	Kemp 87/96	0.000141606254637926	0	380																																				
+3295	H11	Unknown	Kemp 88/96	0.000192939684509311	0	380																																				
+3295	A12	Unknown	Kemp 89/96	0.00018787380198993	0	380																																				
+3295	A02	Unknown	Kemp 9/96	0.00014849130948815	0	380																																				
+3295	B12	Unknown	Kemp 90/96	0.000217415035503506	0	380																																				
+3295	C12	Unknown	Kemp 91/96	0.000182344658189188	0	380																																				
+3295	D12	Unknown	Kemp 92/96	0.000147247368191077	0	380																																				
+3295	E12	Unknown	Kemp 93/96	8.85477455241229E-05	0	380																																				
+3295	F12	Unknown	Kemp 94/96	0.00019146672377859	0	380																																				
+3295	G12	Unknown	Kemp 95/96	0.000208157845727813	0	380																																				
+3295	H12	Unknown	Kemp 96/96	0.000265278105080197	0	380																																				
+
+																																										
+Run Log																																										
+																																										
+																																										
+	2015-08-24 11:18:01+02:00 - Execution started																																									
+	2015-08-24 11:18:07+02:00 - KineticLoop1 started																																									
+	2015-08-24 11:18:07+02:00 - Photometric1 started																																									
+	2015-08-24 11:28:00+02:00 - Photometric1 completed																																									
+	2015-08-24 11:28:00+02:00 - KineticLoop1 completed																																									
+	2015-08-24 11:28:00+02:00 - Execution completed																																									
+

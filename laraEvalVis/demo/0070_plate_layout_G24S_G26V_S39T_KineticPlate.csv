@@ -1,0 +1,39 @@
+# Barcodes: 0070,,,,,,,,,,,,
+# Description: This is a template file for plate layouts. It can be directly edited with a plain text editor or in a spread sheet program,,,,,,,,,,,,
+# rows=8   colums=12,,,,,,,,,,,,
+# Entry format: Type:Description, supported types: S: sample, R: reference, pCTRL: postitive control, nCTRL: negative control, BL: blank, 0: empty well,,,,,,
+# in case ALL fields of the substrate, cofactor or enzyme specifications are  empty, the standard concentrations in the header comment are  assumed for all fields. ,,,,,,,,,,
+# A zero (0) in a field means that no Substrate/Cofactor/Enzyme was added => concentration = 0. Conc.,,,,,,,,,,,,
+# NA means, concentration was not determined. NA is also assumed, if no header concentration is given.,,,,,,,,,,
+# Standard volume unit is ul and concentration unit is mM,,,,,,,,,,,,
+HEAD_DESCR,1,2,3,4,5,6,7,8,9,10,11,12
+A,BL:blank120uM,BL:blank120uM,BL:blank120uM,S:G24S120uM,S:G24S120uM,S:G24S120uM,S:G26V120uM,S:G26V120uM,S:G26V120uM,S:S39T120uM,S:S39T120uM,S:S39T120uM
+B,BL:blank240uM,BL:blank240uM,BL:blank240uM,S:G24S240uM,S:G24S240uM,S:G24S240uM,S:G26V240uM,S:G26V240uM,S:G26V240uM,S:S39T240uM,S:S39T240uM,S:S39T240uM
+C,BL:blank360uM,BL:blank360uM,BL:blank360uM,S:G24S360uM,S:G24S360uM,S:G24S360uM,S:G26V360uM,S:G26V360uM,S:G26V360uM,S:S39T360uM,S:S39T360uM,S:S39T360uM
+D,BL:blank480uM,BL:blank480uM,BL:blank480uM,S:G24S480uM,S:G24S480uM,S:G24S480uM,S:G26V480uM,S:G26V480uM,S:G26V480uM,S:S39T480uM,S:S39T480uM,S:S39T480uM
+E,BL:blank600uM,BL:blank600uM,BL:blank600uM,S:G24S600uM,S:G24S600uM,S:G24S600uM,S:G26V600uM,S:G26V600uM,S:G26V600uM,S:S39T600uM,S:S39T600uM,S:S39T600uM
+F,BL:blank720uM,BL:blank720uM,BL:blank720uM,S:G24S720uM,S:G24S720uM,S:G24S720uM,S:G26V720uM,S:G26V720uM,S:G26V720uM,S:S39T720uM,S:S39T720uM,S:S39T720uM
+G,BL:blank840uM,BL:blank840uM,BL:blank840uM,S:G24S840uM,S:G24S840uM,S:G24S840uM,S:G26V840uM,S:G26V840uM,S:G26V840uM,S:S39T840uM,S:S39T840uM,S:S39T840uM
+H,BL:blank960uM,BL:blank960uM,BL:blank960uM,S:G24S960uM,S:G24S960uM,S:G24S960uM,S:G26V960uM,S:G26V960uM,S:G26V960uM,S:S39T960uM,S:S39T960uM,S:S39T960uM
+# Volumes: 172 ,,,,,,,,,,,,
+# Addition 1: Substrate1,,,,,,,,,,,,
+HEAD_SUBSTR1,1,2,3,4,5,6,7,8,9,10,11,12
+A,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120,Kemp:0.120
+B,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240,Kemp:0.240
+C,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360,Kemp:0.360
+D,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480,Kemp:0.480
+E,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600,Kemp:0.600
+F,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720,Kemp:0.720
+G,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840,Kemp:0.840
+H,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960,Kemp:0.960
+# Addition 2: Cofactor:  Ca2+ : 10 ,,,,,,,,,,,,
+# Addition 3: Enzyme,,,,,,,,,,,,
+HEAD_ENZYME,1,2,3,4,5,6,7,8,9,10,11,12
+A,blank,blank,blank,G24S:0.0005,G24S:0.0005,G24S:0.0005,G26V:0.0005,G26V:0.0005,G26V:0.0005,S39T:0.0005,S39T:0.0005,S39T:0.0005
+B,blank,blank,blank,G24S:0.0005,G24S:0.0005,G24S:0.0005,G26V:0.0005,G26V:0.0005,G26V:0.0005,S39T:0.0005,S39T:0.0005,S39T:0.0005
+C,blank,blank,blank,G24S:0.0005,G24S:0.0005,G24S:0.0005,G26V:0.0005,G26V:0.0005,G26V:0.0005,S39T:0.0005,S39T:0.0005,S39T:0.0005
+D,blank,blank,blank,G24S:0.0005,G24S:0.0005,G24S:0.0005,G26V:0.0005,G26V:0.0005,G26V:0.0005,S39T:0.0005,S39T:0.0005,S39T:0.0005
+E,blank,blank,blank,G24S:0.0005,G24S:0.0005,G24S:0.0005,G26V:0.0005,G26V:0.0005,G26V:0.0005,S39T:0.0005,S39T:0.0005,S39T:0.0005
+F,blank,blank,blank,G24S:0.0005,G24S:0.0005,G24S:0.0005,G26V:0.0005,G26V:0.0005,G26V:0.0005,S39T:0.0005,S39T:0.0005,S39T:0.0005
+G,blank,blank,blank,G24S:0.0005,G24S:0.0005,G24S:0.0005,G26V:0.0005,G26V:0.0005,G26V:0.0005,S39T:0.0005,S39T:0.0005,S39T:0.0005
+H,blank,blank,blank,G24S:0.0005,G24S:0.0005,G24S:0.0005,G26V:0.0005,G26V:0.0005,G26V:0.0005,S39T:0.0005,S39T:0.0005,S39T:0.0005
