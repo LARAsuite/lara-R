@@ -14,7 +14,7 @@
 # VERSION: 0.1.0
 #
 # CREATION_DATE: 161124
-# LASTMODIFICATION_DATE: 161124
+# LASTMODIFICATION_DATE: 161130
 #
 # BRIEF_DESCRIPTION: unit tests of the laraDataReader package
 # DETAILED_DESCRIPTION: 
@@ -36,7 +36,7 @@
 
 library(testthat) 
 
-debugging <- FALSE
+debugging <- TRUE #FALSE
 
 setwd(".")
 
