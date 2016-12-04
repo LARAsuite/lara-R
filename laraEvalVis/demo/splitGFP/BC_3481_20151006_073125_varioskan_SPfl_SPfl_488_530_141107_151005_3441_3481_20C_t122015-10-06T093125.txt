@@ -1,0 +1,165 @@
+																																										
+General Info																																										
+																																										
+Run information																																										
+	Session name				SPfl_488_530_141107																																					
+	Session creator				admin																																					
+	Run name				SPfl_488_530_141107_151005_3441_3481_20C_t12																																					
+	Run creator				admin																																					
+	Run started				10/06/2015 09:30:45+02:00																																					
+	Total warnings				0																																					
+	Total errors				0																																					
+																																										
+Instrument parameters																																										
+	Instrument name				Varioskan																																					
+	Instrument version				3.01.15																																					
+	Instrument serial number				74																																					
+	Actual instrument temperature				<MIN 24.3 24.3																																					
+	Dispenser				1																																					
+	LumiSens module				N\A																																					
+	LumiSens scaling factor				N\A																																					
+																																										
+SW Parameters																																										
+	Run Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+	Current Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+
+																																										
+Sample Data																																										
+
+																																										
+Steps Data																																										
+																																										
+Protocol properties																																										
+	Protocol name				SPfl_488_530_141107																																					
+	Protocol description				single point fluorescent measurement for splitGFP labled proteins																																					
+	Plate template				96-well Greiner Bio-One, flat bottom plate																																					
+	Execution block type				plate																																					
+	Execution order				3																																					
+	Settle delay [ms]				0																																					
+	Well interval [ms]				0																																					
+																																										
+Fluorometric1																																										
+	Measurement technology				Fluorometric																																					
+	Optics				Top																																					
+	Measurement type				Normal																																					
+	Step duration				0:00:00.0																																					
+	Lag time				0:00:00.0																																					
+	Measurement time [ms]				100																																					
+	Bandwidth [nm]				5																																					
+	Dynamic range				Automatic																																					
+	Multipoint				Not in use																																					
+	Excitation [nm]				488																																					
+	Emission [nm]				530																																					
+
+																																										
+Fluorometric1																																										
+																																										
+Plate	Well	Type	Sample	Value	Time (s)	Ex	Em																																			
+3481	A01	Unknown	splitGFP1_10_lysate 1/96	0.938914	0	488	530																																			
+3481	B02	Unknown	splitGFP1_10_lysate 10/96	0.8334	5.3	488	530																																			
+3481	C02	Unknown	splitGFP1_10_lysate 11/96	0.949604	6.02	488	530																																			
+3481	D02	Unknown	splitGFP1_10_lysate 12/96	0.950889	11.08	488	530																																			
+3481	E02	Unknown	splitGFP1_10_lysate 13/96	1.11075	11.81	488	530																																			
+3481	F02	Unknown	splitGFP1_10_lysate 14/96	0.936265	16.87	488	530																																			
+3481	G02	Unknown	splitGFP1_10_lysate 15/96	0.840663	17.59	488	530																																			
+3481	H02	Unknown	splitGFP1_10_lysate 16/96	0.749795	22.65	488	530																																			
+3481	A03	Unknown	splitGFP1_10_lysate 17/96	0.744394	0.48	488	530																																			
+3481	B03	Unknown	splitGFP1_10_lysate 18/96	1.10386	5.06	488	530																																			
+3481	C03	Unknown	splitGFP1_10_lysate 19/96	0.797207	6.26	488	530																																			
+3481	B01	Unknown	splitGFP1_10_lysate 2/96	0.72054	5.54	488	530																																			
+3481	D03	Unknown	splitGFP1_10_lysate 20/96	0.985401	10.84	488	530																																			
+3481	E03	Unknown	splitGFP1_10_lysate 21/96	0.956031	12.05	488	530																																			
+3481	F03	Unknown	splitGFP1_10_lysate 22/96	0.954933	16.63	488	530																																			
+3481	G03	Unknown	splitGFP1_10_lysate 23/96	0.852641	17.83	488	530																																			
+3481	H03	Unknown	splitGFP1_10_lysate 24/96	0.900019	22.41	488	530																																			
+3481	A04	Unknown	splitGFP1_10_lysate 25/96	0.757428	0.72	488	530																																			
+3481	B04	Unknown	splitGFP1_10_lysate 26/96	1.09574	4.82	488	530																																			
+3481	C04	Unknown	splitGFP1_10_lysate 27/96	1.25673	6.51	488	530																																			
+3481	D04	Unknown	splitGFP1_10_lysate 28/96	1.05544	10.6	488	530																																			
+3481	E04	Unknown	splitGFP1_10_lysate 29/96	1.14262	12.29	488	530																																			
+3481	C01	Unknown	splitGFP1_10_lysate 3/96	0.810792	5.78	488	530																																			
+3481	F04	Unknown	splitGFP1_10_lysate 30/96	1.12085	16.39	488	530																																			
+3481	G04	Unknown	splitGFP1_10_lysate 31/96	1.20493	18.08	488	530																																			
+3481	H04	Unknown	splitGFP1_10_lysate 32/96	0.844286	22.17	488	530																																			
+3481	A05	Unknown	splitGFP1_10_lysate 33/96	0.857241	0.96	488	530																																			
+3481	B05	Unknown	splitGFP1_10_lysate 34/96	1.00484	4.58	488	530																																			
+3481	C05	Unknown	splitGFP1_10_lysate 35/96	1.0213	6.75	488	530																																			
+3481	D05	Unknown	splitGFP1_10_lysate 36/96	1.14334	10.36	488	530																																			
+3481	E05	Unknown	splitGFP1_10_lysate 37/96	1.01851	12.53	488	530																																			
+3481	F05	Unknown	splitGFP1_10_lysate 38/96	1.19951	16.15	488	530																																			
+3481	G05	Unknown	splitGFP1_10_lysate 39/96	1.23684	18.32	488	530																																			
+3481	D01	Unknown	splitGFP1_10_lysate 4/96	0.72548	11.33	488	530																																			
+3481	H05	Unknown	splitGFP1_10_lysate 40/96	0.710493	21.93	488	530																																			
+3481	A06	Unknown	splitGFP1_10_lysate 41/96	0.975207	1.2	488	530																																			
+3481	B06	Unknown	splitGFP1_10_lysate 42/96	0.928803	4.34	488	530																																			
+3481	C06	Unknown	splitGFP1_10_lysate 43/96	0.866595	6.99	488	530																																			
+3481	D06	Unknown	splitGFP1_10_lysate 44/96	1.10457	10.12	488	530																																			
+3481	E06	Unknown	splitGFP1_10_lysate 45/96	1.27858	12.77	488	530																																			
+3481	F06	Unknown	splitGFP1_10_lysate 46/96	1.08867	15.91	488	530																																			
+3481	G06	Unknown	splitGFP1_10_lysate 47/96	1.13579	18.56	488	530																																			
+3481	H06	Unknown	splitGFP1_10_lysate 48/96	0.753608	21.69	488	530																																			
+3481	A07	Unknown	splitGFP1_10_lysate 49/96	0.732318	1.44	488	530																																			
+3481	E01	Unknown	splitGFP1_10_lysate 5/96	0.937589	11.57	488	530																																			
+3481	B07	Unknown	splitGFP1_10_lysate 50/96	0.943085	4.1	488	530																																			
+3481	C07	Unknown	splitGFP1_10_lysate 51/96	1.00034	7.23	488	530																																			
+3481	D07	Unknown	splitGFP1_10_lysate 52/96	1.19579	9.88	488	530																																			
+3481	E07	Unknown	splitGFP1_10_lysate 53/96	1.26721	13.01	488	530																																			
+3481	F07	Unknown	splitGFP1_10_lysate 54/96	1.04936	15.66	488	530																																			
+3481	G07	Unknown	splitGFP1_10_lysate 55/96	1.14601	18.8	488	530																																			
+3481	H07	Unknown	splitGFP1_10_lysate 56/96	0.81672	21.45	488	530																																			
+3481	A08	Unknown	splitGFP1_10_lysate 57/96	0.701483	1.69	488	530																																			
+3481	B08	Unknown	splitGFP1_10_lysate 58/96	0.921623	3.85	488	530																																			
+3481	C08	Unknown	splitGFP1_10_lysate 59/96	0.812358	7.47	488	530																																			
+3481	F01	Unknown	splitGFP1_10_lysate 6/96	0.806338	17.11	488	530																																			
+3481	D08	Unknown	splitGFP1_10_lysate 60/96	0.979251	9.64	488	530																																			
+3481	E08	Unknown	splitGFP1_10_lysate 61/96	0.880271	13.25	488	530																																			
+3481	F08	Unknown	splitGFP1_10_lysate 62/96	1.10616	15.42	488	530																																			
+3481	G08	Unknown	splitGFP1_10_lysate 63/96	1.40941	19.04	488	530																																			
+3481	H08	Unknown	splitGFP1_10_lysate 64/96	0.682344	21.21	488	530																																			
+3481	A09	Unknown	splitGFP1_10_lysate 65/96	0.672386	1.93	488	530																																			
+3481	B09	Unknown	splitGFP1_10_lysate 66/96	1.23755	3.61	488	530																																			
+3481	C09	Unknown	splitGFP1_10_lysate 67/96	1.50233	7.71	488	530																																			
+3481	D09	Unknown	splitGFP1_10_lysate 68/96	0.891045	9.4	488	530																																			
+3481	E09	Unknown	splitGFP1_10_lysate 69/96	0.890067	13.5	488	530																																			
+3481	G01	Unknown	splitGFP1_10_lysate 7/96	0.807193	17.35	488	530																																			
+3481	F09	Unknown	splitGFP1_10_lysate 70/96	0.946219	15.18	488	530																																			
+3481	G09	Unknown	splitGFP1_10_lysate 71/96	1.18078	19.28	488	530																																			
+3481	H09	Unknown	splitGFP1_10_lysate 72/96	0.714895	20.97	488	530																																			
+3481	A10	Unknown	splitGFP1_10_lysate 73/96	0.628165	2.17	488	530																																			
+3481	B10	Unknown	splitGFP1_10_lysate 74/96	0.66775	3.37	488	530																																			
+3481	C10	Unknown	splitGFP1_10_lysate 75/96	0.920874	7.95	488	530																																			
+3481	D10	Unknown	splitGFP1_10_lysate 76/96	0.719506	9.16	488	530																																			
+3481	E10	Unknown	splitGFP1_10_lysate 77/96	1.11859	13.74	488	530																																			
+3481	F10	Unknown	splitGFP1_10_lysate 78/96	0.721642	14.94	488	530																																			
+3481	G10	Unknown	splitGFP1_10_lysate 79/96	1.17876	19.52	488	530																																			
+3481	H01	Unknown	splitGFP1_10_lysate 8/96	0.821346	22.9	488	530																																			
+3481	H10	Unknown	splitGFP1_10_lysate 80/96	0.800403	20.73	488	530																																			
+3481	A11	Unknown	splitGFP1_10_lysate 81/96	0.641046	2.41	488	530																																			
+3481	B11	Unknown	splitGFP1_10_lysate 82/96	0.642234	3.13	488	530																																			
+3481	C11	Unknown	splitGFP1_10_lysate 83/96	1.07464	8.19	488	530																																			
+3481	D11	Unknown	splitGFP1_10_lysate 84/96	0.958669	8.92	488	530																																			
+3481	E11	Unknown	splitGFP1_10_lysate 85/96	0.724474	13.98	488	530																																			
+3481	F11	Unknown	splitGFP1_10_lysate 86/96	1.17347	14.7	488	530																																			
+3481	G11	Unknown	splitGFP1_10_lysate 87/96	0.960008	19.76	488	530																																			
+3481	H11	Unknown	splitGFP1_10_lysate 88/96	0.854951	20.49	488	530																																			
+3481	A12	Unknown	splitGFP1_10_lysate 89/96	0.778285	2.65	488	530																																			
+3481	A02	Unknown	splitGFP1_10_lysate 9/96	0.877817	0.24	488	530																																			
+3481	B12	Unknown	splitGFP1_10_lysate 90/96	0.873776	2.89	488	530																																			
+3481	C12	Unknown	splitGFP1_10_lysate 91/96	0.801919	8.43	488	530																																			
+3481	D12	Unknown	splitGFP1_10_lysate 92/96	0.85543	8.67	488	530																																			
+3481	E12	Unknown	splitGFP1_10_lysate 93/96	0.805371	14.22	488	530																																			
+3481	F12	Unknown	splitGFP1_10_lysate 94/96	0.806018	14.46	488	530																																			
+3481	G12	Unknown	splitGFP1_10_lysate 95/96	0.810288	20	488	530																																			
+3481	H12	Unknown	splitGFP1_10_lysate 96/96	0.841611	20.24	488	530																																			
+
+																																										
+Run Log																																										
+																																										
+																																										
+	2015-10-06 09:30:46+02:00 - Execution started																																									
+	2015-10-06 09:30:53+02:00 - Fluorometric1 started																																									
+	2015-10-06 09:30:59+02:00 - Current temperature : 24.3																																									
+	2015-10-06 09:31:11+02:00 - Current temperature : 24.3																																									
+	2015-10-06 09:31:22+02:00 - Fluorometric1 completed																																									
+	2015-10-06 09:31:22+02:00 - Execution completed																																									
+

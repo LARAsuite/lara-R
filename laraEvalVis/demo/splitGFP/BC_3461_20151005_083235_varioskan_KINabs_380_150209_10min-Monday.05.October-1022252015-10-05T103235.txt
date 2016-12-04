@@ -1,0 +1,2163 @@
+																																										
+General Info																																										
+																																										
+Run information																																										
+	Session name				KINabs_380_150209_10min																																					
+	Session creator				admin																																					
+	Run name				KINabs_380_150209_10min-Monday.05.October-10:22:25																																					
+	Run creator				admin																																					
+	Run started				10/05/2015 10:22:25+02:00																																					
+	Total warnings				0																																					
+	Total errors				0																																					
+																																										
+Instrument parameters																																										
+	Instrument name				Varioskan																																					
+	Instrument version				3.01.15																																					
+	Instrument serial number				74																																					
+	Actual instrument temperature				<MIN 26.4 26.5																																					
+	Dispenser				1																																					
+	LumiSens module				N\A																																					
+	LumiSens scaling factor				N\A																																					
+																																										
+SW Parameters																																										
+	Run Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+	Current Software Version				SkanIt Software 2.4.3 RE for Varioskan																																					
+
+																																										
+Sample Data																																										
+
+																																										
+Steps Data																																										
+																																										
+Protocol properties																																										
+	Protocol name				KINabs_380_150209_10min																																					
+	Protocol description				Kinetec assay for Kemp Eliminase at 380nm																																					
+	Plate template				96-well Greiner Bio-One, flat bottom plate																																					
+	Execution block type				plate																																					
+	Execution order				3																																					
+	Settle delay [ms]				0																																					
+	Well interval [ms]				0																																					
+																																										
+KineticLoop1																																										
+	Readings				20																																					
+	Kinetic interval				0:00:30.0																																					
+																																										
+Photometric1																																										
+	Measurement technology				Photometric																																					
+	Measurement type				Kinetic																																					
+	Step duration				0:00:00.0																																					
+	Lag time				0:00:00.0																																					
+	Measurement time [ms]				100																																					
+	Bandwidth [nm]				5																																					
+	Multipoint				Not in use																																					
+	Wavelength [nm]				380																																					
+																																										
+KineticCalculation1																																										
+	Processor Type				AvgRate																																					
+	Reaction				Undefined																																					
+	Kinetic Rate				s																																					
+	Ignore First N Readings				0																																					
+	Ignore Last N Readings				0																																					
+	Window				1																																					
+	Baseline				0																																					
+	Reading Index				1																																					
+	Change type				Absolute																																					
+	Change value				0																																					
+
+																																										
+Photometric1																																										
+																																										
+Plate	Well	Type	Sample	Value	Time (s)	WL	Read.																																			
+3461	A01	Unknown	Kemp 1/96	0.0754979	0	380	1																																			
+3461	A01	Unknown	Kemp 1/96	0.0760942	30	380	2																																			
+3461	A01	Unknown	Kemp 1/96	0.0764537	60	380	3																																			
+3461	A01	Unknown	Kemp 1/96	0.0765967	90	380	4																																			
+3461	A01	Unknown	Kemp 1/96	0.0770502	120	380	5																																			
+3461	A01	Unknown	Kemp 1/96	0.0776527	150	380	6																																			
+3461	A01	Unknown	Kemp 1/96	0.0781705	180	380	7																																			
+3461	A01	Unknown	Kemp 1/96	0.0789473	210	380	8																																			
+3461	A01	Unknown	Kemp 1/96	0.0795536	240	380	9																																			
+3461	A01	Unknown	Kemp 1/96	0.0801899	270	380	10																																			
+3461	A01	Unknown	Kemp 1/96	0.0807199	300	380	11																																			
+3461	A01	Unknown	Kemp 1/96	0.0813977	330	380	12																																			
+3461	A01	Unknown	Kemp 1/96	0.0821346	360	380	13																																			
+3461	A01	Unknown	Kemp 1/96	0.0827488	390	380	14																																			
+3461	A01	Unknown	Kemp 1/96	0.0833204	420	380	15																																			
+3461	A01	Unknown	Kemp 1/96	0.083885	450	380	16																																			
+3461	A01	Unknown	Kemp 1/96	0.0844881	480	380	17																																			
+3461	A01	Unknown	Kemp 1/96	0.0851205	510	380	18																																			
+3461	A01	Unknown	Kemp 1/96	0.0857283	540	380	19																																			
+3461	A01	Unknown	Kemp 1/96	0.0863831	570	380	20																																			
+3461	B02	Unknown	Kemp 10/96	0.0766344	35.06	380	2																																			
+3461	B02	Unknown	Kemp 10/96	0.0771076	65.06	380	3																																			
+3461	B02	Unknown	Kemp 10/96	0.0776485	95.06	380	4																																			
+3461	B02	Unknown	Kemp 10/96	0.0780155	125.06	380	5																																			
+3461	B02	Unknown	Kemp 10/96	0.0784575	155.06	380	6																																			
+3461	B02	Unknown	Kemp 10/96	0.0788446	185.06	380	7																																			
+3461	B02	Unknown	Kemp 10/96	0.079287	215.06	380	8																																			
+3461	B02	Unknown	Kemp 10/96	0.0797161	245.06	380	9																																			
+3461	B02	Unknown	Kemp 10/96	0.0802268	275.06	380	10																																			
+3461	B02	Unknown	Kemp 10/96	0.0808784	305.06	380	11																																			
+3461	B02	Unknown	Kemp 10/96	0.0813311	335.06	380	12																																			
+3461	B02	Unknown	Kemp 10/96	0.0818912	365.06	380	13																																			
+3461	B02	Unknown	Kemp 10/96	0.0825781	395.06	380	14																																			
+3461	B02	Unknown	Kemp 10/96	0.0831458	425.06	380	15																																			
+3461	B02	Unknown	Kemp 10/96	0.0838865	455.06	380	16																																			
+3461	B02	Unknown	Kemp 10/96	0.0843807	485.06	380	17																																			
+3461	B02	Unknown	Kemp 10/96	0.0850837	515.06	380	18																																			
+3461	B02	Unknown	Kemp 10/96	0.0857703	545.06	380	19																																			
+3461	B02	Unknown	Kemp 10/96	0.0864223	575.06	380	20																																			
+3461	B02	Unknown	Kemp 10/96	0.0767752	5.06	380	1																																			
+3461	C02	Unknown	Kemp 11/96	0.0781981	35.75	380	2																																			
+3461	C02	Unknown	Kemp 11/96	0.0786426	65.75	380	3																																			
+3461	C02	Unknown	Kemp 11/96	0.0792208	95.75	380	4																																			
+3461	C02	Unknown	Kemp 11/96	0.0797566	125.75	380	5																																			
+3461	C02	Unknown	Kemp 11/96	0.0800449	155.75	380	6																																			
+3461	C02	Unknown	Kemp 11/96	0.0804702	185.75	380	7																																			
+3461	C02	Unknown	Kemp 11/96	0.0810421	215.75	380	8																																			
+3461	C02	Unknown	Kemp 11/96	0.0815423	245.75	380	9																																			
+3461	C02	Unknown	Kemp 11/96	0.0820762	275.75	380	10																																			
+3461	C02	Unknown	Kemp 11/96	0.0826739	305.75	380	11																																			
+3461	C02	Unknown	Kemp 11/96	0.0833197	335.75	380	12																																			
+3461	C02	Unknown	Kemp 11/96	0.0838784	365.75	380	13																																			
+3461	C02	Unknown	Kemp 11/96	0.0844999	395.75	380	14																																			
+3461	C02	Unknown	Kemp 11/96	0.0850868	425.75	380	15																																			
+3461	C02	Unknown	Kemp 11/96	0.0858722	455.75	380	16																																			
+3461	C02	Unknown	Kemp 11/96	0.0865824	485.75	380	17																																			
+3461	C02	Unknown	Kemp 11/96	0.087269	515.75	380	18																																			
+3461	C02	Unknown	Kemp 11/96	0.0877621	545.75	380	19																																			
+3461	C02	Unknown	Kemp 11/96	0.088554	575.75	380	20																																			
+3461	C02	Unknown	Kemp 11/96	0.0779834	5.75	380	1																																			
+3461	D02	Unknown	Kemp 12/96	0.0794482	10.58	380	1																																			
+3461	D02	Unknown	Kemp 12/96	0.0801178	40.58	380	2																																			
+3461	D02	Unknown	Kemp 12/96	0.0807469	70.58	380	3																																			
+3461	D02	Unknown	Kemp 12/96	0.0814535	100.58	380	4																																			
+3461	D02	Unknown	Kemp 12/96	0.0820834	130.58	380	5																																			
+3461	D02	Unknown	Kemp 12/96	0.0827394	160.58	380	6																																			
+3461	D02	Unknown	Kemp 12/96	0.0835162	190.58	380	7																																			
+3461	D02	Unknown	Kemp 12/96	0.0841247	220.58	380	8																																			
+3461	D02	Unknown	Kemp 12/96	0.0848253	250.58	380	9																																			
+3461	D02	Unknown	Kemp 12/96	0.0855958	280.58	380	10																																			
+3461	D02	Unknown	Kemp 12/96	0.0863465	310.58	380	11																																			
+3461	D02	Unknown	Kemp 12/96	0.0870731	340.58	380	12																																			
+3461	D02	Unknown	Kemp 12/96	0.0879594	370.58	380	13																																			
+3461	D02	Unknown	Kemp 12/96	0.0887116	400.58	380	14																																			
+3461	D02	Unknown	Kemp 12/96	0.0896514	430.58	380	15																																			
+3461	D02	Unknown	Kemp 12/96	0.0905538	460.58	380	16																																			
+3461	D02	Unknown	Kemp 12/96	0.0915138	490.58	380	17																																			
+3461	D02	Unknown	Kemp 12/96	0.0923438	520.58	380	18																																			
+3461	D02	Unknown	Kemp 12/96	0.0931866	550.58	380	19																																			
+3461	D02	Unknown	Kemp 12/96	0.0941765	580.58	380	20																																			
+3461	E02	Unknown	Kemp 13/96	0.0760956	11.27	380	1																																			
+3461	E02	Unknown	Kemp 13/96	0.0765033	41.27	380	2																																			
+3461	E02	Unknown	Kemp 13/96	0.0770003	71.27	380	3																																			
+3461	E02	Unknown	Kemp 13/96	0.0775954	101.27	380	4																																			
+3461	E02	Unknown	Kemp 13/96	0.0779056	131.27	380	5																																			
+3461	E02	Unknown	Kemp 13/96	0.0784784	161.27	380	6																																			
+3461	E02	Unknown	Kemp 13/96	0.0788212	191.27	380	7																																			
+3461	E02	Unknown	Kemp 13/96	0.0792789	221.27	380	8																																			
+3461	E02	Unknown	Kemp 13/96	0.0797575	251.27	380	9																																			
+3461	E02	Unknown	Kemp 13/96	0.0802141	281.27	380	10																																			
+3461	E02	Unknown	Kemp 13/96	0.0807742	311.27	380	11																																			
+3461	E02	Unknown	Kemp 13/96	0.0812862	341.27	380	12																																			
+3461	E02	Unknown	Kemp 13/96	0.0818895	371.27	380	13																																			
+3461	E02	Unknown	Kemp 13/96	0.0823874	401.27	380	14																																			
+3461	E02	Unknown	Kemp 13/96	0.0831824	431.27	380	15																																			
+3461	E02	Unknown	Kemp 13/96	0.0839523	461.27	380	16																																			
+3461	E02	Unknown	Kemp 13/96	0.0845395	491.27	380	17																																			
+3461	E02	Unknown	Kemp 13/96	0.085162	521.27	380	18																																			
+3461	E02	Unknown	Kemp 13/96	0.0856783	551.27	380	19																																			
+3461	E02	Unknown	Kemp 13/96	0.0866551	581.27	380	20																																			
+3461	F02	Unknown	Kemp 14/96	0.0786813	16.1	380	1																																			
+3461	F02	Unknown	Kemp 14/96	0.0789438	46.1	380	2																																			
+3461	F02	Unknown	Kemp 14/96	0.0798105	76.1	380	3																																			
+3461	F02	Unknown	Kemp 14/96	0.0802389	106.1	380	4																																			
+3461	F02	Unknown	Kemp 14/96	0.0806699	136.1	380	5																																			
+3461	F02	Unknown	Kemp 14/96	0.0810399	166.1	380	6																																			
+3461	F02	Unknown	Kemp 14/96	0.0814965	196.1	380	7																																			
+3461	F02	Unknown	Kemp 14/96	0.0820415	226.1	380	8																																			
+3461	F02	Unknown	Kemp 14/96	0.0822307	256.1	380	9																																			
+3461	F02	Unknown	Kemp 14/96	0.0829462	286.1	380	10																																			
+3461	F02	Unknown	Kemp 14/96	0.0835906	316.1	380	11																																			
+3461	F02	Unknown	Kemp 14/96	0.0841719	346.1	380	12																																			
+3461	F02	Unknown	Kemp 14/96	0.084777	376.1	380	13																																			
+3461	F02	Unknown	Kemp 14/96	0.0852274	406.1	380	14																																			
+3461	F02	Unknown	Kemp 14/96	0.0860322	436.1	380	15																																			
+3461	F02	Unknown	Kemp 14/96	0.0866779	466.1	380	16																																			
+3461	F02	Unknown	Kemp 14/96	0.0872791	496.1	380	17																																			
+3461	F02	Unknown	Kemp 14/96	0.0879826	526.1	380	18																																			
+3461	F02	Unknown	Kemp 14/96	0.0886351	556.1	380	19																																			
+3461	F02	Unknown	Kemp 14/96	0.0893437	586.1	380	20																																			
+3461	G02	Unknown	Kemp 15/96	0.0775554	16.79	380	1																																			
+3461	G02	Unknown	Kemp 15/96	0.0780617	46.79	380	2																																			
+3461	G02	Unknown	Kemp 15/96	0.0785426	76.79	380	3																																			
+3461	G02	Unknown	Kemp 15/96	0.0789077	106.79	380	4																																			
+3461	G02	Unknown	Kemp 15/96	0.0793108	136.79	380	5																																			
+3461	G02	Unknown	Kemp 15/96	0.0798531	166.79	380	6																																			
+3461	G02	Unknown	Kemp 15/96	0.0804051	196.79	380	7																																			
+3461	G02	Unknown	Kemp 15/96	0.0809253	226.79	380	8																																			
+3461	G02	Unknown	Kemp 15/96	0.0814449	256.79	380	9																																			
+3461	G02	Unknown	Kemp 15/96	0.0822673	286.79	380	10																																			
+3461	G02	Unknown	Kemp 15/96	0.0829912	316.79	380	11																																			
+3461	G02	Unknown	Kemp 15/96	0.0834946	346.79	380	12																																			
+3461	G02	Unknown	Kemp 15/96	0.0840741	376.79	380	13																																			
+3461	G02	Unknown	Kemp 15/96	0.0848472	406.79	380	14																																			
+3461	G02	Unknown	Kemp 15/96	0.0855396	436.79	380	15																																			
+3461	G02	Unknown	Kemp 15/96	0.0862827	466.79	380	16																																			
+3461	G02	Unknown	Kemp 15/96	0.0869599	496.79	380	17																																			
+3461	G02	Unknown	Kemp 15/96	0.0876744	526.79	380	18																																			
+3461	G02	Unknown	Kemp 15/96	0.0883927	556.79	380	19																																			
+3461	G02	Unknown	Kemp 15/96	0.0889266	586.79	380	20																																			
+3461	H02	Unknown	Kemp 16/96	0.0758902	21.62	380	1																																			
+3461	H02	Unknown	Kemp 16/96	0.0761805	51.62	380	2																																			
+3461	H02	Unknown	Kemp 16/96	0.0764888	81.62	380	3																																			
+3461	H02	Unknown	Kemp 16/96	0.0768012	111.62	380	4																																			
+3461	H02	Unknown	Kemp 16/96	0.0772812	141.62	380	5																																			
+3461	H02	Unknown	Kemp 16/96	0.0777279	171.62	380	6																																			
+3461	H02	Unknown	Kemp 16/96	0.0783297	201.62	380	7																																			
+3461	H02	Unknown	Kemp 16/96	0.0789961	231.62	380	8																																			
+3461	H02	Unknown	Kemp 16/96	0.0794002	261.62	380	9																																			
+3461	H02	Unknown	Kemp 16/96	0.0799984	291.62	380	10																																			
+3461	H02	Unknown	Kemp 16/96	0.0805518	321.62	380	11																																			
+3461	H02	Unknown	Kemp 16/96	0.0811614	351.62	380	12																																			
+3461	H02	Unknown	Kemp 16/96	0.0816847	381.62	380	13																																			
+3461	H02	Unknown	Kemp 16/96	0.0824179	411.62	380	14																																			
+3461	H02	Unknown	Kemp 16/96	0.0829563	441.62	380	15																																			
+3461	H02	Unknown	Kemp 16/96	0.083575	471.62	380	16																																			
+3461	H02	Unknown	Kemp 16/96	0.0842302	501.62	380	17																																			
+3461	H02	Unknown	Kemp 16/96	0.0848519	531.62	380	18																																			
+3461	H02	Unknown	Kemp 16/96	0.0853662	561.62	380	19																																			
+3461	H02	Unknown	Kemp 16/96	0.0859401	591.62	380	20																																			
+3461	A03	Unknown	Kemp 17/96	0.0768631	30.46	380	2																																			
+3461	A03	Unknown	Kemp 17/96	0.0772581	60.46	380	3																																			
+3461	A03	Unknown	Kemp 17/96	0.0775182	90.46	380	4																																			
+3461	A03	Unknown	Kemp 17/96	0.0781031	120.46	380	5																																			
+3461	A03	Unknown	Kemp 17/96	0.0785985	150.46	380	6																																			
+3461	A03	Unknown	Kemp 17/96	0.0789959	180.46	380	7																																			
+3461	A03	Unknown	Kemp 17/96	0.0795958	210.46	380	8																																			
+3461	A03	Unknown	Kemp 17/96	0.0800896	240.46	380	9																																			
+3461	A03	Unknown	Kemp 17/96	0.0807099	270.46	380	10																																			
+3461	A03	Unknown	Kemp 17/96	0.0812185	300.46	380	11																																			
+3461	A03	Unknown	Kemp 17/96	0.0818139	330.46	380	12																																			
+3461	A03	Unknown	Kemp 17/96	0.0825274	360.46	380	13																																			
+3461	A03	Unknown	Kemp 17/96	0.0830623	390.46	380	14																																			
+3461	A03	Unknown	Kemp 17/96	0.0836125	420.46	380	15																																			
+3461	A03	Unknown	Kemp 17/96	0.0840911	450.46	380	16																																			
+3461	A03	Unknown	Kemp 17/96	0.0846181	480.46	380	17																																			
+3461	A03	Unknown	Kemp 17/96	0.0852504	510.46	380	18																																			
+3461	A03	Unknown	Kemp 17/96	0.0857547	540.46	380	19																																			
+3461	A03	Unknown	Kemp 17/96	0.0863669	570.46	380	20																																			
+3461	A03	Unknown	Kemp 17/96	0.0766416	0.46	380	1																																			
+3461	B03	Unknown	Kemp 18/96	0.0799744	34.83	380	2																																			
+3461	B03	Unknown	Kemp 18/96	0.0802433	64.83	380	3																																			
+3461	B03	Unknown	Kemp 18/96	0.080776	94.83	380	4																																			
+3461	B03	Unknown	Kemp 18/96	0.0811613	124.83	380	5																																			
+3461	B03	Unknown	Kemp 18/96	0.0815356	154.83	380	6																																			
+3461	B03	Unknown	Kemp 18/96	0.08206	184.83	380	7																																			
+3461	B03	Unknown	Kemp 18/96	0.0824481	214.83	380	8																																			
+3461	B03	Unknown	Kemp 18/96	0.082906	244.83	380	9																																			
+3461	B03	Unknown	Kemp 18/96	0.0834412	274.83	380	10																																			
+3461	B03	Unknown	Kemp 18/96	0.0840565	304.83	380	11																																			
+3461	B03	Unknown	Kemp 18/96	0.0846504	334.83	380	12																																			
+3461	B03	Unknown	Kemp 18/96	0.0852893	364.83	380	13																																			
+3461	B03	Unknown	Kemp 18/96	0.0858575	394.83	380	14																																			
+3461	B03	Unknown	Kemp 18/96	0.0864371	424.83	380	15																																			
+3461	B03	Unknown	Kemp 18/96	0.0871067	454.83	380	16																																			
+3461	B03	Unknown	Kemp 18/96	0.0877081	484.83	380	17																																			
+3461	B03	Unknown	Kemp 18/96	0.0882637	514.83	380	18																																			
+3461	B03	Unknown	Kemp 18/96	0.0889017	544.83	380	19																																			
+3461	B03	Unknown	Kemp 18/96	0.0896748	574.83	380	20																																			
+3461	B03	Unknown	Kemp 18/96	0.0797669	4.83	380	1																																			
+3461	C03	Unknown	Kemp 19/96	0.0756332	5.98	380	1																																			
+3461	C03	Unknown	Kemp 19/96	0.0760949	35.98	380	2																																			
+3461	C03	Unknown	Kemp 19/96	0.0763899	65.98	380	3																																			
+3461	C03	Unknown	Kemp 19/96	0.0768306	95.98	380	4																																			
+3461	C03	Unknown	Kemp 19/96	0.07723	125.98	380	5																																			
+3461	C03	Unknown	Kemp 19/96	0.0775473	155.98	380	6																																			
+3461	C03	Unknown	Kemp 19/96	0.0778951	185.98	380	7																																			
+3461	C03	Unknown	Kemp 19/96	0.0782518	215.98	380	8																																			
+3461	C03	Unknown	Kemp 19/96	0.0786993	245.98	380	9																																			
+3461	C03	Unknown	Kemp 19/96	0.0792028	275.98	380	10																																			
+3461	C03	Unknown	Kemp 19/96	0.0794075	305.98	380	11																																			
+3461	C03	Unknown	Kemp 19/96	0.0799259	335.98	380	12																																			
+3461	C03	Unknown	Kemp 19/96	0.08037	365.98	380	13																																			
+3461	C03	Unknown	Kemp 19/96	0.0808693	395.98	380	14																																			
+3461	C03	Unknown	Kemp 19/96	0.0814253	425.98	380	15																																			
+3461	C03	Unknown	Kemp 19/96	0.0820312	455.98	380	16																																			
+3461	C03	Unknown	Kemp 19/96	0.0824676	485.98	380	17																																			
+3461	C03	Unknown	Kemp 19/96	0.0831406	515.98	380	18																																			
+3461	C03	Unknown	Kemp 19/96	0.083985	545.98	380	19																																			
+3461	C03	Unknown	Kemp 19/96	0.0848817	575.98	380	20																																			
+3461	B01	Unknown	Kemp 2/96	0.0770564	35.29	380	2																																			
+3461	B01	Unknown	Kemp 2/96	0.0771699	65.29	380	3																																			
+3461	B01	Unknown	Kemp 2/96	0.0774596	95.29	380	4																																			
+3461	B01	Unknown	Kemp 2/96	0.077551	125.29	380	5																																			
+3461	B01	Unknown	Kemp 2/96	0.0777213	155.29	380	6																																			
+3461	B01	Unknown	Kemp 2/96	0.0783128	185.29	380	7																																			
+3461	B01	Unknown	Kemp 2/96	0.0788336	215.29	380	8																																			
+3461	B01	Unknown	Kemp 2/96	0.0794734	245.29	380	9																																			
+3461	B01	Unknown	Kemp 2/96	0.0801579	275.29	380	10																																			
+3461	B01	Unknown	Kemp 2/96	0.0807214	305.29	380	11																																			
+3461	B01	Unknown	Kemp 2/96	0.0812908	335.29	380	12																																			
+3461	B01	Unknown	Kemp 2/96	0.0817736	365.29	380	13																																			
+3461	B01	Unknown	Kemp 2/96	0.0824578	395.29	380	14																																			
+3461	B01	Unknown	Kemp 2/96	0.0830174	425.29	380	15																																			
+3461	B01	Unknown	Kemp 2/96	0.0836022	455.29	380	16																																			
+3461	B01	Unknown	Kemp 2/96	0.0841139	485.29	380	17																																			
+3461	B01	Unknown	Kemp 2/96	0.08477	515.29	380	18																																			
+3461	B01	Unknown	Kemp 2/96	0.0853566	545.29	380	19																																			
+3461	B01	Unknown	Kemp 2/96	0.0861325	575.29	380	20																																			
+3461	B01	Unknown	Kemp 2/96	0.0770079	5.29	380	1																																			
+3461	D03	Unknown	Kemp 20/96	0.0755912	10.35	380	1																																			
+3461	D03	Unknown	Kemp 20/96	0.0762593	40.35	380	2																																			
+3461	D03	Unknown	Kemp 20/96	0.0765996	70.35	380	3																																			
+3461	D03	Unknown	Kemp 20/96	0.0770893	100.35	380	4																																			
+3461	D03	Unknown	Kemp 20/96	0.0775197	130.35	380	5																																			
+3461	D03	Unknown	Kemp 20/96	0.0780863	160.35	380	6																																			
+3461	D03	Unknown	Kemp 20/96	0.0784745	190.35	380	7																																			
+3461	D03	Unknown	Kemp 20/96	0.0788678	220.35	380	8																																			
+3461	D03	Unknown	Kemp 20/96	0.07923	250.35	380	9																																			
+3461	D03	Unknown	Kemp 20/96	0.0796183	280.35	380	10																																			
+3461	D03	Unknown	Kemp 20/96	0.0801869	310.35	380	11																																			
+3461	D03	Unknown	Kemp 20/96	0.0804558	340.35	380	12																																			
+3461	D03	Unknown	Kemp 20/96	0.0810217	370.35	380	13																																			
+3461	D03	Unknown	Kemp 20/96	0.0814767	400.35	380	14																																			
+3461	D03	Unknown	Kemp 20/96	0.0819995	430.35	380	15																																			
+3461	D03	Unknown	Kemp 20/96	0.082582	460.35	380	16																																			
+3461	D03	Unknown	Kemp 20/96	0.0831433	490.35	380	17																																			
+3461	D03	Unknown	Kemp 20/96	0.0835805	520.35	380	18																																			
+3461	D03	Unknown	Kemp 20/96	0.0841139	550.35	380	19																																			
+3461	D03	Unknown	Kemp 20/96	0.0847449	580.35	380	20																																			
+3461	E03	Unknown	Kemp 21/96	0.0791811	11.5	380	1																																			
+3461	E03	Unknown	Kemp 21/96	0.079584	41.5	380	2																																			
+3461	E03	Unknown	Kemp 21/96	0.0802395	71.5	380	3																																			
+3461	E03	Unknown	Kemp 21/96	0.080652	101.5	380	4																																			
+3461	E03	Unknown	Kemp 21/96	0.0809406	131.5	380	5																																			
+3461	E03	Unknown	Kemp 21/96	0.0814839	161.5	380	6																																			
+3461	E03	Unknown	Kemp 21/96	0.081917	191.5	380	7																																			
+3461	E03	Unknown	Kemp 21/96	0.0823112	221.5	380	8																																			
+3461	E03	Unknown	Kemp 21/96	0.0828756	251.5	380	9																																			
+3461	E03	Unknown	Kemp 21/96	0.0834031	281.5	380	10																																			
+3461	E03	Unknown	Kemp 21/96	0.0838274	311.5	380	11																																			
+3461	E03	Unknown	Kemp 21/96	0.0841629	341.5	380	12																																			
+3461	E03	Unknown	Kemp 21/96	0.0846827	371.5	380	13																																			
+3461	E03	Unknown	Kemp 21/96	0.0851929	401.5	380	14																																			
+3461	E03	Unknown	Kemp 21/96	0.0860289	431.5	380	15																																			
+3461	E03	Unknown	Kemp 21/96	0.0865151	461.5	380	16																																			
+3461	E03	Unknown	Kemp 21/96	0.0870667	491.5	380	17																																			
+3461	E03	Unknown	Kemp 21/96	0.0877108	521.5	380	18																																			
+3461	E03	Unknown	Kemp 21/96	0.0884123	551.5	380	19																																			
+3461	E03	Unknown	Kemp 21/96	0.0890182	581.5	380	20																																			
+3461	F03	Unknown	Kemp 22/96	0.0803308	15.87	380	1																																			
+3461	F03	Unknown	Kemp 22/96	0.08064	45.87	380	2																																			
+3461	F03	Unknown	Kemp 22/96	0.0811686	75.87	380	3																																			
+3461	F03	Unknown	Kemp 22/96	0.0816535	105.87	380	4																																			
+3461	F03	Unknown	Kemp 22/96	0.0820639	135.87	380	5																																			
+3461	F03	Unknown	Kemp 22/96	0.0825342	165.87	380	6																																			
+3461	F03	Unknown	Kemp 22/96	0.082896	195.87	380	7																																			
+3461	F03	Unknown	Kemp 22/96	0.0832438	225.87	380	8																																			
+3461	F03	Unknown	Kemp 22/96	0.083631	255.87	380	9																																			
+3461	F03	Unknown	Kemp 22/96	0.0840678	285.87	380	10																																			
+3461	F03	Unknown	Kemp 22/96	0.0846922	315.87	380	11																																			
+3461	F03	Unknown	Kemp 22/96	0.0850596	345.87	380	12																																			
+3461	F03	Unknown	Kemp 22/96	0.0856002	375.87	380	13																																			
+3461	F03	Unknown	Kemp 22/96	0.086101	405.87	380	14																																			
+3461	F03	Unknown	Kemp 22/96	0.0868465	435.87	380	15																																			
+3461	F03	Unknown	Kemp 22/96	0.0873766	465.87	380	16																																			
+3461	F03	Unknown	Kemp 22/96	0.0879258	495.87	380	17																																			
+3461	F03	Unknown	Kemp 22/96	0.0885382	525.87	380	18																																			
+3461	F03	Unknown	Kemp 22/96	0.0892616	555.87	380	19																																			
+3461	F03	Unknown	Kemp 22/96	0.0898984	585.87	380	20																																			
+3461	G03	Unknown	Kemp 23/96	0.077925	17.02	380	1																																			
+3461	G03	Unknown	Kemp 23/96	0.078247	47.02	380	2																																			
+3461	G03	Unknown	Kemp 23/96	0.0786683	77.02	380	3																																			
+3461	G03	Unknown	Kemp 23/96	0.0788517	107.02	380	4																																			
+3461	G03	Unknown	Kemp 23/96	0.0792178	137.02	380	5																																			
+3461	G03	Unknown	Kemp 23/96	0.0798239	167.02	380	6																																			
+3461	G03	Unknown	Kemp 23/96	0.0801277	197.02	380	7																																			
+3461	G03	Unknown	Kemp 23/96	0.0806405	227.02	380	8																																			
+3461	G03	Unknown	Kemp 23/96	0.0810473	257.02	380	9																																			
+3461	G03	Unknown	Kemp 23/96	0.0816229	287.02	380	10																																			
+3461	G03	Unknown	Kemp 23/96	0.0820286	317.02	380	11																																			
+3461	G03	Unknown	Kemp 23/96	0.0826626	347.02	380	12																																			
+3461	G03	Unknown	Kemp 23/96	0.0831406	377.02	380	13																																			
+3461	G03	Unknown	Kemp 23/96	0.0837382	407.02	380	14																																			
+3461	G03	Unknown	Kemp 23/96	0.0842859	437.02	380	15																																			
+3461	G03	Unknown	Kemp 23/96	0.0847896	467.02	380	16																																			
+3461	G03	Unknown	Kemp 23/96	0.0853335	497.02	380	17																																			
+3461	G03	Unknown	Kemp 23/96	0.0857856	527.02	380	18																																			
+3461	G03	Unknown	Kemp 23/96	0.0865536	557.02	380	19																																			
+3461	G03	Unknown	Kemp 23/96	0.086979	587.02	380	20																																			
+3461	H03	Unknown	Kemp 24/96	0.0754953	21.39	380	1																																			
+3461	H03	Unknown	Kemp 24/96	0.0759648	51.39	380	2																																			
+3461	H03	Unknown	Kemp 24/96	0.0762731	81.39	380	3																																			
+3461	H03	Unknown	Kemp 24/96	0.0766218	111.39	380	4																																			
+3461	H03	Unknown	Kemp 24/96	0.0770167	141.39	380	5																																			
+3461	H03	Unknown	Kemp 24/96	0.0775427	171.39	380	6																																			
+3461	H03	Unknown	Kemp 24/96	0.0780034	201.39	380	7																																			
+3461	H03	Unknown	Kemp 24/96	0.0784608	231.39	380	8																																			
+3461	H03	Unknown	Kemp 24/96	0.0790851	261.39	380	9																																			
+3461	H03	Unknown	Kemp 24/96	0.0795122	291.39	380	10																																			
+3461	H03	Unknown	Kemp 24/96	0.0801646	321.39	380	11																																			
+3461	H03	Unknown	Kemp 24/96	0.0807368	351.39	380	12																																			
+3461	H03	Unknown	Kemp 24/96	0.0812953	381.39	380	13																																			
+3461	H03	Unknown	Kemp 24/96	0.0819204	411.39	380	14																																			
+3461	H03	Unknown	Kemp 24/96	0.0825419	441.39	380	15																																			
+3461	H03	Unknown	Kemp 24/96	0.0830669	471.39	380	16																																			
+3461	H03	Unknown	Kemp 24/96	0.0837305	501.39	380	17																																			
+3461	H03	Unknown	Kemp 24/96	0.0843323	531.39	380	18																																			
+3461	H03	Unknown	Kemp 24/96	0.0848871	561.39	380	19																																			
+3461	H03	Unknown	Kemp 24/96	0.0854404	591.39	380	20																																			
+3461	A04	Unknown	Kemp 25/96	0.0744566	30.69	380	2																																			
+3461	A04	Unknown	Kemp 25/96	0.0747461	60.69	380	3																																			
+3461	A04	Unknown	Kemp 25/96	0.075207	90.69	380	4																																			
+3461	A04	Unknown	Kemp 25/96	0.0756808	120.69	380	5																																			
+3461	A04	Unknown	Kemp 25/96	0.0763647	150.69	380	6																																			
+3461	A04	Unknown	Kemp 25/96	0.0768034	180.69	380	7																																			
+3461	A04	Unknown	Kemp 25/96	0.077396	210.69	380	8																																			
+3461	A04	Unknown	Kemp 25/96	0.0779166	240.69	380	9																																			
+3461	A04	Unknown	Kemp 25/96	0.0786293	270.69	380	10																																			
+3461	A04	Unknown	Kemp 25/96	0.079017	300.69	380	11																																			
+3461	A04	Unknown	Kemp 25/96	0.0796495	330.69	380	12																																			
+3461	A04	Unknown	Kemp 25/96	0.0802311	360.69	380	13																																			
+3461	A04	Unknown	Kemp 25/96	0.0807426	390.69	380	14																																			
+3461	A04	Unknown	Kemp 25/96	0.0812465	420.69	380	15																																			
+3461	A04	Unknown	Kemp 25/96	0.081845	450.69	380	16																																			
+3461	A04	Unknown	Kemp 25/96	0.0822952	480.69	380	17																																			
+3461	A04	Unknown	Kemp 25/96	0.0829981	510.69	380	18																																			
+3461	A04	Unknown	Kemp 25/96	0.0834449	540.69	380	19																																			
+3461	A04	Unknown	Kemp 25/96	0.0840368	570.69	380	20																																			
+3461	A04	Unknown	Kemp 25/96	0.0739642	0.69	380	1																																			
+3461	B04	Unknown	Kemp 26/96	0.0791741	34.6	380	2																																			
+3461	B04	Unknown	Kemp 26/96	0.0795881	64.6	380	3																																			
+3461	B04	Unknown	Kemp 26/96	0.0800445	94.6	380	4																																			
+3461	B04	Unknown	Kemp 26/96	0.0803668	124.6	380	5																																			
+3461	B04	Unknown	Kemp 26/96	0.0808133	154.6	380	6																																			
+3461	B04	Unknown	Kemp 26/96	0.0812901	184.6	380	7																																			
+3461	B04	Unknown	Kemp 26/96	0.081664	214.6	380	8																																			
+3461	B04	Unknown	Kemp 26/96	0.0821993	244.6	380	9																																			
+3461	B04	Unknown	Kemp 26/96	0.0827682	274.6	380	10																																			
+3461	B04	Unknown	Kemp 26/96	0.0834358	304.6	380	11																																			
+3461	B04	Unknown	Kemp 26/96	0.0840023	334.6	380	12																																			
+3461	B04	Unknown	Kemp 26/96	0.0847689	364.6	380	13																																			
+3461	B04	Unknown	Kemp 26/96	0.0853135	394.6	380	14																																			
+3461	B04	Unknown	Kemp 26/96	0.0859839	424.6	380	15																																			
+3461	B04	Unknown	Kemp 26/96	0.0866757	454.6	380	16																																			
+3461	B04	Unknown	Kemp 26/96	0.0873149	484.6	380	17																																			
+3461	B04	Unknown	Kemp 26/96	0.0879766	514.6	380	18																																			
+3461	B04	Unknown	Kemp 26/96	0.0886677	544.6	380	19																																			
+3461	B04	Unknown	Kemp 26/96	0.0894494	574.6	380	20																																			
+3461	B04	Unknown	Kemp 26/96	0.0790574	4.6	380	1																																			
+3461	C04	Unknown	Kemp 27/96	0.0805519	6.21	380	1																																			
+3461	C04	Unknown	Kemp 27/96	0.0809721	36.21	380	2																																			
+3461	C04	Unknown	Kemp 27/96	0.0814046	66.21	380	3																																			
+3461	C04	Unknown	Kemp 27/96	0.082007	96.21	380	4																																			
+3461	C04	Unknown	Kemp 27/96	0.0825678	126.21	380	5																																			
+3461	C04	Unknown	Kemp 27/96	0.0830249	156.21	380	6																																			
+3461	C04	Unknown	Kemp 27/96	0.0834406	186.21	380	7																																			
+3461	C04	Unknown	Kemp 27/96	0.0839426	216.21	380	8																																			
+3461	C04	Unknown	Kemp 27/96	0.0843583	246.21	380	9																																			
+3461	C04	Unknown	Kemp 27/96	0.0849957	276.21	380	10																																			
+3461	C04	Unknown	Kemp 27/96	0.0855827	306.21	380	11																																			
+3461	C04	Unknown	Kemp 27/96	0.0861506	336.21	380	12																																			
+3461	C04	Unknown	Kemp 27/96	0.0867398	366.21	380	13																																			
+3461	C04	Unknown	Kemp 27/96	0.0873676	396.21	380	14																																			
+3461	C04	Unknown	Kemp 27/96	0.087925	426.21	380	15																																			
+3461	C04	Unknown	Kemp 27/96	0.0886001	456.21	380	16																																			
+3461	C04	Unknown	Kemp 27/96	0.0893245	486.21	380	17																																			
+3461	C04	Unknown	Kemp 27/96	0.089993	516.21	380	18																																			
+3461	C04	Unknown	Kemp 27/96	0.0907123	546.21	380	19																																			
+3461	C04	Unknown	Kemp 27/96	0.0911358	576.21	380	20																																			
+3461	D04	Unknown	Kemp 28/96	0.0803416	10.12	380	1																																			
+3461	D04	Unknown	Kemp 28/96	0.0807584	40.12	380	2																																			
+3461	D04	Unknown	Kemp 28/96	0.0811872	70.12	380	3																																			
+3461	D04	Unknown	Kemp 28/96	0.081796	100.12	380	4																																			
+3461	D04	Unknown	Kemp 28/96	0.0822328	130.12	380	5																																			
+3461	D04	Unknown	Kemp 28/96	0.0828204	160.12	380	6																																			
+3461	D04	Unknown	Kemp 28/96	0.0833974	190.12	380	7																																			
+3461	D04	Unknown	Kemp 28/96	0.0839548	220.12	380	8																																			
+3461	D04	Unknown	Kemp 28/96	0.0844215	250.12	380	9																																			
+3461	D04	Unknown	Kemp 28/96	0.0849267	280.12	380	10																																			
+3461	D04	Unknown	Kemp 28/96	0.0856153	310.12	380	11																																			
+3461	D04	Unknown	Kemp 28/96	0.0860241	340.12	380	12																																			
+3461	D04	Unknown	Kemp 28/96	0.08682	370.12	380	13																																			
+3461	D04	Unknown	Kemp 28/96	0.0874753	400.12	380	14																																			
+3461	D04	Unknown	Kemp 28/96	0.0881624	430.12	380	15																																			
+3461	D04	Unknown	Kemp 28/96	0.0888358	460.12	380	16																																			
+3461	D04	Unknown	Kemp 28/96	0.0896521	490.12	380	17																																			
+3461	D04	Unknown	Kemp 28/96	0.0902184	520.12	380	18																																			
+3461	D04	Unknown	Kemp 28/96	0.0908529	550.12	380	19																																			
+3461	D04	Unknown	Kemp 28/96	0.0916977	580.12	380	20																																			
+3461	E04	Unknown	Kemp 29/96	0.0788309	11.73	380	1																																			
+3461	E04	Unknown	Kemp 29/96	0.0788142	41.73	380	2																																			
+3461	E04	Unknown	Kemp 29/96	0.0791177	71.73	380	3																																			
+3461	E04	Unknown	Kemp 29/96	0.0796359	101.73	380	4																																			
+3461	E04	Unknown	Kemp 29/96	0.0799298	131.73	380	5																																			
+3461	E04	Unknown	Kemp 29/96	0.0804121	161.73	380	6																																			
+3461	E04	Unknown	Kemp 29/96	0.0807116	191.73	380	7																																			
+3461	E04	Unknown	Kemp 29/96	0.0811586	221.73	380	8																																			
+3461	E04	Unknown	Kemp 29/96	0.0816423	251.73	380	9																																			
+3461	E04	Unknown	Kemp 29/96	0.0819636	281.73	380	10																																			
+3461	E04	Unknown	Kemp 29/96	0.0824759	311.73	380	11																																			
+3461	E04	Unknown	Kemp 29/96	0.082795	341.73	380	12																																			
+3461	E04	Unknown	Kemp 29/96	0.0833731	371.73	380	13																																			
+3461	E04	Unknown	Kemp 29/96	0.0839051	401.73	380	14																																			
+3461	E04	Unknown	Kemp 29/96	0.0844975	431.73	380	15																																			
+3461	E04	Unknown	Kemp 29/96	0.0850098	461.73	380	16																																			
+3461	E04	Unknown	Kemp 29/96	0.0857807	491.73	380	17																																			
+3461	E04	Unknown	Kemp 29/96	0.086258	521.73	380	18																																			
+3461	E04	Unknown	Kemp 29/96	0.0868909	551.73	380	19																																			
+3461	E04	Unknown	Kemp 29/96	0.0873817	581.73	380	20																																			
+3461	C01	Unknown	Kemp 3/96	0.0765364	35.52	380	2																																			
+3461	C01	Unknown	Kemp 3/96	0.0767534	65.52	380	3																																			
+3461	C01	Unknown	Kemp 3/96	0.076921	95.52	380	4																																			
+3461	C01	Unknown	Kemp 3/96	0.0769308	125.52	380	5																																			
+3461	C01	Unknown	Kemp 3/96	0.0773848	155.52	380	6																																			
+3461	C01	Unknown	Kemp 3/96	0.0777426	185.52	380	7																																			
+3461	C01	Unknown	Kemp 3/96	0.0783428	215.52	380	8																																			
+3461	C01	Unknown	Kemp 3/96	0.0789328	245.52	380	9																																			
+3461	C01	Unknown	Kemp 3/96	0.0794931	275.52	380	10																																			
+3461	C01	Unknown	Kemp 3/96	0.0800842	305.52	380	11																																			
+3461	C01	Unknown	Kemp 3/96	0.0807363	335.52	380	12																																			
+3461	C01	Unknown	Kemp 3/96	0.0812315	365.52	380	13																																			
+3461	C01	Unknown	Kemp 3/96	0.0816313	395.52	380	14																																			
+3461	C01	Unknown	Kemp 3/96	0.0823635	425.52	380	15																																			
+3461	C01	Unknown	Kemp 3/96	0.0828909	455.52	380	16																																			
+3461	C01	Unknown	Kemp 3/96	0.0834856	485.52	380	17																																			
+3461	C01	Unknown	Kemp 3/96	0.0841736	515.52	380	18																																			
+3461	C01	Unknown	Kemp 3/96	0.0846919	545.52	380	19																																			
+3461	C01	Unknown	Kemp 3/96	0.0853099	575.52	380	20																																			
+3461	C01	Unknown	Kemp 3/96	0.0761492	5.52	380	1																																			
+3461	F04	Unknown	Kemp 30/96	0.0794398	15.64	380	1																																			
+3461	F04	Unknown	Kemp 30/96	0.0798002	45.64	380	2																																			
+3461	F04	Unknown	Kemp 30/96	0.0802681	75.64	380	3																																			
+3461	F04	Unknown	Kemp 30/96	0.0809231	105.64	380	4																																			
+3461	F04	Unknown	Kemp 30/96	0.0812173	135.64	380	5																																			
+3461	F04	Unknown	Kemp 30/96	0.081732	165.64	380	6																																			
+3461	F04	Unknown	Kemp 30/96	0.0821321	195.64	380	7																																			
+3461	F04	Unknown	Kemp 30/96	0.0825434	225.64	380	8																																			
+3461	F04	Unknown	Kemp 30/96	0.0829726	255.64	380	9																																			
+3461	F04	Unknown	Kemp 30/96	0.0835747	285.64	380	10																																			
+3461	F04	Unknown	Kemp 30/96	0.0843077	315.64	380	11																																			
+3461	F04	Unknown	Kemp 30/96	0.0846817	345.64	380	12																																			
+3461	F04	Unknown	Kemp 30/96	0.0851604	375.64	380	13																																			
+3461	F04	Unknown	Kemp 30/96	0.0857665	405.64	380	14																																			
+3461	F04	Unknown	Kemp 30/96	0.0865137	435.64	380	15																																			
+3461	F04	Unknown	Kemp 30/96	0.0871116	465.64	380	16																																			
+3461	F04	Unknown	Kemp 30/96	0.0877084	495.64	380	17																																			
+3461	F04	Unknown	Kemp 30/96	0.0882047	525.64	380	18																																			
+3461	F04	Unknown	Kemp 30/96	0.0890106	555.64	380	19																																			
+3461	F04	Unknown	Kemp 30/96	0.0897317	585.64	380	20																																			
+3461	G04	Unknown	Kemp 31/96	0.0804406	17.25	380	1																																			
+3461	G04	Unknown	Kemp 31/96	0.0806406	47.25	380	2																																			
+3461	G04	Unknown	Kemp 31/96	0.0810717	77.25	380	3																																			
+3461	G04	Unknown	Kemp 31/96	0.0813459	107.25	380	4																																			
+3461	G04	Unknown	Kemp 31/96	0.0818509	137.25	380	5																																			
+3461	G04	Unknown	Kemp 31/96	0.0822682	167.25	380	6																																			
+3461	G04	Unknown	Kemp 31/96	0.0826478	197.25	380	7																																			
+3461	G04	Unknown	Kemp 31/96	0.0832854	227.25	380	8																																			
+3461	G04	Unknown	Kemp 31/96	0.0837221	257.25	380	9																																			
+3461	G04	Unknown	Kemp 31/96	0.0842253	287.25	380	10																																			
+3461	G04	Unknown	Kemp 31/96	0.084965	317.25	380	11																																			
+3461	G04	Unknown	Kemp 31/96	0.0860238	347.25	380	12																																			
+3461	G04	Unknown	Kemp 31/96	0.0860853	377.25	380	13																																			
+3461	G04	Unknown	Kemp 31/96	0.0867904	407.25	380	14																																			
+3461	G04	Unknown	Kemp 31/96	0.0874585	437.25	380	15																																			
+3461	G04	Unknown	Kemp 31/96	0.0878935	467.25	380	16																																			
+3461	G04	Unknown	Kemp 31/96	0.0887416	497.25	380	17																																			
+3461	G04	Unknown	Kemp 31/96	0.0893622	527.25	380	18																																			
+3461	G04	Unknown	Kemp 31/96	0.089929	557.25	380	19																																			
+3461	G04	Unknown	Kemp 31/96	0.0910483	587.25	380	20																																			
+3461	H04	Unknown	Kemp 32/96	0.0764	21.16	380	1																																			
+3461	H04	Unknown	Kemp 32/96	0.0764762	51.16	380	2																																			
+3461	H04	Unknown	Kemp 32/96	0.0766806	81.16	380	3																																			
+3461	H04	Unknown	Kemp 32/96	0.0768427	111.16	380	4																																			
+3461	H04	Unknown	Kemp 32/96	0.0772751	141.16	380	5																																			
+3461	H04	Unknown	Kemp 32/96	0.0777046	171.16	380	6																																			
+3461	H04	Unknown	Kemp 32/96	0.078188	201.16	380	7																																			
+3461	H04	Unknown	Kemp 32/96	0.0787916	231.16	380	8																																			
+3461	H04	Unknown	Kemp 32/96	0.079234	261.16	380	9																																			
+3461	H04	Unknown	Kemp 32/96	0.0797324	291.16	380	10																																			
+3461	H04	Unknown	Kemp 32/96	0.0803213	321.16	380	11																																			
+3461	H04	Unknown	Kemp 32/96	0.0809386	351.16	380	12																																			
+3461	H04	Unknown	Kemp 32/96	0.0814656	381.16	380	13																																			
+3461	H04	Unknown	Kemp 32/96	0.0820653	411.16	380	14																																			
+3461	H04	Unknown	Kemp 32/96	0.0827358	441.16	380	15																																			
+3461	H04	Unknown	Kemp 32/96	0.0832531	471.16	380	16																																			
+3461	H04	Unknown	Kemp 32/96	0.0839771	501.16	380	17																																			
+3461	H04	Unknown	Kemp 32/96	0.0844261	531.16	380	18																																			
+3461	H04	Unknown	Kemp 32/96	0.0851109	561.16	380	19																																			
+3461	H04	Unknown	Kemp 32/96	0.0856726	591.16	380	20																																			
+3461	A05	Unknown	Kemp 33/96	0.0746237	30.92	380	2																																			
+3461	A05	Unknown	Kemp 33/96	0.0749329	60.92	380	3																																			
+3461	A05	Unknown	Kemp 33/96	0.075348	90.92	380	4																																			
+3461	A05	Unknown	Kemp 33/96	0.0758643	120.92	380	5																																			
+3461	A05	Unknown	Kemp 33/96	0.0760543	150.92	380	6																																			
+3461	A05	Unknown	Kemp 33/96	0.0765269	180.92	380	7																																			
+3461	A05	Unknown	Kemp 33/96	0.0771205	210.92	380	8																																			
+3461	A05	Unknown	Kemp 33/96	0.0776454	240.92	380	9																																			
+3461	A05	Unknown	Kemp 33/96	0.0782797	270.92	380	10																																			
+3461	A05	Unknown	Kemp 33/96	0.0788614	300.92	380	11																																			
+3461	A05	Unknown	Kemp 33/96	0.0794197	330.92	380	12																																			
+3461	A05	Unknown	Kemp 33/96	0.080064	360.92	380	13																																			
+3461	A05	Unknown	Kemp 33/96	0.0807199	390.92	380	14																																			
+3461	A05	Unknown	Kemp 33/96	0.0812086	420.92	380	15																																			
+3461	A05	Unknown	Kemp 33/96	0.0817737	450.92	380	16																																			
+3461	A05	Unknown	Kemp 33/96	0.0823115	480.92	380	17																																			
+3461	A05	Unknown	Kemp 33/96	0.082878	510.92	380	18																																			
+3461	A05	Unknown	Kemp 33/96	0.0835173	540.92	380	19																																			
+3461	A05	Unknown	Kemp 33/96	0.083954	570.92	380	20																																			
+3461	A05	Unknown	Kemp 33/96	0.0738396	0.92	380	1																																			
+3461	B05	Unknown	Kemp 34/96	0.076785	34.37	380	2																																			
+3461	B05	Unknown	Kemp 34/96	0.0771701	64.37	380	3																																			
+3461	B05	Unknown	Kemp 34/96	0.077568	94.37	380	4																																			
+3461	B05	Unknown	Kemp 34/96	0.0780002	124.37	380	5																																			
+3461	B05	Unknown	Kemp 34/96	0.078274	154.37	380	6																																			
+3461	B05	Unknown	Kemp 34/96	0.0787777	184.37	380	7																																			
+3461	B05	Unknown	Kemp 34/96	0.0790238	214.37	380	8																																			
+3461	B05	Unknown	Kemp 34/96	0.0795475	244.37	380	9																																			
+3461	B05	Unknown	Kemp 34/96	0.0799616	274.37	380	10																																			
+3461	B05	Unknown	Kemp 34/96	0.0805145	304.37	380	11																																			
+3461	B05	Unknown	Kemp 34/96	0.0811326	334.37	380	12																																			
+3461	B05	Unknown	Kemp 34/96	0.0817027	364.37	380	13																																			
+3461	B05	Unknown	Kemp 34/96	0.0822666	394.37	380	14																																			
+3461	B05	Unknown	Kemp 34/96	0.0827326	424.37	380	15																																			
+3461	B05	Unknown	Kemp 34/96	0.083411	454.37	380	16																																			
+3461	B05	Unknown	Kemp 34/96	0.0839481	484.37	380	17																																			
+3461	B05	Unknown	Kemp 34/96	0.0846036	514.37	380	18																																			
+3461	B05	Unknown	Kemp 34/96	0.0852164	544.37	380	19																																			
+3461	B05	Unknown	Kemp 34/96	0.0859099	574.37	380	20																																			
+3461	B05	Unknown	Kemp 34/96	0.0767423	4.37	380	1																																			
+3461	C05	Unknown	Kemp 35/96	0.0793142	6.44	380	1																																			
+3461	C05	Unknown	Kemp 35/96	0.0800998	36.44	380	2																																			
+3461	C05	Unknown	Kemp 35/96	0.0806573	66.44	380	3																																			
+3461	C05	Unknown	Kemp 35/96	0.0813006	96.44	380	4																																			
+3461	C05	Unknown	Kemp 35/96	0.0818269	126.44	380	5																																			
+3461	C05	Unknown	Kemp 35/96	0.0822808	156.44	380	6																																			
+3461	C05	Unknown	Kemp 35/96	0.0827231	186.44	380	7																																			
+3461	C05	Unknown	Kemp 35/96	0.0832936	216.44	380	8																																			
+3461	C05	Unknown	Kemp 35/96	0.0838148	246.44	380	9																																			
+3461	C05	Unknown	Kemp 35/96	0.0843895	276.44	380	10																																			
+3461	C05	Unknown	Kemp 35/96	0.0848962	306.44	380	11																																			
+3461	C05	Unknown	Kemp 35/96	0.0855099	336.44	380	12																																			
+3461	C05	Unknown	Kemp 35/96	0.0858801	366.44	380	13																																			
+3461	C05	Unknown	Kemp 35/96	0.0864176	396.44	380	14																																			
+3461	C05	Unknown	Kemp 35/96	0.0870936	426.44	380	15																																			
+3461	C05	Unknown	Kemp 35/96	0.0877634	456.44	380	16																																			
+3461	C05	Unknown	Kemp 35/96	0.0885345	486.44	380	17																																			
+3461	C05	Unknown	Kemp 35/96	0.0891789	516.44	380	18																																			
+3461	C05	Unknown	Kemp 35/96	0.0898486	546.44	380	19																																			
+3461	C05	Unknown	Kemp 35/96	0.0904814	576.44	380	20																																			
+3461	D05	Unknown	Kemp 36/96	0.0819687	9.89	380	1																																			
+3461	D05	Unknown	Kemp 36/96	0.0826777	39.89	380	2																																			
+3461	D05	Unknown	Kemp 36/96	0.0831466	69.89	380	3																																			
+3461	D05	Unknown	Kemp 36/96	0.083806	99.89	380	4																																			
+3461	D05	Unknown	Kemp 36/96	0.0843827	129.89	380	5																																			
+3461	D05	Unknown	Kemp 36/96	0.0850359	159.89	380	6																																			
+3461	D05	Unknown	Kemp 36/96	0.0856726	189.89	380	7																																			
+3461	D05	Unknown	Kemp 36/96	0.086287	219.89	380	8																																			
+3461	D05	Unknown	Kemp 36/96	0.0868677	249.89	380	9																																			
+3461	D05	Unknown	Kemp 36/96	0.0874874	279.89	380	10																																			
+3461	D05	Unknown	Kemp 36/96	0.0882683	309.89	380	11																																			
+3461	D05	Unknown	Kemp 36/96	0.088954	339.89	380	12																																			
+3461	D05	Unknown	Kemp 36/96	0.0897718	369.89	380	13																																			
+3461	D05	Unknown	Kemp 36/96	0.0904536	399.89	380	14																																			
+3461	D05	Unknown	Kemp 36/96	0.0912553	429.89	380	15																																			
+3461	D05	Unknown	Kemp 36/96	0.0920221	459.89	380	16																																			
+3461	D05	Unknown	Kemp 36/96	0.0930011	489.89	380	17																																			
+3461	D05	Unknown	Kemp 36/96	0.0936048	519.89	380	18																																			
+3461	D05	Unknown	Kemp 36/96	0.0943948	549.89	380	19																																			
+3461	D05	Unknown	Kemp 36/96	0.0951733	579.89	380	20																																			
+3461	E05	Unknown	Kemp 37/96	0.0785725	11.96	380	1																																			
+3461	E05	Unknown	Kemp 37/96	0.0789237	41.96	380	2																																			
+3461	E05	Unknown	Kemp 37/96	0.079569	71.96	380	3																																			
+3461	E05	Unknown	Kemp 37/96	0.0801386	101.96	380	4																																			
+3461	E05	Unknown	Kemp 37/96	0.0806468	131.96	380	5																																			
+3461	E05	Unknown	Kemp 37/96	0.0813138	161.96	380	6																																			
+3461	E05	Unknown	Kemp 37/96	0.0816835	191.96	380	7																																			
+3461	E05	Unknown	Kemp 37/96	0.0822797	221.96	380	8																																			
+3461	E05	Unknown	Kemp 37/96	0.0828858	251.96	380	9																																			
+3461	E05	Unknown	Kemp 37/96	0.0834673	281.96	380	10																																			
+3461	E05	Unknown	Kemp 37/96	0.0840827	311.96	380	11																																			
+3461	E05	Unknown	Kemp 37/96	0.0845378	341.96	380	12																																			
+3461	E05	Unknown	Kemp 37/96	0.0850902	371.96	380	13																																			
+3461	E05	Unknown	Kemp 37/96	0.0858236	401.96	380	14																																			
+3461	E05	Unknown	Kemp 37/96	0.0864477	431.96	380	15																																			
+3461	E05	Unknown	Kemp 37/96	0.0871618	461.96	380	16																																			
+3461	E05	Unknown	Kemp 37/96	0.087951	491.96	380	17																																			
+3461	E05	Unknown	Kemp 37/96	0.088505	521.96	380	18																																			
+3461	E05	Unknown	Kemp 37/96	0.0891881	551.96	380	19																																			
+3461	E05	Unknown	Kemp 37/96	0.0899676	581.96	380	20																																			
+3461	F05	Unknown	Kemp 38/96	0.07666	15.41	380	1																																			
+3461	F05	Unknown	Kemp 38/96	0.0770285	45.41	380	2																																			
+3461	F05	Unknown	Kemp 38/96	0.0774853	75.41	380	3																																			
+3461	F05	Unknown	Kemp 38/96	0.0778871	105.41	380	4																																			
+3461	F05	Unknown	Kemp 38/96	0.0782347	135.41	380	5																																			
+3461	F05	Unknown	Kemp 38/96	0.0785965	165.41	380	6																																			
+3461	F05	Unknown	Kemp 38/96	0.0789686	195.41	380	7																																			
+3461	F05	Unknown	Kemp 38/96	0.0793982	225.41	380	8																																			
+3461	F05	Unknown	Kemp 38/96	0.0797996	255.41	380	9																																			
+3461	F05	Unknown	Kemp 38/96	0.0803316	285.41	380	10																																			
+3461	F05	Unknown	Kemp 38/96	0.0808552	315.41	380	11																																			
+3461	F05	Unknown	Kemp 38/96	0.08128	345.41	380	12																																			
+3461	F05	Unknown	Kemp 38/96	0.0818232	375.41	380	13																																			
+3461	F05	Unknown	Kemp 38/96	0.0824198	405.41	380	14																																			
+3461	F05	Unknown	Kemp 38/96	0.0828988	435.41	380	15																																			
+3461	F05	Unknown	Kemp 38/96	0.0834364	465.41	380	16																																			
+3461	F05	Unknown	Kemp 38/96	0.0840421	495.41	380	17																																			
+3461	F05	Unknown	Kemp 38/96	0.0845553	525.41	380	18																																			
+3461	F05	Unknown	Kemp 38/96	0.0851479	555.41	380	19																																			
+3461	F05	Unknown	Kemp 38/96	0.0857706	585.41	380	20																																			
+3461	G05	Unknown	Kemp 39/96	0.0802353	17.48	380	1																																			
+3461	G05	Unknown	Kemp 39/96	0.0803331	47.48	380	2																																			
+3461	G05	Unknown	Kemp 39/96	0.080671	77.48	380	3																																			
+3461	G05	Unknown	Kemp 39/96	0.0813371	107.48	380	4																																			
+3461	G05	Unknown	Kemp 39/96	0.081547	137.48	380	5																																			
+3461	G05	Unknown	Kemp 39/96	0.0820616	167.48	380	6																																			
+3461	G05	Unknown	Kemp 39/96	0.0826311	197.48	380	7																																			
+3461	G05	Unknown	Kemp 39/96	0.083236	227.48	380	8																																			
+3461	G05	Unknown	Kemp 39/96	0.0838768	257.48	380	9																																			
+3461	G05	Unknown	Kemp 39/96	0.0845049	287.48	380	10																																			
+3461	G05	Unknown	Kemp 39/96	0.0853279	317.48	380	11																																			
+3461	G05	Unknown	Kemp 39/96	0.0859349	347.48	380	12																																			
+3461	G05	Unknown	Kemp 39/96	0.0865082	377.48	380	13																																			
+3461	G05	Unknown	Kemp 39/96	0.087229	407.48	380	14																																			
+3461	G05	Unknown	Kemp 39/96	0.0879411	437.48	380	15																																			
+3461	G05	Unknown	Kemp 39/96	0.0885771	467.48	380	16																																			
+3461	G05	Unknown	Kemp 39/96	0.0893301	497.48	380	17																																			
+3461	G05	Unknown	Kemp 39/96	0.0899957	527.48	380	18																																			
+3461	G05	Unknown	Kemp 39/96	0.0906237	557.48	380	19																																			
+3461	G05	Unknown	Kemp 39/96	0.0913945	587.48	380	20																																			
+3461	D01	Unknown	Kemp 4/96	0.076109	10.81	380	1																																			
+3461	D01	Unknown	Kemp 4/96	0.0766241	40.81	380	2																																			
+3461	D01	Unknown	Kemp 4/96	0.0770749	70.81	380	3																																			
+3461	D01	Unknown	Kemp 4/96	0.0775909	100.81	380	4																																			
+3461	D01	Unknown	Kemp 4/96	0.078105	130.81	380	5																																			
+3461	D01	Unknown	Kemp 4/96	0.0784121	160.81	380	6																																			
+3461	D01	Unknown	Kemp 4/96	0.0787481	190.81	380	7																																			
+3461	D01	Unknown	Kemp 4/96	0.0792269	220.81	380	8																																			
+3461	D01	Unknown	Kemp 4/96	0.0796124	250.81	380	9																																			
+3461	D01	Unknown	Kemp 4/96	0.0800268	280.81	380	10																																			
+3461	D01	Unknown	Kemp 4/96	0.0805642	310.81	380	11																																			
+3461	D01	Unknown	Kemp 4/96	0.0809721	340.81	380	12																																			
+3461	D01	Unknown	Kemp 4/96	0.0816702	370.81	380	13																																			
+3461	D01	Unknown	Kemp 4/96	0.0822587	400.81	380	14																																			
+3461	D01	Unknown	Kemp 4/96	0.0829917	430.81	380	15																																			
+3461	D01	Unknown	Kemp 4/96	0.0835934	460.81	380	16																																			
+3461	D01	Unknown	Kemp 4/96	0.0842813	490.81	380	17																																			
+3461	D01	Unknown	Kemp 4/96	0.0847942	520.81	380	18																																			
+3461	D01	Unknown	Kemp 4/96	0.0853975	550.81	380	19																																			
+3461	D01	Unknown	Kemp 4/96	0.0860485	580.81	380	20																																			
+3461	H05	Unknown	Kemp 40/96	0.0771237	20.93	380	1																																			
+3461	H05	Unknown	Kemp 40/96	0.0770283	50.93	380	2																																			
+3461	H05	Unknown	Kemp 40/96	0.077159	80.93	380	3																																			
+3461	H05	Unknown	Kemp 40/96	0.0775474	110.93	380	4																																			
+3461	H05	Unknown	Kemp 40/96	0.0779675	140.93	380	5																																			
+3461	H05	Unknown	Kemp 40/96	0.0785183	170.93	380	6																																			
+3461	H05	Unknown	Kemp 40/96	0.0791631	200.93	380	7																																			
+3461	H05	Unknown	Kemp 40/96	0.0797417	230.93	380	8																																			
+3461	H05	Unknown	Kemp 40/96	0.0802309	260.93	380	9																																			
+3461	H05	Unknown	Kemp 40/96	0.0807776	290.93	380	10																																			
+3461	H05	Unknown	Kemp 40/96	0.0812321	320.93	380	11																																			
+3461	H05	Unknown	Kemp 40/96	0.0819495	350.93	380	12																																			
+3461	H05	Unknown	Kemp 40/96	0.0824029	380.93	380	13																																			
+3461	H05	Unknown	Kemp 40/96	0.0830473	410.93	380	14																																			
+3461	H05	Unknown	Kemp 40/96	0.08364	440.93	380	15																																			
+3461	H05	Unknown	Kemp 40/96	0.0842642	470.93	380	16																																			
+3461	H05	Unknown	Kemp 40/96	0.0848826	500.93	380	17																																			
+3461	H05	Unknown	Kemp 40/96	0.0854874	530.93	380	18																																			
+3461	H05	Unknown	Kemp 40/96	0.0860501	560.93	380	19																																			
+3461	H05	Unknown	Kemp 40/96	0.0866415	590.93	380	20																																			
+3461	A06	Unknown	Kemp 41/96	0.074891	31.15	380	2																																			
+3461	A06	Unknown	Kemp 41/96	0.0754926	61.15	380	3																																			
+3461	A06	Unknown	Kemp 41/96	0.0760826	91.15	380	4																																			
+3461	A06	Unknown	Kemp 41/96	0.0766438	121.15	380	5																																			
+3461	A06	Unknown	Kemp 41/96	0.0770935	151.15	380	6																																			
+3461	A06	Unknown	Kemp 41/96	0.0775321	181.15	380	7																																			
+3461	A06	Unknown	Kemp 41/96	0.0781521	211.15	380	8																																			
+3461	A06	Unknown	Kemp 41/96	0.0786814	241.15	380	9																																			
+3461	A06	Unknown	Kemp 41/96	0.0791863	271.15	380	10																																			
+3461	A06	Unknown	Kemp 41/96	0.0798273	301.15	380	11																																			
+3461	A06	Unknown	Kemp 41/96	0.0802841	331.15	380	12																																			
+3461	A06	Unknown	Kemp 41/96	0.0809492	361.15	380	13																																			
+3461	A06	Unknown	Kemp 41/96	0.0815994	391.15	380	14																																			
+3461	A06	Unknown	Kemp 41/96	0.0821049	421.15	380	15																																			
+3461	A06	Unknown	Kemp 41/96	0.082654	451.15	380	16																																			
+3461	A06	Unknown	Kemp 41/96	0.0830662	481.15	380	17																																			
+3461	A06	Unknown	Kemp 41/96	0.083755	511.15	380	18																																			
+3461	A06	Unknown	Kemp 41/96	0.0842486	541.15	380	19																																			
+3461	A06	Unknown	Kemp 41/96	0.0849385	571.15	380	20																																			
+3461	A06	Unknown	Kemp 41/96	0.0736648	1.15	380	1																																			
+3461	B06	Unknown	Kemp 42/96	0.0772063	34.14	380	2																																			
+3461	B06	Unknown	Kemp 42/96	0.0775336	64.14	380	3																																			
+3461	B06	Unknown	Kemp 42/96	0.0779526	94.14	380	4																																			
+3461	B06	Unknown	Kemp 42/96	0.0783516	124.14	380	5																																			
+3461	B06	Unknown	Kemp 42/96	0.0786474	154.14	380	6																																			
+3461	B06	Unknown	Kemp 42/96	0.0790581	184.14	380	7																																			
+3461	B06	Unknown	Kemp 42/96	0.0793852	214.14	380	8																																			
+3461	B06	Unknown	Kemp 42/96	0.0797718	244.14	380	9																																			
+3461	B06	Unknown	Kemp 42/96	0.0802678	274.14	380	10																																			
+3461	B06	Unknown	Kemp 42/96	0.0807893	304.14	380	11																																			
+3461	B06	Unknown	Kemp 42/96	0.0813516	334.14	380	12																																			
+3461	B06	Unknown	Kemp 42/96	0.0818702	364.14	380	13																																			
+3461	B06	Unknown	Kemp 42/96	0.0824499	394.14	380	14																																			
+3461	B06	Unknown	Kemp 42/96	0.0830218	424.14	380	15																																			
+3461	B06	Unknown	Kemp 42/96	0.0836442	454.14	380	16																																			
+3461	B06	Unknown	Kemp 42/96	0.0841362	484.14	380	17																																			
+3461	B06	Unknown	Kemp 42/96	0.0847641	514.14	380	18																																			
+3461	B06	Unknown	Kemp 42/96	0.085339	544.14	380	19																																			
+3461	B06	Unknown	Kemp 42/96	0.0860312	574.14	380	20																																			
+3461	B06	Unknown	Kemp 42/96	0.077035	4.14	380	1																																			
+3461	C06	Unknown	Kemp 43/96	0.0777288	6.67	380	1																																			
+3461	C06	Unknown	Kemp 43/96	0.0781119	36.67	380	2																																			
+3461	C06	Unknown	Kemp 43/96	0.0785077	66.67	380	3																																			
+3461	C06	Unknown	Kemp 43/96	0.0788873	96.67	380	4																																			
+3461	C06	Unknown	Kemp 43/96	0.0792209	126.67	380	5																																			
+3461	C06	Unknown	Kemp 43/96	0.0796086	156.67	380	6																																			
+3461	C06	Unknown	Kemp 43/96	0.0800729	186.67	380	7																																			
+3461	C06	Unknown	Kemp 43/96	0.0803951	216.67	380	8																																			
+3461	C06	Unknown	Kemp 43/96	0.0808059	246.67	380	9																																			
+3461	C06	Unknown	Kemp 43/96	0.0814094	276.67	380	10																																			
+3461	C06	Unknown	Kemp 43/96	0.0818196	306.67	380	11																																			
+3461	C06	Unknown	Kemp 43/96	0.0823127	336.67	380	12																																			
+3461	C06	Unknown	Kemp 43/96	0.0827152	366.67	380	13																																			
+3461	C06	Unknown	Kemp 43/96	0.0831461	396.67	380	14																																			
+3461	C06	Unknown	Kemp 43/96	0.0836176	426.67	380	15																																			
+3461	C06	Unknown	Kemp 43/96	0.084419	456.67	380	16																																			
+3461	C06	Unknown	Kemp 43/96	0.0849276	486.67	380	17																																			
+3461	C06	Unknown	Kemp 43/96	0.085514	516.67	380	18																																			
+3461	C06	Unknown	Kemp 43/96	0.0861538	546.67	380	19																																			
+3461	C06	Unknown	Kemp 43/96	0.086865	576.67	380	20																																			
+3461	D06	Unknown	Kemp 44/96	0.0770279	9.66	380	1																																			
+3461	D06	Unknown	Kemp 44/96	0.0772521	39.66	380	2																																			
+3461	D06	Unknown	Kemp 44/96	0.0777178	69.66	380	3																																			
+3461	D06	Unknown	Kemp 44/96	0.0781112	99.66	380	4																																			
+3461	D06	Unknown	Kemp 44/96	0.078523	129.66	380	5																																			
+3461	D06	Unknown	Kemp 44/96	0.0788858	159.66	380	6																																			
+3461	D06	Unknown	Kemp 44/96	0.0793159	189.66	380	7																																			
+3461	D06	Unknown	Kemp 44/96	0.0797215	219.66	380	8																																			
+3461	D06	Unknown	Kemp 44/96	0.0800264	249.66	380	9																																			
+3461	D06	Unknown	Kemp 44/96	0.080547	279.66	380	10																																			
+3461	D06	Unknown	Kemp 44/96	0.0810352	309.66	380	11																																			
+3461	D06	Unknown	Kemp 44/96	0.0813611	339.66	380	12																																			
+3461	D06	Unknown	Kemp 44/96	0.0819893	369.66	380	13																																			
+3461	D06	Unknown	Kemp 44/96	0.0824366	399.66	380	14																																			
+3461	D06	Unknown	Kemp 44/96	0.0830349	429.66	380	15																																			
+3461	D06	Unknown	Kemp 44/96	0.0836681	459.66	380	16																																			
+3461	D06	Unknown	Kemp 44/96	0.0842072	489.66	380	17																																			
+3461	D06	Unknown	Kemp 44/96	0.0847157	519.66	380	18																																			
+3461	D06	Unknown	Kemp 44/96	0.0852592	549.66	380	19																																			
+3461	D06	Unknown	Kemp 44/96	0.0859856	579.66	380	20																																			
+3461	E06	Unknown	Kemp 45/96	0.080784	12.19	380	1																																			
+3461	E06	Unknown	Kemp 45/96	0.0812111	42.19	380	2																																			
+3461	E06	Unknown	Kemp 45/96	0.0817976	72.19	380	3																																			
+3461	E06	Unknown	Kemp 45/96	0.0821941	102.19	380	4																																			
+3461	E06	Unknown	Kemp 45/96	0.0825968	132.19	380	5																																			
+3461	E06	Unknown	Kemp 45/96	0.0831346	162.19	380	6																																			
+3461	E06	Unknown	Kemp 45/96	0.0835143	192.19	380	7																																			
+3461	E06	Unknown	Kemp 45/96	0.0839427	222.19	380	8																																			
+3461	E06	Unknown	Kemp 45/96	0.0845019	252.19	380	9																																			
+3461	E06	Unknown	Kemp 45/96	0.0849296	282.19	380	10																																			
+3461	E06	Unknown	Kemp 45/96	0.085349	312.19	380	11																																			
+3461	E06	Unknown	Kemp 45/96	0.0858797	342.19	380	12																																			
+3461	E06	Unknown	Kemp 45/96	0.0865136	372.19	380	13																																			
+3461	E06	Unknown	Kemp 45/96	0.0869853	402.19	380	14																																			
+3461	E06	Unknown	Kemp 45/96	0.0877061	432.19	380	15																																			
+3461	E06	Unknown	Kemp 45/96	0.0884575	462.19	380	16																																			
+3461	E06	Unknown	Kemp 45/96	0.0889886	492.19	380	17																																			
+3461	E06	Unknown	Kemp 45/96	0.089607	522.19	380	18																																			
+3461	E06	Unknown	Kemp 45/96	0.0902117	552.19	380	19																																			
+3461	E06	Unknown	Kemp 45/96	0.0908797	582.19	380	20																																			
+3461	F06	Unknown	Kemp 46/96	0.0780182	15.18	380	1																																			
+3461	F06	Unknown	Kemp 46/96	0.078223	45.18	380	2																																			
+3461	F06	Unknown	Kemp 46/96	0.0787356	75.18	380	3																																			
+3461	F06	Unknown	Kemp 46/96	0.0791806	105.18	380	4																																			
+3461	F06	Unknown	Kemp 46/96	0.0796948	135.18	380	5																																			
+3461	F06	Unknown	Kemp 46/96	0.0800026	165.18	380	6																																			
+3461	F06	Unknown	Kemp 46/96	0.0805183	195.18	380	7																																			
+3461	F06	Unknown	Kemp 46/96	0.0807728	225.18	380	8																																			
+3461	F06	Unknown	Kemp 46/96	0.0812474	255.18	380	9																																			
+3461	F06	Unknown	Kemp 46/96	0.0817155	285.18	380	10																																			
+3461	F06	Unknown	Kemp 46/96	0.0822581	315.18	380	11																																			
+3461	F06	Unknown	Kemp 46/96	0.0826267	345.18	380	12																																			
+3461	F06	Unknown	Kemp 46/96	0.0831583	375.18	380	13																																			
+3461	F06	Unknown	Kemp 46/96	0.083728	405.18	380	14																																			
+3461	F06	Unknown	Kemp 46/96	0.0843377	435.18	380	15																																			
+3461	F06	Unknown	Kemp 46/96	0.0849175	465.18	380	16																																			
+3461	F06	Unknown	Kemp 46/96	0.0855109	495.18	380	17																																			
+3461	F06	Unknown	Kemp 46/96	0.0861021	525.18	380	18																																			
+3461	F06	Unknown	Kemp 46/96	0.0867645	555.18	380	19																																			
+3461	F06	Unknown	Kemp 46/96	0.087356	585.18	380	20																																			
+3461	G06	Unknown	Kemp 47/96	0.0794663	17.71	380	1																																			
+3461	G06	Unknown	Kemp 47/96	0.0798839	47.71	380	2																																			
+3461	G06	Unknown	Kemp 47/96	0.0803353	77.71	380	3																																			
+3461	G06	Unknown	Kemp 47/96	0.0806497	107.71	380	4																																			
+3461	G06	Unknown	Kemp 47/96	0.0811093	137.71	380	5																																			
+3461	G06	Unknown	Kemp 47/96	0.0815262	167.71	380	6																																			
+3461	G06	Unknown	Kemp 47/96	0.0820349	197.71	380	7																																			
+3461	G06	Unknown	Kemp 47/96	0.0825319	227.71	380	8																																			
+3461	G06	Unknown	Kemp 47/96	0.0830804	257.71	380	9																																			
+3461	G06	Unknown	Kemp 47/96	0.0837854	287.71	380	10																																			
+3461	G06	Unknown	Kemp 47/96	0.0843566	317.71	380	11																																			
+3461	G06	Unknown	Kemp 47/96	0.0848394	347.71	380	12																																			
+3461	G06	Unknown	Kemp 47/96	0.0854978	377.71	380	13																																			
+3461	G06	Unknown	Kemp 47/96	0.0861256	407.71	380	14																																			
+3461	G06	Unknown	Kemp 47/96	0.0869731	437.71	380	15																																			
+3461	G06	Unknown	Kemp 47/96	0.0875108	467.71	380	16																																			
+3461	G06	Unknown	Kemp 47/96	0.0881144	497.71	380	17																																			
+3461	G06	Unknown	Kemp 47/96	0.0886806	527.71	380	18																																			
+3461	G06	Unknown	Kemp 47/96	0.0894169	557.71	380	19																																			
+3461	G06	Unknown	Kemp 47/96	0.0901838	587.71	380	20																																			
+3461	H06	Unknown	Kemp 48/96	0.0760487	20.7	380	1																																			
+3461	H06	Unknown	Kemp 48/96	0.0763703	50.7	380	2																																			
+3461	H06	Unknown	Kemp 48/96	0.076512	80.7	380	3																																			
+3461	H06	Unknown	Kemp 48/96	0.0767282	110.7	380	4																																			
+3461	H06	Unknown	Kemp 48/96	0.0772286	140.7	380	5																																			
+3461	H06	Unknown	Kemp 48/96	0.0776982	170.7	380	6																																			
+3461	H06	Unknown	Kemp 48/96	0.0781501	200.7	380	7																																			
+3461	H06	Unknown	Kemp 48/96	0.0788096	230.7	380	8																																			
+3461	H06	Unknown	Kemp 48/96	0.0794035	260.7	380	9																																			
+3461	H06	Unknown	Kemp 48/96	0.0799106	290.7	380	10																																			
+3461	H06	Unknown	Kemp 48/96	0.0805074	320.7	380	11																																			
+3461	H06	Unknown	Kemp 48/96	0.0809512	350.7	380	12																																			
+3461	H06	Unknown	Kemp 48/96	0.0815762	380.7	380	13																																			
+3461	H06	Unknown	Kemp 48/96	0.0822104	410.7	380	14																																			
+3461	H06	Unknown	Kemp 48/96	0.0827248	440.7	380	15																																			
+3461	H06	Unknown	Kemp 48/96	0.0833388	470.7	380	16																																			
+3461	H06	Unknown	Kemp 48/96	0.0839582	500.7	380	17																																			
+3461	H06	Unknown	Kemp 48/96	0.0845287	530.7	380	18																																			
+3461	H06	Unknown	Kemp 48/96	0.0851231	560.7	380	19																																			
+3461	H06	Unknown	Kemp 48/96	0.085806	590.7	380	20																																			
+3461	A07	Unknown	Kemp 49/96	0.0756419	31.38	380	2																																			
+3461	A07	Unknown	Kemp 49/96	0.0760699	61.38	380	3																																			
+3461	A07	Unknown	Kemp 49/96	0.0765755	91.38	380	4																																			
+3461	A07	Unknown	Kemp 49/96	0.0771826	121.38	380	5																																			
+3461	A07	Unknown	Kemp 49/96	0.0776939	151.38	380	6																																			
+3461	A07	Unknown	Kemp 49/96	0.0781207	181.38	380	7																																			
+3461	A07	Unknown	Kemp 49/96	0.0785254	211.38	380	8																																			
+3461	A07	Unknown	Kemp 49/96	0.0792135	241.38	380	9																																			
+3461	A07	Unknown	Kemp 49/96	0.079749	271.38	380	10																																			
+3461	A07	Unknown	Kemp 49/96	0.0802334	301.38	380	11																																			
+3461	A07	Unknown	Kemp 49/96	0.0807531	331.38	380	12																																			
+3461	A07	Unknown	Kemp 49/96	0.0815034	361.38	380	13																																			
+3461	A07	Unknown	Kemp 49/96	0.0820638	391.38	380	14																																			
+3461	A07	Unknown	Kemp 49/96	0.0827208	421.38	380	15																																			
+3461	A07	Unknown	Kemp 49/96	0.08311	451.38	380	16																																			
+3461	A07	Unknown	Kemp 49/96	0.0835061	481.38	380	17																																			
+3461	A07	Unknown	Kemp 49/96	0.0842508	511.38	380	18																																			
+3461	A07	Unknown	Kemp 49/96	0.0846927	541.38	380	19																																			
+3461	A07	Unknown	Kemp 49/96	0.0853788	571.38	380	20																																			
+3461	A07	Unknown	Kemp 49/96	0.0751238	1.38	380	1																																			
+3461	E01	Unknown	Kemp 5/96	0.0762098	11.04	380	1																																			
+3461	E01	Unknown	Kemp 5/96	0.0762048	41.04	380	2																																			
+3461	E01	Unknown	Kemp 5/96	0.0766905	71.04	380	3																																			
+3461	E01	Unknown	Kemp 5/96	0.0769608	101.04	380	4																																			
+3461	E01	Unknown	Kemp 5/96	0.0771134	131.04	380	5																																			
+3461	E01	Unknown	Kemp 5/96	0.0775787	161.04	380	6																																			
+3461	E01	Unknown	Kemp 5/96	0.078068	191.04	380	7																																			
+3461	E01	Unknown	Kemp 5/96	0.0786063	221.04	380	8																																			
+3461	E01	Unknown	Kemp 5/96	0.0792274	251.04	380	9																																			
+3461	E01	Unknown	Kemp 5/96	0.0798003	281.04	380	10																																			
+3461	E01	Unknown	Kemp 5/96	0.0804639	311.04	380	11																																			
+3461	E01	Unknown	Kemp 5/96	0.0809338	341.04	380	12																																			
+3461	E01	Unknown	Kemp 5/96	0.0815295	371.04	380	13																																			
+3461	E01	Unknown	Kemp 5/96	0.0820459	401.04	380	14																																			
+3461	E01	Unknown	Kemp 5/96	0.0827299	431.04	380	15																																			
+3461	E01	Unknown	Kemp 5/96	0.083256	461.04	380	16																																			
+3461	E01	Unknown	Kemp 5/96	0.083998	491.04	380	17																																			
+3461	E01	Unknown	Kemp 5/96	0.0844826	521.04	380	18																																			
+3461	E01	Unknown	Kemp 5/96	0.0850043	551.04	380	19																																			
+3461	E01	Unknown	Kemp 5/96	0.0857038	581.04	380	20																																			
+3461	B07	Unknown	Kemp 50/96	0.0781356	33.91	380	2																																			
+3461	B07	Unknown	Kemp 50/96	0.0785932	63.91	380	3																																			
+3461	B07	Unknown	Kemp 50/96	0.0791082	93.91	380	4																																			
+3461	B07	Unknown	Kemp 50/96	0.0796544	123.91	380	5																																			
+3461	B07	Unknown	Kemp 50/96	0.0800678	153.91	380	6																																			
+3461	B07	Unknown	Kemp 50/96	0.0805947	183.91	380	7																																			
+3461	B07	Unknown	Kemp 50/96	0.0810634	213.91	380	8																																			
+3461	B07	Unknown	Kemp 50/96	0.0815871	243.91	380	9																																			
+3461	B07	Unknown	Kemp 50/96	0.0822336	273.91	380	10																																			
+3461	B07	Unknown	Kemp 50/96	0.0828123	303.91	380	11																																			
+3461	B07	Unknown	Kemp 50/96	0.0835018	333.91	380	12																																			
+3461	B07	Unknown	Kemp 50/96	0.0841035	363.91	380	13																																			
+3461	B07	Unknown	Kemp 50/96	0.0847254	393.91	380	14																																			
+3461	B07	Unknown	Kemp 50/96	0.0854186	423.91	380	15																																			
+3461	B07	Unknown	Kemp 50/96	0.0860528	453.91	380	16																																			
+3461	B07	Unknown	Kemp 50/96	0.0866323	483.91	380	17																																			
+3461	B07	Unknown	Kemp 50/96	0.0873147	513.91	380	18																																			
+3461	B07	Unknown	Kemp 50/96	0.0880386	543.91	380	19																																			
+3461	B07	Unknown	Kemp 50/96	0.0887197	573.91	380	20																																			
+3461	B07	Unknown	Kemp 50/96	0.077876	3.91	380	1																																			
+3461	C07	Unknown	Kemp 51/96	0.0782814	6.9	380	1																																			
+3461	C07	Unknown	Kemp 51/96	0.0785128	36.9	380	2																																			
+3461	C07	Unknown	Kemp 51/96	0.0790014	66.9	380	3																																			
+3461	C07	Unknown	Kemp 51/96	0.0795755	96.9	380	4																																			
+3461	C07	Unknown	Kemp 51/96	0.0801011	126.9	380	5																																			
+3461	C07	Unknown	Kemp 51/96	0.0806146	156.9	380	6																																			
+3461	C07	Unknown	Kemp 51/96	0.0810316	186.9	380	7																																			
+3461	C07	Unknown	Kemp 51/96	0.0815742	216.9	380	8																																			
+3461	C07	Unknown	Kemp 51/96	0.0821357	246.9	380	9																																			
+3461	C07	Unknown	Kemp 51/96	0.0826445	276.9	380	10																																			
+3461	C07	Unknown	Kemp 51/96	0.0831875	306.9	380	11																																			
+3461	C07	Unknown	Kemp 51/96	0.0837799	336.9	380	12																																			
+3461	C07	Unknown	Kemp 51/96	0.084386	366.9	380	13																																			
+3461	C07	Unknown	Kemp 51/96	0.0848715	396.9	380	14																																			
+3461	C07	Unknown	Kemp 51/96	0.085656	426.9	380	15																																			
+3461	C07	Unknown	Kemp 51/96	0.0863635	456.9	380	16																																			
+3461	C07	Unknown	Kemp 51/96	0.0869459	486.9	380	17																																			
+3461	C07	Unknown	Kemp 51/96	0.0877119	516.9	380	18																																			
+3461	C07	Unknown	Kemp 51/96	0.0883901	546.9	380	19																																			
+3461	C07	Unknown	Kemp 51/96	0.0889979	576.9	380	20																																			
+3461	D07	Unknown	Kemp 52/96	0.0807159	9.43	380	1																																			
+3461	D07	Unknown	Kemp 52/96	0.0817224	39.43	380	2																																			
+3461	D07	Unknown	Kemp 52/96	0.0823009	69.43	380	3																																			
+3461	D07	Unknown	Kemp 52/96	0.0829726	99.43	380	4																																			
+3461	D07	Unknown	Kemp 52/96	0.0833741	129.43	380	5																																			
+3461	D07	Unknown	Kemp 52/96	0.0840079	159.43	380	6																																			
+3461	D07	Unknown	Kemp 52/96	0.0846033	189.43	380	7																																			
+3461	D07	Unknown	Kemp 52/96	0.0851775	219.43	380	8																																			
+3461	D07	Unknown	Kemp 52/96	0.0857407	249.43	380	9																																			
+3461	D07	Unknown	Kemp 52/96	0.0863984	279.43	380	10																																			
+3461	D07	Unknown	Kemp 52/96	0.0871484	309.43	380	11																																			
+3461	D07	Unknown	Kemp 52/96	0.0877023	339.43	380	12																																			
+3461	D07	Unknown	Kemp 52/96	0.0884046	369.43	380	13																																			
+3461	D07	Unknown	Kemp 52/96	0.0889818	399.43	380	14																																			
+3461	D07	Unknown	Kemp 52/96	0.0897208	429.43	380	15																																			
+3461	D07	Unknown	Kemp 52/96	0.0905203	459.43	380	16																																			
+3461	D07	Unknown	Kemp 52/96	0.0911939	489.43	380	17																																			
+3461	D07	Unknown	Kemp 52/96	0.0919205	519.43	380	18																																			
+3461	D07	Unknown	Kemp 52/96	0.0926805	549.43	380	19																																			
+3461	D07	Unknown	Kemp 52/96	0.0934873	579.43	380	20																																			
+3461	E07	Unknown	Kemp 53/96	0.0789248	12.42	380	1																																			
+3461	E07	Unknown	Kemp 53/96	0.0793113	42.42	380	2																																			
+3461	E07	Unknown	Kemp 53/96	0.0799748	72.42	380	3																																			
+3461	E07	Unknown	Kemp 53/96	0.0804703	102.42	380	4																																			
+3461	E07	Unknown	Kemp 53/96	0.0807866	132.42	380	5																																			
+3461	E07	Unknown	Kemp 53/96	0.0815194	162.42	380	6																																			
+3461	E07	Unknown	Kemp 53/96	0.0817985	192.42	380	7																																			
+3461	E07	Unknown	Kemp 53/96	0.0822565	222.42	380	8																																			
+3461	E07	Unknown	Kemp 53/96	0.0829422	252.42	380	9																																			
+3461	E07	Unknown	Kemp 53/96	0.0834079	282.42	380	10																																			
+3461	E07	Unknown	Kemp 53/96	0.0838484	312.42	380	11																																			
+3461	E07	Unknown	Kemp 53/96	0.0843538	342.42	380	12																																			
+3461	E07	Unknown	Kemp 53/96	0.084995	372.42	380	13																																			
+3461	E07	Unknown	Kemp 53/96	0.0854293	402.42	380	14																																			
+3461	E07	Unknown	Kemp 53/96	0.0860963	432.42	380	15																																			
+3461	E07	Unknown	Kemp 53/96	0.0867868	462.42	380	16																																			
+3461	E07	Unknown	Kemp 53/96	0.0875122	492.42	380	17																																			
+3461	E07	Unknown	Kemp 53/96	0.0881682	522.42	380	18																																			
+3461	E07	Unknown	Kemp 53/96	0.0888086	552.42	380	19																																			
+3461	E07	Unknown	Kemp 53/96	0.0893902	582.42	380	20																																			
+3461	F07	Unknown	Kemp 54/96	0.0788597	14.95	380	1																																			
+3461	F07	Unknown	Kemp 54/96	0.0794033	44.95	380	2																																			
+3461	F07	Unknown	Kemp 54/96	0.0798639	74.95	380	3																																			
+3461	F07	Unknown	Kemp 54/96	0.0801487	104.95	380	4																																			
+3461	F07	Unknown	Kemp 54/96	0.0805342	134.95	380	5																																			
+3461	F07	Unknown	Kemp 54/96	0.0809987	164.95	380	6																																			
+3461	F07	Unknown	Kemp 54/96	0.0814659	194.95	380	7																																			
+3461	F07	Unknown	Kemp 54/96	0.0818929	224.95	380	8																																			
+3461	F07	Unknown	Kemp 54/96	0.0823456	254.95	380	9																																			
+3461	F07	Unknown	Kemp 54/96	0.0828955	284.95	380	10																																			
+3461	F07	Unknown	Kemp 54/96	0.0834677	314.95	380	11																																			
+3461	F07	Unknown	Kemp 54/96	0.0839803	344.95	380	12																																			
+3461	F07	Unknown	Kemp 54/96	0.0845713	374.95	380	13																																			
+3461	F07	Unknown	Kemp 54/96	0.0852436	404.95	380	14																																			
+3461	F07	Unknown	Kemp 54/96	0.0858973	434.95	380	15																																			
+3461	F07	Unknown	Kemp 54/96	0.0865605	464.95	380	16																																			
+3461	F07	Unknown	Kemp 54/96	0.0872933	494.95	380	17																																			
+3461	F07	Unknown	Kemp 54/96	0.0879265	524.95	380	18																																			
+3461	F07	Unknown	Kemp 54/96	0.0886017	554.95	380	19																																			
+3461	F07	Unknown	Kemp 54/96	0.0893104	584.95	380	20																																			
+3461	G07	Unknown	Kemp 55/96	0.0812459	17.94	380	1																																			
+3461	G07	Unknown	Kemp 55/96	0.0818922	47.94	380	2																																			
+3461	G07	Unknown	Kemp 55/96	0.0824476	77.94	380	3																																			
+3461	G07	Unknown	Kemp 55/96	0.0829048	107.94	380	4																																			
+3461	G07	Unknown	Kemp 55/96	0.0834021	137.94	380	5																																			
+3461	G07	Unknown	Kemp 55/96	0.0840866	167.94	380	6																																			
+3461	G07	Unknown	Kemp 55/96	0.0845869	197.94	380	7																																			
+3461	G07	Unknown	Kemp 55/96	0.0853496	227.94	380	8																																			
+3461	G07	Unknown	Kemp 55/96	0.0859668	257.94	380	9																																			
+3461	G07	Unknown	Kemp 55/96	0.086523	287.94	380	10																																			
+3461	G07	Unknown	Kemp 55/96	0.0874063	317.94	380	11																																			
+3461	G07	Unknown	Kemp 55/96	0.0880494	347.94	380	12																																			
+3461	G07	Unknown	Kemp 55/96	0.0888234	377.94	380	13																																			
+3461	G07	Unknown	Kemp 55/96	0.0896204	407.94	380	14																																			
+3461	G07	Unknown	Kemp 55/96	0.0902914	437.94	380	15																																			
+3461	G07	Unknown	Kemp 55/96	0.0910036	467.94	380	16																																			
+3461	G07	Unknown	Kemp 55/96	0.0917512	497.94	380	17																																			
+3461	G07	Unknown	Kemp 55/96	0.0924894	527.94	380	18																																			
+3461	G07	Unknown	Kemp 55/96	0.0934295	557.94	380	19																																			
+3461	G07	Unknown	Kemp 55/96	0.0941025	587.94	380	20																																			
+3461	H07	Unknown	Kemp 56/96	0.0761369	20.47	380	1																																			
+3461	H07	Unknown	Kemp 56/96	0.0763792	50.47	380	2																																			
+3461	H07	Unknown	Kemp 56/96	0.0765526	80.47	380	3																																			
+3461	H07	Unknown	Kemp 56/96	0.0767138	110.47	380	4																																			
+3461	H07	Unknown	Kemp 56/96	0.0771582	140.47	380	5																																			
+3461	H07	Unknown	Kemp 56/96	0.0776452	170.47	380	6																																			
+3461	H07	Unknown	Kemp 56/96	0.0780745	200.47	380	7																																			
+3461	H07	Unknown	Kemp 56/96	0.0786522	230.47	380	8																																			
+3461	H07	Unknown	Kemp 56/96	0.0792132	260.47	380	9																																			
+3461	H07	Unknown	Kemp 56/96	0.0797096	290.47	380	10																																			
+3461	H07	Unknown	Kemp 56/96	0.0802973	320.47	380	11																																			
+3461	H07	Unknown	Kemp 56/96	0.0808714	350.47	380	12																																			
+3461	H07	Unknown	Kemp 56/96	0.0814945	380.47	380	13																																			
+3461	H07	Unknown	Kemp 56/96	0.0820931	410.47	380	14																																			
+3461	H07	Unknown	Kemp 56/96	0.0826191	440.47	380	15																																			
+3461	H07	Unknown	Kemp 56/96	0.0831765	470.47	380	16																																			
+3461	H07	Unknown	Kemp 56/96	0.0839185	500.47	380	17																																			
+3461	H07	Unknown	Kemp 56/96	0.0844875	530.47	380	18																																			
+3461	H07	Unknown	Kemp 56/96	0.0851134	560.47	380	19																																			
+3461	H07	Unknown	Kemp 56/96	0.0856123	590.47	380	20																																			
+3461	A08	Unknown	Kemp 57/96	0.0753018	31.61	380	2																																			
+3461	A08	Unknown	Kemp 57/96	0.0756403	61.61	380	3																																			
+3461	A08	Unknown	Kemp 57/96	0.0760004	91.61	380	4																																			
+3461	A08	Unknown	Kemp 57/96	0.0763906	121.61	380	5																																			
+3461	A08	Unknown	Kemp 57/96	0.0767467	151.61	380	6																																			
+3461	A08	Unknown	Kemp 57/96	0.0771091	181.61	380	7																																			
+3461	A08	Unknown	Kemp 57/96	0.0776513	211.61	380	8																																			
+3461	A08	Unknown	Kemp 57/96	0.078146	241.61	380	9																																			
+3461	A08	Unknown	Kemp 57/96	0.078799	271.61	380	10																																			
+3461	A08	Unknown	Kemp 57/96	0.0792991	301.61	380	11																																			
+3461	A08	Unknown	Kemp 57/96	0.080062	331.61	380	12																																			
+3461	A08	Unknown	Kemp 57/96	0.0808296	361.61	380	13																																			
+3461	A08	Unknown	Kemp 57/96	0.0812558	391.61	380	14																																			
+3461	A08	Unknown	Kemp 57/96	0.0817894	421.61	380	15																																			
+3461	A08	Unknown	Kemp 57/96	0.0824123	451.61	380	16																																			
+3461	A08	Unknown	Kemp 57/96	0.0829544	481.61	380	17																																			
+3461	A08	Unknown	Kemp 57/96	0.0838213	511.61	380	18																																			
+3461	A08	Unknown	Kemp 57/96	0.0840413	541.61	380	19																																			
+3461	A08	Unknown	Kemp 57/96	0.0846822	571.61	380	20																																			
+3461	A08	Unknown	Kemp 57/96	0.0749155	1.61	380	1																																			
+3461	B08	Unknown	Kemp 58/96	0.0767372	33.68	380	2																																			
+3461	B08	Unknown	Kemp 58/96	0.0770663	63.68	380	3																																			
+3461	B08	Unknown	Kemp 58/96	0.0777067	93.68	380	4																																			
+3461	B08	Unknown	Kemp 58/96	0.0780876	123.68	380	5																																			
+3461	B08	Unknown	Kemp 58/96	0.0786452	153.68	380	6																																			
+3461	B08	Unknown	Kemp 58/96	0.079053	183.68	380	7																																			
+3461	B08	Unknown	Kemp 58/96	0.0795457	213.68	380	8																																			
+3461	B08	Unknown	Kemp 58/96	0.0800562	243.68	380	9																																			
+3461	B08	Unknown	Kemp 58/96	0.0806358	273.68	380	10																																			
+3461	B08	Unknown	Kemp 58/96	0.0812884	303.68	380	11																																			
+3461	B08	Unknown	Kemp 58/96	0.0818307	333.68	380	12																																			
+3461	B08	Unknown	Kemp 58/96	0.0824058	363.68	380	13																																			
+3461	B08	Unknown	Kemp 58/96	0.0829569	393.68	380	14																																			
+3461	B08	Unknown	Kemp 58/96	0.0835735	423.68	380	15																																			
+3461	B08	Unknown	Kemp 58/96	0.0842736	453.68	380	16																																			
+3461	B08	Unknown	Kemp 58/96	0.0848156	483.68	380	17																																			
+3461	B08	Unknown	Kemp 58/96	0.085527	513.68	380	18																																			
+3461	B08	Unknown	Kemp 58/96	0.0862202	543.68	380	19																																			
+3461	B08	Unknown	Kemp 58/96	0.0868341	573.68	380	20																																			
+3461	B08	Unknown	Kemp 58/96	0.0762786	3.68	380	1																																			
+3461	C08	Unknown	Kemp 59/96	0.0764246	7.13	380	1																																			
+3461	C08	Unknown	Kemp 59/96	0.0766581	37.13	380	2																																			
+3461	C08	Unknown	Kemp 59/96	0.077257	67.13	380	3																																			
+3461	C08	Unknown	Kemp 59/96	0.077737	97.13	380	4																																			
+3461	C08	Unknown	Kemp 59/96	0.0783997	127.13	380	5																																			
+3461	C08	Unknown	Kemp 59/96	0.0786831	157.13	380	6																																			
+3461	C08	Unknown	Kemp 59/96	0.0792223	187.13	380	7																																			
+3461	C08	Unknown	Kemp 59/96	0.0797245	217.13	380	8																																			
+3461	C08	Unknown	Kemp 59/96	0.0800169	247.13	380	9																																			
+3461	C08	Unknown	Kemp 59/96	0.0803753	277.13	380	10																																			
+3461	C08	Unknown	Kemp 59/96	0.0809773	307.13	380	11																																			
+3461	C08	Unknown	Kemp 59/96	0.0814976	337.13	380	12																																			
+3461	C08	Unknown	Kemp 59/96	0.0819197	367.13	380	13																																			
+3461	C08	Unknown	Kemp 59/96	0.0825182	397.13	380	14																																			
+3461	C08	Unknown	Kemp 59/96	0.0830689	427.13	380	15																																			
+3461	C08	Unknown	Kemp 59/96	0.08369	457.13	380	16																																			
+3461	C08	Unknown	Kemp 59/96	0.0843556	487.13	380	17																																			
+3461	C08	Unknown	Kemp 59/96	0.0850025	517.13	380	18																																			
+3461	C08	Unknown	Kemp 59/96	0.0854899	547.13	380	19																																			
+3461	C08	Unknown	Kemp 59/96	0.0860483	577.13	380	20																																			
+3461	F01	Unknown	Kemp 6/96	0.0762572	16.33	380	1																																			
+3461	F01	Unknown	Kemp 6/96	0.0766224	46.33	380	2																																			
+3461	F01	Unknown	Kemp 6/96	0.0770726	76.33	380	3																																			
+3461	F01	Unknown	Kemp 6/96	0.0773517	106.33	380	4																																			
+3461	F01	Unknown	Kemp 6/96	0.0775909	136.33	380	5																																			
+3461	F01	Unknown	Kemp 6/96	0.0778237	166.33	380	6																																			
+3461	F01	Unknown	Kemp 6/96	0.0781674	196.33	380	7																																			
+3461	F01	Unknown	Kemp 6/96	0.0786573	226.33	380	8																																			
+3461	F01	Unknown	Kemp 6/96	0.079134	256.33	380	9																																			
+3461	F01	Unknown	Kemp 6/96	0.0797287	286.33	380	10																																			
+3461	F01	Unknown	Kemp 6/96	0.0804988	316.33	380	11																																			
+3461	F01	Unknown	Kemp 6/96	0.0809768	346.33	380	12																																			
+3461	F01	Unknown	Kemp 6/96	0.0815596	376.33	380	13																																			
+3461	F01	Unknown	Kemp 6/96	0.0819663	406.33	380	14																																			
+3461	F01	Unknown	Kemp 6/96	0.0826611	436.33	380	15																																			
+3461	F01	Unknown	Kemp 6/96	0.0832692	466.33	380	16																																			
+3461	F01	Unknown	Kemp 6/96	0.0838335	496.33	380	17																																			
+3461	F01	Unknown	Kemp 6/96	0.0845785	526.33	380	18																																			
+3461	F01	Unknown	Kemp 6/96	0.0850554	556.33	380	19																																			
+3461	F01	Unknown	Kemp 6/96	0.0856304	586.33	380	20																																			
+3461	D08	Unknown	Kemp 60/96	0.0796623	9.2	380	1																																			
+3461	D08	Unknown	Kemp 60/96	0.0799319	39.2	380	2																																			
+3461	D08	Unknown	Kemp 60/96	0.0802666	69.2	380	3																																			
+3461	D08	Unknown	Kemp 60/96	0.0807139	99.2	380	4																																			
+3461	D08	Unknown	Kemp 60/96	0.0810237	129.2	380	5																																			
+3461	D08	Unknown	Kemp 60/96	0.0814769	159.2	380	6																																			
+3461	D08	Unknown	Kemp 60/96	0.0819266	189.2	380	7																																			
+3461	D08	Unknown	Kemp 60/96	0.0823771	219.2	380	8																																			
+3461	D08	Unknown	Kemp 60/96	0.0828356	249.2	380	9																																			
+3461	D08	Unknown	Kemp 60/96	0.083388	279.2	380	10																																			
+3461	D08	Unknown	Kemp 60/96	0.0838518	309.2	380	11																																			
+3461	D08	Unknown	Kemp 60/96	0.0842531	339.2	380	12																																			
+3461	D08	Unknown	Kemp 60/96	0.0848954	369.2	380	13																																			
+3461	D08	Unknown	Kemp 60/96	0.0855186	399.2	380	14																																			
+3461	D08	Unknown	Kemp 60/96	0.0861659	429.2	380	15																																			
+3461	D08	Unknown	Kemp 60/96	0.0867215	459.2	380	16																																			
+3461	D08	Unknown	Kemp 60/96	0.0874719	489.2	380	17																																			
+3461	D08	Unknown	Kemp 60/96	0.0880987	519.2	380	18																																			
+3461	D08	Unknown	Kemp 60/96	0.0886963	549.2	380	19																																			
+3461	D08	Unknown	Kemp 60/96	0.0893956	579.2	380	20																																			
+3461	E08	Unknown	Kemp 61/96	0.0773371	12.65	380	1																																			
+3461	E08	Unknown	Kemp 61/96	0.0775469	42.65	380	2																																			
+3461	E08	Unknown	Kemp 61/96	0.0780807	72.65	380	3																																			
+3461	E08	Unknown	Kemp 61/96	0.0784724	102.65	380	4																																			
+3461	E08	Unknown	Kemp 61/96	0.0790749	132.65	380	5																																			
+3461	E08	Unknown	Kemp 61/96	0.0794015	162.65	380	6																																			
+3461	E08	Unknown	Kemp 61/96	0.0796771	192.65	380	7																																			
+3461	E08	Unknown	Kemp 61/96	0.0803424	222.65	380	8																																			
+3461	E08	Unknown	Kemp 61/96	0.0808355	252.65	380	9																																			
+3461	E08	Unknown	Kemp 61/96	0.0811982	282.65	380	10																																			
+3461	E08	Unknown	Kemp 61/96	0.0817687	312.65	380	11																																			
+3461	E08	Unknown	Kemp 61/96	0.0822576	342.65	380	12																																			
+3461	E08	Unknown	Kemp 61/96	0.082635	372.65	380	13																																			
+3461	E08	Unknown	Kemp 61/96	0.0831332	402.65	380	14																																			
+3461	E08	Unknown	Kemp 61/96	0.0838415	432.65	380	15																																			
+3461	E08	Unknown	Kemp 61/96	0.0843251	462.65	380	16																																			
+3461	E08	Unknown	Kemp 61/96	0.085172	492.65	380	17																																			
+3461	E08	Unknown	Kemp 61/96	0.0856233	522.65	380	18																																			
+3461	E08	Unknown	Kemp 61/96	0.0863189	552.65	380	19																																			
+3461	E08	Unknown	Kemp 61/96	0.0868161	582.65	380	20																																			
+3461	F08	Unknown	Kemp 62/96	0.0830121	14.72	380	1																																			
+3461	F08	Unknown	Kemp 62/96	0.0835343	44.72	380	2																																			
+3461	F08	Unknown	Kemp 62/96	0.0840535	74.72	380	3																																			
+3461	F08	Unknown	Kemp 62/96	0.0846695	104.72	380	4																																			
+3461	F08	Unknown	Kemp 62/96	0.0851555	134.72	380	5																																			
+3461	F08	Unknown	Kemp 62/96	0.0856708	164.72	380	6																																			
+3461	F08	Unknown	Kemp 62/96	0.0861148	194.72	380	7																																			
+3461	F08	Unknown	Kemp 62/96	0.0866809	224.72	380	8																																			
+3461	F08	Unknown	Kemp 62/96	0.0870837	254.72	380	9																																			
+3461	F08	Unknown	Kemp 62/96	0.0876331	284.72	380	10																																			
+3461	F08	Unknown	Kemp 62/96	0.0883556	314.72	380	11																																			
+3461	F08	Unknown	Kemp 62/96	0.0888351	344.72	380	12																																			
+3461	F08	Unknown	Kemp 62/96	0.0894746	374.72	380	13																																			
+3461	F08	Unknown	Kemp 62/96	0.0899788	404.72	380	14																																			
+3461	F08	Unknown	Kemp 62/96	0.0907621	434.72	380	15																																			
+3461	F08	Unknown	Kemp 62/96	0.091262	464.72	380	16																																			
+3461	F08	Unknown	Kemp 62/96	0.0919502	494.72	380	17																																			
+3461	F08	Unknown	Kemp 62/96	0.092636	524.72	380	18																																			
+3461	F08	Unknown	Kemp 62/96	0.0933485	554.72	380	19																																			
+3461	F08	Unknown	Kemp 62/96	0.0939176	584.72	380	20																																			
+3461	G08	Unknown	Kemp 63/96	0.0805001	18.17	380	1																																			
+3461	G08	Unknown	Kemp 63/96	0.0811399	48.17	380	2																																			
+3461	G08	Unknown	Kemp 63/96	0.0817799	78.17	380	3																																			
+3461	G08	Unknown	Kemp 63/96	0.0824817	108.17	380	4																																			
+3461	G08	Unknown	Kemp 63/96	0.0831981	138.17	380	5																																			
+3461	G08	Unknown	Kemp 63/96	0.083797	168.17	380	6																																			
+3461	G08	Unknown	Kemp 63/96	0.0846417	198.17	380	7																																			
+3461	G08	Unknown	Kemp 63/96	0.0854362	228.17	380	8																																			
+3461	G08	Unknown	Kemp 63/96	0.0858827	258.17	380	9																																			
+3461	G08	Unknown	Kemp 63/96	0.0866944	288.17	380	10																																			
+3461	G08	Unknown	Kemp 63/96	0.0876377	318.17	380	11																																			
+3461	G08	Unknown	Kemp 63/96	0.0883038	348.17	380	12																																			
+3461	G08	Unknown	Kemp 63/96	0.0890201	378.17	380	13																																			
+3461	G08	Unknown	Kemp 63/96	0.0899082	408.17	380	14																																			
+3461	G08	Unknown	Kemp 63/96	0.0905382	438.17	380	15																																			
+3461	G08	Unknown	Kemp 63/96	0.0913829	468.17	380	16																																			
+3461	G08	Unknown	Kemp 63/96	0.0922657	498.17	380	17																																			
+3461	G08	Unknown	Kemp 63/96	0.0930053	528.17	380	18																																			
+3461	G08	Unknown	Kemp 63/96	0.0937649	558.17	380	19																																			
+3461	G08	Unknown	Kemp 63/96	0.0946038	588.17	380	20																																			
+3461	H08	Unknown	Kemp 64/96	0.0781327	20.24	380	1																																			
+3461	H08	Unknown	Kemp 64/96	0.0782596	50.24	380	2																																			
+3461	H08	Unknown	Kemp 64/96	0.0786523	80.24	380	3																																			
+3461	H08	Unknown	Kemp 64/96	0.0790409	110.24	380	4																																			
+3461	H08	Unknown	Kemp 64/96	0.0796496	140.24	380	5																																			
+3461	H08	Unknown	Kemp 64/96	0.0801289	170.24	380	6																																			
+3461	H08	Unknown	Kemp 64/96	0.0807217	200.24	380	7																																			
+3461	H08	Unknown	Kemp 64/96	0.0812481	230.24	380	8																																			
+3461	H08	Unknown	Kemp 64/96	0.0819072	260.24	380	9																																			
+3461	H08	Unknown	Kemp 64/96	0.0822835	290.24	380	10																																			
+3461	H08	Unknown	Kemp 64/96	0.082854	320.24	380	11																																			
+3461	H08	Unknown	Kemp 64/96	0.0834623	350.24	380	12																																			
+3461	H08	Unknown	Kemp 64/96	0.083967	380.24	380	13																																			
+3461	H08	Unknown	Kemp 64/96	0.0846311	410.24	380	14																																			
+3461	H08	Unknown	Kemp 64/96	0.0850982	440.24	380	15																																			
+3461	H08	Unknown	Kemp 64/96	0.0857024	470.24	380	16																																			
+3461	H08	Unknown	Kemp 64/96	0.0865006	500.24	380	17																																			
+3461	H08	Unknown	Kemp 64/96	0.0869583	530.24	380	18																																			
+3461	H08	Unknown	Kemp 64/96	0.0876147	560.24	380	19																																			
+3461	H08	Unknown	Kemp 64/96	0.0881925	590.24	380	20																																			
+3461	A09	Unknown	Kemp 65/96	0.0757196	31.84	380	2																																			
+3461	A09	Unknown	Kemp 65/96	0.0761216	61.84	380	3																																			
+3461	A09	Unknown	Kemp 65/96	0.0766903	91.84	380	4																																			
+3461	A09	Unknown	Kemp 65/96	0.0771841	121.84	380	5																																			
+3461	A09	Unknown	Kemp 65/96	0.0775846	151.84	380	6																																			
+3461	A09	Unknown	Kemp 65/96	0.0780455	181.84	380	7																																			
+3461	A09	Unknown	Kemp 65/96	0.0786511	211.84	380	8																																			
+3461	A09	Unknown	Kemp 65/96	0.0791701	241.84	380	9																																			
+3461	A09	Unknown	Kemp 65/96	0.0798719	271.84	380	10																																			
+3461	A09	Unknown	Kemp 65/96	0.08051	301.84	380	11																																			
+3461	A09	Unknown	Kemp 65/96	0.0810781	331.84	380	12																																			
+3461	A09	Unknown	Kemp 65/96	0.0816437	361.84	380	13																																			
+3461	A09	Unknown	Kemp 65/96	0.0821856	391.84	380	14																																			
+3461	A09	Unknown	Kemp 65/96	0.0827747	421.84	380	15																																			
+3461	A09	Unknown	Kemp 65/96	0.0833017	451.84	380	16																																			
+3461	A09	Unknown	Kemp 65/96	0.0838596	481.84	380	17																																			
+3461	A09	Unknown	Kemp 65/96	0.0844231	511.84	380	18																																			
+3461	A09	Unknown	Kemp 65/96	0.0850793	541.84	380	19																																			
+3461	A09	Unknown	Kemp 65/96	0.0856892	571.84	380	20																																			
+3461	A09	Unknown	Kemp 65/96	0.0749985	1.84	380	1																																			
+3461	B09	Unknown	Kemp 66/96	0.079721	33.45	380	2																																			
+3461	B09	Unknown	Kemp 66/96	0.0800446	63.45	380	3																																			
+3461	B09	Unknown	Kemp 66/96	0.0805783	93.45	380	4																																			
+3461	B09	Unknown	Kemp 66/96	0.0809503	123.45	380	5																																			
+3461	B09	Unknown	Kemp 66/96	0.0813577	153.45	380	6																																			
+3461	B09	Unknown	Kemp 66/96	0.0819766	183.45	380	7																																			
+3461	B09	Unknown	Kemp 66/96	0.0824384	213.45	380	8																																			
+3461	B09	Unknown	Kemp 66/96	0.082891	243.45	380	9																																			
+3461	B09	Unknown	Kemp 66/96	0.0833912	273.45	380	10																																			
+3461	B09	Unknown	Kemp 66/96	0.0839812	303.45	380	11																																			
+3461	B09	Unknown	Kemp 66/96	0.0845412	333.45	380	12																																			
+3461	B09	Unknown	Kemp 66/96	0.0851723	363.45	380	13																																			
+3461	B09	Unknown	Kemp 66/96	0.085823	393.45	380	14																																			
+3461	B09	Unknown	Kemp 66/96	0.0865083	423.45	380	15																																			
+3461	B09	Unknown	Kemp 66/96	0.0872082	453.45	380	16																																			
+3461	B09	Unknown	Kemp 66/96	0.0878181	483.45	380	17																																			
+3461	B09	Unknown	Kemp 66/96	0.0885777	513.45	380	18																																			
+3461	B09	Unknown	Kemp 66/96	0.0892646	543.45	380	19																																			
+3461	B09	Unknown	Kemp 66/96	0.0899664	573.45	380	20																																			
+3461	B09	Unknown	Kemp 66/96	0.0792157	3.45	380	1																																			
+3461	C09	Unknown	Kemp 67/96	0.0778685	7.36	380	1																																			
+3461	C09	Unknown	Kemp 67/96	0.078266	37.36	380	2																																			
+3461	C09	Unknown	Kemp 67/96	0.0788613	67.36	380	3																																			
+3461	C09	Unknown	Kemp 67/96	0.0793584	97.36	380	4																																			
+3461	C09	Unknown	Kemp 67/96	0.0799277	127.36	380	5																																			
+3461	C09	Unknown	Kemp 67/96	0.0803959	157.36	380	6																																			
+3461	C09	Unknown	Kemp 67/96	0.0808318	187.36	380	7																																			
+3461	C09	Unknown	Kemp 67/96	0.0812654	217.36	380	8																																			
+3461	C09	Unknown	Kemp 67/96	0.0817197	247.36	380	9																																			
+3461	C09	Unknown	Kemp 67/96	0.0823609	277.36	380	10																																			
+3461	C09	Unknown	Kemp 67/96	0.0830631	307.36	380	11																																			
+3461	C09	Unknown	Kemp 67/96	0.0836254	337.36	380	12																																			
+3461	C09	Unknown	Kemp 67/96	0.0839875	367.36	380	13																																			
+3461	C09	Unknown	Kemp 67/96	0.0846098	397.36	380	14																																			
+3461	C09	Unknown	Kemp 67/96	0.0853402	427.36	380	15																																			
+3461	C09	Unknown	Kemp 67/96	0.0862799	457.36	380	16																																			
+3461	C09	Unknown	Kemp 67/96	0.0868867	487.36	380	17																																			
+3461	C09	Unknown	Kemp 67/96	0.0872696	517.36	380	18																																			
+3461	C09	Unknown	Kemp 67/96	0.0879773	547.36	380	19																																			
+3461	C09	Unknown	Kemp 67/96	0.0886806	577.36	380	20																																			
+3461	D09	Unknown	Kemp 68/96	0.0765453	8.97	380	1																																			
+3461	D09	Unknown	Kemp 68/96	0.0775113	38.97	380	2																																			
+3461	D09	Unknown	Kemp 68/96	0.0779636	68.97	380	3																																			
+3461	D09	Unknown	Kemp 68/96	0.078454	98.97	380	4																																			
+3461	D09	Unknown	Kemp 68/96	0.0789094	128.97	380	5																																			
+3461	D09	Unknown	Kemp 68/96	0.079436	158.97	380	6																																			
+3461	D09	Unknown	Kemp 68/96	0.0798507	188.97	380	7																																			
+3461	D09	Unknown	Kemp 68/96	0.0803973	218.97	380	8																																			
+3461	D09	Unknown	Kemp 68/96	0.0808044	248.97	380	9																																			
+3461	D09	Unknown	Kemp 68/96	0.0813323	278.97	380	10																																			
+3461	D09	Unknown	Kemp 68/96	0.0818721	308.97	380	11																																			
+3461	D09	Unknown	Kemp 68/96	0.0823306	338.97	380	12																																			
+3461	D09	Unknown	Kemp 68/96	0.0830281	368.97	380	13																																			
+3461	D09	Unknown	Kemp 68/96	0.0835376	398.97	380	14																																			
+3461	D09	Unknown	Kemp 68/96	0.0841308	428.97	380	15																																			
+3461	D09	Unknown	Kemp 68/96	0.0848856	458.97	380	16																																			
+3461	D09	Unknown	Kemp 68/96	0.0854604	488.97	380	17																																			
+3461	D09	Unknown	Kemp 68/96	0.0860181	518.97	380	18																																			
+3461	D09	Unknown	Kemp 68/96	0.0865873	548.97	380	19																																			
+3461	D09	Unknown	Kemp 68/96	0.0873411	578.97	380	20																																			
+3461	E09	Unknown	Kemp 69/96	0.077481	12.88	380	1																																			
+3461	E09	Unknown	Kemp 69/96	0.0777612	42.88	380	2																																			
+3461	E09	Unknown	Kemp 69/96	0.0782532	72.88	380	3																																			
+3461	E09	Unknown	Kemp 69/96	0.0785821	102.88	380	4																																			
+3461	E09	Unknown	Kemp 69/96	0.0791768	132.88	380	5																																			
+3461	E09	Unknown	Kemp 69/96	0.0794068	162.88	380	6																																			
+3461	E09	Unknown	Kemp 69/96	0.0796402	192.88	380	7																																			
+3461	E09	Unknown	Kemp 69/96	0.0800195	222.88	380	8																																			
+3461	E09	Unknown	Kemp 69/96	0.0806454	252.88	380	9																																			
+3461	E09	Unknown	Kemp 69/96	0.0811306	282.88	380	10																																			
+3461	E09	Unknown	Kemp 69/96	0.0816939	312.88	380	11																																			
+3461	E09	Unknown	Kemp 69/96	0.0820811	342.88	380	12																																			
+3461	E09	Unknown	Kemp 69/96	0.0824102	372.88	380	13																																			
+3461	E09	Unknown	Kemp 69/96	0.0828861	402.88	380	14																																			
+3461	E09	Unknown	Kemp 69/96	0.0835486	432.88	380	15																																			
+3461	E09	Unknown	Kemp 69/96	0.0841814	462.88	380	16																																			
+3461	E09	Unknown	Kemp 69/96	0.0845448	492.88	380	17																																			
+3461	E09	Unknown	Kemp 69/96	0.0853761	522.88	380	18																																			
+3461	E09	Unknown	Kemp 69/96	0.0858372	552.88	380	19																																			
+3461	E09	Unknown	Kemp 69/96	0.0866908	582.88	380	20																																			
+3461	G01	Unknown	Kemp 7/96	0.0765199	16.56	380	1																																			
+3461	G01	Unknown	Kemp 7/96	0.0769157	46.56	380	2																																			
+3461	G01	Unknown	Kemp 7/96	0.0773229	76.56	380	3																																			
+3461	G01	Unknown	Kemp 7/96	0.0776005	106.56	380	4																																			
+3461	G01	Unknown	Kemp 7/96	0.0778459	136.56	380	5																																			
+3461	G01	Unknown	Kemp 7/96	0.0781645	166.56	380	6																																			
+3461	G01	Unknown	Kemp 7/96	0.0786884	196.56	380	7																																			
+3461	G01	Unknown	Kemp 7/96	0.0792282	226.56	380	8																																			
+3461	G01	Unknown	Kemp 7/96	0.0798266	256.56	380	9																																			
+3461	G01	Unknown	Kemp 7/96	0.0804328	286.56	380	10																																			
+3461	G01	Unknown	Kemp 7/96	0.0810354	316.56	380	11																																			
+3461	G01	Unknown	Kemp 7/96	0.0816409	346.56	380	12																																			
+3461	G01	Unknown	Kemp 7/96	0.0822437	376.56	380	13																																			
+3461	G01	Unknown	Kemp 7/96	0.0828145	406.56	380	14																																			
+3461	G01	Unknown	Kemp 7/96	0.0835064	436.56	380	15																																			
+3461	G01	Unknown	Kemp 7/96	0.0841582	466.56	380	16																																			
+3461	G01	Unknown	Kemp 7/96	0.0847539	496.56	380	17																																			
+3461	G01	Unknown	Kemp 7/96	0.0853101	526.56	380	18																																			
+3461	G01	Unknown	Kemp 7/96	0.0858528	556.56	380	19																																			
+3461	G01	Unknown	Kemp 7/96	0.0865951	586.56	380	20																																			
+3461	F09	Unknown	Kemp 70/96	0.0768827	14.49	380	1																																			
+3461	F09	Unknown	Kemp 70/96	0.0773112	44.49	380	2																																			
+3461	F09	Unknown	Kemp 70/96	0.077823	74.49	380	3																																			
+3461	F09	Unknown	Kemp 70/96	0.0783078	104.49	380	4																																			
+3461	F09	Unknown	Kemp 70/96	0.0787528	134.49	380	5																																			
+3461	F09	Unknown	Kemp 70/96	0.0791618	164.49	380	6																																			
+3461	F09	Unknown	Kemp 70/96	0.0796899	194.49	380	7																																			
+3461	F09	Unknown	Kemp 70/96	0.0799793	224.49	380	8																																			
+3461	F09	Unknown	Kemp 70/96	0.0803547	254.49	380	9																																			
+3461	F09	Unknown	Kemp 70/96	0.0808951	284.49	380	10																																			
+3461	F09	Unknown	Kemp 70/96	0.0813815	314.49	380	11																																			
+3461	F09	Unknown	Kemp 70/96	0.0819036	344.49	380	12																																			
+3461	F09	Unknown	Kemp 70/96	0.0823413	374.49	380	13																																			
+3461	F09	Unknown	Kemp 70/96	0.0828853	404.49	380	14																																			
+3461	F09	Unknown	Kemp 70/96	0.0835491	434.49	380	15																																			
+3461	F09	Unknown	Kemp 70/96	0.0841104	464.49	380	16																																			
+3461	F09	Unknown	Kemp 70/96	0.0847102	494.49	380	17																																			
+3461	F09	Unknown	Kemp 70/96	0.0853052	524.49	380	18																																			
+3461	F09	Unknown	Kemp 70/96	0.0859778	554.49	380	19																																			
+3461	F09	Unknown	Kemp 70/96	0.0865532	584.49	380	20																																			
+3461	G09	Unknown	Kemp 71/96	0.0813101	18.4	380	1																																			
+3461	G09	Unknown	Kemp 71/96	0.0817512	48.4	380	2																																			
+3461	G09	Unknown	Kemp 71/96	0.0823357	78.4	380	3																																			
+3461	G09	Unknown	Kemp 71/96	0.082708	108.4	380	4																																			
+3461	G09	Unknown	Kemp 71/96	0.0830764	138.4	380	5																																			
+3461	G09	Unknown	Kemp 71/96	0.0837933	168.4	380	6																																			
+3461	G09	Unknown	Kemp 71/96	0.0844729	198.4	380	7																																			
+3461	G09	Unknown	Kemp 71/96	0.0850303	228.4	380	8																																			
+3461	G09	Unknown	Kemp 71/96	0.0855305	258.4	380	9																																			
+3461	G09	Unknown	Kemp 71/96	0.0865058	288.4	380	10																																			
+3461	G09	Unknown	Kemp 71/96	0.087238	318.4	380	11																																			
+3461	G09	Unknown	Kemp 71/96	0.0876756	348.4	380	12																																			
+3461	G09	Unknown	Kemp 71/96	0.0884319	378.4	380	13																																			
+3461	G09	Unknown	Kemp 71/96	0.0890726	408.4	380	14																																			
+3461	G09	Unknown	Kemp 71/96	0.0900047	438.4	380	15																																			
+3461	G09	Unknown	Kemp 71/96	0.0909299	468.4	380	16																																			
+3461	G09	Unknown	Kemp 71/96	0.0913429	498.4	380	17																																			
+3461	G09	Unknown	Kemp 71/96	0.0922319	528.4	380	18																																			
+3461	G09	Unknown	Kemp 71/96	0.0929559	558.4	380	19																																			
+3461	G09	Unknown	Kemp 71/96	0.0940702	588.4	380	20																																			
+3461	H09	Unknown	Kemp 72/96	0.0760036	20.01	380	1																																			
+3461	H09	Unknown	Kemp 72/96	0.0762956	50.01	380	2																																			
+3461	H09	Unknown	Kemp 72/96	0.0762787	80.01	380	3																																			
+3461	H09	Unknown	Kemp 72/96	0.0765349	110.01	380	4																																			
+3461	H09	Unknown	Kemp 72/96	0.0768637	140.01	380	5																																			
+3461	H09	Unknown	Kemp 72/96	0.0772958	170.01	380	6																																			
+3461	H09	Unknown	Kemp 72/96	0.0779022	200.01	380	7																																			
+3461	H09	Unknown	Kemp 72/96	0.0785203	230.01	380	8																																			
+3461	H09	Unknown	Kemp 72/96	0.0789845	260.01	380	9																																			
+3461	H09	Unknown	Kemp 72/96	0.0795672	290.01	380	10																																			
+3461	H09	Unknown	Kemp 72/96	0.0800616	320.01	380	11																																			
+3461	H09	Unknown	Kemp 72/96	0.0806633	350.01	380	12																																			
+3461	H09	Unknown	Kemp 72/96	0.0812049	380.01	380	13																																			
+3461	H09	Unknown	Kemp 72/96	0.081803	410.01	380	14																																			
+3461	H09	Unknown	Kemp 72/96	0.0823319	440.01	380	15																																			
+3461	H09	Unknown	Kemp 72/96	0.0829074	470.01	380	16																																			
+3461	H09	Unknown	Kemp 72/96	0.083558	500.01	380	17																																			
+3461	H09	Unknown	Kemp 72/96	0.0841683	530.01	380	18																																			
+3461	H09	Unknown	Kemp 72/96	0.084755	560.01	380	19																																			
+3461	H09	Unknown	Kemp 72/96	0.085341	590.01	380	20																																			
+3461	A10	Unknown	Kemp 73/96	0.0755026	32.07	380	2																																			
+3461	A10	Unknown	Kemp 73/96	0.0759409	62.07	380	3																																			
+3461	A10	Unknown	Kemp 73/96	0.0763368	92.07	380	4																																			
+3461	A10	Unknown	Kemp 73/96	0.0767612	122.07	380	5																																			
+3461	A10	Unknown	Kemp 73/96	0.0773458	152.07	380	6																																			
+3461	A10	Unknown	Kemp 73/96	0.0774977	182.07	380	7																																			
+3461	A10	Unknown	Kemp 73/96	0.0782737	212.07	380	8																																			
+3461	A10	Unknown	Kemp 73/96	0.0789827	242.07	380	9																																			
+3461	A10	Unknown	Kemp 73/96	0.0796042	272.07	380	10																																			
+3461	A10	Unknown	Kemp 73/96	0.079826	302.07	380	11																																			
+3461	A10	Unknown	Kemp 73/96	0.0805701	332.07	380	12																																			
+3461	A10	Unknown	Kemp 73/96	0.0814119	362.07	380	13																																			
+3461	A10	Unknown	Kemp 73/96	0.0819852	392.07	380	14																																			
+3461	A10	Unknown	Kemp 73/96	0.082465	422.07	380	15																																			
+3461	A10	Unknown	Kemp 73/96	0.0829026	452.07	380	16																																			
+3461	A10	Unknown	Kemp 73/96	0.0833191	482.07	380	17																																			
+3461	A10	Unknown	Kemp 73/96	0.0840208	512.07	380	18																																			
+3461	A10	Unknown	Kemp 73/96	0.0846038	542.07	380	19																																			
+3461	A10	Unknown	Kemp 73/96	0.0854571	572.07	380	20																																			
+3461	A10	Unknown	Kemp 73/96	0.0751621	2.07	380	1																																			
+3461	B10	Unknown	Kemp 74/96	0.0756672	33.22	380	2																																			
+3461	B10	Unknown	Kemp 74/96	0.0760526	63.22	380	3																																			
+3461	B10	Unknown	Kemp 74/96	0.0765815	93.22	380	4																																			
+3461	B10	Unknown	Kemp 74/96	0.077001	123.22	380	5																																			
+3461	B10	Unknown	Kemp 74/96	0.0773155	153.22	380	6																																			
+3461	B10	Unknown	Kemp 74/96	0.0777617	183.22	380	7																																			
+3461	B10	Unknown	Kemp 74/96	0.078174	213.22	380	8																																			
+3461	B10	Unknown	Kemp 74/96	0.0785468	243.22	380	9																																			
+3461	B10	Unknown	Kemp 74/96	0.0790637	273.22	380	10																																			
+3461	B10	Unknown	Kemp 74/96	0.0795617	303.22	380	11																																			
+3461	B10	Unknown	Kemp 74/96	0.0799904	333.22	380	12																																			
+3461	B10	Unknown	Kemp 74/96	0.0806554	363.22	380	13																																			
+3461	B10	Unknown	Kemp 74/96	0.0811712	393.22	380	14																																			
+3461	B10	Unknown	Kemp 74/96	0.0818057	423.22	380	15																																			
+3461	B10	Unknown	Kemp 74/96	0.082425	453.22	380	16																																			
+3461	B10	Unknown	Kemp 74/96	0.0829	483.22	380	17																																			
+3461	B10	Unknown	Kemp 74/96	0.0835577	513.22	380	18																																			
+3461	B10	Unknown	Kemp 74/96	0.0841767	543.22	380	19																																			
+3461	B10	Unknown	Kemp 74/96	0.0847312	573.22	380	20																																			
+3461	B10	Unknown	Kemp 74/96	0.0759494	3.22	380	1																																			
+3461	C10	Unknown	Kemp 75/96	0.0772371	7.59	380	1																																			
+3461	C10	Unknown	Kemp 75/96	0.0776181	37.59	380	2																																			
+3461	C10	Unknown	Kemp 75/96	0.0780449	67.59	380	3																																			
+3461	C10	Unknown	Kemp 75/96	0.0784868	97.59	380	4																																			
+3461	C10	Unknown	Kemp 75/96	0.078707	127.59	380	5																																			
+3461	C10	Unknown	Kemp 75/96	0.0792614	157.59	380	6																																			
+3461	C10	Unknown	Kemp 75/96	0.0792645	187.59	380	7																																			
+3461	C10	Unknown	Kemp 75/96	0.0799818	217.59	380	8																																			
+3461	C10	Unknown	Kemp 75/96	0.0806136	247.59	380	9																																			
+3461	C10	Unknown	Kemp 75/96	0.0812406	277.59	380	10																																			
+3461	C10	Unknown	Kemp 75/96	0.0811471	307.59	380	11																																			
+3461	C10	Unknown	Kemp 75/96	0.0818561	337.59	380	12																																			
+3461	C10	Unknown	Kemp 75/96	0.0826714	367.59	380	13																																			
+3461	C10	Unknown	Kemp 75/96	0.0826202	397.59	380	14																																			
+3461	C10	Unknown	Kemp 75/96	0.0834482	427.59	380	15																																			
+3461	C10	Unknown	Kemp 75/96	0.0840411	457.59	380	16																																			
+3461	C10	Unknown	Kemp 75/96	0.0844693	487.59	380	17																																			
+3461	C10	Unknown	Kemp 75/96	0.0851423	517.59	380	18																																			
+3461	C10	Unknown	Kemp 75/96	0.0857397	547.59	380	19																																			
+3461	C10	Unknown	Kemp 75/96	0.0859465	577.59	380	20																																			
+3461	D10	Unknown	Kemp 76/96	0.0771871	8.74	380	1																																			
+3461	D10	Unknown	Kemp 76/96	0.0776018	38.74	380	2																																			
+3461	D10	Unknown	Kemp 76/96	0.0777561	68.74	380	3																																			
+3461	D10	Unknown	Kemp 76/96	0.0781928	98.74	380	4																																			
+3461	D10	Unknown	Kemp 76/96	0.0785175	128.74	380	5																																			
+3461	D10	Unknown	Kemp 76/96	0.078865	158.74	380	6																																			
+3461	D10	Unknown	Kemp 76/96	0.0792235	188.74	380	7																																			
+3461	D10	Unknown	Kemp 76/96	0.0796256	218.74	380	8																																			
+3461	D10	Unknown	Kemp 76/96	0.0800485	248.74	380	9																																			
+3461	D10	Unknown	Kemp 76/96	0.0805495	278.74	380	10																																			
+3461	D10	Unknown	Kemp 76/96	0.0809063	308.74	380	11																																			
+3461	D10	Unknown	Kemp 76/96	0.0813024	338.74	380	12																																			
+3461	D10	Unknown	Kemp 76/96	0.0818661	368.74	380	13																																			
+3461	D10	Unknown	Kemp 76/96	0.0823565	398.74	380	14																																			
+3461	D10	Unknown	Kemp 76/96	0.0830304	428.74	380	15																																			
+3461	D10	Unknown	Kemp 76/96	0.0835669	458.74	380	16																																			
+3461	D10	Unknown	Kemp 76/96	0.084186	488.74	380	17																																			
+3461	D10	Unknown	Kemp 76/96	0.0847435	518.74	380	18																																			
+3461	D10	Unknown	Kemp 76/96	0.0853341	548.74	380	19																																			
+3461	D10	Unknown	Kemp 76/96	0.0859391	578.74	380	20																																			
+3461	E10	Unknown	Kemp 77/96	0.0769234	13.11	380	1																																			
+3461	E10	Unknown	Kemp 77/96	0.0773851	43.11	380	2																																			
+3461	E10	Unknown	Kemp 77/96	0.0782576	73.11	380	3																																			
+3461	E10	Unknown	Kemp 77/96	0.0786873	103.11	380	4																																			
+3461	E10	Unknown	Kemp 77/96	0.0793963	133.11	380	5																																			
+3461	E10	Unknown	Kemp 77/96	0.0800742	163.11	380	6																																			
+3461	E10	Unknown	Kemp 77/96	0.0799375	193.11	380	7																																			
+3461	E10	Unknown	Kemp 77/96	0.0805837	223.11	380	8																																			
+3461	E10	Unknown	Kemp 77/96	0.0814443	253.11	380	9																																			
+3461	E10	Unknown	Kemp 77/96	0.0820683	283.11	380	10																																			
+3461	E10	Unknown	Kemp 77/96	0.0824155	313.11	380	11																																			
+3461	E10	Unknown	Kemp 77/96	0.0829524	343.11	380	12																																			
+3461	E10	Unknown	Kemp 77/96	0.0834169	373.11	380	13																																			
+3461	E10	Unknown	Kemp 77/96	0.0840088	403.11	380	14																																			
+3461	E10	Unknown	Kemp 77/96	0.0847968	433.11	380	15																																			
+3461	E10	Unknown	Kemp 77/96	0.0846558	463.11	380	16																																			
+3461	E10	Unknown	Kemp 77/96	0.0858558	493.11	380	17																																			
+3461	E10	Unknown	Kemp 77/96	0.0866091	523.11	380	18																																			
+3461	E10	Unknown	Kemp 77/96	0.087126	553.11	380	19																																			
+3461	E10	Unknown	Kemp 77/96	0.0872512	583.11	380	20																																			
+3461	F10	Unknown	Kemp 78/96	0.0777132	14.26	380	1																																			
+3461	F10	Unknown	Kemp 78/96	0.0780269	44.26	380	2																																			
+3461	F10	Unknown	Kemp 78/96	0.0783707	74.26	380	3																																			
+3461	F10	Unknown	Kemp 78/96	0.0788045	104.26	380	4																																			
+3461	F10	Unknown	Kemp 78/96	0.0791936	134.26	380	5																																			
+3461	F10	Unknown	Kemp 78/96	0.0795637	164.26	380	6																																			
+3461	F10	Unknown	Kemp 78/96	0.0800277	194.26	380	7																																			
+3461	F10	Unknown	Kemp 78/96	0.0804234	224.26	380	8																																			
+3461	F10	Unknown	Kemp 78/96	0.0807847	254.26	380	9																																			
+3461	F10	Unknown	Kemp 78/96	0.0811773	284.26	380	10																																			
+3461	F10	Unknown	Kemp 78/96	0.0817614	314.26	380	11																																			
+3461	F10	Unknown	Kemp 78/96	0.0822309	344.26	380	12																																			
+3461	F10	Unknown	Kemp 78/96	0.0826781	374.26	380	13																																			
+3461	F10	Unknown	Kemp 78/96	0.0833418	404.26	380	14																																			
+3461	F10	Unknown	Kemp 78/96	0.0839513	434.26	380	15																																			
+3461	F10	Unknown	Kemp 78/96	0.0845418	464.26	380	16																																			
+3461	F10	Unknown	Kemp 78/96	0.0851339	494.26	380	17																																			
+3461	F10	Unknown	Kemp 78/96	0.0857831	524.26	380	18																																			
+3461	F10	Unknown	Kemp 78/96	0.0863762	554.26	380	19																																			
+3461	F10	Unknown	Kemp 78/96	0.087012	584.26	380	20																																			
+3461	G10	Unknown	Kemp 79/96	0.0784375	18.63	380	1																																			
+3461	G10	Unknown	Kemp 79/96	0.0793751	48.63	380	2																																			
+3461	G10	Unknown	Kemp 79/96	0.0796972	78.63	380	3																																			
+3461	G10	Unknown	Kemp 79/96	0.0802015	108.63	380	4																																			
+3461	G10	Unknown	Kemp 79/96	0.0806722	138.63	380	5																																			
+3461	G10	Unknown	Kemp 79/96	0.081541	168.63	380	6																																			
+3461	G10	Unknown	Kemp 79/96	0.081525	198.63	380	7																																			
+3461	G10	Unknown	Kemp 79/96	0.0819759	228.63	380	8																																			
+3461	G10	Unknown	Kemp 79/96	0.0824975	258.63	380	9																																			
+3461	G10	Unknown	Kemp 79/96	0.082799	288.63	380	10																																			
+3461	G10	Unknown	Kemp 79/96	0.0833015	318.63	380	11																																			
+3461	G10	Unknown	Kemp 79/96	0.0840685	348.63	380	12																																			
+3461	G10	Unknown	Kemp 79/96	0.0849076	378.63	380	13																																			
+3461	G10	Unknown	Kemp 79/96	0.0854969	408.63	380	14																																			
+3461	G10	Unknown	Kemp 79/96	0.0861553	438.63	380	15																																			
+3461	G10	Unknown	Kemp 79/96	0.0863023	468.63	380	16																																			
+3461	G10	Unknown	Kemp 79/96	0.0870762	498.63	380	17																																			
+3461	G10	Unknown	Kemp 79/96	0.0879219	528.63	380	18																																			
+3461	G10	Unknown	Kemp 79/96	0.0880016	558.63	380	19																																			
+3461	G10	Unknown	Kemp 79/96	0.0887878	588.63	380	20																																			
+3461	H01	Unknown	Kemp 8/96	0.0770633	21.85	380	1																																			
+3461	H01	Unknown	Kemp 8/96	0.0774982	51.85	380	2																																			
+3461	H01	Unknown	Kemp 8/96	0.0779416	81.85	380	3																																			
+3461	H01	Unknown	Kemp 8/96	0.078247	111.85	380	4																																			
+3461	H01	Unknown	Kemp 8/96	0.0786454	141.85	380	5																																			
+3461	H01	Unknown	Kemp 8/96	0.0790818	171.85	380	6																																			
+3461	H01	Unknown	Kemp 8/96	0.0796677	201.85	380	7																																			
+3461	H01	Unknown	Kemp 8/96	0.080128	231.85	380	8																																			
+3461	H01	Unknown	Kemp 8/96	0.080695	261.85	380	9																																			
+3461	H01	Unknown	Kemp 8/96	0.0813126	291.85	380	10																																			
+3461	H01	Unknown	Kemp 8/96	0.0818906	321.85	380	11																																			
+3461	H01	Unknown	Kemp 8/96	0.0825487	351.85	380	12																																			
+3461	H01	Unknown	Kemp 8/96	0.0830779	381.85	380	13																																			
+3461	H01	Unknown	Kemp 8/96	0.0837056	411.85	380	14																																			
+3461	H01	Unknown	Kemp 8/96	0.0844526	441.85	380	15																																			
+3461	H01	Unknown	Kemp 8/96	0.0850036	471.85	380	16																																			
+3461	H01	Unknown	Kemp 8/96	0.0856118	501.85	380	17																																			
+3461	H01	Unknown	Kemp 8/96	0.0863052	531.85	380	18																																			
+3461	H01	Unknown	Kemp 8/96	0.0870145	561.85	380	19																																			
+3461	H01	Unknown	Kemp 8/96	0.0875868	591.85	380	20																																			
+3461	H10	Unknown	Kemp 80/96	0.0759636	19.78	380	1																																			
+3461	H10	Unknown	Kemp 80/96	0.0762983	49.78	380	2																																			
+3461	H10	Unknown	Kemp 80/96	0.0765399	79.78	380	3																																			
+3461	H10	Unknown	Kemp 80/96	0.0767465	109.78	380	4																																			
+3461	H10	Unknown	Kemp 80/96	0.0769485	139.78	380	5																																			
+3461	H10	Unknown	Kemp 80/96	0.0772335	169.78	380	6																																			
+3461	H10	Unknown	Kemp 80/96	0.0776732	199.78	380	7																																			
+3461	H10	Unknown	Kemp 80/96	0.0783798	229.78	380	8																																			
+3461	H10	Unknown	Kemp 80/96	0.0788732	259.78	380	9																																			
+3461	H10	Unknown	Kemp 80/96	0.07931	289.78	380	10																																			
+3461	H10	Unknown	Kemp 80/96	0.0799502	319.78	380	11																																			
+3461	H10	Unknown	Kemp 80/96	0.0806701	349.78	380	12																																			
+3461	H10	Unknown	Kemp 80/96	0.0811845	379.78	380	13																																			
+3461	H10	Unknown	Kemp 80/96	0.0817492	409.78	380	14																																			
+3461	H10	Unknown	Kemp 80/96	0.0823829	439.78	380	15																																			
+3461	H10	Unknown	Kemp 80/96	0.0830576	469.78	380	16																																			
+3461	H10	Unknown	Kemp 80/96	0.0836604	499.78	380	17																																			
+3461	H10	Unknown	Kemp 80/96	0.0841859	529.78	380	18																																			
+3461	H10	Unknown	Kemp 80/96	0.0848297	559.78	380	19																																			
+3461	H10	Unknown	Kemp 80/96	0.0853938	589.78	380	20																																			
+3461	A11	Unknown	Kemp 81/96	0.0759451	32.3	380	2																																			
+3461	A11	Unknown	Kemp 81/96	0.0764595	62.3	380	3																																			
+3461	A11	Unknown	Kemp 81/96	0.0767968	92.3	380	4																																			
+3461	A11	Unknown	Kemp 81/96	0.077345	122.3	380	5																																			
+3461	A11	Unknown	Kemp 81/96	0.0779032	152.3	380	6																																			
+3461	A11	Unknown	Kemp 81/96	0.0782753	182.3	380	7																																			
+3461	A11	Unknown	Kemp 81/96	0.0790059	212.3	380	8																																			
+3461	A11	Unknown	Kemp 81/96	0.0793054	242.3	380	9																																			
+3461	A11	Unknown	Kemp 81/96	0.0799855	272.3	380	10																																			
+3461	A11	Unknown	Kemp 81/96	0.0804027	302.3	380	11																																			
+3461	A11	Unknown	Kemp 81/96	0.0812127	332.3	380	12																																			
+3461	A11	Unknown	Kemp 81/96	0.0818036	362.3	380	13																																			
+3461	A11	Unknown	Kemp 81/96	0.0823127	392.3	380	14																																			
+3461	A11	Unknown	Kemp 81/96	0.082951	422.3	380	15																																			
+3461	A11	Unknown	Kemp 81/96	0.0834037	452.3	380	16																																			
+3461	A11	Unknown	Kemp 81/96	0.0840069	482.3	380	17																																			
+3461	A11	Unknown	Kemp 81/96	0.08495	512.3	380	18																																			
+3461	A11	Unknown	Kemp 81/96	0.0852418	542.3	380	19																																			
+3461	A11	Unknown	Kemp 81/96	0.0858032	572.3	380	20																																			
+3461	A11	Unknown	Kemp 81/96	0.0760534	2.3	380	1																																			
+3461	B11	Unknown	Kemp 82/96	0.0758293	32.99	380	2																																			
+3461	B11	Unknown	Kemp 82/96	0.0762325	62.99	380	3																																			
+3461	B11	Unknown	Kemp 82/96	0.0766457	92.99	380	4																																			
+3461	B11	Unknown	Kemp 82/96	0.0770376	122.99	380	5																																			
+3461	B11	Unknown	Kemp 82/96	0.0774286	152.99	380	6																																			
+3461	B11	Unknown	Kemp 82/96	0.0778058	182.99	380	7																																			
+3461	B11	Unknown	Kemp 82/96	0.0782702	212.99	380	8																																			
+3461	B11	Unknown	Kemp 82/96	0.0787129	242.99	380	9																																			
+3461	B11	Unknown	Kemp 82/96	0.0790726	272.99	380	10																																			
+3461	B11	Unknown	Kemp 82/96	0.0796794	302.99	380	11																																			
+3461	B11	Unknown	Kemp 82/96	0.0800993	332.99	380	12																																			
+3461	B11	Unknown	Kemp 82/96	0.0806744	362.99	380	13																																			
+3461	B11	Unknown	Kemp 82/96	0.0813183	392.99	380	14																																			
+3461	B11	Unknown	Kemp 82/96	0.0819191	422.99	380	15																																			
+3461	B11	Unknown	Kemp 82/96	0.0824367	452.99	380	16																																			
+3461	B11	Unknown	Kemp 82/96	0.0831692	482.99	380	17																																			
+3461	B11	Unknown	Kemp 82/96	0.0837234	512.99	380	18																																			
+3461	B11	Unknown	Kemp 82/96	0.0843135	542.99	380	19																																			
+3461	B11	Unknown	Kemp 82/96	0.0849735	572.99	380	20																																			
+3461	B11	Unknown	Kemp 82/96	0.0758685	2.99	380	1																																			
+3461	C11	Unknown	Kemp 83/96	0.0772751	7.82	380	1																																			
+3461	C11	Unknown	Kemp 83/96	0.0781004	37.82	380	2																																			
+3461	C11	Unknown	Kemp 83/96	0.0786088	67.82	380	3																																			
+3461	C11	Unknown	Kemp 83/96	0.0790765	97.82	380	4																																			
+3461	C11	Unknown	Kemp 83/96	0.0793785	127.82	380	5																																			
+3461	C11	Unknown	Kemp 83/96	0.0798787	157.82	380	6																																			
+3461	C11	Unknown	Kemp 83/96	0.0802775	187.82	380	7																																			
+3461	C11	Unknown	Kemp 83/96	0.0808099	217.82	380	8																																			
+3461	C11	Unknown	Kemp 83/96	0.0810983	247.82	380	9																																			
+3461	C11	Unknown	Kemp 83/96	0.0816427	277.82	380	10																																			
+3461	C11	Unknown	Kemp 83/96	0.0821398	307.82	380	11																																			
+3461	C11	Unknown	Kemp 83/96	0.082689	337.82	380	12																																			
+3461	C11	Unknown	Kemp 83/96	0.0833514	367.82	380	13																																			
+3461	C11	Unknown	Kemp 83/96	0.083785	397.82	380	14																																			
+3461	C11	Unknown	Kemp 83/96	0.0843394	427.82	380	15																																			
+3461	C11	Unknown	Kemp 83/96	0.0852139	457.82	380	16																																			
+3461	C11	Unknown	Kemp 83/96	0.0859019	487.82	380	17																																			
+3461	C11	Unknown	Kemp 83/96	0.0865082	517.82	380	18																																			
+3461	C11	Unknown	Kemp 83/96	0.0871937	547.82	380	19																																			
+3461	C11	Unknown	Kemp 83/96	0.087803	577.82	380	20																																			
+3461	D11	Unknown	Kemp 84/96	0.0779987	8.51	380	1																																			
+3461	D11	Unknown	Kemp 84/96	0.0782052	38.51	380	2																																			
+3461	D11	Unknown	Kemp 84/96	0.0785592	68.51	380	3																																			
+3461	D11	Unknown	Kemp 84/96	0.078986	98.51	380	4																																			
+3461	D11	Unknown	Kemp 84/96	0.0793283	128.51	380	5																																			
+3461	D11	Unknown	Kemp 84/96	0.0797886	158.51	380	6																																			
+3461	D11	Unknown	Kemp 84/96	0.0802523	188.51	380	7																																			
+3461	D11	Unknown	Kemp 84/96	0.0805325	218.51	380	8																																			
+3461	D11	Unknown	Kemp 84/96	0.0810344	248.51	380	9																																			
+3461	D11	Unknown	Kemp 84/96	0.0814085	278.51	380	10																																			
+3461	D11	Unknown	Kemp 84/96	0.0820001	308.51	380	11																																			
+3461	D11	Unknown	Kemp 84/96	0.0825774	338.51	380	12																																			
+3461	D11	Unknown	Kemp 84/96	0.0831461	368.51	380	13																																			
+3461	D11	Unknown	Kemp 84/96	0.0836951	398.51	380	14																																			
+3461	D11	Unknown	Kemp 84/96	0.0843532	428.51	380	15																																			
+3461	D11	Unknown	Kemp 84/96	0.0850035	458.51	380	16																																			
+3461	D11	Unknown	Kemp 84/96	0.08553	488.51	380	17																																			
+3461	D11	Unknown	Kemp 84/96	0.0860344	518.51	380	18																																			
+3461	D11	Unknown	Kemp 84/96	0.0865925	548.51	380	19																																			
+3461	D11	Unknown	Kemp 84/96	0.0872384	578.51	380	20																																			
+3461	E11	Unknown	Kemp 85/96	0.0771788	13.34	380	1																																			
+3461	E11	Unknown	Kemp 85/96	0.0772965	43.34	380	2																																			
+3461	E11	Unknown	Kemp 85/96	0.0778659	73.34	380	3																																			
+3461	E11	Unknown	Kemp 85/96	0.0786657	103.34	380	4																																			
+3461	E11	Unknown	Kemp 85/96	0.0788114	133.34	380	5																																			
+3461	E11	Unknown	Kemp 85/96	0.0790936	163.34	380	6																																			
+3461	E11	Unknown	Kemp 85/96	0.079273	193.34	380	7																																			
+3461	E11	Unknown	Kemp 85/96	0.0799049	223.34	380	8																																			
+3461	E11	Unknown	Kemp 85/96	0.0803696	253.34	380	9																																			
+3461	E11	Unknown	Kemp 85/96	0.0813029	283.34	380	10																																			
+3461	E11	Unknown	Kemp 85/96	0.0820004	313.34	380	11																																			
+3461	E11	Unknown	Kemp 85/96	0.0824163	343.34	380	12																																			
+3461	E11	Unknown	Kemp 85/96	0.0827898	373.34	380	13																																			
+3461	E11	Unknown	Kemp 85/96	0.0830349	403.34	380	14																																			
+3461	E11	Unknown	Kemp 85/96	0.0838774	433.34	380	15																																			
+3461	E11	Unknown	Kemp 85/96	0.084465	463.34	380	16																																			
+3461	E11	Unknown	Kemp 85/96	0.0852647	493.34	380	17																																			
+3461	E11	Unknown	Kemp 85/96	0.0858624	523.34	380	18																																			
+3461	E11	Unknown	Kemp 85/96	0.0866186	553.34	380	19																																			
+3461	E11	Unknown	Kemp 85/96	0.0870501	583.34	380	20																																			
+3461	F11	Unknown	Kemp 86/96	0.0771146	14.03	380	1																																			
+3461	F11	Unknown	Kemp 86/96	0.0775705	44.03	380	2																																			
+3461	F11	Unknown	Kemp 86/96	0.077969	74.03	380	3																																			
+3461	F11	Unknown	Kemp 86/96	0.0785181	104.03	380	4																																			
+3461	F11	Unknown	Kemp 86/96	0.0790575	134.03	380	5																																			
+3461	F11	Unknown	Kemp 86/96	0.0794164	164.03	380	6																																			
+3461	F11	Unknown	Kemp 86/96	0.079755	194.03	380	7																																			
+3461	F11	Unknown	Kemp 86/96	0.0801861	224.03	380	8																																			
+3461	F11	Unknown	Kemp 86/96	0.0805963	254.03	380	9																																			
+3461	F11	Unknown	Kemp 86/96	0.0810843	284.03	380	10																																			
+3461	F11	Unknown	Kemp 86/96	0.0816765	314.03	380	11																																			
+3461	F11	Unknown	Kemp 86/96	0.0821224	344.03	380	12																																			
+3461	F11	Unknown	Kemp 86/96	0.082759	374.03	380	13																																			
+3461	F11	Unknown	Kemp 86/96	0.0832915	404.03	380	14																																			
+3461	F11	Unknown	Kemp 86/96	0.0840046	434.03	380	15																																			
+3461	F11	Unknown	Kemp 86/96	0.0846543	464.03	380	16																																			
+3461	F11	Unknown	Kemp 86/96	0.0853269	494.03	380	17																																			
+3461	F11	Unknown	Kemp 86/96	0.085964	524.03	380	18																																			
+3461	F11	Unknown	Kemp 86/96	0.0866446	554.03	380	19																																			
+3461	F11	Unknown	Kemp 86/96	0.0873168	584.03	380	20																																			
+3461	G11	Unknown	Kemp 87/96	0.0764248	18.86	380	1																																			
+3461	G11	Unknown	Kemp 87/96	0.0768662	48.86	380	2																																			
+3461	G11	Unknown	Kemp 87/96	0.077382	78.86	380	3																																			
+3461	G11	Unknown	Kemp 87/96	0.077944	108.86	380	4																																			
+3461	G11	Unknown	Kemp 87/96	0.0783577	138.86	380	5																																			
+3461	G11	Unknown	Kemp 87/96	0.0790699	168.86	380	6																																			
+3461	G11	Unknown	Kemp 87/96	0.0796541	198.86	380	7																																			
+3461	G11	Unknown	Kemp 87/96	0.0799088	228.86	380	8																																			
+3461	G11	Unknown	Kemp 87/96	0.0805507	258.86	380	9																																			
+3461	G11	Unknown	Kemp 87/96	0.0811798	288.86	380	10																																			
+3461	G11	Unknown	Kemp 87/96	0.0820488	318.86	380	11																																			
+3461	G11	Unknown	Kemp 87/96	0.0822083	348.86	380	12																																			
+3461	G11	Unknown	Kemp 87/96	0.0829339	378.86	380	13																																			
+3461	G11	Unknown	Kemp 87/96	0.0836988	408.86	380	14																																			
+3461	G11	Unknown	Kemp 87/96	0.0843184	438.86	380	15																																			
+3461	G11	Unknown	Kemp 87/96	0.0850113	468.86	380	16																																			
+3461	G11	Unknown	Kemp 87/96	0.0854664	498.86	380	17																																			
+3461	G11	Unknown	Kemp 87/96	0.0859992	528.86	380	18																																			
+3461	G11	Unknown	Kemp 87/96	0.0866731	558.86	380	19																																			
+3461	G11	Unknown	Kemp 87/96	0.0872225	588.86	380	20																																			
+3461	H11	Unknown	Kemp 88/96	0.0768178	19.55	380	1																																			
+3461	H11	Unknown	Kemp 88/96	0.077145	49.55	380	2																																			
+3461	H11	Unknown	Kemp 88/96	0.0773865	79.55	380	3																																			
+3461	H11	Unknown	Kemp 88/96	0.0776135	109.55	380	4																																			
+3461	H11	Unknown	Kemp 88/96	0.0780853	139.55	380	5																																			
+3461	H11	Unknown	Kemp 88/96	0.0785296	169.55	380	6																																			
+3461	H11	Unknown	Kemp 88/96	0.0790728	199.55	380	7																																			
+3461	H11	Unknown	Kemp 88/96	0.0796199	229.55	380	8																																			
+3461	H11	Unknown	Kemp 88/96	0.0802795	259.55	380	9																																			
+3461	H11	Unknown	Kemp 88/96	0.0807691	289.55	380	10																																			
+3461	H11	Unknown	Kemp 88/96	0.0812388	319.55	380	11																																			
+3461	H11	Unknown	Kemp 88/96	0.0819502	349.55	380	12																																			
+3461	H11	Unknown	Kemp 88/96	0.0824591	379.55	380	13																																			
+3461	H11	Unknown	Kemp 88/96	0.0831907	409.55	380	14																																			
+3461	H11	Unknown	Kemp 88/96	0.0837181	439.55	380	15																																			
+3461	H11	Unknown	Kemp 88/96	0.0843806	469.55	380	16																																			
+3461	H11	Unknown	Kemp 88/96	0.0850362	499.55	380	17																																			
+3461	H11	Unknown	Kemp 88/96	0.0856141	529.55	380	18																																			
+3461	H11	Unknown	Kemp 88/96	0.0862009	559.55	380	19																																			
+3461	H11	Unknown	Kemp 88/96	0.0868843	589.55	380	20																																			
+3461	A12	Unknown	Kemp 89/96	0.0760068	32.53	380	2																																			
+3461	A12	Unknown	Kemp 89/96	0.0770177	62.53	380	3																																			
+3461	A12	Unknown	Kemp 89/96	0.0771294	92.53	380	4																																			
+3461	A12	Unknown	Kemp 89/96	0.0774263	122.53	380	5																																			
+3461	A12	Unknown	Kemp 89/96	0.0780275	152.53	380	6																																			
+3461	A12	Unknown	Kemp 89/96	0.0787814	182.53	380	7																																			
+3461	A12	Unknown	Kemp 89/96	0.0790451	212.53	380	8																																			
+3461	A12	Unknown	Kemp 89/96	0.0798182	242.53	380	9																																			
+3461	A12	Unknown	Kemp 89/96	0.0806152	272.53	380	10																																			
+3461	A12	Unknown	Kemp 89/96	0.0812473	302.53	380	11																																			
+3461	A12	Unknown	Kemp 89/96	0.0820237	332.53	380	12																																			
+3461	A12	Unknown	Kemp 89/96	0.0826892	362.53	380	13																																			
+3461	A12	Unknown	Kemp 89/96	0.0834731	392.53	380	14																																			
+3461	A12	Unknown	Kemp 89/96	0.0839758	422.53	380	15																																			
+3461	A12	Unknown	Kemp 89/96	0.0846102	452.53	380	16																																			
+3461	A12	Unknown	Kemp 89/96	0.0848131	482.53	380	17																																			
+3461	A12	Unknown	Kemp 89/96	0.0858974	512.53	380	18																																			
+3461	A12	Unknown	Kemp 89/96	0.0866365	542.53	380	19																																			
+3461	A12	Unknown	Kemp 89/96	0.0867668	572.53	380	20																																			
+3461	A12	Unknown	Kemp 89/96	0.0755891	2.53	380	1																																			
+3461	A02	Unknown	Kemp 9/96	0.0765281	0.23	380	1																																			
+3461	A02	Unknown	Kemp 9/96	0.0768654	30.23	380	2																																			
+3461	A02	Unknown	Kemp 9/96	0.0772425	60.23	380	3																																			
+3461	A02	Unknown	Kemp 9/96	0.0776875	90.23	380	4																																			
+3461	A02	Unknown	Kemp 9/96	0.0781475	120.23	380	5																																			
+3461	A02	Unknown	Kemp 9/96	0.0784964	150.23	380	6																																			
+3461	A02	Unknown	Kemp 9/96	0.0789397	180.23	380	7																																			
+3461	A02	Unknown	Kemp 9/96	0.0796531	210.23	380	8																																			
+3461	A02	Unknown	Kemp 9/96	0.0801643	240.23	380	9																																			
+3461	A02	Unknown	Kemp 9/96	0.0808071	270.23	380	10																																			
+3461	A02	Unknown	Kemp 9/96	0.0813488	300.23	380	11																																			
+3461	A02	Unknown	Kemp 9/96	0.0818896	330.23	380	12																																			
+3461	A02	Unknown	Kemp 9/96	0.0825354	360.23	380	13																																			
+3461	A02	Unknown	Kemp 9/96	0.0831685	390.23	380	14																																			
+3461	A02	Unknown	Kemp 9/96	0.0836187	420.23	380	15																																			
+3461	A02	Unknown	Kemp 9/96	0.0842646	450.23	380	16																																			
+3461	A02	Unknown	Kemp 9/96	0.0847197	480.23	380	17																																			
+3461	A02	Unknown	Kemp 9/96	0.085311	510.23	380	18																																			
+3461	A02	Unknown	Kemp 9/96	0.0859436	540.23	380	19																																			
+3461	A02	Unknown	Kemp 9/96	0.0864352	570.23	380	20																																			
+3461	B12	Unknown	Kemp 90/96	0.0764401	32.76	380	2																																			
+3461	B12	Unknown	Kemp 90/96	0.0767889	62.76	380	3																																			
+3461	B12	Unknown	Kemp 90/96	0.0773689	92.76	380	4																																			
+3461	B12	Unknown	Kemp 90/96	0.0779055	122.76	380	5																																			
+3461	B12	Unknown	Kemp 90/96	0.078304	152.76	380	6																																			
+3461	B12	Unknown	Kemp 90/96	0.0789395	182.76	380	7																																			
+3461	B12	Unknown	Kemp 90/96	0.0796347	212.76	380	8																																			
+3461	B12	Unknown	Kemp 90/96	0.0800458	242.76	380	9																																			
+3461	B12	Unknown	Kemp 90/96	0.0806399	272.76	380	10																																			
+3461	B12	Unknown	Kemp 90/96	0.0809889	302.76	380	11																																			
+3461	B12	Unknown	Kemp 90/96	0.0815997	332.76	380	12																																			
+3461	B12	Unknown	Kemp 90/96	0.0820687	362.76	380	13																																			
+3461	B12	Unknown	Kemp 90/96	0.0827223	392.76	380	14																																			
+3461	B12	Unknown	Kemp 90/96	0.0831731	422.76	380	15																																			
+3461	B12	Unknown	Kemp 90/96	0.0837746	452.76	380	16																																			
+3461	B12	Unknown	Kemp 90/96	0.0843993	482.76	380	17																																			
+3461	B12	Unknown	Kemp 90/96	0.0850131	512.76	380	18																																			
+3461	B12	Unknown	Kemp 90/96	0.0855548	542.76	380	19																																			
+3461	B12	Unknown	Kemp 90/96	0.0862629	572.76	380	20																																			
+3461	B12	Unknown	Kemp 90/96	0.0760464	2.76	380	1																																			
+3461	C12	Unknown	Kemp 91/96	0.076578	8.05	380	1																																			
+3461	C12	Unknown	Kemp 91/96	0.0771341	38.05	380	2																																			
+3461	C12	Unknown	Kemp 91/96	0.0776764	68.05	380	3																																			
+3461	C12	Unknown	Kemp 91/96	0.0781745	98.05	380	4																																			
+3461	C12	Unknown	Kemp 91/96	0.078432	128.05	380	5																																			
+3461	C12	Unknown	Kemp 91/96	0.0791755	158.05	380	6																																			
+3461	C12	Unknown	Kemp 91/96	0.0796317	188.05	380	7																																			
+3461	C12	Unknown	Kemp 91/96	0.0802135	218.05	380	8																																			
+3461	C12	Unknown	Kemp 91/96	0.0806138	248.05	380	9																																			
+3461	C12	Unknown	Kemp 91/96	0.0813765	278.05	380	10																																			
+3461	C12	Unknown	Kemp 91/96	0.0817197	308.05	380	11																																			
+3461	C12	Unknown	Kemp 91/96	0.0824353	338.05	380	12																																			
+3461	C12	Unknown	Kemp 91/96	0.0830777	368.05	380	13																																			
+3461	C12	Unknown	Kemp 91/96	0.0835296	398.05	380	14																																			
+3461	C12	Unknown	Kemp 91/96	0.0838177	428.05	380	15																																			
+3461	C12	Unknown	Kemp 91/96	0.0846954	458.05	380	16																																			
+3461	C12	Unknown	Kemp 91/96	0.0851214	488.05	380	17																																			
+3461	C12	Unknown	Kemp 91/96	0.0858692	518.05	380	18																																			
+3461	C12	Unknown	Kemp 91/96	0.0866752	548.05	380	19																																			
+3461	C12	Unknown	Kemp 91/96	0.0868751	578.05	380	20																																			
+3461	D12	Unknown	Kemp 92/96	0.0775256	8.28	380	1																																			
+3461	D12	Unknown	Kemp 92/96	0.0775309	38.28	380	2																																			
+3461	D12	Unknown	Kemp 92/96	0.0778037	68.28	380	3																																			
+3461	D12	Unknown	Kemp 92/96	0.0782207	98.28	380	4																																			
+3461	D12	Unknown	Kemp 92/96	0.0785845	128.28	380	5																																			
+3461	D12	Unknown	Kemp 92/96	0.0790953	158.28	380	6																																			
+3461	D12	Unknown	Kemp 92/96	0.0795703	188.28	380	7																																			
+3461	D12	Unknown	Kemp 92/96	0.0803227	218.28	380	8																																			
+3461	D12	Unknown	Kemp 92/96	0.0808452	248.28	380	9																																			
+3461	D12	Unknown	Kemp 92/96	0.0814772	278.28	380	10																																			
+3461	D12	Unknown	Kemp 92/96	0.0819046	308.28	380	11																																			
+3461	D12	Unknown	Kemp 92/96	0.0824473	338.28	380	12																																			
+3461	D12	Unknown	Kemp 92/96	0.0831529	368.28	380	13																																			
+3461	D12	Unknown	Kemp 92/96	0.0836053	398.28	380	14																																			
+3461	D12	Unknown	Kemp 92/96	0.0841547	428.28	380	15																																			
+3461	D12	Unknown	Kemp 92/96	0.0850094	458.28	380	16																																			
+3461	D12	Unknown	Kemp 92/96	0.0856874	488.28	380	17																																			
+3461	D12	Unknown	Kemp 92/96	0.0861983	518.28	380	18																																			
+3461	D12	Unknown	Kemp 92/96	0.0867062	548.28	380	19																																			
+3461	D12	Unknown	Kemp 92/96	0.0873278	578.28	380	20																																			
+3461	E12	Unknown	Kemp 93/96	0.0756869	13.57	380	1																																			
+3461	E12	Unknown	Kemp 93/96	0.0764096	43.57	380	2																																			
+3461	E12	Unknown	Kemp 93/96	0.0768291	73.57	380	3																																			
+3461	E12	Unknown	Kemp 93/96	0.0778924	103.57	380	4																																			
+3461	E12	Unknown	Kemp 93/96	0.0781323	133.57	380	5																																			
+3461	E12	Unknown	Kemp 93/96	0.0786431	163.57	380	6																																			
+3461	E12	Unknown	Kemp 93/96	0.078727	193.57	380	7																																			
+3461	E12	Unknown	Kemp 93/96	0.0797069	223.57	380	8																																			
+3461	E12	Unknown	Kemp 93/96	0.0804	253.57	380	9																																			
+3461	E12	Unknown	Kemp 93/96	0.08128	283.57	380	10																																			
+3461	E12	Unknown	Kemp 93/96	0.0817125	313.57	380	11																																			
+3461	E12	Unknown	Kemp 93/96	0.0820841	343.57	380	12																																			
+3461	E12	Unknown	Kemp 93/96	0.0825569	373.57	380	13																																			
+3461	E12	Unknown	Kemp 93/96	0.0831506	403.57	380	14																																			
+3461	E12	Unknown	Kemp 93/96	0.0841512	433.57	380	15																																			
+3461	E12	Unknown	Kemp 93/96	0.0840165	463.57	380	16																																			
+3461	E12	Unknown	Kemp 93/96	0.0851577	493.57	380	17																																			
+3461	E12	Unknown	Kemp 93/96	0.0856161	523.57	380	18																																			
+3461	E12	Unknown	Kemp 93/96	0.0865284	553.57	380	19																																			
+3461	E12	Unknown	Kemp 93/96	0.0868258	583.57	380	20																																			
+3461	F12	Unknown	Kemp 94/96	0.0749858	13.8	380	1																																			
+3461	F12	Unknown	Kemp 94/96	0.0756781	43.8	380	2																																			
+3461	F12	Unknown	Kemp 94/96	0.0758857	73.8	380	3																																			
+3461	F12	Unknown	Kemp 94/96	0.0763175	103.8	380	4																																			
+3461	F12	Unknown	Kemp 94/96	0.0769611	133.8	380	5																																			
+3461	F12	Unknown	Kemp 94/96	0.0770589	163.8	380	6																																			
+3461	F12	Unknown	Kemp 94/96	0.0777166	193.8	380	7																																			
+3461	F12	Unknown	Kemp 94/96	0.0781561	223.8	380	8																																			
+3461	F12	Unknown	Kemp 94/96	0.078754	253.8	380	9																																			
+3461	F12	Unknown	Kemp 94/96	0.0795704	283.8	380	10																																			
+3461	F12	Unknown	Kemp 94/96	0.0800634	313.8	380	11																																			
+3461	F12	Unknown	Kemp 94/96	0.0804121	343.8	380	12																																			
+3461	F12	Unknown	Kemp 94/96	0.0808611	373.8	380	13																																			
+3461	F12	Unknown	Kemp 94/96	0.0812762	403.8	380	14																																			
+3461	F12	Unknown	Kemp 94/96	0.0819121	433.8	380	15																																			
+3461	F12	Unknown	Kemp 94/96	0.0824254	463.8	380	16																																			
+3461	F12	Unknown	Kemp 94/96	0.0831065	493.8	380	17																																			
+3461	F12	Unknown	Kemp 94/96	0.0836076	523.8	380	18																																			
+3461	F12	Unknown	Kemp 94/96	0.0842538	553.8	380	19																																			
+3461	F12	Unknown	Kemp 94/96	0.0848919	583.8	380	20																																			
+3461	G12	Unknown	Kemp 95/96	0.0768639	19.09	380	1																																			
+3461	G12	Unknown	Kemp 95/96	0.077371	49.09	380	2																																			
+3461	G12	Unknown	Kemp 95/96	0.077757	79.09	380	3																																			
+3461	G12	Unknown	Kemp 95/96	0.0777008	109.09	380	4																																			
+3461	G12	Unknown	Kemp 95/96	0.078229	139.09	380	5																																			
+3461	G12	Unknown	Kemp 95/96	0.0789171	169.09	380	6																																			
+3461	G12	Unknown	Kemp 95/96	0.0793195	199.09	380	7																																			
+3461	G12	Unknown	Kemp 95/96	0.0799259	229.09	380	8																																			
+3461	G12	Unknown	Kemp 95/96	0.0806868	259.09	380	9																																			
+3461	G12	Unknown	Kemp 95/96	0.0811853	289.09	380	10																																			
+3461	G12	Unknown	Kemp 95/96	0.0818081	319.09	380	11																																			
+3461	G12	Unknown	Kemp 95/96	0.0822107	349.09	380	12																																			
+3461	G12	Unknown	Kemp 95/96	0.0828349	379.09	380	13																																			
+3461	G12	Unknown	Kemp 95/96	0.0835671	409.09	380	14																																			
+3461	G12	Unknown	Kemp 95/96	0.0841429	439.09	380	15																																			
+3461	G12	Unknown	Kemp 95/96	0.0847607	469.09	380	16																																			
+3461	G12	Unknown	Kemp 95/96	0.0850031	499.09	380	17																																			
+3461	G12	Unknown	Kemp 95/96	0.085948	529.09	380	18																																			
+3461	G12	Unknown	Kemp 95/96	0.0861738	559.09	380	19																																			
+3461	G12	Unknown	Kemp 95/96	0.0871097	589.09	380	20																																			
+3461	H12	Unknown	Kemp 96/96	0.0765886	19.32	380	1																																			
+3461	H12	Unknown	Kemp 96/96	0.0770045	49.32	380	2																																			
+3461	H12	Unknown	Kemp 96/96	0.0775791	79.32	380	3																																			
+3461	H12	Unknown	Kemp 96/96	0.0778689	109.32	380	4																																			
+3461	H12	Unknown	Kemp 96/96	0.078456	139.32	380	5																																			
+3461	H12	Unknown	Kemp 96/96	0.0791811	169.32	380	6																																			
+3461	H12	Unknown	Kemp 96/96	0.0797739	199.32	380	7																																			
+3461	H12	Unknown	Kemp 96/96	0.080388	229.32	380	8																																			
+3461	H12	Unknown	Kemp 96/96	0.0809026	259.32	380	9																																			
+3461	H12	Unknown	Kemp 96/96	0.0815347	289.32	380	10																																			
+3461	H12	Unknown	Kemp 96/96	0.0820901	319.32	380	11																																			
+3461	H12	Unknown	Kemp 96/96	0.0827944	349.32	380	12																																			
+3461	H12	Unknown	Kemp 96/96	0.0833494	379.32	380	13																																			
+3461	H12	Unknown	Kemp 96/96	0.0840068	409.32	380	14																																			
+3461	H12	Unknown	Kemp 96/96	0.0847544	439.32	380	15																																			
+3461	H12	Unknown	Kemp 96/96	0.0852498	469.32	380	16																																			
+3461	H12	Unknown	Kemp 96/96	0.0859884	499.32	380	17																																			
+3461	H12	Unknown	Kemp 96/96	0.0866048	529.32	380	18																																			
+3461	H12	Unknown	Kemp 96/96	0.0873343	559.32	380	19																																			
+3461	H12	Unknown	Kemp 96/96	0.0878761	589.32	380	20																																			
+
+																																										
+Layout																																										
+																																										
+Plate 1: 3461																																										
+																																										
+Sample	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+B	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+C	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+D	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+E	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+F	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+G	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+H	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp	Kemp																														
+																																										
+Type	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+B	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+C	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+D	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+E	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+F	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+G	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+H	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown																														
+																																										
+Conc/Dil	1	2	3	4	5	6	7	8	9	10	11	12																														
+A	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+B	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+C	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+D	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+E	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+F	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+G	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+H	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1	1:1																														
+																																										
+Unit	1	2	3	4	5	6	7	8	9	10	11	12																														
+A																																										
+B																																										
+C																																										
+D																																										
+E																																										
+F																																										
+G																																										
+H																																										
+																																										
+Description																																										
+	No description																																									
+
+																																										
+KineticCalculation1																																										
+																																										
+Parameters																																										
+	Processor Type				AvgRate																																					
+	Reaction				Undefined																																					
+	Kinetic Rate				s																																					
+	Ignore First N Readings				0																																					
+	Ignore Last N Readings				0																																					
+	Window				1																																					
+	Baseline				0																																					
+	Reading Index				1																																					
+	Change type				Absolute																																					
+	Change value				0																																					
+																																										
+Plate	Well	Type	Sample	Value	Time (s)	WL																																				
+3461	A01	Unknown	Kemp 1/96	1.96347794486214E-05	0	380																																				
+3461	B02	Unknown	Kemp 10/96	1.74735112781953E-05	0	380																																				
+3461	C02	Unknown	Kemp 11/96	1.87843157894736E-05	0	380																																				
+3461	D02	Unknown	Kemp 12/96	2.56932957393484E-05	0	380																																				
+3461	E02	Unknown	Kemp 13/96	1.8078110275689E-05	0	380																																				
+3461	F02	Unknown	Kemp 14/96	1.85143433583961E-05	0	380																																				
+3461	G02	Unknown	Kemp 15/96	2.04239724310775E-05	0	380																																				
+3461	H02	Unknown	Kemp 16/96	1.83787794486216E-05	0	380																																				
+3461	A03	Unknown	Kemp 17/96	1.77423408521304E-05	0	380																																				
+3461	B03	Unknown	Kemp 18/96	1.77089573934839E-05	0	380																																				
+3461	C03	Unknown	Kemp 19/96	1.52231779448623E-05	0	380																																				
+3461	B01	Unknown	Kemp 2/96	1.70159649122807E-05	0	380																																				
+3461	D03	Unknown	Kemp 20/96	1.54836842105265E-05	0	380																																				
+3461	E03	Unknown	Kemp 21/96	1.688586716792E-05	0	380																																				
+3461	F03	Unknown	Kemp 22/96	1.64614812030077E-05	0	380																																				
+3461	G03	Unknown	Kemp 23/96	1.62590100250629E-05	0	380																																				
+3461	H03	Unknown	Kemp 24/96	1.78616817042607E-05	0	380																																				
+3461	A04	Unknown	Kemp 25/96	1.80247067669172E-05	0	380																																				
+3461	B04	Unknown	Kemp 26/96	1.86686741854639E-05	0	380																																				
+3461	C04	Unknown	Kemp 27/96	1.87600526315789E-05	0	380																																				
+3461	D04	Unknown	Kemp 28/96	1.99009624060152E-05	0	380																																				
+3461	E04	Unknown	Kemp 29/96	1.54586967418548E-05	0	380																																				
+3461	C01	Unknown	Kemp 3/96	1.67261904761904E-05	0	380																																				
+3461	F04	Unknown	Kemp 30/96	1.78355764411028E-05	0	380																																				
+3461	G04	Unknown	Kemp 31/96	1.8640964912281E-05	0	380																																				
+3461	H04	Unknown	Kemp 32/96	1.72719699248118E-05	0	380																																				
+3461	A05	Unknown	Kemp 33/96	1.79055639097742E-05	0	380																																				
+3461	B05	Unknown	Kemp 34/96	1.64093533834587E-05	0	380																																				
+3461	C05	Unknown	Kemp 35/96	1.88665112781955E-05	0	380																																				
+3461	D05	Unknown	Kemp 36/96	2.31685764411027E-05	0	380																																				
+3461	E05	Unknown	Kemp 37/96	1.98766315789471E-05	0	380																																				
+3461	F05	Unknown	Kemp 38/96	1.5899343358396E-05	0	380																																				
+3461	G05	Unknown	Kemp 39/96	2.04645288220551E-05	0	380																																				
+3461	D01	Unknown	Kemp 4/96	1.71368170426066E-05	0	380																																				
+3461	H05	Unknown	Kemp 40/96	1.79437869674184E-05	0	380																																				
+3461	A06	Unknown	Kemp 41/96	1.87248822055137E-05	0	380																																				
+3461	B06	Unknown	Kemp 42/96	1.59660325814535E-05	0	380																																				
+3461	C06	Unknown	Kemp 43/96	1.56697268170427E-05	0	380																																				
+3461	D06	Unknown	Kemp 44/96	1.55926741854638E-05	0	380																																				
+3461	E06	Unknown	Kemp 45/96	1.74840476190475E-05	0	380																																				
+3461	F06	Unknown	Kemp 46/96	1.6314701754386E-05	0	380																																				
+3461	G06	Unknown	Kemp 47/96	1.89640426065162E-05	0	380																																				
+3461	H06	Unknown	Kemp 48/96	1.77537192982458E-05	0	380																																				
+3461	A07	Unknown	Kemp 49/96	1.80340426065165E-05	0	380																																				
+3461	E01	Unknown	Kemp 5/96	1.75567944862155E-05	0	380																																				
+3461	B07	Unknown	Kemp 50/96	1.93482431077695E-05	0	380																																				
+3461	C07	Unknown	Kemp 51/96	1.9014365914787E-05	0	380																																				
+3461	D07	Unknown	Kemp 52/96	2.16430902255637E-05	0	380																																				
+3461	E07	Unknown	Kemp 53/96	1.81884736842106E-05	0	380																																				
+3461	F07	Unknown	Kemp 54/96	1.81564862155386E-05	0	380																																				
+3461	G07	Unknown	Kemp 55/96	2.26875689223055E-05	0	380																																				
+3461	H07	Unknown	Kemp 56/96	1.75455889724309E-05	0	380																																				
+3461	A08	Unknown	Kemp 57/96	1.77956215538848E-05	0	380																																				
+3461	B08	Unknown	Kemp 58/96	1.85738421052631E-05	0	380																																				
+3461	C08	Unknown	Kemp 59/96	1.68414060150372E-05	0	380																																				
+3461	F01	Unknown	Kemp 6/96	1.68346842105264E-05	0	380																																				
+3461	D08	Unknown	Kemp 60/96	1.72078095238095E-05	0	380																																				
+3461	E08	Unknown	Kemp 61/96	1.67334210526315E-05	0	380																																				
+3461	F08	Unknown	Kemp 62/96	1.89829298245614E-05	0	380																																				
+3461	G08	Unknown	Kemp 63/96	2.48587343358397E-05	0	380																																				
+3461	H08	Unknown	Kemp 64/96	1.82766817042607E-05	0	380																																				
+3461	A09	Unknown	Kemp 65/96	1.86534310776942E-05	0	380																																				
+3461	B09	Unknown	Kemp 66/96	1.87956290726817E-05	0	380																																				
+3461	C09	Unknown	Kemp 67/96	1.89314060150378E-05	0	380																																				
+3461	D09	Unknown	Kemp 68/96	1.81299498746865E-05	0	380																																				
+3461	E09	Unknown	Kemp 69/96	1.57521002506264E-05	0	380																																				
+3461	G01	Unknown	Kemp 7/96	1.81373383458647E-05	0	380																																				
+3461	F09	Unknown	Kemp 70/96	1.66482731829574E-05	0	380																																				
+3461	G09	Unknown	Kemp 71/96	2.23629824561407E-05	0	380																																				
+3461	H09	Unknown	Kemp 72/96	1.72664085213032E-05	0	380																																				
+3461	A10	Unknown	Kemp 73/96	1.82458521303258E-05	0	380																																				
+3461	B10	Unknown	Kemp 74/96	1.62258345864661E-05	0	380																																				
+3461	C10	Unknown	Kemp 75/96	1.56568295739348E-05	0	380																																				
+3461	D10	Unknown	Kemp 76/96	1.53068596491229E-05	0	380																																				
+3461	E10	Unknown	Kemp 77/96	1.82501503759398E-05	0	380																																				
+3461	F10	Unknown	Kemp 78/96	1.62856390977443E-05	0	380																																				
+3461	G10	Unknown	Kemp 79/96	1.77239323308272E-05	0	380																																				
+3461	H01	Unknown	Kemp 8/96	1.88057969924813E-05	0	380																																				
+3461	H10	Unknown	Kemp 80/96	1.73160250626565E-05	0	380																																				
+3461	A11	Unknown	Kemp 81/96	1.81665213032582E-05	0	380																																				
+3461	B11	Unknown	Kemp 82/96	1.64304385964914E-05	0	380																																				
+3461	C11	Unknown	Kemp 83/96	1.7761962406015E-05	0	380																																				
+3461	D11	Unknown	Kemp 84/96	1.65723107769423E-05	0	380																																				
+3461	E11	Unknown	Kemp 85/96	1.76592506265665E-05	0	380																																				
+3461	F11	Unknown	Kemp 86/96	1.75987468671677E-05	0	380																																				
+3461	G11	Unknown	Kemp 87/96	1.92638872180451E-05	0	380																																				
+3461	H11	Unknown	Kemp 88/96	1.82849824561404E-05	0	380																																				
+3461	A12	Unknown	Kemp 89/96	2.04770275689225E-05	0	380																																				
+3461	A02	Unknown	Kemp 9/96	1.79982431077695E-05	0	380																																				
+3461	B12	Unknown	Kemp 90/96	1.79414511278195E-05	0	380																																				
+3461	C12	Unknown	Kemp 91/96	1.82740977443609E-05	0	380																																				
+3461	D12	Unknown	Kemp 92/96	1.8271834586466E-05	0	380																																				
+3461	E12	Unknown	Kemp 93/96	1.94213458646618E-05	0	380																																				
+3461	F12	Unknown	Kemp 94/96	1.71875664160402E-05	0	380																																				
+3461	G12	Unknown	Kemp 95/96	1.83074260651629E-05	0	380																																				
+3461	H12	Unknown	Kemp 96/96	2.02147293233086E-05	0	380																																				
+
+																																										
+Run Log																																										
+																																										
+																																										
+	2015-10-05 10:22:31+02:00 - Execution started																																									
+	2015-10-05 10:22:37+02:00 - KineticLoop1 started																																									
+	2015-10-05 10:22:37+02:00 - Photometric1 started																																									
+	2015-10-05 10:32:31+02:00 - Photometric1 completed																																									
+	2015-10-05 10:32:31+02:00 - KineticLoop1 completed																																									
+	2015-10-05 10:32:31+02:00 - Execution completed																																									
+
