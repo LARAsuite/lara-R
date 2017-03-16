@@ -9,10 +9,10 @@
 # AUTHOR: mark doerr
 # EMAIL: mark@ismeralda.org
 #
-# VERSION: 0.0.9
+# VERSION: 0.1.0
 #
 # CREATION_DATE: 2015/07/15
-# LASTMODIFICATION_DATE: 2015/08/02
+# LASTMODIFICATION_DATE: 2017/03/03
 #
 # BRIEF_DESCRIPTION: Library for reading and wrting plate layout information into LARA database
 # DETAILED_DESCRIPTION: 
@@ -37,7 +37,7 @@
 #' addPlateLayoutDB
 #'
 #' @title adding container plate layout to database v0.1.0
-#' @description Calculates all possible linar models and stores coefficients in a data frame
+#' @description adds container plate layout to LARA database
 #' @param DB_connect=NULL (database connection) - in case one needs to use an exisiting connection
 #' @param DB_filename= "/var/local/lara/laraDB.sqlite3" (string) - path to SQLite database file
 #' @param barcode="0000" (string) - barcode for layout file to load
@@ -51,63 +51,67 @@
 
 addPlateLayoutDB <- function(DB_connect=NULL, DB_filename="/var/local/lara/laraDB.sqlite3", barcode="0000")
 {
-  require("RSQLite")
+  require("DBI")
   require("laraDataReader")
   
-  print("addPlateLayoutDB 0.0.9")
-
+  print("addPlateLayoutDB 0.1.1x")
+  
+  #debugging <- TRUE
+  
   layout_lst <- loadPlateLayout(barcode=barcode, asList=TRUE)
   
-  #print("load plate layout barcodes:")
+  #printDebug("load plate layout barcodes:")
   #print(head(layout_lst$Layout))
   
-  ## connecting/using an existing file
+  ## connecting/using an existing database file
   if(is.null(DB_connect)) {
-    sqlite    <- dbDriver("SQLite")
-    DB_connect <- dbConnect(sqlite,DB_filename)
+    DB_connect <- dbConnect(RSQLite::SQLite(), DB_filename)
     dbBegin(DB_connect)
-    #print("addPlateLayout: ... now connected to DB")
   }
   # serialization is required to save the data frame into database BLOB
   layout_ser <- serialize(layout_lst$Layout, NULL, ascii=TRUE)
   #print(layout_ser)
-  insertion_df <- data.frame(layout=I(list(layout_ser)))
-  results <- dbSendPreparedQuery(DB_connect, "INSERT INTO projects_container_layout (layout) 
-                                 VALUES(?)",insertion_df )
+  insertion_df <- data.frame(layout=I(list(layout_ser)),rows=layout_lst$Rows, cols=layout_lst$Columns,
+                             conc_unit=layout_lst$ConcUnit, description=layout_lst$LayoutDescription)
   
-  lr_query <- dbSendQuery(DB_connect, "SELECT last_insert_rowid()")
-  last_row <- as.numeric(dbFetch(lr_query))
+  results <-  dbExecute(DB_connect, "INSERT INTO lara_containers_container_layout (rows, cols, layout, conc_unit, description)
+                                 VALUES ($rows, $cols, $layout, $conc_unit, $description);", params = insertion_df )
+  
+  #lr_query <- dbExecute(DB_connect, "SELECT last_insert_rowid();")
+  #last_row <- as.numeric(dbFetch(lr_query))
+  
+  last_row <- as.numeric(dbGetQuery(DB_connect, "SELECT last_insert_rowid();"))
 
-  #printDebug("layout for %s inserted in DB - as list, datetime", barcode)
-  #print(last_row)
+  printDebug("layout for %s inserted in DB - as list, datetime", barcode)
+  print(last_row)
 
   # connecting layout info with container 
   connectLayoutContainers <- function(barcode) {
     # !! checking before inserting, if container has a layout
-    query <- sprintf("SELECT id,layout_id FROM projects_container WHERE barcode = '%s'",
+    query <- sprintf("SELECT container_id,layout_id FROM lara_containers_container WHERE barcode = '%s';",
                       barcode )
     #print(query)
-    results <- dbFetch(dbSendQuery(DB_connect, query))
+    results <- dbGetQuery(DB_connect, query) #  dbFetch(dbSendStatement(DB_connect, query))
     
     #print(results);  print(results$id)
     
-    if(length(results$id) == 0)  # == no container found
+    if(length(results$id) == 0)  # == no container found, insert new container
     {
-      query <- sprintf("INSERT INTO projects_container (barcode, description, date_time, layout_id) 
-                        VALUES ('%s','%s','%s',%i)",
-                        barcode, layout_lst$LayoutDescription, "20150101 000000", last_row )
+      query <- sprintf("INSERT INTO lara_containers_container (barcode, description, layout_id) 
+                        VALUES ('%s','%s',%i);",
+                        barcode, layout_lst$LayoutDescription, last_row )
       #print(query)
-      results <- dbSendQuery(DB_connect, query) 
+      results <- dbExecute(DB_connect, query) 
     }
     else { 
       # possible check of layoutID
-      # connect container_layout with projects_container 
-      query <- sprintf("UPDATE projects_container 
+      # connecting container_layout with projects_container 
+      query <- sprintf("UPDATE lara_containers_container
                         SET description = '%s', layout_id = %i 
-                        WHERE barcode = '%s'",
+                        WHERE barcode = '%s';",
                         layout_lst$LayoutDescription, last_row, barcode)
       #print(query)
-      results <- dbSendQuery(DB_connect, query) 
+      results <- dbExecute(DB_connect, query) 
     }
   }
   sapply(layout_lst$Barcodes, connectLayoutContainers )

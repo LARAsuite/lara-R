@@ -18,6 +18,15 @@ Installation of required packages
 ---------------------------------
 
 
+
+manual installation
+
+library("devtools")
+print(getwd())
+document("laraDB")
+install("laraDB")
+print("new laraDB installed !")
+
 References
 __________
 

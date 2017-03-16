@@ -10,3 +10,4 @@ Imports:
     rgl (>= 0.93.0)
 License: GPL-3
 LazyData: true
+RoxygenNote: 5.0.1

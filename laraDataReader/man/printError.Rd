@@ -4,10 +4,10 @@
 \alias{printError}
 \title{printError}
 \usage{
-printError(...)
+printError(module = "", ...)
 }
 \description{
-printing errors and warnings to stderr
+printing errors and warnings to stderr - if debug mode is activated
 }
 \details{
 printError

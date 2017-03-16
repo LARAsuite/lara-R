@@ -4,21 +4,28 @@
 \alias{loadPlateLayout}
 \title{Reading Plate Layout Information from Plate Layout csv File for Microtiter Plates.}
 \usage{
-loadPlateLayout(barcode = "000000", dir = "./", asList = TRUE)
+loadPlateLayout(barcode = "000000", dir = "./", padding = 4,
+  concUnit = "uM", asList = TRUE)
 }
 \arguments{
-\item{barcode="000000"}{- this is used for finding the layout file BC_plate_layout_*.csv}
+\item{barcode="000000"}{- this is used for finding the layout file BC_plate_layout_*.csv
+barcodes can have a non-numeric prefix, valid barcodes are e.g. TA1001, GA_20, Tbe.0003, XY_abc|0404, WZ.def.4432, 
+the minus sign "-" is omitted as separator, since it is need to denote intervals: TA1001-TA1024}
+
+\item{padding=4}{- overall number of barcode digits, leading digits are filled with zeros, will be soon changed to 6}
 
 \item{dir="./"}{(string) - directory of layout file with leading /}
+
+\item{concUnit="uM"}{- unit of concentration, valid values are 'uM' and 'mM'}
 
 \item{asList=TRUE}{(boolean) this returns not only the plate layout, but also the barcodes, description and plate geometry (= layout meta information)}
 }
 \value{
-data.frame containing Wells, Type and Description, Substrates, Cofactors and Enzymes as columns
+data.frame containing Wells, Type and Description, Substrates, Cofactors and Enzymes as columns or List
 }
 \description{
 Reading plate layout information from plate layout csv file for any microtiter well plates.
-             Plate geometry is defined in layout file. Default geometry 8x12.
+             Plate geometry is defined in layout file (s. templates folder). Default geometry: 8x12.
              The function is looking for a file "0*"barcode"_plate_layout.*csv" in the given directory.
              Default substrate, cofactor and enzyme concentrations overwrite individual concentrations.
 }

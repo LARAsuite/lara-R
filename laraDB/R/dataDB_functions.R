@@ -9,10 +9,10 @@
 # AUTHOR: mark doerr
 # EMAIL: mark@ismeralda.org
 #
-# VERSION: 0.1.0
+# VERSION: 0.1.2
 #
 # CREATION_DATE: 2015/07/15
-# LASTMODIFICATION_DATE: 2016/07/20
+# LASTMODIFICATION_DATE: 2017/03/15
 #
 # BRIEF_DESCRIPTION: Library for reading and wrting data into LARA database
 # DETAILED_DESCRIPTION: 
@@ -46,22 +46,21 @@
 #' @examples
 #'  lin_mod_df <- calcAllLinModels(kin_df, wavelength=245)
 #' @note todo: add barcode handling !!
+#'             add metainfo handling !!
 #' 
 
-addDataDB <- function(connect_db=NULL, data=NULL, evalPath="", filename="", startDate=NULL, startTime=NULL,
+addDataDB <- function(connect_db=NULL, data=NULL, evalPath="", filename="", startDatetime=NULL,
                       barcode="", device="", method="" , expName="", asCSV=FALSE, exportData=FALSE,
                       digits=0, scientific=-3, metaInfo="", commit=TRUE,
                       DB_filename="/var/local/lara/laraDB.sqlite3" )
 {
-  require("RSQLite")
+  require("DBI")
   
-  printDebug("addDataDB 0.1.0a - trying to import %s data to database", expName)
-  # might speed up with dbGetQuery ....
+  printDebug("addDataDB 0.1.0c - trying to add %s data to database", expName)
   
   new_db_connection = FALSE
   if (is.null(connect_db)) {
-    sqlite <- dbDriver("SQLite")
-    connect_db <- dbConnect(sqlite, DB_filename)
+    connect_db <- dbConnect(RSQLite::SQLite(), DB_filename)
     dbBegin(connect_db)
     new_db_connection = TRUE  
   }  
@@ -86,37 +85,48 @@ addDataDB <- function(connect_db=NULL, data=NULL, evalPath="", filename="", star
   
   if (is.null(startDate) ) startDate <- format(Sys.Date(),format='%Y%m%d')
   if (is.null(startTime) ) startTime <- format(Sys.time(),format='%H%M%S')
+  if (is.null(startDatetime) ) startDatetime <-Sys.time()  #format(Sys.time(),format='%Y%m%d%H%M%S')
   
   if( class(data) == "data.frame" ) data <- list(serialize(data, NULL, ascii=TRUE))
   
   # remember to generate data SHA256 hash 
   insertion_df <- data.frame( "filename"=filename, 
-                              "start_date"=startDate,
-                              "start_time"=startTime,
-                              "meta_info"=metaInfo,
-                              "exp_data"=I(data) )
+                              "start_datetime"=startDatetime,
+                              #"metainfo"=metaInfo,
+                              "exp_data"=I(data),
+                              device=device, 
+                              method=method)
   print(insertion_df)
   
   printDebug(" D: %s, M: %s",device, method)
   
-  query <- sprintf("INSERT INTO  projects_data  ( filename, start_date, start_time, meta_info, exp_data, device_id, method_id ) 
-                    VALUES(?,?,?,?,?,
-                      (SELECT id FROM projects_device D WHERE D.name ='%s'),
-                      (SELECT id FROM projects_item_class PC WHERE PC.item_class ='%s'))", device, method )
+  #query <- sprintf("INSERT INTO  lara_data_data  ( filename, start_datetime, exp_data, device_id, method_id ) 
+  #                  VALUES(?,?,?,?,?,
+  #                    (SELECT id FROM projects_device D WHERE D.name ='%s'),
+  #                    (SELECT id FROM projects_item_class PC WHERE PC.lara_metainfo_item_class ='%s'))", device, method )
   
-  dbSendPreparedQuery(connect_db, query ,insertion_df )
+  #try full insertion_df
+  query <- sprintf("INSERT INTO  lara_data_data ( filename, start_datetime, exp_data, device_id, method_id ) 
+                    VALUES($filename, $start_datetime, $exp_data, 
+                      (SELECT id FROM lara_devices_device D WHERE D.name ='%s'),
+                      (SELECT id FROM lara_metainfo_item_class MMIC WHERE MMIC.item_class ='%s'))", device, method )
+  print(query)
+  dbExecute(connect_db, query, insertion_df )
   
-  query_res <- dbGetQuery(connect_db, "SELECT last_insert_rowid()")
-  last_data_row <- as.numeric(query_res)
+  #query_res <- dbGetQuery(connect_db, "SELECT last_insert_rowid()")
+  #last_data_row <- as.numeric(query_res)
+  
+  last_data_row <- as.numeric(dbGetQuery(DB_connect, "SELECT last_insert_rowid();"))
   
   #last_data_row <- as.numeric(dbFetch(lr_query))
-    
-  query <- sprintf("INSERT INTO projects_proj_item_data (proj_item_id, data_id) 
-                    VALUES ((SELECT id FROM projects_proj_item 
+  
+  # now connecting data to related project_item  
+  query <- sprintf("INSERT INTO lara_projects_proj_item_data (projitem_id, data_id) 
+                    VALUES ((SELECT id FROM lara_projects_proj_item 
                     WHERE name='%s'),'%s')", expName, last_data_row )
   
-  #print(query)
-  results <- dbSendQuery(connect_db, query )
+  print(query)
+  results <- dbExecute(connect_db, query )
   
   if (isTRUE(commit)) dbCommit(connect_db)
   
@@ -146,10 +156,10 @@ addDataDB <- function(connect_db=NULL, data=NULL, evalPath="", filename="", star
 addMeasDataDB <- function(connect_db=NULL, dbFilename="/var/local/lara/laraDB.sqlite3", filename="", 
                       evalPath="", barcode="", device="", method="" , expName="", PLC=FALSE )
 {
-  require("RSQLite")
+  require("DBI")
   library("laraDataReader")
   
-  printDebug("addDataDB 0.0.9 - trying to import %s data to database", expName)
+  printDebug("check obsolete ? addDataDB 0.0.9 - trying to import %s data to database", expName)
   # might speed up with dbGetQuery ....
   
   setwd(evalPath)
@@ -227,7 +237,6 @@ getExperiments2EvalDB <- function(dbConnection=NULL, dbFilename="/var/local/lara
   
   new_db_connection = FALSE
   if (is.null(dbConnection)) {
-    sqlite <- dbDriver("SQLite")
     dbConnection <- dbConnect(sqlite, dbFilename)
     dbBegin(dbConnection)
     new_db_connection = TRUE  

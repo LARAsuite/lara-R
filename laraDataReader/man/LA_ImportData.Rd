@@ -8,11 +8,13 @@ LA_ImportData(filename = "", data_path = "./", method = "SPabs",
   defaultClass = "SP", barcode = "000000", wavelength = 0, wlStart = 0,
   wlEnd = 0, wlStepSize = 1, timeUnit = "secs", numSamples = 96,
   sep = ",", layoutGeometry = c(8, 12), layout = FALSE,
-  useDBlayout = FALSE, layoutDir = "./", PLC = FALSE, wellRadius = 0.34,
-  liquidVolume = 0.2, ...)
+  useDBlayout = FALSE, layoutDir = "./", concUnit = "uM", PLC = FALSE,
+  wellRadius = 0.34, liquidVolume = 0.2, ...)
 }
 \arguments{
 \item{method}{(string) - one of the above described methods}
+
+\item{layoutGeometry}{- container layout geometry}
 
 \item{filename/pattern}{(string)}
 
@@ -22,17 +24,19 @@ LA_ImportData(filename = "", data_path = "./", method = "SPabs",
 
 \item{layout=TRUE}{(boolean) - automatically read plate layout file}
 
-\item{layout_dir="./"}{(string) - plate layout file directory with leading /}
+\item{layoutDir="./"}{(string) - plate layout file directory with leading /}
 
-\item{use_db_layout=FALSE}{(boolean) - reading the layout from a database}
+\item{useDBlayout=FALSE}{(boolean) - reading the layout from a database}
+
+\item{concUnit="uM"}{- conentration unit of layout file}
 
 \item{PLC=FALSE}{(boolean) - automatically calculate pathlength correction 
 under the assumptions of a 96 round well SBS layout (r=034 cm)
 and 200ul liquid volume}
 
-\item{well_radius=0.34}{(double) well radius for pathlength calculation in cm}
+\item{wellRadius=0.34}{(double) well radius for pathlength calculation in cm}
 
-\item{liquid_volume=0.2}{(double) liquid volume for pathlength calculation in uL}
+\item{liquidVolume=0.2}{(double) liquid volume for pathlength calculation in uL}
 }
 \value{
 data frame with reader data
@@ -42,6 +46,7 @@ This function is the main dispatcher function for reading several file formats i
              Currently supported devices:
                BMG Readers (e.g. Omega ) - device='omega'
                Thermo Scientific (e.g. Varioskan) - device='varioskan'
+               TECAN (e.g. ) - device='tecan'
              Currently supported formats (method):
                SPabs : Single point absorption measurement (Omega, Varioskan),
                SPabsMatr: Single point absorption measurement in Matrix Layout format (Omega),
