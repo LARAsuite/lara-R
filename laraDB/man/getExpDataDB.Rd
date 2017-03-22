@@ -2,28 +2,28 @@
 % Please edit documentation in R/dataDB_functions.R
 \name{getExpDataDB}
 \alias{getExpDataDB}
-\title{adding container plate layout to database}
+\title{getExpData - Get Data of an Experiment by experiment name and method}
 \usage{
 getExpDataDB(dbConnection = NULL,
   dbFilename = "/var/local/lara/laraDB.sqlite3", expName = "",
   method = "")
 }
 \arguments{
-\item{kin_data_df, }{wavelength}
+\item{method=""}{}
 }
 \value{
-data frame with
+data frame with experiment data
 }
 \description{
-Calculates all possible linar models and stores coefficients in a data frame
+This function retrieved data related to an experiment identified by experiment Name and method name
 }
 \details{
 getExpDataDB
 }
 \note{
-relativly well runtime optimized version - don't be confused about the ugly code: it's quite fast
+none
 
-todo: add barcode handling !!
+todo:
 }
 \keyword{plate}
 \keyword{readers}

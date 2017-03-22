@@ -9,10 +9,10 @@
 # AUTHOR: mark doerr
 # EMAIL: mark@ismeralda.org
 #
-# VERSION: 0.1.0
+# VERSION: 0.1.1
 #
 # CREATION_DATE: 2015/07/15
-# LASTMODIFICATION_DATE: 2017/03/03
+# LASTMODIFICATION_DATE: 2017/03/17
 #
 # BRIEF_DESCRIPTION: Library for reading and wrting plate layout information into LARA database
 # DETAILED_DESCRIPTION: 
@@ -54,7 +54,7 @@ addPlateLayoutDB <- function(DB_connect=NULL, DB_filename="/var/local/lara/laraD
   require("DBI")
   require("laraDataReader")
   
-  print("addPlateLayoutDB 0.1.1x")
+  print("addPlateLayoutDB 0.1.1y")
   
   #debugging <- TRUE
   
@@ -91,16 +91,16 @@ addPlateLayoutDB <- function(DB_connect=NULL, DB_filename="/var/local/lara/laraD
     query <- sprintf("SELECT container_id,layout_id FROM lara_containers_container WHERE barcode = '%s';",
                       barcode )
     #print(query)
-    results <- dbGetQuery(DB_connect, query) #  dbFetch(dbSendStatement(DB_connect, query))
+    results <- dbGetQuery(DB_connect, query) # dbFetch(dbSendStatement(DB_connect, query)) 
     
-    #print(results);  print(results$id)
+    print(results);  print(results$layout_id)
     
-    if(length(results$id) == 0)  # == no container found, insert new container
+    if(length(results$layout_id) == 0)  # == no container found, insert new container
     {
       query <- sprintf("INSERT INTO lara_containers_container (barcode, description, layout_id) 
                         VALUES ('%s','%s',%i);",
                         barcode, layout_lst$LayoutDescription, last_row )
-      #print(query)
+      print(query)
       results <- dbExecute(DB_connect, query) 
     }
     else { 
@@ -110,7 +110,7 @@ addPlateLayoutDB <- function(DB_connect=NULL, DB_filename="/var/local/lara/laraD
                         SET description = '%s', layout_id = %i 
                         WHERE barcode = '%s';",
                         layout_lst$LayoutDescription, last_row, barcode)
-      #print(query)
+      print(query)
       results <- dbExecute(DB_connect, query) 
     }
   }
@@ -141,24 +141,26 @@ addPlateLayoutDB <- function(DB_connect=NULL, DB_filename="/var/local/lara/laraD
 
 getPlateLayoutDB <- function(barcode="0000", DB_connect=NULL, DB_filename="/var/local/lara/laraDB.sqlite3")
 {
-  require("RSQLite")
-  #require("laraDataReader")
-  print("getPlateLayoutDB 0.0.9")
+  require("DBI")
+  print("getPlateLayoutDB 0.1.0c")
+  
+  print(DB_filename)
   
   ## connecting/using an existing file
   if(is.null(DB_connect)) {
-    sqlite    <- dbDriver("SQLite")
-    DB_connect <- dbConnect(sqlite, DB_filename)
+    DB_connect <- dbConnect(RSQLite::SQLite(), DB_filename)
     dbBegin(DB_connect)
     printDebug("getPlateLayoutDB: ... now connected to DB")
   }
   
+  
   # retriving the data:
-  query <- sprintf("SELECT layout FROM projects_container PC 
-                    JOIN projects_container_layout CL ON PC.layout_id = CL.id  
+  query <- sprintf("SELECT layout FROM lara_containers_container PC 
+                    JOIN lara_containers_container_layout CL ON PC.layout_id = CL.id  
                     WHERE PC.barcode = '%s'", barcode)
-  print(query)
+  #print(query)
   layout_raw <- dbGetQuery(DB_connect, query)
+  
   #printDebug("raw layout:", layout_raw)
   #print("raw layout")
   #print(head(layout_raw))
@@ -180,4 +182,4 @@ getPlateLayoutDB <- function(barcode="0000", DB_connect=NULL, DB_filename="/var/
 #print(query)
 #results <- dbSendQuery(DB_connect, query)
 #exp_parameters_df <- dbFetch(results, -1)
-#barcode_df <- dbFetch(results, -1)
+#barcode_df <- dbFetch(results, -1

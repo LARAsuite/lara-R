@@ -2,27 +2,24 @@
 % Please edit documentation in R/dataDB_functions.R
 \name{getExperiments2EvalIDDB}
 \alias{getExperiments2EvalIDDB}
-\title{adding container plate layout to database}
+\title{getExperiments2EvalIDDB - Get Evaluation Parameters of an Evaluation by IDadding container plate layout to database}
 \usage{
 getExperiments2EvalIDDB(dbConnection = NULL,
   dbFilename = "/var/local/lara/laraDB.sqlite3", evalID = 0)
-}
-\arguments{
-\item{kin_data_df, }{wavelength}
 }
 \value{
 data frame with
 }
 \description{
-Calculates all possible linar models and stores coefficients in a data frame
+Get Evaluation Parameters of an Evaluation by IDadding container plate layout to database
 }
 \details{
 getExperiments2EvalIDDB
 }
 \note{
-relativly well runtime optimized version - don't be confused about the ugly code: it's quite fast
+none
 
-todo: add barcode handling !!
+todo:
 }
 \keyword{plate}
 \keyword{readers}

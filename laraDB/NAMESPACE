@@ -3,6 +3,7 @@
 export(addDataDB)
 export(addMeasDataDB)
 export(addPlateLayoutDB)
+export(getEvalParametersDB)
 export(getExpDataByIDDB)
 export(getExpDataDB)
 export(getExperiments2EvalDB)

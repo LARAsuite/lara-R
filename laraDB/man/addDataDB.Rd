@@ -2,7 +2,7 @@
 % Please edit documentation in R/dataDB_functions.R
 \name{addDataDB}
 \alias{addDataDB}
-\title{adding  plate data to database}
+\title{addDataDB - adding data to database}
 \usage{
 addDataDB(connect_db = NULL, data = NULL, evalPath = "", filename = "",
   startDatetime = NULL, barcode = "", device = "", method = "",
@@ -10,14 +10,11 @@ addDataDB(connect_db = NULL, data = NULL, evalPath = "", filename = "",
   scientific = -3, metaInfo = "", commit = TRUE,
   DB_filename = "/var/local/lara/laraDB.sqlite3")
 }
-\arguments{
-\item{kin_data_df, }{wavelength}
-}
 \value{
-data frame with
+last_data_row
 }
 \description{
-Calculates all possible linar models and stores coefficients in a data frame
+Adding arbitrary data to LARA database
 }
 \details{
 _____________________________________________________________________________
@@ -27,10 +24,10 @@ addDataDB
 relativly well runtime optimized version - don't be confused about the ugly code: it's quite fast
 
 todo: add barcode handling !!
+            add metainfo handling !!
 }
 \examples{
- lin_mod_df <- calcAllLinModels(kin_df, wavelength=245)
+  addDataDB()
 }
-\keyword{plate}
-\keyword{readers}
+\keyword{database}
 
