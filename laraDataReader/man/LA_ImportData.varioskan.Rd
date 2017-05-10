@@ -8,7 +8,13 @@
   addTime = TRUE, coords = FALSE, read = FALSE, ...)
 }
 \arguments{
-\item{filename}{(string) - single varioskan outputfile of kinetic data}
+\item{deltaTime=32.0}{- default time difference between two reads}
+
+\item{addTime=TRUE}{- adding DataTime info to output data frame}
+
+\item{coords=FALSE}{- adding plate coords to output data frame (if provided by reader file)}
+
+\item{read=FALSE}{- adding read info to output data frame (if provided by reader file)}
 
 \item{barcode="000000"}{(string) - for defining a new barcode}
 }
@@ -24,7 +30,7 @@ This function requires a table/list Varioskan  output file starting
 LA_ImportData.varioskan
 }
 \note{
-todo - adding meta info (temp....), spectrum read: assigning start and end wavelength
+todo - spectrum read: assigning start and end wavelength
 }
 \keyword{Thermo}
 \keyword{Varioskan}

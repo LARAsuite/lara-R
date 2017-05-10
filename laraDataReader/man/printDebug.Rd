@@ -4,10 +4,10 @@
 \alias{printDebug}
 \title{printDebug}
 \usage{
-printDebug(...)
+printDebug(module = "", ...)
 }
 \description{
-printing debugging information
+printing debugging information - if debug mode is activated
 }
 \details{
 printDebug

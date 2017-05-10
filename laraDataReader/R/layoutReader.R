@@ -53,7 +53,7 @@
 
 loadPlateLayout <- function(barcode="000000", dir="./", padding=4, concUnit="uM", asList=TRUE)
 {
-  printDebug(module="loadPlateLayout", "v0.1.0d")
+  printDebug(module="loadPlateLayout", "v0.1.0e")
   
   file_pattern = paste("0*", barcode, "_plate_layout.*csv$", sep="")
 
@@ -97,7 +97,7 @@ loadPlateLayout <- function(barcode="000000", dir="./", padding=4, concUnit="uM"
     } 
     # 2. retrieving description of layout
     description <- sub("(#\\s*Description\\s*:\\s*)([^,]+)(\\s*)(,*)", "\\2", grep('Description:',data_file, value=TRUE))
-    
+    printDebug(module="loadPlateLayout", "description: %s", description)
     # 3. retrieving concentration_unit 
     concUnit_infile <- sub("(#\\s*concentration_unit\\s*:\\s*)([u,m,M]+)(\\s*;.*)", "\\2", grep('concentration_unit\\s*:',data_file, value=TRUE))
     printDebug(module="loadPlateLayout", "unit %s", concUnit_infile)

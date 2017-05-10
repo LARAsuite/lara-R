@@ -10,6 +10,8 @@
 \item{filename}{(string) - single varioskan outputfile of kinetic data}
 
 \item{barcode="000000"}{(string) - for defining a new barcode}
+
+\item{coords=FALSE}{- adding plate coords to output data frame (if provided by reader file)}
 }
 \value{
 data.frame
