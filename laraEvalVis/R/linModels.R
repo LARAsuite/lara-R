@@ -442,4 +442,3 @@ selectBestLinModelList <- function(kin_data_lst=NULL, barcode="0000", wavelength
     
   return(best_lm_lst)
 }
-

@@ -9,7 +9,7 @@
 # AUTHOR: mark doerr
 # EMAIL: mark@ismeralda.org
 #
-# VERSION: 0.1.2
+# VERSION: 0.1.1
 #
 # CREATION_DATE: 2015/07/15
 # LASTMODIFICATION_DATE: 2017/03/21
@@ -58,7 +58,7 @@ addDataDB <- function(connect_db=NULL, data=NULL, evalPath="", filename="", star
   
   debugging <- TRUE
   
-  printDebug("addDataDB 0.1.0c - trying to add %s data to database", expName)
+  printDebug("addDataDB 0.1.1a - trying to add %s data to database", expName)
   
   new_db_connection = FALSE
   if (is.null(connect_db)) {
@@ -85,19 +85,17 @@ addDataDB <- function(connect_db=NULL, data=NULL, evalPath="", filename="", star
     data <- paste(output_text, collapse="\n")
   }
   
-  if (is.null(startDate) ) startDate <- format(Sys.Date(),format='%Y%m%d')
-  if (is.null(startTime) ) startTime <- format(Sys.time(),format='%H%M%S')
   if (is.null(startDatetime) ) startDatetime <-Sys.time()  #format(Sys.time(),format='%Y%m%d%H%M%S')
   
-  if( class(data) == "data.frame" ) data <- list(serialize(data, NULL, ascii=TRUE))
+  if( class(data) == "data.frame" ) data_ser <- list(serialize(data, NULL, ascii=TRUE))
   
   # remember to generate data SHA256 hash 
-  insertion_df <- data.frame( "filename"=filename, 
-                              "start_datetime"=startDatetime,
-                              #"metainfo"=metaInfo,
-                              "exp_data"=I(data),
-                              device=device, 
-                              method=method)
+#  insertion_df <- data.frame( "filename"=filename, 
+#                              "start_datetime"=startDatetime,
+#                              #"metainfo"=metaInfo,
+#                              "exp_data"=I(data_ser),
+#                              device=device, 
+#                              method=method)
   #print(insertion_df)
   
   printDebug(" D: %s, M: %s",device, method)
@@ -113,30 +111,61 @@ addDataDB <- function(connect_db=NULL, data=NULL, evalPath="", filename="", star
                       (SELECT device_id FROM lara_devices_device D WHERE D.name ='%s'),
                       (SELECT item_class_id FROM lara_metainfo_item_class MMIC WHERE MMIC.item_class ='%s'))", device, method )
   print(query)
-  dbExecute(connect_db, query, insertion_df )
+#-  dbExecute(connect_db, query, insertion_df )
   
   #query_res <- dbGetQuery(connect_db, "SELECT last_insert_rowid()")
   #last_data_row <- as.numeric(query_res)
   
-  last_data_row <- as.numeric(dbGetQuery(DB_connect, "SELECT last_insert_rowid();"))
+#-  last_data_row <- as.numeric(dbGetQuery(DB_connect, "SELECT last_insert_rowid();"))
   
   #last_data_row <- as.numeric(dbFetch(lr_query))
   
   # now connecting data to related project_item  
-  query <- sprintf("INSERT INTO lara_projects_proj_item_data (projitem_id, data_id) 
-                    VALUES ((SELECT id FROM lara_projects_proj_item 
-                    WHERE name='%s'),'%s')", expName, last_data_row )
+#-  query <- sprintf("INSERT INTO lara_projects_proj_item_data (projitem_id, data_id) 
+#-                    VALUES ((SELECT id FROM lara_projects_proj_item 
+#-                    WHERE name='%s'),'%s')", expName, last_data_row )
   
   print(query)
-  results <- dbExecute(connect_db, query )
+#-  results <- dbExecute(connect_db, query )
   
-  if (isTRUE(commit)) dbCommit(connect_db)
+  ### ----- new 
+  
+ #- data_ser <- serialize(meas_df, NULL, ascii=TRUE)
+  
+  if (is.null(startDatetime) ) startDatetime <-Sys.time()  #format(Sys.time(),format='%Y%m%d%H%M%S')
+  print(startDatetime)
+  
+  # remember to generate data SHA256 hash
+#  insertion_df <- data.frame( "filename"=filename,
+#                              "start_datetime"=startDatetime,
+#                              #"metainfo"=metaInfo,
+#                              "exp_data"=I(list(data_ser)),
+#                              "device"=device,
+#                              "method"=method)
+  
+  query <- "INSERT INTO  lara_data_data ( filename, start_datetime, exp_data, device_id, method_id )
+                VALUES($filename, $start_datetime, $exp_data,
+                (SELECT device_id FROM lara_devices_device D WHERE D.name = $device),
+                (SELECT item_class_id FROM lara_metainfo_item_class MMIC WHERE MMIC.item_class =$method));" 
+  
+  print(query)
+#-  res <- dbExecute(connect_db, query, params=insertion_df )
+  
+  #results <- dbSendPreparedQuery(connect_db, query ,insertion_df )
+  
+#-  lr_query <- dbSendQuery(connect_db, "SELECT last_insert_rowid()")
+#-  last_data_row <- as.numeric(dbFetch(lr_query))
+  
+#-  query <- sprintf("INSERT INTO lara_projects_proj_item_data (projectitem_id, data_id) 
+#-                    VALUES('%s','%s')", proj_it_id, last_data_row )
+  
+#-  if (isTRUE(commit)) dbCommit(connect_db)
   
   if (isTRUE(new_db_connection) ) dbDisconnect(connect_db)
 
   printDebug("addDataDB: reader data set %s written in db ....", expName)
   
-  return(last_data_row)
+  #-return(last_data_row)
 }
 
 #' addMeasDataDB
