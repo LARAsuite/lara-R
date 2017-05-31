@@ -26,4 +26,3 @@ todo: add barcode handling !!
 }
 \keyword{plate}
 \keyword{readers}
-

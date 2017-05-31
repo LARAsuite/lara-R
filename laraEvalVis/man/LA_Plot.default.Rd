@@ -12,4 +12,3 @@ Default function
 \details{
 LA_Plot.default
 }
-

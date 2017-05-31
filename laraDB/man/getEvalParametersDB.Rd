@@ -22,4 +22,3 @@ none
 todo:
 }
 \keyword{lara_database}
-

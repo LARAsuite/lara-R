@@ -12,4 +12,3 @@ printing debugging information
 \details{
 printDebug
 }
-

@@ -41,4 +41,3 @@ todo - removing singlePlot concept - allowing only overview or singlePlot
 }
 \keyword{plate}
 \keyword{readers}
-

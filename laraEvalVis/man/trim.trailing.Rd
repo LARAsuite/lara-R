@@ -18,4 +18,3 @@ trim.trailing
 \author{
 f3lix at stackoverflow (big thanx !)
 }
-

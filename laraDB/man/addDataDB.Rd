@@ -30,4 +30,3 @@ todo: add barcode handling !!
   addDataDB()
 }
 \keyword{database}
-

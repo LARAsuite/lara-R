@@ -36,4 +36,3 @@ loadPlateLayout
 \keyword{microtiter}
 \keyword{plate}
 \keyword{readers}
-

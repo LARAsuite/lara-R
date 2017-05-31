@@ -65,4 +65,3 @@ todo: debugging,  error handling, filename patterns
 }
 \keyword{plate}
 \keyword{readers}
-

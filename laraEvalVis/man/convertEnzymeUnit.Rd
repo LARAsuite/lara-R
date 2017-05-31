@@ -23,4 +23,3 @@ Anders Knight, Mark Doerr
 }
 \keyword{plate}
 \keyword{readers}
-

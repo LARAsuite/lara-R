@@ -29,4 +29,3 @@ todo - storing meta info
 \keyword{Varioskan}
 \keyword{plate}
 \keyword{readers,}
-

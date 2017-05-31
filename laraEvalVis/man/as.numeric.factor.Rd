@@ -15,4 +15,3 @@ converting factor to factor
 \details{
 as.numeric.factor
 }
-

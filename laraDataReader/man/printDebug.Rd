@@ -12,4 +12,3 @@ printing debugging information - if debug mode is activated
 \details{
 printDebug
 }
-

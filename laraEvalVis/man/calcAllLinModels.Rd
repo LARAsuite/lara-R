@@ -34,4 +34,3 @@ todo: adding R-square to output
 }
 \keyword{plate}
 \keyword{readers}
-
