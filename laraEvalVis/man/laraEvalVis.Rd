@@ -17,4 +17,3 @@ last modification:
 mark doerr \email{mark.doerr@uni-greifswald.de},
   and \email{mark@ismeralda.org}
 }
-

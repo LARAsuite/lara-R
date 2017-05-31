@@ -29,4 +29,3 @@ todo: not yet adapted to new data frame structure !! Rewrite as aggregate functi
 }
 \keyword{plate}
 \keyword{readers}
-

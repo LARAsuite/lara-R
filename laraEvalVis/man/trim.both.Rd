@@ -18,4 +18,3 @@ trim.both
 \author{
 f3lix at stackoverflow (big thanx !)
 }
-

@@ -12,4 +12,3 @@ printing errors and warnings to stderr
 \details{
 printError
 }
-

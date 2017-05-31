@@ -25,4 +25,3 @@ todo - storing all meta info
 \keyword{TECAN}
 \keyword{plate}
 \keyword{readers,}
-

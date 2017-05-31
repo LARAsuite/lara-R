@@ -25,4 +25,3 @@ todo: temperature, shaking, num flashes
 \keyword{omega}
 \keyword{plate}
 \keyword{readers,}
-

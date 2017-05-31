@@ -12,4 +12,3 @@ printing warning information - if debug mode is activated
 \details{
 printWarning
 }
-

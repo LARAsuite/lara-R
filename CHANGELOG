@@ -2,15 +2,23 @@
 lara-django CHANGELOG
 =====================
 
-v0.0.1
+v0.1.2
 ______
 
-basic repository scaffold
+bugfix (re-document) to enable remote installation through github
+
+
 
 v0.1.1
 ______
 
 connection to lara-django database established
+
+
+v0.0.1
+______
+
+basic repository scaffold
 
 
 

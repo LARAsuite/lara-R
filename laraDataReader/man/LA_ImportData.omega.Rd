@@ -30,4 +30,3 @@ todo - storing meta info
 \keyword{omega}
 \keyword{plate}
 \keyword{readers,}
-

@@ -24,4 +24,3 @@ Mark Doerr (mark.doerr at uni-greifswald.de)
 }
 \keyword{plate}
 \keyword{readers}
-

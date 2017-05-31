@@ -36,4 +36,3 @@ todo - spectrum read: assigning start and end wavelength
 \keyword{Varioskan}
 \keyword{plate}
 \keyword{readers,}
-

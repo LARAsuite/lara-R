@@ -12,4 +12,3 @@ This function is the default function
 \details{
 LA_ImportData.default
 }
-

@@ -18,4 +18,3 @@ trim.leading
 \author{
 f3lix at stackoverflow (big thanx !)
 }
-
